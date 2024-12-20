@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"a53f89e53e53ea32","type":"group","backgroundStyle":"ratio","x":-42880,"y":-31360,"width":28480,"height":14579,"color":"#1e1e1e","label":"World Map","background":"images/World Map.png"},
+		{"id":"03055c062791ef60","type":"text","text":"# Hikayenin 1995 yılında olduğunu belirten bir şekilde başka, notlarda tarih ve yer yaz\n","x":-51680,"y":-22560,"width":2280,"height":920}
+	],
+	"edges":[]
+}

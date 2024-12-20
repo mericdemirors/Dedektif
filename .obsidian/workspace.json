@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "026d764a2c3b74ae",
+    "type": "split",
+    "children": [
+      {
+        "id": "af66e57d2df36d67",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "72b42e2dc2faa9aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "side cases/Side Case 2 dul kadın (dedektifin rus ajandan haberi olması için).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Side Case 2 dul kadın (dedektifin rus ajandan haberi olması için)"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "92a50c0693e7e64c",
+    "type": "split",
+    "children": [
+      {
+        "id": "19287e1357e13aa1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cb9ca6cc0e9845a4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "13ff93db1a1aa25f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e283812195517701",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "429837ed208361d4",
+    "type": "split",
+    "children": [
+      {
+        "id": "4a8ca122232cd985",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f36f608cbe14b7c5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "side cases/Side Case 3.3 (dedektifin main story'den haberi olması için).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Side Case 3.3 (dedektifin main story'den haberi olması için)"
+            }
+          },
+          {
+            "id": "7202d2253015c2e9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "8816256af32794e3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "0d3287b61f17e1cb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Untitled.canvas"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Untitled"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "cb9ca6cc0e9845a4",
+  "lastOpenFiles": [
+    "side cases/Side Case 3.2 Botulinum'lu yazar (dedektifin şeker kokulu birinin insanları zehirlediğini anlaması için).md",
+    "side cases/Side Case 3.3 antifrizli tamirci (dedektifin zehirlemeler için rus ajandan şüphelenmesi için).md",
+    "side cases/Side Case 3.1 ricinli evsiz (dedektifin rusun göz altına alması için).md",
+    "side cases/Side Case 1 şifreli günlük (karakterleri tanıtmak için).md",
+    "side cases/Side Case 2 dul kadın (dedektifin rus ajandan haberi olması için).md",
+    "characters/character cards/Dedektif (meriç).md",
+    "characters/character cards/Rus Ajan (zeki bi kız).md",
+    "characters/character cards/Russian Team.md",
+    "characters/character cards/Volcanic Tribe.md",
+    "characters/character cards/RuCoRO Russian Cosmos Research Organization.md",
+    "characters/character cards/Roman Yazarının sevgilisi.md",
+    "side cases/Side Case 3.4 zehirsiz dedektif (dedektifin rus ajanı tutuklamak için yeterli kanıtı bulması ve main story'yi öğrenmesi için).md",
+    "main story/Main Story.md",
+    "characters/character cards/Dul Kadının Çocuğu.md",
+    "characters/character cards/Dul Kadın.md",
+    "characters/character cards/RBA (ismail).md",
+    "characters/character cards/Roman Yazarı.md",
+    "characters/character cards/Komiser Yardımcısı (Münür).md",
+    "characters/character cards/Komiser (Doğukan abi).md",
+    "characters/character cards/Doktor (barış).md",
+    "characters/character cards/Dedektifin Uşağı (berat).md",
+    "characters/character cards/Dedektif Yardımcısı (nazmi).md",
+    "characters/character cards/ASExA American Space Exploration Association.md",
+    "characters/character cards/Apartman Tamircisi.md",
+    "characters/character cards/American Team.md",
+    "book/Rules.md",
+    "images/World Map.png",
+    "characters/Characters.canvas",
+    "book/Arcs.canvas",
+    "characters/character cards",
+    "images/world_physical5-1.png",
+    "images/World Map7.png",
+    "images/World Map6.png",
+    "images/world_physical5.pdf",
+    "images/World Map4.jpg",
+    "images/World Map3.jpg",
+    "images/World Map2.png",
+    "images/pexels-tima-miroshnichenko-5725589.jpg",
+    "images/vector-world-map-v2.2.png",
+    "images/txu-oclc-264266980-world_pol_2008-2.jpg",
+    "images/world_physical_2015.pdf",
+    "images",
+    "book/events.canvas",
+    "book",
+    "characters",
+    "kitap/events.canvas",
+    "kitap/olaylar.canvas",
+    "kitap",
+    "book/events 1.canvas",
+    "main story",
+    "events.canvas",
+    "side cases",
+    "karakterler"
+  ]
+}

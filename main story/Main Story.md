@@ -1,0 +1,23 @@
+2000 yılına girişi kutlamak için Amerika bir kez daha Ay'a gitmeyi hedefler. Apollo 11 görevinde de oluğu gibi yine 10 yıl öncesinden yani 1990'da araştırmalara başlanır. Ve hatrı sayılır bir ilerleme kaydedilince ve başarı oranı yüksek bir görev olduğu anlaşılınca 1995 yılında halka yarım yamalak "büyük bir şey geliyor" diye duyurulur. Ama araştırma duyurulduktan sonra ruslar yüzünden bazı olaylar ters gider ve yardım için bir dedektif tutulur. RBA'yı tehlikeye atmamak için İlk başta bu RBA işleri gizli saklı yürütülecek, ama side case 2'den sonra dedektif USA'a "bunda yardım etmemi istiyorsanız elinizdeki bütün bilgileri bana verin, şu anda side case 2'yle uğraşırken bir rus ajanla karşılaştım ve ruslar bir şeyler biliyorlar."
+
+100 - RBA is in a cruise ship, doing a mediterranean tour. USA calls and says "Sir we know you are at a vacation but we just received a huge information on a research we want you to operate. There is someone waiting for you at the ........... She will give you all the information about the research during your tour's 2 day stay at ...... shore. To summarize the plan briefly, you will be sent to Massava, Eritre with a boat to meet your guide, get your research tools and plan then you will stop by 6 volcanoes going only to east. We will escort you back to USA from Hawaii."  
+110- Go to Dalol, Ethiopia  
+200- Do Dalol research  
+210- Go to Erta Ale  
+300- Do Erta Ale research  
+310- Go to Mount Sinabung by boat (Obuk Cibuti -> supply refuel at Sri-lanka -> Belawan Medan)  
+400- Mount Sinabung research  
+410- Go to Mount Merapi by boat (Belawan Medan -> Semarang)  
+500- Do Mount Merapi research  
+510- Go to Mount Ulawun by boat (Belawan Medan -> supply refuel at Darwin Avustralya -> shore of Ulawun)  
+600- Mount Ulawun research  
+605- Go to Tavurvur, boat goes to Port Moresby for supply refuel and maintenance during this time since next route is long and tough (Port Moresby -> get RBA from Tavurvur -> Honolulu Hawaii(USA will escort them after Hawaii with an aircraft carrier) -> San Francisco) 
+610- RBA has 3 options to go from Ulawun to Tavurvur: (a. Shore = 270 km), (b. Through forest = 150 km), (c. Shore, Punarupka->Driwata, Shore = 220 km). RBA chooses option b since option a is not doable(? find a reason for this), it will take so much time with the gear, c is possible with a gate to pass between Punarupka->Driwata but it is longer than b. So RBA chooses option b, there is a gate(Monrabet -> Malasit) easier to pass between these 2 points.  
+620- RBA gets captured by tribe between Monrabet -> Malasit.  
+630- Tribe helps the RBA with everything because he is their prophet. But don't let him leave so they take capture him and make him live with them in full comfort.  
+640- Do Mount Tavurvur research  
+700- Russian come and kill all the tribe, take the research files from RBA. But RBA says there is one more phase of research he needs to conclude all findings. So he forces the Russians to stay with him few more days. RBA is hoping that USA will notice this and sent a team to rescue him, and RBA will escape between that chaos. He wastes this time by doing some dummy research things to fool with russians and make them run out of supplies. USA gets the dedektif says "We need you to get the RBA come to Papua New Geniu with us". He goes there with a F/A-18F(this jets first fly is at 29 November 1995, first carrier landing at 1997, USA will keep this one with dedektif as a secret since whole operation is secret).
+800- USA&Russia fights, RBA gets the research and runs out, dedektif runs after him saying "I will tail him" to USA and "I will help you" to RBA. He catches RBA and tells "I know you want to publish this publicly, I want to help you. Information should be available to everyone." So USA kills Russians, they start looking for RBA and dedektif.  
+900- Fight between USA and Russian teams take few days, start of this period, RBA's assistant finds RBA and detective and says "I can help you, come to my tent", and helps them with the supplies. Takes the research from RBA and sends it to "International Astronautical Congress" ve "IEEE Aerospace Conference" conferences.
+1000- They say to assistant "you need to be careful they will kill any outsider at this rate, we will go to the shore and then to Hawaii. Now lets wait in the forest till USA sends a boat to pick us up". Then USA's boat comes, three of them gets on, they say "assistant is the carrier boy RBA rented for the on-foot travel between Ulawun and Tavurvur."
+1000- They get back to aircraft carrier at some point and all of them are confronted by the general saying that they leaked the research and such. But can't prove it, so they just go with it.

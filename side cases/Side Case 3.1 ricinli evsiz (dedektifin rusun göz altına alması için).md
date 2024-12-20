@@ -1,0 +1,24 @@
+Ricin:
+* ->Ricin is derived from castor beans, which are commonly found in many countries and are used to produce castor oil. The toxin is extracted from the waste mash after processing the beans.
+* ->Anyone with access to castor beans and basic chemical knowledge could produce ricin, though it requires effort to isolate the toxin. Castor beans were commonly available in agriculture or for making castor oil.
+* ->Ricin can be administered via injection, ingestion, or inhalation. For assassination, it could be introduced into food or drink, or delivered through a small injection.
+--->Injection or inhalation: Symptoms within hours, death within 36–72 hours.
+--->Ingestion: Symptoms within 4–10 hours, death within 3–5 days.
+--->Ingestion: Nausea, vomiting, bloody diarrhea, abdominal pain, and severe dehydration.
+--->Inhalation: Difficulty breathing, fever, cough, and fluid in the lungs (pulmonary edema).
+--->Injection: Localized pain at the site, followed by systemic organ failure. In all cases, death results from organ failure due to protein synthesis inhibition.
+* ->Ricin does not corrode the body but causes extensive internal damage. It leaves no visible external signs specific to poisoning. The toxin itself degrades after death but may still be present in tissues for a time, depending on conditions like temperature and decomposition.
+* ->Ricin can be detected through specialized laboratory tests, including immunoassays or mass spectrometry, on bodily fluids or tissues. Without suspicion of poisoning, it might not be looked for, making detection less likely unless ricin exposure is suspected.
+* ->Ricin poisoning mimics severe cases of gastrointestinal illness (if ingested), acute respiratory failure (if inhaled), or septic shock and multi-organ failure. Its effects resemble certain forms of toxic shock or infection-induced systemic collapse.
+
+### Rastgele bir adamın Ricin injection'la ölümü(https://chatgpt.com/share/675c9dc8-82a4-8013-a7eb-9b27817745ba)
+
+100- Rus ajan evinde castor been'lerden zehir üretmiş
+200- parkta rastgele bulduğu elemanın birine sabahın köründe enjekte etmiş
+300- eleman öğlene doğru hasta olmuş
+400- gece kusmaya falan başlamış, parkın bi yerine sızıp ölmüş
+500- bekçi bunu ölü bulmuş polise ve ambulansa haber vermiş
+600- doktor da lavuğun karaciğier iflas, ondan ölmüş diye morga atmış
+700- bu olay büyüyüp dedektifin kulağına gitmeyince rus ajan dedektife yakın kişileri öldürme planları yapıyor
+800- dedektif diğer olayları çözüp rus ajanı yakalayınca evine gidip ricin yapma eşyalarını buluyor.
+900- dedektif doktora "böyle böyle ölen başkaları oldu mu" diye soruyor ve bu adamı buluyor. Testleri yaptıktan sonra Ricin'den öldüğünü anlıyorlar.

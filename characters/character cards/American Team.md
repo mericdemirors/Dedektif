@@ -1,0 +1,1 @@
+ASExA tarafından tutulan askeri tim. Görevleri RBA'nın araştırma sonuçlarını almak, bu sırada RBA'ya ne olduğunu umursamıyorlar, hatta RBA'nın kaçmaya çalışabileceğini bile düşünüyorlar.
