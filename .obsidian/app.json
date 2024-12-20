@@ -1,5 +1,8 @@
 {
   "showLineNumber": false,
-  "readableLineLength": true,
-  "alwaysUpdateLinks": true
+  "readableLineLength": false,
+  "alwaysUpdateLinks": true,
+  "strictLineBreaks": true,
+  "showIndentGuide": true,
+  "spellcheck": false
 }

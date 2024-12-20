@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "72b42e2dc2faa9aa",
+            "id": "0ef465c83bc3b786",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "side cases/Side Case 2 dul kadın (dedektifin rus ajandan haberi olması için).md",
+                "file": "book/Rules.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Side Case 2 dul kadın (dedektifin rus ajandan haberi olması için)"
+              "title": "Rules"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "side cases/Side Case 3.3 (dedektifin main story'den haberi olması için).md",
+                "file": "book/Rules.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Side Case 3.3 (dedektifin main story'den haberi olması için)"
+              "title": "Backlinks for Rules"
             }
           },
           {
@@ -158,16 +158,24 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "markwhen:Create new Markwhen file": false
     }
   },
-  "active": "cb9ca6cc0e9845a4",
+  "active": "0ef465c83bc3b786",
   "lastOpenFiles": [
+    "book/Time Line.mw.md",
+    "characters/character cards/Apartman Tamircisi.md",
+    "book/Rules.md",
+    "book/Arcs.canvas",
+    "main story/100 Hours In Hell.md",
+    "main story/Main Story.md",
+    "Untitled",
+    "side cases/Side Case 2 dul kadın (dedektifin rus ajandan haberi olması için).md",
     "side cases/Side Case 3.2 Botulinum'lu yazar (dedektifin şeker kokulu birinin insanları zehirlediğini anlaması için).md",
     "side cases/Side Case 3.3 antifrizli tamirci (dedektifin zehirlemeler için rus ajandan şüphelenmesi için).md",
     "side cases/Side Case 3.1 ricinli evsiz (dedektifin rusun göz altına alması için).md",
     "side cases/Side Case 1 şifreli günlük (karakterleri tanıtmak için).md",
-    "side cases/Side Case 2 dul kadın (dedektifin rus ajandan haberi olması için).md",
     "characters/character cards/Dedektif (meriç).md",
     "characters/character cards/Rus Ajan (zeki bi kız).md",
     "characters/character cards/Russian Team.md",
@@ -175,7 +183,6 @@
     "characters/character cards/RuCoRO Russian Cosmos Research Organization.md",
     "characters/character cards/Roman Yazarının sevgilisi.md",
     "side cases/Side Case 3.4 zehirsiz dedektif (dedektifin rus ajanı tutuklamak için yeterli kanıtı bulması ve main story'yi öğrenmesi için).md",
-    "main story/Main Story.md",
     "characters/character cards/Dul Kadının Çocuğu.md",
     "characters/character cards/Dul Kadın.md",
     "characters/character cards/RBA (ismail).md",
@@ -185,13 +192,8 @@
     "characters/character cards/Doktor (barış).md",
     "characters/character cards/Dedektifin Uşağı (berat).md",
     "characters/character cards/Dedektif Yardımcısı (nazmi).md",
-    "characters/character cards/ASExA American Space Exploration Association.md",
-    "characters/character cards/Apartman Tamircisi.md",
-    "characters/character cards/American Team.md",
-    "book/Rules.md",
     "images/World Map.png",
     "characters/Characters.canvas",
-    "book/Arcs.canvas",
     "characters/character cards",
     "images/world_physical5-1.png",
     "images/World Map7.png",
@@ -214,7 +216,6 @@
     "book/events 1.canvas",
     "main story",
     "events.canvas",
-    "side cases",
-    "karakterler"
+    "side cases"
   ]
 }
