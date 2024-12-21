@@ -6,7 +6,7 @@
 * Kış kıyafetleri: Hoody, kot pantolon, bot
 * Yaz kıyafetleri: Şort ve tshirt giyiyor, altına da converse ve bi de şapka.
 
-100- Annesi intihar ettikten sonra rusyadan bir burs kazanıyor, Üniversite'ye RBA nerde diyor ama üniversite bilmiyormuş, birkaç gün sonra kargoda iki tüp kum geliyor odasına etiketlerine Dalol ve Erta Ale dağları yazılmış şekilde. Hemen oraya uçak bileti alıyor burs parasıyla. Oda arkadaşına da "kanka kargo gelirse hemen fotosunu çekip bana at" diyor. Uçaktan indikten sonra bi motor kiralayıp Dalol dağına gidip oraları geziyor ve orada geceliyor. Sabah da Erta Ale'yi gezip oraya çadır kurarken oda arkadaşı "yeni bi tüp geldi üstünde Sinabung yazıyo" diyo.
+100- Annesi intihar ettikten sonra rusyadan bir burs kazanıyor, Üniversite'ye RBA nerde diyor ama üniversite bilmiyormuş, birkaç gün sonra kargoda iki tüp kum geliyor odasına etiketlerine Dalol ve Erta Ale dağları yazılmış şekilde. Hemen Asmara International Airport'a uçak bileti alıyor burs parasıyla. Oda arkadaşına da "kanka kargo gelirse hemen fotosunu çekip bana at" diyor. Uçaktan indikten sonra bi motor kiralayıp Dalol dağına gidip oraları geziyor ve orada geceliyor. Sabah da Erta Ale'yi gezip oraya çadır kurarken oda arkadaşı "yeni bi tüp geldi üstünde Sinabung yazıyo" diyo.
 200- Sonra Kualanamu International Airport'a bilet alıyor aynı gün. Airport'a inince arkadaşı "yeni bi tüp geldi üstünde Merapi yazıyor" diyo. Sinabung dağına bakıp orada geceledikten sonra diğer günün sabahında Yogyakarta International Airport'a gidiyor. Merapi Dağı'nı da gezdikten sonra bi plan yapıyor: "Şu ana kadar 4 tane volkanı gezdim, rota doğuya veya güneye doğru gidecek gibi gözüküyor. Bundan sonra şu yanardağlardan birine uğrar:
 a- Mount Lamington
 b- Mount Tavurvur
