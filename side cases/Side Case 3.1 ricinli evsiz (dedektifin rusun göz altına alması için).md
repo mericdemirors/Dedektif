@@ -12,6 +12,7 @@ Ricin:
 * ->Ricin poisoning mimics severe cases of gastrointestinal illness (if ingested), acute respiratory failure (if inhaled), or septic shock and multi-organ failure. Its effects resemble certain forms of toxic shock or infection-induced systemic collapse.
 
 ### Rastgele bir adamın Ricin injection'la ölümü(https://chatgpt.com/share/675c9dc8-82a4-8013-a7eb-9b27817745ba)
+0-Olayın okuyucuya parkta rastgele bir ölünün bulunmasıyla okuyucuya tanıtılıyor.
 
 100- Rus ajan evinde castor been'lerden zehir üretmiş
 200- parkta rastgele bulduğu elemanın birine sabahın köründe enjekte etmiş

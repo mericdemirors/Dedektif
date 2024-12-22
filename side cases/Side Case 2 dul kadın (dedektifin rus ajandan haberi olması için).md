@@ -8,7 +8,7 @@
 	* neden intihar olduğunu çözmesi için kanıt olmalı: bıçağın sıcak olması, kadının oğlunun para bulması
 	* İntiharın sebebi olarak: sigorta parası almak için ölme süsü vermiş diyebilir, sonradan rus ajanla birlikte olay çözülecek zaten.
 
-0- kadın parasal sıkıntı çekmeye başladığı için kimseye de yük olmak istemediği için sıkıntısını oğlu öğrenirse para yollar diye hiç ses çıkarmıyor. Rus ajandan da parayı aldıktan sonra parayı oğluna yollayıp intihar etmeyi planlıyor.
+0- kadın parasal sıkıntı çekmeye başladığı için kimseye de yük olmak istemediği için sıkıntısını oğlu öğrenirse para yollar diye hiç ses çıkarmıyor. Rus ajandan da parayı aldıktan sonra parayı oğluna yollayıp intihar etmeyi planlıyor. Olayın okuyucuya tanıtımı ilk başka dul kadının evine uzun zamandır görmediği birinin(rus ajanın) gelmesiyle başlıyor, okuyucu kimin geldiğini bilmiyor ve gizemli bir hava oluşturulup olay orada bırakılıyor.
 
 100- Tamirci apartmandaki dolapları tamir etmeye başlıyor, kadının dolabını tamir ediyor, kurabiye hazırlıklarını görüp "işim bitince bi gelip alırım artık" diyor ve diğer dairelere gidiyor, gittiği diğer yerlere de "kurabiyeler birazdan hazır" diyor.
 200- Kadın kurabiyeleri yapıyor, koltuğuna geçiyor, fırın eldiveniyle bıçağı tutuyor tam kendine saplayacakken apartman tamircisinin oğlu pencereden girip kurabiyeyi alıp, pencereden çıkıyor. Tamirci kurabiyeyi almaya geliyor, bir tane alıp çıkıyor ses yapmamaya çalışarak çıkıyor(çocuğun pencereden çıktığını biliyor, demek ki kadın uyuyor diye gıcırdayan parkelere basmamak için kapıdan çıkmıyor ben de ses yapmayayım).

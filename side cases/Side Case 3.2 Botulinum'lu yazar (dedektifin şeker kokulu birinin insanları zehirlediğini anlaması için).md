@@ -8,6 +8,8 @@ Botulinum:
 * ->Botulinum toxin can be detected in blood, tissue samples, or stomach contents using laboratory tests like enzyme-linked immunosorbent assays (ELISA) or mouse bioassays. However, detection is unlikely unless botulism is suspected. Autopsy findings would show paralysis but might not immediately point to botulinum toxin.
 * ->Botulinum toxin poisoning mimics death by respiratory failure or certain neuromuscular disorders. It can be confused with other conditions causing paralysis, such as Guillain-Barré syndrome, unless toxicology testing is performed.
 ### Roman Yazarının Botulinum'la ölümü(https://chatgpt.com/share/675ca4a4-4050-8013-9fe9-d05ff42c8259)
+0- Olayın okuyucuya tanıtımı ilk başka yazarın evine başka bir fanın(rus ajanın) imza için gelmesiyle başlıyor, okuyucu kimin geldiğini bilmiyor ve gizemli bir hava oluşturulup olay orada bırakılıyor.
+
 100- Rus ajan evde "bacterium Clostridium botulinum" bakterisinden zehri üretir ve onunla yemek yapar. Makyaj ve kılıf değiştirerek yazardan imza almaya giden fan ayaklarına bürünmüş.
 200- Öğlen yazarın dairesine gidip "ben eski sevgilinin arkadaşıyım, onu gelip buradan almam için 1-2 kez adresini bana vermişti ama kağıtları kaybetmiştim ancak bulabildim. Buraya gelip halini hatrını sormak istedim, senden hep çok güzel bahsediyordu. Hatta bir kere şiir kitaplarından birini zorla okutmuştu bana :)) Birlikte yiyelim dertleşelim diye yemek yapıp getirdim." der
 300- Birlikte yemek yiyorlar, sonra adam perişan halde diye "hasta ziyaretinin kısası makbuldur" diyerek evden ayrılıyor.
