@@ -4,44 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "db02919372563061",
+        "id": "57417a8a3ff4de5c",
         "type": "tabs",
         "children": [
           {
-            "id": "73335655b4e60b9c",
+            "id": "d0f1a13f561bfa55",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "side cases/Side Case 3.2 Botulinum'lu yazar (dedektifin şeker kokulu birinin insanları zehirlediğini anlaması için).md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Side Case 3.2 Botulinum'lu yazar (dedektifin şeker kokulu birinin insanları zehirlediğini anlaması için)"
-            }
-          }
-        ]
-      },
-      {
-        "id": "49b9346af371437d",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "1ad54a2b169dc411",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "book/Parallel Timelines.canvas",
-                "viewState": {
-                  "x": 2001.1789642649019,
-                  "y": 555.1936493339929,
-                  "zoom": -1.7712105497695023
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Parallel Timelines"
+              "title": "New tab"
             }
           }
         ]
@@ -75,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "merapi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -184,35 +157,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "73335655b4e60b9c",
+  "active": "d0f1a13f561bfa55",
   "lastOpenFiles": [
-    "side cases/Side Case 3.3 antifrizli tamirci (dedektifin zehirlemeler için rus ajandan şüphelenmesi için).md",
     "book/Parallel Timelines.canvas",
+    "main story/Main Story.md",
+    "side cases/Side Case 3.3 antifrizli tamirci (dedektifin zehirlemeler için rus ajandan şüphelenmesi için).md",
     "side cases/Side Case 3.2 Botulinum'lu yazar (dedektifin şeker kokulu birinin insanları zehirlediğini anlaması için).md",
+    "characters/character cards/RBA (ismail).md",
+    "characters/character cards/Dul Kadının Çocuğu.md",
+    "characters/character cards/Dedektifin Uşağı (berat).md",
+    "side cases/Side Case 3.4 zehirsiz dedektif (dedektifin rus ajanı tutuklamak için yeterli kanıtı bulması ve main story'yi öğrenmesi için).md",
+    "characters/character cards/Russian Team.md",
+    "characters/character cards/RuCoRO Russian Cosmos Research Organization.md",
+    "characters/character cards/Rus Ajan (zeki bi kız).md",
     "side cases/Side Case 2 dul kadın (dedektifin rus ajandan haberi olması için).md",
     "side cases/Side Case 3.1 ricinli evsiz (dedektifin rusun göz altına alması için).md",
     "side cases/Side Case 1 şifreli günlük (karakterleri tanıtmak için).md",
-    "main story/Main Story.md",
     "characters/character cards/Dedektif (meriç).md",
     "book/Parallel Time Lines.canvas",
     "characters/character cards/Dedektif Yardımcısı (nazmi).md",
     "characters/character cards/American Team.md",
     "characters/character cards/Apartman Tamircisi.md",
     "characters/character cards/ASExA American Space Exploration Association.md",
-    "characters/character cards/Dul Kadının Çocuğu.md",
-    "characters/character cards/Dedektifin Uşağı (berat).md",
     "characters/character cards/Doktor (barış).md",
     "characters/character cards/Dul Kadın.md",
     "characters/character cards/Volcanic Tribe.md",
-    "characters/character cards/Rus Ajan (zeki bi kız).md",
     "characters/character cards/Komiser (Doğukan abi).md",
     "characters/character cards/Komiser Yardımcısı (Münür).md",
-    "characters/character cards/RBA (ismail).md",
     "characters/character cards/Roman Yazarı.md",
     "characters/character cards/Roman Yazarının sevgilisi.md",
-    "characters/character cards/RuCoRO Russian Cosmos Research Organization.md",
-    "characters/character cards/Russian Team.md",
-    "side cases/Side Case 3.4 zehirsiz dedektif (dedektifin rus ajanı tutuklamak için yeterli kanıtı bulması ve main story'yi öğrenmesi için).md",
     "characters/Characters.canvas",
     "book/Arcs.canvas",
     "Untitled",

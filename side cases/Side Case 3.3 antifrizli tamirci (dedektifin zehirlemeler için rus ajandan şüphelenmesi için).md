@@ -10,7 +10,7 @@ Ethylene Glycol (Antifreeze):
 * ->Ethylene glycol poisoning can be detected in blood, urine, and tissues through toxicology tests. Oxalate crystals in the kidneys are a clear indicator during autopsy. Detection is likely if poisoning is suspected but may be overlooked without specific testing.
 * ->Ethylene glycol poisoning resembles kidney failure or severe metabolic acidosis. Early symptoms mimic alcohol intoxication, which can delay accurate diagnosis.
 ### Apartman tamircisinin Ethylene Glycol/Antifreeze'le ölümü(https://chatgpt.com/share/675cb787-0ea4-8013-a9cf-8b9b7c51cdd1)
-0-olay okuyucuya nasıl tanıtılacak timeline'ı temize çekince ayarla. Side Case 3.2 ve 3.3 neredeyse aynı anda yaşanıyor çünkü.
+0-Olayın okuyucuya tanıtımı gizemli birinin(rus ajanın) eve dönüşü ve airbag'le alakalı bazı terim kelime ezberi yapmasıyla yapılır. Airbag kelimelerini okuyucu yakalarsa rusla olan bağı kurabilir.
 
 100- Öğlen rus ajan tamirciyi arabasıyla ilgili bir sorunu çözmek için yardıma çağırıyor. Bi ara da "airbag'lerim de patladı, yenilerini nereden bulabilirim" falan gibi bir şey soruyor son zehir için.
 200- Tamirci ve çırağı arabayı tamir ettikten sonra ikram edeceği limonataya da antifiriz karıştırıyor. "Ben çok içemem, çocuk da hasta olmasın soğuk limonata içip diye bize küçük bardak, ustamıza da koca bir bardak buz gibi limonata" diye limonata veriyor. Sonra çırağa "al bakalım sana da ödül olarak bir şeker, yine iyisin sonuncuyu sana veriyorum" diye şeker veriyor hepsi sonra yoluna gidiyor.
