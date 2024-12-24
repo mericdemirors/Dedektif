@@ -1,4 +1,4 @@
-* Ad Soyad: Melih Tarık Çelik
+* Ad Soyad: Tarık Melih Çelik
 * Yaş: 26
 * Hobiler: Dizi izlemek, uşağıyla japon edebiyatı konuşmak, yardımcısıyla tahta oyunu oynamak. İkisiyle de gameboy konuşmak ve derin konularda dertleşmek. Yemek ve tatlı yapmak. Spor yapmak.
 * Özgün şey: her zaman yanında ekstra etkili ferahlatıcı şeker taşıyor.

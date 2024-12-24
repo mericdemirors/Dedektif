@@ -4,17 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "57417a8a3ff4de5c",
+        "id": "6e10df7adeb1f3ee",
         "type": "tabs",
         "children": [
           {
-            "id": "d0f1a13f561bfa55",
+            "id": "4c8546bc2efb4b77",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "canvas",
+              "state": {
+                "file": "book/Parallel Timelines.canvas",
+                "viewState": {
+                  "x": -2177.5,
+                  "y": -3795.5,
+                  "zoom": -3.8956668339984573
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Parallel Timelines"
             }
           }
         ]
@@ -48,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "merapi",
+                "query": "kargo botuyla Mount Lamington",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "429837ed208361d4",
@@ -157,35 +165,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d0f1a13f561bfa55",
+  "active": "4c8546bc2efb4b77",
   "lastOpenFiles": [
-    "book/Parallel Timelines.canvas",
-    "main story/Main Story.md",
     "side cases/Side Case 3.3 antifrizli tamirci (dedektifin zehirlemeler için rus ajandan şüphelenmesi için).md",
     "side cases/Side Case 3.2 Botulinum'lu yazar (dedektifin şeker kokulu birinin insanları zehirlediğini anlaması için).md",
-    "characters/character cards/RBA (ismail).md",
-    "characters/character cards/Dul Kadının Çocuğu.md",
-    "characters/character cards/Dedektifin Uşağı (berat).md",
-    "side cases/Side Case 3.4 zehirsiz dedektif (dedektifin rus ajanı tutuklamak için yeterli kanıtı bulması ve main story'yi öğrenmesi için).md",
-    "characters/character cards/Russian Team.md",
-    "characters/character cards/RuCoRO Russian Cosmos Research Organization.md",
-    "characters/character cards/Rus Ajan (zeki bi kız).md",
-    "side cases/Side Case 2 dul kadın (dedektifin rus ajandan haberi olması için).md",
+    "book/Parallel Timelines.canvas",
     "side cases/Side Case 3.1 ricinli evsiz (dedektifin rusun göz altına alması için).md",
+    "side cases/Side Case 2 dul kadın (dedektifin rus ajandan haberi olması için).md",
     "side cases/Side Case 1 şifreli günlük (karakterleri tanıtmak için).md",
-    "characters/character cards/Dedektif (meriç).md",
-    "book/Parallel Time Lines.canvas",
+    "side cases/Side Case 3.4 zehirsiz dedektif (dedektifin rus ajanı tutuklamak için yeterli kanıtı bulması ve main story'yi öğrenmesi için).md",
+    "characters/character cards/Dul Kadının Çocuğu.md",
     "characters/character cards/Dedektif Yardımcısı (nazmi).md",
-    "characters/character cards/American Team.md",
-    "characters/character cards/Apartman Tamircisi.md",
-    "characters/character cards/ASExA American Space Exploration Association.md",
-    "characters/character cards/Doktor (barış).md",
-    "characters/character cards/Dul Kadın.md",
+    "book/Rules.md",
     "characters/character cards/Volcanic Tribe.md",
-    "characters/character cards/Komiser (Doğukan abi).md",
-    "characters/character cards/Komiser Yardımcısı (Münür).md",
-    "characters/character cards/Roman Yazarı.md",
+    "characters/character cards/Russian Team.md",
+    "characters/character cards/Rus Ajan (zeki bi kız).md",
+    "characters/character cards/RuCoRO Russian Cosmos Research Organization.md",
     "characters/character cards/Roman Yazarının sevgilisi.md",
+    "characters/character cards/Roman Yazarı.md",
+    "characters/character cards/RBA (ismail).md",
+    "characters/character cards/Komiser Yardımcısı (Münür).md",
+    "characters/character cards/Komiser (Doğukan abi).md",
+    "characters/character cards/Dul Kadın.md",
+    "characters/character cards/Doktor (barış).md",
+    "characters/character cards/Dedektifin Uşağı (berat).md",
+    "characters/character cards/Dedektif (meriç).md",
+    "characters/character cards/ASExA American Space Exploration Association.md",
+    "characters/character cards/Apartman Tamircisi.md",
+    "characters/character cards/American Team.md",
+    "book/Parallel Time Lines.canvas",
     "characters/Characters.canvas",
     "book/Arcs.canvas",
     "Untitled",
