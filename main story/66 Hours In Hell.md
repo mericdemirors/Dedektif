@@ -28,11 +28,13 @@ Task6 Material Degradation research: Volcanic environments can accelerate materi
 1- find very hot places and repeatedly temperature waving places  
 2- test materials degradations at these environments  
   
-100 hours in hell:  
-0-12 set up the research-site and set the research tools  
-12-24 walk around the volcano mouth, do the underground-metal density search, do the undermagma-metal density search. Set up the tools to do the metal search, during the searching collect silicates and obsidians, find places to create vents for lava flow, find places where thermal shocks appear, find very hot places and repeatedly temperature waving places  
-24-48 collect the metals that are collectable  
-48-60 measure the heat fluxes and thermal shocks at places that you marked, find the ones that are similar to ones in the space  
-60-72 compare the structure of obsidian to silicates  
-72-96 stop by all marked test areas to test metals, silicates and samples from space project metals for heat flux, thermal shock, heat dissipation, material degradion.  
-96-100 collect all results, get backup data, end left research-site
+66 hours in hell:  
+0-8 set up the research-site and set the research tools  
+8-20 walk around the volcano mouth, do the underground-metal density search, do the undermagma-metal density search. Set up the tools to do the metal search, during the searching collect silicates and obsidians, find places to create vents for lava flow, find places where thermal shocks appear, find very hot places and repeatedly temperature waving places
+20-24 sleep
+24-44 collect the metals that are collectable  
+44-48 sleep
+48-50 measure the heat fluxes and thermal shocks at places that you marked, find the ones that are similar to ones in the space  
+50-52 compare the structure of obsidian to silicates  
+52-64 stop by all marked test areas, and do the tests for the metals, silicates and samples from space project metals for heat flux, thermal shock, heat dissipation, material degradion.
+64-66 collect all results, get backup data, end left research-site

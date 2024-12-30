@@ -4,41 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6e10df7adeb1f3ee",
+        "id": "68cb14ff4439c36b",
         "type": "tabs",
         "children": [
           {
-            "id": "4c8546bc2efb4b77",
+            "id": "453b58270054db3e",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "book/Parallel Timelines.canvas",
-                "viewState": {
-                  "x": -1835.60384669485,
-                  "y": -4863.86971409897,
-                  "zoom": -2.0904379299583633
-                }
+                "file": "book/Event Timeline.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Parallel Timelines"
-            }
-          },
-          {
-            "id": "a338acc34200b187",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "book/Parallel Timelines.canvas",
-                "viewState": {
-                  "x": -10556.940235982884,
-                  "y": -4157.170936471817,
-                  "zoom": -3.2894344973564165
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Parallel Timelines"
+              "icon": "lucide-file",
+              "title": "Event Timeline"
             }
           }
         ]
@@ -72,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "kargo botuyla Mount Lamington",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -113,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "book/Rules.md",
+                "file": "book/Event Timeline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Rules"
+              "title": "Backlinks for Event Timeline"
             }
           },
           {
@@ -181,37 +161,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4c8546bc2efb4b77",
+  "active": "453b58270054db3e",
   "lastOpenFiles": [
-    "book/Rules.md",
-    "book/Timeline.md",
+    "book/Arcs.canvas",
+    "book/Event Timeline.md",
     "book/Parallel Timelines.canvas",
-    "characters/character cards/Dul Kadının Çocuğu.md",
+    "book/Rules.md",
+    "characters/character cards/ASExA American Space Exploration Association.md",
     "characters/character cards/Apartman Tamircisi.md",
+    "characters/character cards/American Team.md",
+    "side cases/Side Case 2 dul kadın (dedektifin rus ajandan haberi olması için).md",
+    "side cases/Side Case 1 şifreli günlük (karakterleri tanıtmak için).md",
+    "main story/Main Story.md",
+    "main story/66 Hours In Hell.md",
+    "characters/Characters.canvas",
+    "characters/character cards/Dedektifin Uşağı (berat).md",
+    "characters/character cards/Doktor (barış).md",
+    "characters/character cards/Dedektif (meriç).md",
+    "characters/character cards/Dedektif Yardımcısı (nazmi).md",
+    "book/Timeline.md",
+    "characters/character cards/Dul Kadının Çocuğu.md",
     "Untitled.md",
     "characters/character cards/RBA (ismail).md",
     "side cases/Side Case 3.3 antifrizli tamirci (dedektifin zehirlemeler için rus ajandan şüphelenmesi için).md",
     "side cases/Side Case 3.2 Botulinum'lu yazar (dedektifin şeker kokulu birinin insanları zehirlediğini anlaması için).md",
     "side cases/Side Case 3.1 ricinli evsiz (dedektifin rusun göz altına alması için).md",
-    "side cases/Side Case 2 dul kadın (dedektifin rus ajandan haberi olması için).md",
-    "side cases/Side Case 1 şifreli günlük (karakterleri tanıtmak için).md",
     "side cases/Side Case 3.4 zehirsiz dedektif (dedektifin rus ajanı tutuklamak için yeterli kanıtı bulması ve main story'yi öğrenmesi için).md",
-    "characters/character cards/Dedektif Yardımcısı (nazmi).md",
     "characters/character cards/Volcanic Tribe.md",
     "characters/character cards/Russian Team.md",
     "characters/character cards/Rus Ajan (zeki bi kız).md",
     "characters/character cards/RuCoRO Russian Cosmos Research Organization.md",
-    "characters/character cards/Roman Yazarının sevgilisi.md",
-    "characters/character cards/Roman Yazarı.md",
-    "characters/character cards/Komiser Yardımcısı (Münür).md",
-    "characters/character cards/Komiser (Doğukan abi).md",
-    "characters/character cards/Dul Kadın.md",
-    "characters/character cards/Doktor (barış).md",
-    "characters/character cards/Dedektifin Uşağı (berat).md",
-    "characters/character cards/Dedektif (meriç).md",
     "book/Parallel Time Lines.canvas",
-    "characters/Characters.canvas",
-    "book/Arcs.canvas",
     "Untitled",
     "images/World Map.png",
     "characters/character cards",
