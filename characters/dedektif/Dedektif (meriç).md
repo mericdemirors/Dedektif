@@ -1,9 +1,9 @@
 * Ad Soyad: Tarık Melih Çelik
 * Yaş: 26
 * Hobiler: Dizi izlemek, uşağıyla japon edebiyatı konuşmak, yardımcısıyla tahta oyunu oynamak. İkisiyle de gameboy konuşmak ve derin konularda dertleşmek. Yemek ve tatlı yapmak. Spor yapmak.
-* Özgün şey: her zaman yanında ekstra etkili ferahlatıcı şeker taşıyor, yardımcısı ve uşağıyla arasında "pur-na" şifrelemesi var, dedektifin simgesi kuzgun
+* Özgün şey: her zaman yanında ekstra etkili ferahlatıcı şeker taşıyor, yardımcısı ve uşağıyla arasında "pur-na" şifrelemesi var, dedektifin sherlock şapkası/piposu gibi imza eşyası da kuzgun simgeli bir şey olsun
 * Kişilik: Her yere zamanında giden, sadece kendi çıkarlarını düşünen birisi. Diğer insanlara göre soğuk birisi ama yakın olduklarıyla samimi. Hayattan bir beklentisi yok, yarın ölse gam yemez; ama, madem yaşıyorum en iyi hayatı yaşayıp olabildiğince faydalı olmalıyım diye düşünen birisi. Planlı programlı, ve her şey kendi kontrolü altında olunca en iyi şekilde sonuçlanacağını bildiği için her şeyi elinin altına almak istiyor.
-* Kış kıyafetleri: Siyah boğazlı kazak, siyah atkı, siyah bot, siyah kot pantolon, siyah kaban
+* Kış kıyafetleri: Siyah boğazlı kazak, siyah atkı, siyah bot, siyah kot pantolon, siyah kaban, siyah eldiven
 * Yaz kıyafetleri: siyah gömlek, siyah kravat, siyah pantolon, siyah ayakkabı, siyah yelek(yelek giyecekse beyaz gömlek), siyah ceket
 
 Dul kadının olduğu apartmanda bir daireyi düşünmek için kullanıyor.
