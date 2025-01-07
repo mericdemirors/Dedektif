@@ -1,1 +1,0 @@
-RBA'yı peygamber ve misafir sanıyorlar o yüzden ona her işinde yardım ediyorlar, ama işi bitip ayrılmak isteyince de izin vermiyorlar zorla kamp alanında tutuyorlar.

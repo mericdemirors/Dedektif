@@ -1,3 +1,14 @@
+Bölümler, içerikleri ve kitaptaki yerleri:
+* Şifreli Aşk(Side Case 1): roman olayıyla karakterleri tanıtır
+* Kurabiye Hırsızı(Side Case 2): rus ajanı hikayeye dahil eder
+* Parktaki Ceset(Side Case 3.1): zehirlenmelerin başladığını gösterir
+* Tüplerin Peşinde(04-11 ~ 04-19 Dul kadının çocuğu): ana hikayenin bi yandan ilerlediğini anlatır
+* Taziye Yemeği ile Limonata(Side Case 3.2 ve Side Case 3.3'ün zehirleme kısımları): zehirlemelerin artığını gösterir
+* Sayfalar Gösteriyor(Side Case 3'ler çözülür): yazarın zehirlenmesi çözülür
+* Geçitteki Vahşiler(04-22 ~ 04-29 RBA): RBA'nın Tavurvur maceralarını anlatıyor
+* Profesörün Peşinde(04-19 ~ 04-28 Dul kadının çocuğu): Asistan, sonunda RBA'yla buluşmaya yaklaşır
+* Kanlı Ada(04-19 ~ 04-28 Rusian Team): Rusların bota saldırmasını anlatır
+* Kurtarıcı Melek ve Şeytan(04-29 ~ 05-01): Dedektif, asistan ve RBA'nın ortaklaşa kaçması
 
 
 ```chronos
@@ -17,9 +28,9 @@
 - [1995-04-17T00:00~1995-04-19T00:00] {Main Story} Üniversiteye tüp yolla ve Ulawun'a git
 - [1995-04-19T06:00~1995-04-22T00:00] {Main Story} Ulawun'da 66 saat
 - [1995-04-22T00:00~1995-04-25T06:00] {Main Story} Yürüyerek Tavurvur'a gidiş
-- [1995-04-25T06:00~1995-04-28T00:00] {Main Story} Tavurvur'da kabileyle 66 saat
-* [1995-04-28T00:00] {Main Story} Tavurvur'da kabile rehine alıyor
-* [1995-04-29T07:00] {Main Story} Rusya gelip kabileyi öldürüyor, RBA onları uydurmak için bahane buluyor
+- [1995-04-25T06:00~1995-04-28T00:00] {Main Story} Tavurvur'da Ruslarla 66 saat
+* [1995-04-28T00:00] {Main Story} Tavurvur'da Ruslar rehin alıyor
+* [1995-04-29T07:00] {Main Story} RBA onları uydurmak için bahane buluyor
 * [1995-04-29T13:00] {Main Story} Rusya bot sesini duyup şoförü öldürüyor, asistan son anda suya atlayıp bi şekilde hayatta kalıyor
 * [1995-04-29T15:00] {Main Story} Bot'tan gelmesi gereken rapor gelmeyince USA bir şeyler ters gidiyor diye anlıyor. Üniversiteye ulaşıyorlar RBA'dan haberiniz var mı diye. Onlardan dedektifi öğreniyorlar
 * [1995-04-29T16:00] {Main Story} USA, dedektife gidiyor onunla konuşup onu olay yerine getiriyorlar
@@ -45,7 +56,7 @@
 - [1995-04-23T20:00~1995-04-27T06:00] {Dul kadının çocuğu} kargo botuyla Mount Lamington'a gitmek için limana gidip iş arıyor ve bi bota biniyor
 * [1995-04-25T12:00] {Dul kadının çocuğu} Ruslar Merapi etraftaki havaalanlarına rüşvet vererek RBA'nın uçağının nereye gittiğini buluyorlar sonunda.
 - [1995-04-27T15:00~1995-04-28T13:00] {Dul kadının çocuğu} Mount Lamington boş çıkınca Port Moresby'ye geri dönüyor. ve RBA'nın botçusuna denk geliyor, botla Tavurvur'a yola çıkıyorlar
-* [1995-04-27T22:00] {Dul kadının çocuğu} Ruslar RBA'nın gittiği yere hava gezisi düzenleyip Tavurvur eteklerinde RBA'yı görüyorlar. Araştırmanın bitmesini bekleyip kabileye saldıracaklar
+* [1995-04-27T22:00] {Dul kadının çocuğu} Ruslar RBA'nın gittiği yere hava gezisi düzenleyip Tavurvur eteklerinde RBA'yı görüyorlar. Gidip rehin alıyorlar
 * [1995-04-29T13:00] {Dul kadının çocuğu} Rusların bota saldırısından sağ kalıp çadır kurmak için ormana kaçıyor
 
 
@@ -118,5 +129,9 @@
 * [1995-04-18T16:00] {Side Case 3.3} Doktora ricin ölümünü soruyorlar
 * [1995-04-18T17:00] {Side Case 3.3} Ricin ölümü bulunduktan sonra rus ajan gözaltına alınıyor
 * [1995-04-18T18:00] {Side Case 3.3} Rus ajanın evini arayıp diğer zehirlerin malzemelerini de buluyorlar
-* [1995-04-18T19:00] {Side Case 3.3} Rus ajan sorguya alınıyor her şeyi itiraf ediyor
+
+
+@ [1995-04-18~1995-04-19] {Side Case 3.4} '
+* [1995-04-18T20:00] {Side Case 3.4} Rus kadın göz altına alınır ve her şeyi itiraf eder
+
 ```

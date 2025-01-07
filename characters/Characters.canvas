@@ -19,8 +19,7 @@
 		{"id":"45d6065b8b716332","type":"text","text":"[[RuCoRO Russian Cosmos Research Organization]]","x":-424,"y":-1532,"width":191,"height":146},
 		{"id":"3dce8b25fb2761b2","type":"text","text":"[[Russian Team]]","x":-424,"y":-1386,"width":191,"height":146},
 		{"id":"a9ba526cbe36dc52","type":"text","text":"[[Rus Ajan]]","x":-424,"y":-1239,"width":191,"height":146},
-		{"id":"781271d0a8e8d822","type":"text","text":"[[Apartman Tamircisi]]","x":-1565,"y":-646,"width":191,"height":146},
-		{"id":"2e6ef4b3300393b5","type":"text","text":"[[Volcanic Tribe]]","x":-424,"y":-939,"width":191,"height":146,"color":"#00ff00"}
+		{"id":"781271d0a8e8d822","type":"text","text":"[[Apartman Tamircisi]]","x":-1565,"y":-646,"width":191,"height":146}
 	],
 	"edges":[]
 }

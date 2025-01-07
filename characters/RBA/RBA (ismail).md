@@ -6,4 +6,4 @@
 * Kış kıyafetleri: gömlek üstüne gri yelek, gri pantolon kahverengi ayakkabı, atkı.
 * Yaz kıyafetleri: gömlek, gri pantolon kahverengi ayakkabı.
 
-İlk başta araştırmayı Rusya'ya vermek istiyordu ama onlar arkada tanık bırakmamak için volkanik tribe'ı öldürünce public olarak yayınlamaya karar veriyor.
+İlk başta araştırmayı Rusya'ya vermek istiyordu ama onlar arkada tanık bırakmamak için bot şoförünü öldürünce public olarak yayınlamaya karar veriyor.

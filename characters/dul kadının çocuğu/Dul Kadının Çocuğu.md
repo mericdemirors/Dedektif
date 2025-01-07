@@ -15,7 +15,7 @@ d- Mount Ruapehu
 Şu anda param bitti ama, en iyisi bir kargo teknesinde çalışıp para kazanıp Port Moresby'ye gitmek. Oraya varınca kazandığım parayla Mount Lamington'a giderim. RBA orada değilse tekrar limana dönüp başka bir gemiyle Tavurvur'a gidip sürekli gemiden gemiye Yeni Zelanda'ya kadar devam ederim."
 300-Mount Lamington'a gidip orada kimseyi bulamayınca orada geceleyip tekrar limana dönüyor. Tavurvur'a gitmek için limanda Tavurvur'a gidecek gemileri arıyorken RBA'nın gemisiyle buluşuyor tamam diyor ben de oraya gidiyorum zaten beni de al.
 400- sonra Tavurvur'a gidiyorlar, bot sesini duyan ruslar botu batırıp şoförü öldürüyorlar, asistan hayatta kalıyor ve ormana kaçıp çadır kuruyor bi yere
-500- Gidince volkanik tribe'ı öldüren rusları görüyor, bi süre sessiz sakin izleyip şansımı bulunca RBA'yı kaçırırım diyor.
+500- Gidince rusları görüyor, bi süre sessiz sakin izleyip şansımı bulunca RBA'yı kaçırırım diyor.
 600- USA çatışmasında kaçan RBA'yı ve dedektifi görüp onlara katılıyor.
 700- RBA diyor ki "eğer biz yaparsak bizden şüphelenirler, sen gizli ajan gibi buralara kadar geldin USA'nın haberi bile yok, şu araştırma sonuçlarını al. Bunları sakla. Seninle üniversitede buluşalım. Vaktini bulduğun gibi bu araştırmayı public olarak yayınlamanı istiyorum ama sakın arkanda iz bırakma yoksa öldürülürsün." Asistan da okay o iş bende diyor.
 800- Anonim olarak "International Astronautical Congress" ve "IEEE Aerospace Conference" konferanslarına veriyi yolluyor.
