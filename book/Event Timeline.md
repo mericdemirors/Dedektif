@@ -5,11 +5,10 @@ Bölümler, içerikleri ve kitaptaki yerleri:
 * Tüplerin Peşinde(04-11 ~ 04-19 Dul kadının çocuğu): ana hikayenin bi yandan ilerlediğini anlatır
 * Taziye Yemeği ile Limonata(Side Case 3.2 ve Side Case 3.3'ün zehirleme kısımları): zehirlemelerin artığını gösterir
 * Sayfalar Gösteriyor(Side Case 3'ler çözülür): yazarın zehirlenmesi çözülür
-* Geçitteki Vahşiler(04-22 ~ 04-29 RBA): RBA'nın Tavurvur maceralarını anlatıyor
+* Geçitteki Tuzak(04-22 ~ 04-29 RBA): RBA'nın Tavurvur maceralarını anlatıyor
+* Kanlı Sahil(04-19 ~ 04-28 Rusian Team): Rusların bota saldırmasını anlatır
 * Profesörün Peşinde(04-19 ~ 04-28 Dul kadının çocuğu): Asistan, sonunda RBA'yla buluşmaya yaklaşır
-* Kanlı Ada(04-19 ~ 04-28 Rusian Team): Rusların bota saldırmasını anlatır
-* Kurtarıcı Melek ve Şeytan(04-29 ~ 05-01): Dedektif, asistan ve RBA'nın ortaklaşa kaçması
-
+* Beklenmedik ve Bilinmedik 2 Yüz(04-29 ~ 05-01): Dedektif, asistan ve RBA'nın ortaklaşa kaçması
 
 ```chronos
 > ORDERBY start
