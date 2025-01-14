@@ -7,3 +7,5 @@
 * Yaz kıyafetleri: gömlek, gri pantolon kahverengi ayakkabı.
 
 İlk başta araştırmayı Rusya'ya vermek istiyordu ama onlar arkada tanık bırakmamak için bot şoförünü öldürünce public olarak yayınlamaya karar veriyor.
+
+University of California, Berkeley'de profesör. İlk başta konferanslar düzenlemek için Harvard University, University of Pennsylvania, University of Chicago ve University of Michigan'a gidiyor, oradan da Avrupa turuna çıkıyor.

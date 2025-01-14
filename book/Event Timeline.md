@@ -6,9 +6,9 @@ Bölümler, içerikleri ve kitaptaki yerleri:
 * Taziye Yemeği ile Limonata(Side Case 3.2 ve Side Case 3.3'ün zehirleme kısımları): zehirlemelerin artığını gösterir
 * Sayfalar Gösteriyor(Side Case 3'ler çözülür): yazarın zehirlenmesi çözülür
 * Geçitteki Tuzak(04-22 ~ 04-29 RBA): RBA'nın Tavurvur maceralarını anlatıyor
-* Kanlı Sahil(04-19 ~ 04-28 Rusian Team): Rusların bota saldırmasını anlatır
 * Profesörün Peşinde(04-19 ~ 04-28 Dul kadının çocuğu): Asistan, sonunda RBA'yla buluşmaya yaklaşır
-* Beklenmedik ve Bilinmedik 2 Yüz(04-29 ~ 05-01): Dedektif, asistan ve RBA'nın ortaklaşa kaçması
+* Kanlı Sahil(04-19 ~ 04-28 Rusian Team): Rusların bota saldırmasını anlatır
+* Beklenmedik ve Bilinmedik 2 Yüz(04-29 ~ 05-01): NASA headquarters'dan başlayarak Dedektif'i işe alma ve sonra dedektif, asistan ve RBA'nın ortaklaşa kaçması
 
 ```chronos
 > ORDERBY start
