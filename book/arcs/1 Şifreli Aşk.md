@@ -1,0 +1,2 @@
+[[Side Case 1 şifreli günlük (karakterleri tanıtmak için)#100- Dedektif otururken yardımcısı "şu kitabı okudun mu, yeni yeni ünlenen bir roman" diyor. Dedektif romanın birazını okuyunca "bir şeyler sıkıntılı, bazı şeyler yerine tam oturmuyor. Bütün roman kızın günlüğü üzerineyse ve romanda da birlikte geçirdikleri vakitlerin fotoğraflarıyla bu gerçek destekleniyorsa neden yalandan bir ölüm yazsın ki" diyor biraz daha işin içine giriyor.|100]]
+

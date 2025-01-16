@@ -1,24 +1,24 @@
 {
 	"nodes":[
 		{"id":"a53f89e53e53ea32","type":"group","backgroundStyle":"ratio","x":-42880,"y":-31360,"width":28480,"height":14579,"color":"#1e1e1e","label":"World Map","background":"images/World Map.png"},
+		{"id":"621ba2a3b8128480","type":"text","text":"# 10 Beklenmedik ve Bilinmedik 2 Yüz\n[[10 Beklenmedik ve Bilinmedik 2 Yüz]]","x":-15267,"y":-26411,"width":255,"height":254},
 		{"id":"e7f4fdfcd5c99f73","type":"text","text":"# 10 Beklenmedik ve Bilinmedik 2 Yüz\n[[10 Beklenmedik ve Bilinmedik 2 Yüz]]","x":-27109,"y":-27427,"width":255,"height":254},
 		{"id":"d825161c38af8a0d","type":"text","text":"# 3 Parktaki Ceset\n[[3 Parktaki Ceset]]","x":-27117,"y":-27951,"width":255,"height":254},
-		{"id":"8a60c640a103966e","type":"text","text":"# 4 Tüplerin Peşinde\n[[4 Tüplerin Peşinde]]","x":-38366,"y":-27618,"width":255,"height":254},
-		{"id":"e4fe0ae79d619b80","type":"text","text":"# 10 Beklenmedik ve Bilinmedik 2 Yüz\n[[10 Beklenmedik ve Bilinmedik 2 Yüz]]","x":-35188,"y":-27660,"width":255,"height":254},
-		{"id":"587b964fba7c659a","type":"text","text":"# 10 Beklenmedik ve Bilinmedik 2 Yüz\n[[10 Beklenmedik ve Bilinmedik 2 Yüz]]","x":-41713,"y":-26102,"width":255,"height":254},
-		{"id":"13fa128ea340c21e","type":"text","text":"# 5 Taziye Yemeği ve Hava Yastığı\n[[5 Taziye Yemeği ve Hava Yastığı]]","x":-27628,"y":-27695,"width":255,"height":254},
-		{"id":"6b1ac728fbb32539","type":"text","text":"# 1 Şifreli Aşk\n[[1 Şifreli Aşk]]","x":-27631,"y":-27952,"width":255,"height":254},
-		{"id":"621ba2a3b8128480","type":"text","text":"# 10 Beklenmedik ve Bilinmedik 2 Yüz\n[[10 Beklenmedik ve Bilinmedik 2 Yüz]]","x":-15267,"y":-26411,"width":255,"height":254},
 		{"id":"f8d505f32e7e7104","type":"text","text":"# 8 Profesörün Peşinde\n[[8 Profesörün Peşinde]]","x":-18362,"y":-23476,"width":255,"height":254},
 		{"id":"c10722bb5a8a437c","type":"text","text":"# 7 Vadideki Tuzak\n[[7 Vadideki Tuzak]]","x":-17964,"y":-23991,"width":255,"height":254},
 		{"id":"deba6c9f534b6bc2","type":"text","text":"# 9 Kanlı Sahil\n[[9 Kanlı Sahil]]","x":-17696,"y":-23989,"width":255,"height":254},
 		{"id":"a93ddc46f6e81d9e","type":"text","text":"# 8 Profesörün Peşinde\n[[8 Profesörün Peşinde]]","x":-21221,"y":-23483,"width":255,"height":254},
 		{"id":"57ded17b57a3e780","type":"text","text":"# 4 Tüplerin Peşinde\n[[4 Tüplerin Peşinde]]","x":-26913,"y":-25559,"width":255,"height":254},
 		{"id":"fdbcefb382015eed","type":"text","text":"# 4 Tüplerin Peşinde\n[[4 Tüplerin Peşinde]]","x":-22199,"y":-24583,"width":255,"height":254},
-		{"id":"0259cc2c3f831cc8","type":"text","text":"# 6 Sayfalar Gösteriyor\n[[6 Sayfalar Gösteriyor]]","x":-27368,"y":-27691,"width":255,"height":254},
 		{"id":"369aab550c2f38b6","type":"text","text":"# 8 Profesörün Peşinde\n[[8 Profesörün Peşinde]]","x":-22195,"y":-24319,"width":255,"height":254},
-		{"id":"3d7685a2ec3524a4","type":"text","text":"# 2 Kurabiye Hırsızı\n[[2 Kurabiye Hırsızı]]","x":-27375,"y":-27951,"width":255,"height":254},
-		{"id":"c591a5a067c0b13a","type":"text","text":"# 10 Beklenmedik ve Bilinmedik 2 Yüz\n[[10 Beklenmedik ve Bilinmedik 2 Yüz]]","x":-17702,"y":-24257,"width":255,"height":254}
+		{"id":"c591a5a067c0b13a","type":"text","text":"# 10 Beklenmedik ve Bilinmedik 2 Yüz\n[[10 Beklenmedik ve Bilinmedik 2 Yüz]]","x":-17702,"y":-24257,"width":255,"height":254},
+		{"id":"8a60c640a103966e","type":"text","text":"# 4 Tüplerin Peşinde\n[[4 Tüplerin Peşinde]]","x":-38366,"y":-27618,"width":255,"height":254},
+		{"id":"e4fe0ae79d619b80","type":"text","text":"# 10 Beklenmedik ve Bilinmedik 2 Yüz\n[[10 Beklenmedik ve Bilinmedik 2 Yüz]]","x":-35188,"y":-27660,"width":255,"height":254},
+		{"id":"587b964fba7c659a","type":"text","text":"# 10 Beklenmedik ve Bilinmedik 2 Yüz\n[[10 Beklenmedik ve Bilinmedik 2 Yüz]]","x":-41713,"y":-26102,"width":255,"height":254},
+		{"id":"13fa128ea340c21e","type":"text","text":"# 5 Taziye Yemeği ve Hava Yastığı\n[[5 Taziye Yemeği ve Hava Yastığı]]","x":-27628,"y":-27695,"width":255,"height":254},
+		{"id":"6b1ac728fbb32539","type":"text","text":"# 1 Şifreli Aşk\n[[1 Şifreli Aşk]]","x":-27631,"y":-27952,"width":255,"height":254},
+		{"id":"0259cc2c3f831cc8","type":"text","text":"# 6 Sayfalar Gösteriyor\n[[6 Sayfalar Gösteriyor]]","x":-27368,"y":-27691,"width":255,"height":254},
+		{"id":"3d7685a2ec3524a4","type":"text","text":"# 2 Kurabiye Hırsızı\n[[2 Kurabiye Hırsızı]]","x":-27375,"y":-27951,"width":255,"height":254}
 	],
 	"edges":[
 		{"id":"59334c9c988162d3","fromNode":"8a60c640a103966e","fromSide":"right","toNode":"57ded17b57a3e780","toSide":"left"},

@@ -4,24 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "0987fd1081b4a7f7",
+        "id": "234ee7ad82c61a47",
         "type": "tabs",
         "children": [
           {
-            "id": "020ba28610d68eaf",
+            "id": "f3b6aff014fdd423",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "book/Arcs.canvas",
-                "viewState": {
-                  "x": -28640,
-                  "y": -24070.5,
-                  "zoom": -4
-                }
+                "file": "side cases/Side Case 3.4 zehirsiz dedektif (dedektifin rus ajanı tutuklamak için yeterli kanıtı bulması ve main story'yi öğrenmesi için).md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Arcs"
+              "icon": "lucide-file",
+              "title": "Side Case 3.4 zehirsiz dedektif (dedektifin rus ajanı tutuklamak için yeterli kanıtı bulması ve main story'yi öğrenmesi için)"
             }
           }
         ]
@@ -164,9 +161,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "020ba28610d68eaf",
+  "active": "f3b6aff014fdd423",
   "lastOpenFiles": [
+    "side cases/Side Case 3.3 antifrizli tamirci (dedektifin zehirlemeler için rus ajandan şüphelenmesi için).md",
+    "side cases/Side Case 3.2 Botulinum'lu yazar (dedektifin şeker kokulu birinin insanları zehirlediğini anlaması için).md",
+    "side cases/Side Case 3.1 ricinli evsiz (dedektifin rusun göz altına alması için).md",
+    "main story/Main Story.md",
+    "side cases/Side Case 1 şifreli günlük (karakterleri tanıtmak için).md",
+    "side cases/Side Case 2 dul kadın (dedektifin rus ajandan haberi olması için).md",
+    "characters/dul kadının çocuğu/Dul Kadının Çocuğu.md",
     "book/arcs/1 Şifreli Aşk.md",
+    "Side.md",
+    "book/arcs/2 Kurabiye Hırsızı.md",
     "book/Arcs.canvas",
     "book/arcs/4 Tüplerin Peşinde.md",
     "book/arcs/10 Beklenmedik ve Bilinmedik 2 Yüz.md",
@@ -176,7 +182,6 @@
     "book/arcs/6 Sayfalar Gösteriyor.md",
     "book/arcs/5 Taziye Yemeği ve Hava Yastığı.md",
     "book/arcs/3 Parktaki Ceset.md",
-    "book/arcs/2 Kurabiye Hırsızı.md",
     "book/arcs/yhyhtt",
     "book/arcs/yhyh",
     "book/arcs/1 Şifreli Aşk (copy).md",
@@ -197,15 +202,8 @@
     "book/Parallel Timelines.canvas",
     "confidential documents/obsidians/arcs.png",
     "confidential documents/obsidians/Screenshot from 2025-01-14 22-22-27.png",
-    "main story/Main Story.md",
     "characters/dedektif/Dedektif (meriç).md",
-    "characters/dul kadının çocuğu/Dul Kadının Çocuğu.md",
-    "characters/RBA/RBA (ismail).md",
-    "main story/66 Hours In Hell.md",
     "characters/Characters.canvas",
-    "characters/volcanic tribe/Volcanic Tribe.md",
-    "side cases/Side Case 3.4 zehirsiz dedektif (dedektifin rus ajanı tutuklamak için yeterli kanıtı bulması ve main story'yi öğrenmesi için).md",
-    "side cases/Side Case 3.3 antifrizli tamirci (dedektifin zehirlemeler için rus ajandan şüphelenmesi için).md",
     "confidential documents/gdus/gdu3.png",
     "characters/roman yazarı/Roman Yazarı.png",
     "characters/komiser/Komiser.png",

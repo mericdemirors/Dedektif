@@ -12,14 +12,25 @@ Ricin:
 * ->Ricin poisoning mimics severe cases of gastrointestinal illness (if ingested), acute respiratory failure (if inhaled), or septic shock and multi-organ failure. Its effects resemble certain forms of toxic shock or infection-induced systemic collapse.
 
 ### Rastgele bir adamın Ricin injection'la ölümü(https://chatgpt.com/share/675c9dc8-82a4-8013-a7eb-9b27817745ba)
-0-Olayın okuyucuya parkta rastgele bir ölünün bulunmasıyla okuyucuya tanıtılıyor.
 
-100- Rus ajan evinde castor been'lerden zehir üretmiş
-200- parkta rastgele bulduğu elemanın birine sabahın köründe enjekte etmiş
-300- eleman öğlene doğru hasta olmuş
-400- gece kusmaya falan başlamış, parkın bi yerine sızıp ölmüş
-500- bekçi bunu ölü bulmuş polise ve ambulansa haber vermiş
-600- doktor da lavuğun karaciğier iflas, ondan ölmüş diye morga atmış
-700- bu olay büyüyüp dedektifin kulağına gitmeyince rus ajan dedektife yakın kişileri öldürme planları yapıyor
-800- dedektif diğer olayları çözüp rus ajanı yakalayınca evine gidip ricin yapma eşyalarını buluyor.
-900- dedektif doktora "böyle böyle ölen başkaları oldu mu" diye soruyor ve bu adamı buluyor. Testleri yaptıktan sonra Ricin'den öldüğünü anlıyorlar.
+# 0
+Olayın okuyucuya parkta rastgele bir ölünün bulunmasıyla okuyucuya tanıtılıyor.
+
+# 100
+Rus ajan evinde castor been'lerden zehir üretmiş
+# 200
+parkta rastgele bulduğu elemanın birine sabahın köründe enjekte etmiş
+# 300
+eleman öğlene doğru hasta olmuş
+# 400
+gece kusmaya falan başlamış, parkın bi yerine sızıp ölmüş
+# 500
+bekçi bunu ölü bulmuş polise ve ambulansa haber vermiş
+# 600
+doktor da lavuğun karaciğier iflas, ondan ölmüş diye morga atmış
+# 700
+bu olay büyüyüp dedektifin kulağına gitmeyince rus ajan dedektife yakın kişileri öldürme planları yapıyor
+# 800
+dedektif diğer olayları çözüp rus ajanı yakalayınca evine gidip ricin yapma eşyalarını buluyor.
+# 900
+dedektif doktora "böyle böyle ölen başkaları oldu mu" diye soruyor ve bu adamı buluyor. Testleri yaptıktan sonra Ricin'den öldüğünü anlıyorlar.

@@ -8,14 +8,24 @@ Botulinum:
 * ->Botulinum toxin can be detected in blood, tissue samples, or stomach contents using laboratory tests like enzyme-linked immunosorbent assays (ELISA) or mouse bioassays. However, detection is unlikely unless botulism is suspected. Autopsy findings would show paralysis but might not immediately point to botulinum toxin.
 * ->Botulinum toxin poisoning mimics death by respiratory failure or certain neuromuscular disorders. It can be confused with other conditions causing paralysis, such as Guillain-Barré syndrome, unless toxicology testing is performed.
 ### Roman Yazarının Botulinum'la ölümü(https://chatgpt.com/share/675ca4a4-4050-8013-9fe9-d05ff42c8259)
-0- Olayın okuyucuya tanıtımı ilk başka yazarın evine başka bir fanın(rus ajanın) imza için gelmesiyle başlıyor, okuyucu kimin geldiğini bilmiyor ve gizemli bir hava oluşturulup olay orada bırakılıyor.
+# 0
+Olayın okuyucuya tanıtımı ilk başka yazarın evine başka bir fanın(rus ajanın) imza için gelmesiyle başlıyor, okuyucu kimin geldiğini bilmiyor ve gizemli bir hava oluşturulup olay orada bırakılıyor.
 
-100- Rus ajan evde "bacterium Clostridium botulinum" bakterisinden zehri üretir ve onunla yemek yapar. Makyaj ve kılıf değiştirerek yazardan imza almaya giden fan ayaklarına bürünmüş.
-200- Öğlen yazarın dairesine gidip "ben eski sevgilinin arkadaşıyım, onu gelip buradan almam için 1-2 kez adresini bana vermişti ama kağıtları kaybetmiştim ancak bulabildim. Buraya gelip halini hatrını sormak istedim, senden hep çok güzel bahsediyordu. Hatta bir kere şiir kitaplarından birini zorla okutmuştu bana :)) Birlikte yiyelim dertleşelim diye yemek yapıp getirdim." der
-300- Birlikte yemek yiyorlar, sonra adam perişan halde diye "hasta ziyaretinin kısası makbuldur" diyerek evden ayrılıyor.
-400- Yazar akşama doğru hasta olur, uyuyayım geçer diye uyur.
-500- Uyanınca konuşamadığını ve kolları dışında vücudunu hareket ettiremediğini farkeder.
-600- Kendini yataktan kaldırmaya çalışırken düşer, elleriyle kendini çekebildiği kadar yazı masasına çeker. Yazı masasına ulaşamayınca geri kendini komodine doğru iteler.(geri kendini oraya itelediğini dedektif şöyle anlar: "adam yerde sürünürken yerdeki sayfaları da sürüklemiş ama yataktan masaya giden izin başlangıç tarafı sayfalarla kapanmış. kendini masadan sonra başka bir yere sürüklerken eline bulduğu sayfaları sağa sola saçarken o yolun üstünü kapatmış. Masadan sonra bir yere daha uğramış olmalı ama neden?")
-700- Komodinden kalemini alıp(önceden bu kalemle ilgili bi detayı side case 1'de verebilirim dedektifin olayı kavraması için) bi yere olanları yazar: "ZEHİR! SEVGİLİMİN ARKADAŞI! UZUN BOYLU! KUMRAL SAÇ, YEŞİL GÖZ, MAVİ GÖZLÜK! ŞEKERL" dedektif dış görünüş özelliklerini dikkate almıyor herkes bunları fake'leyebilir diye. en sonda yazan "şekerl" yazısını "ŞEKER!" yazmış sanıyorlar ama dedektif kalem hareketlerine ve yönlerine bakarken "ŞEKERL..." yazarken öldüğünü anlıyor.
-800- Öğlen temizlikçi kadın ölüsünü buluyor, dedektife gidip bu adam öldü diyor.
-900- Dedektif yazarın yazdığı şeyi bulup "hmm uzun boylu biri yazarı zehirlemiş" desin ve yazarın sevgilisinin günlüğüne de bakınca "kızın böyle bir arkadaşı yok ama" diyip bi yerden olayı başkasının yaptığını anlasın. Otopside zehir testleri yaptırıyor ve Botulinum'u buluyorlar. Olaya düşünmek için düşünme apartmanına giderken rus kadınla karşılaşsın şekerli parfümü farketsin.
+# 100
+Rus ajan evde "bacterium Clostridium botulinum" bakterisinden zehri üretir ve onunla yemek yapar. Makyaj ve kılıf değiştirerek yazardan imza almaya giden fan ayaklarına bürünmüş.
+# 200
+Öğlen yazarın dairesine gidip "ben eski sevgilinin arkadaşıyım, onu gelip buradan almam için 1-2 kez adresini bana vermişti ama kağıtları kaybetmiştim ancak bulabildim. Buraya gelip halini hatrını sormak istedim, senden hep çok güzel bahsediyordu. Hatta bir kere şiir kitaplarından birini zorla okutmuştu bana :)) Birlikte yiyelim dertleşelim diye yemek yapıp getirdim." der
+# 300
+Birlikte yemek yiyorlar, sonra adam perişan halde diye "hasta ziyaretinin kısası makbuldur" diyerek evden ayrılıyor.
+# 400
+Yazar akşama doğru hasta olur, uyuyayım geçer diye uyur.
+# 500
+Uyanınca konuşamadığını ve kolları dışında vücudunu hareket ettiremediğini farkeder.
+# 600
+Kendini yataktan kaldırmaya çalışırken düşer, elleriyle kendini çekebildiği kadar yazı masasına çeker. Yazı masasına ulaşamayınca geri kendini komodine doğru iteler.(geri kendini oraya itelediğini dedektif şöyle anlar: "adam yerde sürünürken yerdeki sayfaları da sürüklemiş ama yataktan masaya giden izin başlangıç tarafı sayfalarla kapanmış. kendini masadan sonra başka bir yere sürüklerken eline bulduğu sayfaları sağa sola saçarken o yolun üstünü kapatmış. Masadan sonra bir yere daha uğramış olmalı ama neden?")
+# 700
+Komodinden kalemini alıp(önceden bu kalemle ilgili bi detayı side case 1'de verebilirim dedektifin olayı kavraması için) bi yere olanları yazar: "ZEHİR! SEVGİLİMİN ARKADAŞI! UZUN BOYLU! KUMRAL SAÇ, YEŞİL GÖZ, MAVİ GÖZLÜK! ŞEKERL" dedektif dış görünüş özelliklerini dikkate almıyor herkes bunları fake'leyebilir diye. en sonda yazan "şekerl" yazısını "ŞEKER!" yazmış sanıyorlar ama dedektif kalem hareketlerine ve yönlerine bakarken "ŞEKERL..." yazarken öldüğünü anlıyor.
+# 800
+Öğlen temizlikçi kadın ölüsünü buluyor, dedektife gidip bu adam öldü diyor.
+# 900
+Dedektif yazarın yazdığı şeyi bulup "hmm uzun boylu biri yazarı zehirlemiş" desin ve yazarın sevgilisinin günlüğüne de bakınca "kızın böyle bir arkadaşı yok ama" diyip bi yerden olayı başkasının yaptığını anlasın. Otopside zehir testleri yaptırıyor ve Botulinum'u buluyorlar. Olaya düşünmek için düşünme apartmanına giderken rus kadınla karşılaşsın şekerli parfümü farketsin.
