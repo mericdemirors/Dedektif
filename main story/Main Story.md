@@ -20,25 +20,25 @@ Go to Mount Merapi at Adisucipto Uluslararası Havaalanı
 Do Mount Merapi research  
 # 510
 Go to Mount Ulawun at Sule Airport PG-0250
-# 600
+# [[7 Vadideki Tuzak#600|600]]
 Mount Ulawun research, boat to get RBA is getting ready at the Port Moresby
-# 610
+# [[7 Vadideki Tuzak#610|610]]
 Go to Tavurvur, RBA has 3 options to go from Ulawun to Tavurvur: (a. Shore = 270 km), (b. Through forest = 150 km), (c. Shore, Punarupka->Driwata, Shore = 220 km). RBA chooses option b since option a is not doable(? find a reason for this), it will take so much time with the gear, c is possible with a gate to pass between Punarupka->Driwata but it is longer than b. So RBA chooses option b, there is a gate(Monrabet -> Malasit) easier to pass between these 2 points.  
-# 620
+# [[7 Vadideki Tuzak#620|620]]
 RBA gets captured by Russians between Mondrabet -> Malasit.  
-# 630
+# [[7 Vadideki Tuzak#630|630]]
 RBA does the research under the Russians orders
-# 640
+# [[7 Vadideki Tuzak#640|640]]
 Do Mount Tavurvur research  
-# 700
+# [[9 Kanlı Sahil#700|700]]
 Russian take the research files from RBA. But RBA says there is one more phase of research he needs to conclude all findings. So he forces the Russians to stay with him few more days he wastes this time by doing some dummy research things to fool with russians and make them run out of supplies.. Russians hear someone around, they go and kill the boat driver waiting at the shore. USA notices something is wrong when they dont get the boat driver's raport, they ask the university and find out about the detective, they go to detective to accuse him of events and they end up getting the detective's help. We need you to get the RBA come to Papua New Geniu with us". He goes there with a F/A-18F(this jets first fly is at 29 November 1995, first carrier landing at 1997, USA will keep this one with dedektif as a secret since whole operation is secret) They start from incirlik and fly from aircraft carrier to aircraft carrier. All hops are around 3000km and last one drops the Dedektif with a parachute and flies to Andersen Air Force Base, Guam.
-# 800
+# [[10 Beklenmedik ve Bilinmedik 2 Yüz#800|800]]
 USA&Russia fights, RBA gets the research and runs out, dedektif runs after him saying "I will tail him" to USA and "I will help you" to RBA. He catches RBA and tells "I know you want to publish this publicly, I want to help you. Information should be available to everyone." they meet up with the assistant, So USA kills Russians, they start looking for RBA and dedektif.  
-# 900
+# [[10 Beklenmedik ve Bilinmedik 2 Yüz#900|900]]
 Fight between USA and Russian teams take few days, start of this period, RBA's assistant finds RBA and detective and says "I can help you, come to my tent", and helps them with the supplies. Takes the research from RBA and sends it to "International Astronautical Congress" ve "IEEE Aerospace Conference" conferences.
-# 950
+# [[10 Beklenmedik ve Bilinmedik 2 Yüz#950|950]]
 Add some detective stuff here to show how smart is he.
-# 1000
+# [[10 Beklenmedik ve Bilinmedik 2 Yüz#1000|1000]]
 They say to assistant "you need to be careful they will kill any outsider at this rate, we will go to the shore and then to Hawaii. Now lets wait in the forest till USA sends a boat to pick us up". Then USA's boat comes, three of them gets on, they say "assistant is the carrier boy RBA rented for the on-foot travel between Ulawun and Tavurvur."
-# 1100
+# [[10 Beklenmedik ve Bilinmedik 2 Yüz#1100|1100]]
 They get back to aircraft carrier at some point and all of them are confronted by the general saying that they leaked the research and such. But can't prove it, so they just go with it.

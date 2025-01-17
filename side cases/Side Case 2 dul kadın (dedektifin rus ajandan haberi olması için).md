@@ -8,40 +8,40 @@
 	* neden intihar olduğunu çözmesi için kanıt olmalı: bıçağın sıcak olması, kadının oğlunun para bulması
 	* İntiharın sebebi olarak: sigorta parası almak için ölme süsü vermiş diyebilir, sonradan rus ajanla birlikte olay çözülecek zaten.
 
-# 0
+# [[2 Kurabiye Hırsızı#0|0]]
 kadın parasal sıkıntı çekmeye başladığı için kimseye de yük olmak istemediği için sıkıntısını oğlu öğrenirse para yollar diye hiç ses çıkarmıyor. Rus ajandan da parayı aldıktan sonra parayı oğluna yollayıp intihar etmeyi planlıyor. Olayın okuyucuya tanıtımı ilk başka dul kadının evine uzun zamandır görmediği birinin(rus ajanın) gelmesiyle başlıyor, okuyucu kimin geldiğini bilmiyor ve gizemli bir hava oluşturulup olay orada bırakılıyor.
 
-# 100
+# [[2 Kurabiye Hırsızı#100|100]]
 Tamirci apartmandaki dolapları tamir etmeye başlıyor, kadının dolabını tamir ediyor, kurabiye hazırlıklarını görüp "işim bitince bi gelip alırım artık" diyor ve diğer dairelere gidiyor, gittiği diğer yerlere de "kurabiyeler birazdan hazır" diyor.
-# 200
+# [[2 Kurabiye Hırsızı#200|200]]
 Kadın kurabiyeleri yapıyor, koltuğuna geçiyor, fırın eldiveniyle bıçağı tutuyor tam kendine saplayacakken apartman tamircisinin oğlu pencereden girip kurabiyeyi alıp, pencereden çıkıyor. Tamirci kurabiyeyi almaya geliyor, bir tane alıp çıkıyor ses yapmamaya çalışarak çıkıyor(çocuğun pencereden çıktığını biliyor, demek ki kadın uyuyor diye gıcırdayan parkelere basmamak için kapıdan çıkmıyor ben de ses yapmayayım).
-# 300
+# [[2 Kurabiye Hırsızı#300|300]]
 Dedektif apartman girişinde elinde buzlu bı limonatayla apartman tamircisiyle karşılaşıyor "ustam buzdolaplarını tamir ettim az önce, senin dairene yine dokunmadım. Bir sorun çıkarsa söyle. Dul kadın yine harika kurabiyeler yapmış gelmişken kaçırma, çoktan 2 tanesi gitti bile" diyip tokalaşıyor dedektifle.
-# 400
+# [[2 Kurabiye Hırsızı#400|400]]
 Tamirci gidince kadın bıçağı kendine saplıyor, fırın eldivenlerini de tezgaha fırlatıyor(eğer eldivenler elindeyken ölürse bıçakta parmak izi olmamasından cinayet sanılır ama kadın intihar olduğunun anlaşılmasını istiyor o yüzden eldivenleri fırlatıp bıçağa parmak izini bırakmak istiyor ama son enerjisini eldivenleri fırmatlaya harcayıp ölüyor. Eli kucağında değil de koltuğun kol koyma yerinden aşağı sarkıyor, bunu gören dedektif elin yönünde fırın eldivenlerini görüyor).
-# 500
+# [[2 Kurabiye Hırsızı#500|500]]
 Yukarı kurabiye almaya giden çocuklar dedektif ve tamircinin yanından geçiyorlar. Tamirci de oğluna "dul kadın hala uyuyor olabilir çok ses yapmayın" diyor. Çocuklar da yavaş yavaş merdivenlerı çıkıyorlar sonra birden bağırıp koştur koştur aşağı iniyorlar, dedektif de hemen odaya gidiyor.
-# 600
+# [[2 Kurabiye Hırsızı#600|600]]
 Dul kadın koltuğunda otururken ölü bulunuyor, bıçak saplanmış ve ölmüş. Pencerelerin hepsi kilitli birinin kilidi kırık(o her zaman kırıkmış). Kurabiyelerden üçü kayıp. Komşular ne giren çıkan birini görmüşler ne de sabah kurabiye malzemelerini verirlerken bir şeyler ters gibiymiş, aksine her zamankinden daha mutlu diye biliyorlarmış. Tahminen iş tazminatı aldı diye seviniyor (aslında kadın tazminat parasının hepsini oğluna yollamış). Dedektif hemen
-# 700
+# [[2 Kurabiye Hırsızı#700|700]]
 Komşulardan biri hemen koşup kadını görüyor ve bıçağı sol eliyle tutup fırlatıyor. Burada "ha, hala sıcak" diyor (Aslında bıçağa söylüyor ama herkes ölü bedene söyledi sanıyor) yardımcısı da elini kadının boynuna koyup "evet ceset hala sıcak, ben pencereden atlayıp şüpheli davranan biri olmuş mu diye etrafa sormaya gidiyorum" diyip koşarak çıkıyor. dedektif de "çinayet aletini sağa sola atmayın lütfen" diye gidip bıçağı alıyor ve tezgaha koyuyor içinden "evet bıçak gerçekten de sıcak" diyor. Sonra kadının ölmüş olduğunu görüyorlar. Dedektif "bıçak sıcak, eldivenler yerde, kurabiyeler yeni çıkmış" diye düşünüp intihar olduğunu anlıyor.
-# 800
+# [[2 Kurabiye Hırsızı#800|800]]
 Dedektif "kafanıza göre takılıni olayı çözdüm galiba. Emin olmak için son bir şeyi teyit etmem gerek onun için de polisi ve yardımcımı beklesek iyi olur, aynı olayı tekrar tekrar anlatmaktan nefret ederim de" diyor ama komşu ve geri dönen yardımcısı onu darlayınca "tamam gelin size anlatayım, ne de olsa polise tekrar anlatmam gerekeceğini sanmıyorum"(komiser dedektife güveniyor, dedektif de biraz kendini beğenmiş, intihar yazın geçin tekrar anlatamam vs yapıyor).
-# 900
+# [[2 Kurabiye Hırsızı#900|900]]
 ilk şüpheli tamircinin oğlu, ama dedektif "kadını öldürmüş olsaydı tamirci kurabiyeyi alırken farkedip söylerdi" diyor.
-# 1000
+# [[2 Kurabiye Hırsızı#1000|1000]]
 ikinci şüpheli tamirci, kurabiyeyi alıp kadını öldürmüş olabilir. Eve girer, dolabı tamir eder, kurabiyesini yer, kadını bıçaklar ve çıkar." Parmak izi olmamasının sebebi de eldiven giymesi. Sonra dedektif "buzdolabı tamiri için eldiven giymez, ayrıca çıkarken adamı gördüm eldiveni yoktu." diyor. "O zaman evden bir şeyler kullanmıştır, kumaşla falan bıçağı tutmuştur" diyor, dedektif de "cinayetten hemen sonra odaya girdik her şey yerli yerinde dedi kadın komşu, ayrıca adamı da evden çıkarken gördük yeni cinayet işlemiş gibi davranmıyordu." diyor. "O zaman apartman tamircisinin hızlıca erişebileceği ve sonra ortadan kaldırabileceği bir şey olmalı" diyor, "ne yani buzluktan kıyma alıp bıçağın etrafına sarıp kadını bıçakladı sonra da buzluğa geri mi attı. Kadının patates ve makarnası var sadece, kıymayı geçtim kadının buzluğunda buz bile yok." diyor dedektif. "O zaman buzları kullanarak bıçağı tuttu, sonra da buzları içeceğine atıp yürüyerek çıktı. Hem bardağında bir sürü buz vardı" diyor yardımcı ama aslında buzdolabı tamir ederken komşunun dolabının buzlarını çözmüşler, buz kalıbındaki buzlar da boşa gitmesin diye içeceğine doldurmuşlar.
-# 1100
+# [[2 Kurabiye Hırsızı#1100|1100]]
 üçüncü şüpheli bıçağı çıkarmaya koşan komşu, bıçak eldivenle tutulduğu için parmak izi yoktu, "hemen koşup bıçağı çıkarıp fırlattın, sadece senin parmak izin var" diyorlar. dedektif de diyor ki "parmak izlerini bıçaktan silecek kadar zeki olan biri böyle salakça bir müdahalede bulunmaz, parmak izinden suçlu gözükeceğini bilir. Kendine temize çıkarmak için daha güzel bir yöntem uygulardı.".
-# 1200
+# [[2 Kurabiye Hırsızı#1200|1200]]
 Dedektif tamam diyor sakin olun, olayı çözeceğim. Tamirciyi arıyorlar gel bir şey konuşmamız lazım diye. "tamircinin oğlundan şüphelenen varsa onu da çağıralım ama olayı çözmem için çok küçük bir şey kaldı ve tamircinin oğlunun bununla bir alakası olduğunu sanmıyorum, başka süpheli var mı komşu ve tamirci dışında?" diyince onlar da apartmandaki rus ajanı dedektife söylüyorlar "şu garip kadın geldikten sonra hiç etrafta gözükmedi, birkaç kez dul kadına gittiğini gördük onun dışında etrafta pek görünmedi. Hatta son birkaç gündür de ortalarda yok. sadece markete gidip gelirken falan gördüm garip garip şeyler almış, beyin bağırsak(zehir yapma eşyaları)" diyorlar dedektif de "kadın ortalarda görünmüyorsa o yapamaz, ama onunla bi konuşmak iyi olur kimmiş neciymiş öğrenelim. Ondan şüphelenmem için bir sebep yok ama bi bakalım," diyor. 
-# 1300
+# [[2 Kurabiye Hırsızı#1300|1300]]
 eve sadece tamirci, oğlu ve biz girdik diyor. Tamircinin oğlunun öldürdüğünü sanmıyorum yoksa beni kurabiye almaya buraya çağırmazdı, biri öldürmüşse ya tamircidir ya da bu sabah malzemeleri vermeye giden bıçağı çıkaran komşudur diyor. Tamirci olduğunu sanmam, öldürmeden bi kazancı yok aslında diyor, o sırada bıçağı çıkaran kadın araya giriyor "ama o dul kadından nefret ederdi, her bana geldiğinde bahşiş alamadığından bahsederdi" diyor. O öyle diyince dedektif yardımcısı "niye bu kadar telaşlandın, yoksa sen mi öldürdün" diyor. Dedektif tekrar söze giriyor "tamirci olduğunu sanmıyorum, hem bu işten çıkarı yok, hem eve sadece onun girdiğini ve yakalanacağını biliyor dul kadının hiç misafiri olmadığı için, kurabiye yemeye davet etmezdi hem" diyor. Sonra bıçağın sapına un atarak falan parmak izlerine bakıyorlar sadece 1 elin izleri var, dedektif de bıçağa dokunurken "hmm çoktan soğumuş" diyor, "bu parmak izleri sen bıçağı çıkarırken oldu başka parmak izi yok. Kadını senin öldürmediğini düşünüyorum. Parmak izi bırakmayacak kadar dikkatli öldürmüş olsaydın parmak izi bırakarak bıçağı çıkarmanın seni tek suçlu yapacağını bilirdin.
-# 1400
+# [[2 Kurabiye Hırsızı#1400|1400]]
 Tamirci de geldikten sonra dedektif, yardımcısı, polis ve diğerleri bi odaya geçiyor. Dedektif dolaptan 2 tane patates alıp birini tamirciye birini komşuya atıyor, şunları bana soyun diyip ikisine de bıçak veriyor. Tamirci sağ eliyle soyuyor, komşu da sol eliyle soyuyor. Dedektif tamirciye "tamam sen gidebilirsin kadının senin öldürmediğini biliyordum zaten" diyor, tamirci de "bir şey anlamadım ama sen işini bilirsin kral sonra görüşürüz" diyor. Komşu da sinirleniyor, ne yani patates soyduk sadece ne bokum anladın ki diyor.
-# 1500
+# [[2 Kurabiye Hırsızı#1500|1500]]
 Dedektif de "bıçağı sol elinle çıkardın, ve saplanama yerine bakarak karşıdan saplayan biri de solak olursa o tarafa saplar. Bıçağa bakarsak senin sol parmak izlerini görürüz hatta istersen bakalım" diyince komşu istersen bak bir şey anlamayacaksın ki, sol elimle çıkardım evet solağım diyor, dedektif de "işte tam da bu yüzden patatesi soyarken solak olup olmadığına baktım, sol elinle soydun yani sen öldürmüş olamazsın. Çünkü bıçağın saplanma yeri karşıdan solak birine uygun olsa da saplanma şekline bakılırsa arkadan sağlak birinin sapladığını anlayabiliriz. Sağlak biri sapladıysa bu sen olamazsın. Şimdi diyorsunuz ki o zaman tamirci yapmıştır, Ama arkadan birinin saplaması da zor, koltuğun sırtı çok geniş kimse arkadan sarılıp karnına ulaşamazdı. Başka bir yerde kan izi olmadığı için de saplama işleminin koltukta yapıldığını anlıyoruz. Ve bıçağın yeterince derine girmemesi de tamirci için çok güçsüz bir saldırı olurdu. Öldürmek istese tam güç saplardı. Ayrıca kurabiyelerin fırından yeni çıktığını görmüştü, kurabiye için birazdan evine gelenlerin bileceği için, kadını şimdi öldürmenin saçma olduğunu bilirdi."
-# 1600
+# [[2 Kurabiye Hırsızı#1600|1600]]
 Asıl olayı size açıklamadan önce şu rus kadının da evine gitmek isteyen var mı? Taziyeye diye rus ajana da uğrayıp etrafı kolaçan ediyor. Dul kadını ben öldürmedim, evimden bile çıkmadım diyor, kimse de karşı bir tez sunamıyor. Yine de dedektif etrafa biraz bakıp "arabalarla ilgilenir misiniz, bir sürü katalog almışsınız" falan diyor.
-# 1700
+# [[2 Kurabiye Hırsızı#1700|1700]]
 Dedektif olayı çözüp her şeyi anlatıyor: "kurabiye yaparken tamirci dolabı tamir ediyor, kurabiye olunca fırın tepsisini masaya koyuyor ama pencerede çocuğu görünce panikleyip eldivenleri çıkarmadan bıçağı alıp koltuğa oturuyor, uyuyor numarası yapıyor çocuk onunla konuşmaya gelip bıçağı görmesin diye, sonra tamirci geliyor kurabiyeyi alıyor uyuma numarasına devam ederken. Tamirci gidince bıçağı saplıyor, eldivenleri fırmatıyor ve ölüyor. Eldivenler bıçağı o kadar uzun süre tuttukları için bıçak sıcak kalıyor biz odaya girdikten bir süre sonra" E o zaman üçüncü kurabiye nerede diyor yardımcısı, onu da kadın yemiş diyor dedektif.

@@ -1,20 +1,21 @@
 Bir aşk romanı birden çok ünlü oluyor. Romanda bir çift çok güzel zaman geçirirken romanın sonunda kadın büyük bir kazada ölüyor ve erkek de onun vasiyeti üzerine kadının günlüğünden bu romanı yazıyor. Ama aslında kız intihar etmiş ve vasiyetinde romana kazada öldü diye yazmasını istemiş.
 
-# 100
+
+# [[1 Şifreli Aşk#100|100]]
 Dedektif otururken yardımcısı "şu kitabı okudun mu, yeni yeni ünlenen bir roman" diyor. Dedektif romanın birazını okuyunca "bir şeyler sıkıntılı, bazı şeyler yerine tam oturmuyor. Bütün roman kızın günlüğü üzerineyse ve romanda da birlikte geçirdikleri vakitlerin fotoğraflarıyla bu gerçek destekleniyorsa neden yalandan bir ölüm yazsın ki" diyor biraz daha işin içine giriyor.
-# 200
+# [[1 Şifreli Aşk#200|200]]
 Romanı yazan erkeği bulup olayı anlattırıyor ve diyor ki "kız romandaki gibi kazada ölmedi değil mi?". Sonra yazar da panikliyor falan. Dedektif de günlüğü isteyip kızın ölümünü çözeyim diyor. Erkek olmaz diyor direniyor.
-# 300
+# [[1 Şifreli Aşk#300|300]]
 Dedektif "Olayı çoktan çözdüm, eğer günlüğü vermezsen kızı senin öldürdüğünü kanıtlarım ve hapse girersin" diyor ama yazar oralı olmuyor, "istediğini yap, kızın vasiyetini sana vermeyeceğim" diyor.
-# 400
+# [[1 Şifreli Aşk#400|400]]
 Olay eskiden olduğu için hiçbir kanıt bulamıyor dedektif, hatta kızın ölmüş olduğu kazaya dair bir şey bile bulamıyor. Sonra da "kızı eğer erkek öldürdüyse günlükte bir şeyler olmalı" diye günlüğü çalmaya karar veriyor.
-# 500
+# [[1 Şifreli Aşk#500|500]]
 burada adamın evine sızma ve günlüğün kopyasını çıkarma olayları olacak. Filmli fotoğraf makinesiyle sayfaları çekip, apartman dairesindeki kırmızı odaya gidip orada fotoları ortaya çıkarıyor. Sonra büyüteçle yazıları okuyup kopyalıyor.
-# 600
+# [[1 Şifreli Aşk#600|600]]
 Kız kriptografi okuduğu için belki günlüğe bir şifre gizlemiştir diyor "kitap okuyucu için yazıldıysa aptalların bile bulabileceği bir şey olması gerek" diyerek göze kolay şifreler aramaya başlıyor. Günlükte kızın sevgilisiyle oynadıkları bir şifreleme oyunu buluyor ve aynı şifre kırmayı günlükte deneyince "seni seviyorum" diye bir şey buluyor. "Bu şifre oyununu sevgilisiyle oynuyorsa sevgilisi de bunu bulmuştur ipucu bu olamaz" diyor ve aramaya devam ediyor, en sonunda gerçeği anlatan olayı çözen şifreyi buluyor  
-# 700
+# [[1 Şifreli Aşk#700|700]]
 Kız aslında erkeği kullanıyormuş, hastaymış ve yakın bir zamanda da ölecekmiş, o yüzden onu kullanıp eğlenip parasını yemek istemiş. Günlüğe 1-2 yere kızın hasta olduğunu gösteren ipuçları koy. Kız da erkeği tamamen harcadıktan sonra ve hevesini aldıktan sonra gidip intihar etmiş. Erkek de intihar etmesini kaldıramamış ve kitabı yazmaya karar vermiş güzel anılarını hatırlamak için. Ama sıra kitabı bitirmeye gelince intihar olarak değil de kazayla ölmüş gibi göstermek istemiş.
-# 800
+# [[1 Şifreli Aşk#800|800]]
 Dedektif yazara gidip "sevgilinin neden intihar ettiğini öğrenmek ister misin?" diyince yazar şok oluyor. İntihar ettiğini nasıl öğrendin falan diyor. Dedektif de olayı anlatıyor, "günlüğün içine böyle böyle şifreli ipuçları koymuş. Neden bu yolla yaptı bilemem, seni kullandığını söyleyip hevesini alınca kenara atmış gibi anlatıyor günlükte ama bence olay şöyle: 'kız seni seviyordu, hastaydı ve yakında ölecekti. İntihar edip senden nefret etmiş gibi davrandı ki ölümünden sonra ona takılıp kalmak yerine ondan nefret edip ilerlemeni istiyordu. Günlüğe seninle geçen günleri kötü geçmiş gibi yazarsa kendini paralayıp senin yüzünden intihar etti sanardın ve ne bu romanı yazardın ne de kendini affedebilirdin. O yüzden günlüğüne her şey çok güzelmiş gibi yazdı, ve hastalıktan ölüp onun yasını tutman yerine intihar ederek ondan nefret etmeni ve hayatına devam etmeni istedi. Ama bir yanı da bütün her şeyi anlatıp doğruları bilmeni istedi o yüzden de şifreleri günlüğe ekledi.' Yani şöyle özetlenebilir:
 a.Seni seviyordu, bu konuda şüphen olmasın
 b.Seninle geçirdiği zamandan keyif alıyordu. Günlüğe yazdıkları da gerçek hisleriydi gerçekten güzel vakit geçiriyordu
@@ -22,9 +23,9 @@ c.Günlükteki "seni seviyorum" şifresi senin ve okuyucular içindi.
 d.Her şeyi ortaya çıkaran diğer şifre ise sadece sana özeldi. Hasta olduğunu, hayatına devam etmeni istediğini söylemek için böyle bir yol izlemiş.
 e-Tek bir eksik var, sana senden nefret ettiğini vs yazan bir not yollamış olmasını beklerdim ondan nefret etmen ve yasını tutmaman için.
 Ha bana sorarsan mantıklı mı, değil. Seni karşına alıp açıklasa anlardın büyük ihtimalle, bazen zor olan da odur ama."
-# 900
+# [[1 Şifreli Aşk#900|900]]
 Yazar da evet öyle bir not vardı aslında, diyip notu dedektife veriyor. "Hmmm evet burada hiç şifre yok, direkt saf nefret kusmuş gibi yazmak istemiş." diyor, yazar da "ben de şaka veya doğruluk mu cesaret mi cezası olarak yazdı sanmıştım ilk başta, ama sonra intihar edince aklıma takılmadı değil. Yine de vasiyet olarak günlüğünü bırakıp romanı yazmamı isteyince üstüne tekrar çok düşünmedim. Belki anlık bir şeydi belki gerçekten de doğruluk mu cesaret mi cezasıydı dedim." diyor.
-# 1000
+# [[1 Şifreli Aşk#1000|1000]]
 O not aslında her şeyi garantiye almak içindi. İntiharından sonra eğer zor olan şifreyi çözemeseydin ve o da sana not göndermiş olmasaydı kendinden nefret ederdin, şifreyi çözememe durumuna karşılık notu gönderdi ki ya şifreyi çöz olayı anla ya da şifreyi çözeme notu okuyup ondan nefret et hayatına geri dön. Komik olan kısım şu şifreyi çözememen durumunu garantiye almak için not olarak "böyle böyle hastayım, intihar edecem, kendine iyi bak, yasımı tutma" yazsa da aynı kapıya çıkacaktı büyük ihtimalle intihar etmesine izin vermezdin diye öyle bir açıklama yapmadı. Şöyle düşünebilirsin eğer anlaması zorsa: 1. şifreyi kırarsan sorun yok o yüzden şifreyi kıramadığın durumları düzeltmeli. 2. açıklamayı sana önceden yapamazdı yoksa intihar etmesini engellerdin ve hastalıktan ölürdü ve yasını tutardın 3. sana nefret notu yolladı eğer şifreyi çözemezsen kendini paralama diye, şifreyi çözersen de yasını tutardın buna da yapacak bir şey yok. Ölümüyle ilgili her şeyi bilsen zaten yasını tutacaktın, nefret notuyla en azından bu yası yok etmeye ve şifreyi çözdüğün durum için de yasını azaltmaya çalışmış. Çok takılma bu şeylere, ölen ölmüş zaten.
-# 1100
+# [[1 Şifreli Aşk#1100|1100]]
 Erkek de "Tam onluk hareket, ondan bi süre nefret edersem yas tutma kısmını çok üzüntülü geçirmeyeceğimi bilip ona göre hareket etmiş. Tam da istediği olmuş oldu galiba, şifreyi çözememiştim ama nefret notu da aklımı karıştırıyordı o yüzden yasını tutmakla nefret etmek arasında garip bi çizgide bir kaç ay geçirdim bu romanı yazmaya başladığım zamanlarda, sonradan nefretim eridi yavaş yavaş, hayatıma devam ettim ve şimdi de şifre çözülünce kendimi tamamen iyi hissediyorum". Lüften bu olay böyle kalsın, olayla alakalı insanlar ve okurların çoğu bunu senin ve benim kadar olgun karşılamayacaktır, diyor olay burada kapanıyor.

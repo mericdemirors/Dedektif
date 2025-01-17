@@ -13,24 +13,25 @@ Ricin:
 
 ### Rastgele bir adamın Ricin injection'la ölümü(https://chatgpt.com/share/675c9dc8-82a4-8013-a7eb-9b27817745ba)
 
-# 0
+# [[3 Parktaki Ceset#0|0]]
 Olayın okuyucuya parkta rastgele bir ölünün bulunmasıyla okuyucuya tanıtılıyor.
 
-# 100
+# [[3 Parktaki Ceset#100|100]]
 Rus ajan evinde castor been'lerden zehir üretmiş
-# 200
+# [[3 Parktaki Ceset#200|200]]
 parkta rastgele bulduğu elemanın birine sabahın köründe enjekte etmiş
-# 300
+# [[3 Parktaki Ceset#300|300]]
 eleman öğlene doğru hasta olmuş
-# 400
+# [[3 Parktaki Ceset#400|400]]
 gece kusmaya falan başlamış, parkın bi yerine sızıp ölmüş
-# 500
+# [[3 Parktaki Ceset#500|500]]
 bekçi bunu ölü bulmuş polise ve ambulansa haber vermiş
-# 600
+# [[3 Parktaki Ceset#600|600]]
 doktor da lavuğun karaciğier iflas, ondan ölmüş diye morga atmış
-# 700
+# [[3 Parktaki Ceset#700|700]]
 bu olay büyüyüp dedektifin kulağına gitmeyince rus ajan dedektife yakın kişileri öldürme planları yapıyor
-# 800
+# [[6 Sayfalar Gösteriyor#800|800]]
 dedektif diğer olayları çözüp rus ajanı yakalayınca evine gidip ricin yapma eşyalarını buluyor.
-# 900
+# [[6 Sayfalar Gösteriyor#900|900]]
 dedektif doktora "böyle böyle ölen başkaları oldu mu" diye soruyor ve bu adamı buluyor. Testleri yaptıktan sonra Ricin'den öldüğünü anlıyorlar.
+

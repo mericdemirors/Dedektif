@@ -10,34 +10,34 @@ Ethylene Glycol (Antifreeze):
 * ->Ethylene glycol poisoning can be detected in blood, urine, and tissues through toxicology tests. Oxalate crystals in the kidneys are a clear indicator during autopsy. Detection is likely if poisoning is suspected but may be overlooked without specific testing.
 * ->Ethylene glycol poisoning resembles kidney failure or severe metabolic acidosis. Early symptoms mimic alcohol intoxication, which can delay accurate diagnosis.
 ### Apartman tamircisinin Ethylene Glycol/Antifreeze'le ölümü(https://chatgpt.com/share/675cb787-0ea4-8013-a9cf-8b9b7c51cdd1)
-# 0
+# [[5 Taziye Yemeği ve Hava Yastığı#0|0]]
 Olayın okuyucuya tanıtımı gizemli birinin(rus ajanın) eve dönüşü ve airbag'le alakalı bazı terim kelime ezberi yapmasıyla yapılır. Airbag kelimelerini okuyucu yakalarsa rusla olan bağı kurabilir.
 
-# 100
+# [[5 Taziye Yemeği ve Hava Yastığı#100|100]]
 Öğlen rus ajan tamirciyi arabasıyla ilgili bir sorunu çözmek için yardıma çağırıyor. Bi ara da "airbag'lerim de patladı, yenilerini nereden bulabilirim" falan gibi bir şey soruyor son zehir için.
-# 200
+# [[5 Taziye Yemeği ve Hava Yastığı#200|200]]
 Tamirci ve çırağı arabayı tamir ettikten sonra ikram edeceği limonataya da antifiriz karıştırıyor. "Ben çok içemem, çocuk da hasta olmasın soğuk limonata içip diye bize küçük bardak, ustamıza da koca bir bardak buz gibi limonata" diye limonata veriyor. Sonra çırağa "al bakalım sana da ödül olarak bir şeker, yine iyisin sonuncuyu sana veriyorum" diye şeker veriyor hepsi sonra yoluna gidiyor.
-# 300
+# [[5 Taziye Yemeği ve Hava Yastığı#300|300]]
 Onlar çıkınca Rus ajan direkt koşup kusuyor ve şekerden yiyor.
-# 400
+# [[6 Sayfalar Gösteriyor#400|400]]
 Tamirci ve çırağı ikindin eve döndüğünde karısı semptompları görüp "yine içmiş içmiş sarhoş olmuş biz de ekmek parası kazanacaksın diye çocuğu yanına veriyoruz" diye adamı evden kovuyor, "şu çocuğu da içkiye alıştırma rezil herif" diyor. Çocuk küçük bardakta limomata içip panzehir şekeri yediği için bir azıcık hastalanıyor ama ciddi bir şey yok.
-# 500
+# [[6 Sayfalar Gösteriyor#500|500]]
 Adam da sinirden önce bara gidiyor, bi sert içki beni kendime getirir diye, sonra kafası iyice kötü olunca eve gideyim bari diyo ama yolda bi darlanıyor, nefeslenmek için parka oturuyor orada ölüyor.
-# 600
+# [[6 Sayfalar Gösteriyor#600|600]]
 Bekçilerden biri ölüyü buluyor. Polise ve ambulansa haber veriyorlar. Ceset hastaneye gidiyor, polis de "bu adam iyi biri bunu tanıyoruz öyle boşa ölmemiştir" diye araştırmaya araştırmaya başlıyor.
-# 700
+# [[6 Sayfalar Gösteriyor#700|700]]
 Önce evine gidiyorlar karısına adamın öldüğünü akşam akşam söylememek için "böyle böyle adamı sızmış bulduk bir şey mi oldu, diyorlar. Karısı da dün içki içti diye evden kovmuştum barın birine gidip sızmıştır. Borçlu olduğu insanlar bunu dövmüşlerdir" diyo. Polis de gidip barları geziyor. Evet dün buraya geldi ama geldiğinde baya kötü haldeydi zaten, sert bi içki istedi biz de ona iyi gitmez diye ayılması için bir kahve verip yolladık kahve içtiğini bile farketmedi" diyolar. Kavga falan da çıkarmadı üzgün efendi bi adamdı" diyorlar.
-# 800
+# [[6 Sayfalar Gösteriyor#800|800]]
 Polisler olayı çözemeyince, doktor da ölüm sebebine bakarak mantıklı bir ölüm senaryosu yazamayınca ertesi sabah dedektife gidiyorlar. Dedektif de apartmana gidip sorgulamaya başlıyor. Tamircinin evine gidiyorlar ve tamircinin karısıyla konuşuyor ve kocasının bi araba tamiri vs yaptığını duyuyor
-# 900
+# [[6 Sayfalar Gösteriyor#900|900]]
 Rus ajanın odasına çıkıp "apartman tamircisi öldü, yeni birini işe almak için daireleri geziyorum ve fikir alıyorum, aynı zamanda da dairelerdeki aparatları ve mobilyaları not alıyorum ki işe alınacak kişi gereksinimleri bilsin, müsade ederseniz evinizi gezmek isterim" diyor. Rus ajan da "tamam gel ama şu odaya girme orada geceden kalma arkadaşım uyuyor, hem orada sadece bi yatak ve çalışma masası var zaten" diyor. Dedektif de evde gezip eşyaları not alıyor, buzdolabını açıp "hmmm ne kadar boş bir dolap" diyip bağırsak ve beyni falan görüyor. Rus ajan da aceleyle kapağı kapatıp, lütfen eşyalarımı kurcalamayın diyor. Dedektif "çöp kutusunda alkol yoktu, buzdolabı da boş, diğer odaya da girmeye izin vermedi, etrafta da bir sürü araba kataloğu var, kadında bir şeyler tam uyuşmuyor" diyor. Bu arada kadının askılıkta asılı ceketindeki şekerli parfümüne falan laf ediyor. (Kadın ajan olduğu için normalde parfüm kullanmıyor ama kamuflaj için giydiği ceketin şeker kokusunu dedektif alıyor, normalde parfüm kullanmıyorken cekete sıkmış diyor)
-# 1000
+# [[6 Sayfalar Gösteriyor#1000|1000]]
 Tekrar tamircinin evine gidip çocukla da konuşunca limonata ve şeker olayını öğreniyor. Çocuk "babam bana şeker kabuğuyla nasıl zurna çalınacağını göstermek için elimden almıştı" gibi bir şeyler zırvalıyor.
-# 1100
-Aynı gün dedektif ofise geri dönünce yazarın temizlikçisini onu beklerken görüyor, yazarın evine gidiyorlar. Duvardaki zehir yazısını görüyor. Dedektif hemen yazara zehir tesi yapılsın diyor. Yazarın cesedinin otopsi sonuçları geliyor, Botulinum zehirlemesini çözüyorlar, Botulinum bakterisi üretimi için gerekli olan beyin vesaireyi de rus ajanın dolabında görünce, şekerli parfümü de bağdaştırınca "eğer insanları zehirleyen kişi oysa gidip şu şeker kabuğuna ve tamircinin cesedine ve çocupuna da zehir testi yapın, eğer cesette antifiriz, şekerde de Fomepizole veya Ethanol bulunursa her şey tamamdır." diyor. Testleri yapıyorlar, zehir ve panzehir maddelerini buluyorlar. antifriz olayını çözüyor dedektif, rus kızın evinde de bir sürü araba kataloğu vardı diyor.
-# 1200
+# [[6 Sayfalar Gösteriyor#1100|1100]]
+Aynı gün dedektif ofise geri dönünce yazarın temizlikçisini onu beklerken görüyor, yazarın evine gidiyorlar. Duvardaki zehir yazısını görüyor. Dedektif hemen yazara zehir tesi yapılsın diyor. Yazarın cesedinin otopsi sonuçları geliyor, Botulinum zehirlemesini çözüyorlar, Botulinum bakterisi üretimi için gerekli olan beyin vesaireyi de rus ajanın dolabında görünce, şekerli parfümü de bağdaştırınca "eğer insanları zehirleyen kişi oysa gidip şu şeker kabuğuna ve tamircinin cesedine ve çocuğuna da zehir testi yapın, eğer cesette antifiriz, şekerde de Fomepizole veya Ethanol bulunursa her şey tamamdır." diyor. Testleri yapıyorlar, zehir ve panzehir maddelerini buluyorlar. antifriz olayını çözüyor dedektif, rus kızın evinde de bir sürü araba kataloğu vardı diyor.
+# [[6 Sayfalar Gösteriyor#1200|1200]]
 Rus ajanın evine gidiyorlar, "bakın beyin, bakın Botulinum, bakın antifriz, bakın şekerler" diye her şeyi çözüyor. Kapalı odada da "castor beans" bulunca doktora "böyle böyle ölen başkaları oldu mu" diye soruyor ve bu adamı buluyor. Testleri yaptıktan sonra Ricin'den öldüğünü anlıyorlar.
-# 1300
+# [[6 Sayfalar Gösteriyor#1300|1300]]
 rus ajan göz altına alınıyor, cinayetleri onun işlediğinin net kanıtı yok ama sorguda da bir şey çıkmıyor
-# 1400
+# [[6 Sayfalar Gösteriyor#1400|1400]]
 dedektif evdeki diğer şeyleri araştırıyor ve Sodium Azide'ı buluyor. Ajanı göz altına alıyorlar, dedektif de evi arıyor ve Sodium Azide'ı kullanarak dedektif öldürmesini söyleyen rusça şifreli mektupları buluyor. Bu mektupta "rusların dedektifi neden öldürmek/oyalamak istedikleri yazıyor, diğer zehirlemelerin sebebi yazıyor."
