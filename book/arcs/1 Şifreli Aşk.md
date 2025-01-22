@@ -35,7 +35,7 @@ Yazar da haklısın diyor
 Dedektif de günlüğü isteyip "sana yeni bi dert çıkarmak istemiyorum romanı baz aldığını söylediğin günlüğü görebilir miyim? İstersen beni odaya kapat orada akşama kadar okur işimi bitiririm ya da kopyasını hazırladığında haber ver gelip alayım" diyor ama yazar direniyor.
 # [[Side Case 1 şifreli günlük (karakterleri tanıtmak için)#300|300]]
 Dedektif "Olayı çoktan çözdüm, eğer günlüğü vermezsen kızı senin öldürdüğünü kanıtlarım ve hapse girersin, sadece günlüğe ihtiyacım var elimde sağlam bi kanıtla iddiayı kazanıp sana geri vereceğim sadece romanın sonunun farklı olduğunu göstermem gerek " diyor ama yazar oralı olmuyor, "sevgilimin günlüğünü sana vermeyeceğim, sadece konuşmak için seni içeri buyur ettim, konuşman bittiyse çıkabilirsin" diyor.
-Dedektif de "Romanın sonundaki kaza yalan, öyle bir olay yaşanmadı. Sadece kızı neden öldürdüğünü bilmiyorum, gram da umrumda değil sen günlüğü verene kadar kapından ayrılmayacağım. İstersen polisleri de çağır gelsinler olayı anlatayım bakalım senin katil olduğunu öğrenince neler yapacaklar"
+Dedektif de "Romanın sonundaki kaza öyle yaşanmadı, o kazanın asıl sebebini biliyorum. Sadece kızı senin neden öldürdüğünü bilmiyorum, gram da umrumda değil sen günlüğü verene kadar kapından ayrılmayacağım. İstersen polisleri de çağır gelsinler olayı anlatayım bakalım senin katil olduğunu öğrenince neler yapacaklar"
 Yazar da "dediğim gibi, istediğini yapabilirsin günlüğü sana vermeyeceğim" diyip mutfağa geçiyor ve günlük işlerine devam ediyor dedektifi görmezden gelerek.
 Dedektif de, "iyi bakalım madem oralı değilsin ben de biraz etrafta dolanayım sakıncası var mı?" diyor ve mutfakta dolanmaya meyve alıp yemeye falan başlıyor.
 Yazar da kendine bi kahve koyuyor ve dedektife de bir bardak verip "şurada bitki çayları var istersen alabilirsin suyu sana da yetecek kadar kaynattım ocakta var. Ben şimdi ofisime geçiyorum, koridorda en sondaki odada olacağım sohbet etmek istersen gelebilirsin ama günlüğü unut. Meyvenin sapını da bana getirirsen saksılarımın dibine koyayım olur mu?" diyor ve kahvesini alıp gidiyor.
@@ -55,12 +55,18 @@ Dedektif de "Polisi çağırmayacağını da biliyordum, polis geldikten sonra b
 Yardımcısı "peki sence kızı gerçekten o mu öldürdü" diyor dedektif de "nasıl tepki verecek diye ölçmek için söylemiştim ama onun öldürdüğünü düşünmüyorum" diyor.
 Yardımcısı "Otobiyografi işini niye söyledin ki, saçma sapan etrafa yayma bunu dedim ya sana" diyor, dedektif de otobiyografiden bahsedince ne tepki verecek onu merak ettim, doğal olarak onunla ilgili bir şey varsa oralara gözü kayacaktır. Tahmin ettiğim gibi de çekmecenin birinden kendi günlüğünü çıkardı bana verdi. Kızın günlüğü de o çekmecede kesin" diyor
 # [[Side Case 1 şifreli günlük (karakterleri tanıtmak için)#400|400]]
-Olay eskiden olduğu için hiçbir kanıt bulamıyor dedektif
-hatta kızın ölmüş olduğu kazaya dair bir şey bile bulamıyor
-Sonra da "kızı eğer erkek öldürdüyse günlükte bir şeyler olmalı" diye günlüğü çalmaya karar veriyor.
-Yardımcısı "yazarı çok darlama da ne yaparsan yap. Adam işinde gücünde, bir de seninle uğraşmasın" diyor
-Dedektif de "tamam tamam bir şey yapmam" diyor günlüğü çalma planını söylemiyor
-
+Dedektif ve yardımcısı yemeklerini yiyorlar sonra yardımcısı "ben şimdi derginin önümüzdeki sayısına bi yazı yetiştirmek için kütüphaneye gidiyorum, şunun surasında 3-4 gün kalmışken yeni bi yazı istediler" diyor, dedektif de "ben de seninle geleyim zaten yapacak bir şeyim yok, yakında da iş gelecek gibi gözükmüyor okuyacak kitap falan bir şeylere bakarım" diyor.
+Birlikte kütüphaneye gidiyorlar, dedektif gazete arşivine gidiyor ve romanın sonundaki günle alakalı gazeteleri istiyor belki o gün bir şey olmuştur onunla alakalıdır diye. Sonra yardımcısı yanına geliyor uzay bölümünden kitaplarla
+Dedektif "dergide boş yer açıldığında hemen uzayla ilgili bir şey dayamak zorunda değilsin bunu biliyorsun değil mi?" diye dalga geçiyor, yardımcısı da "saçma sapan akrostişler ya da sağdan soldan çalışmış oynanmış denemeler yayımlamaktan iyidir, en azından 1-2 çocuğun merağını aşılar. Sen gidip gazete mi aldın?" diyor
+Dedektif de "romanın sonunda bir şey olduysa belki bunlardan bir ipucu bulabilirim" diyor, yardımcısı da "kendini boşa yorma bence, iddiayı kaybedeceksin zaten. Yazarı çok darlama da ne yaparsan yap. Adam işinde gücünde, bir de seninle uğraşmasın" diyor.
+Dedektif de "tamam tamam bir şey yapmam" diyor
+dedektif, olay eskiden olduğu için hiçbir kanıt bulamıyor, hatta kızın ölmüş olduğu kazaya dair bir şey bile bulamıyor. "demek ki böyle bir kaza yaşanmadı, yazar da o yüzden blöflerimi çok takmadı belki de" diye düşünüyor.
+Kütüphaneden akşam çıkıyorlar, dedektif de "gazetede günlükteki kazaya dair bir şey yoktu biliyor musun? Kaza yaşanmadıysa iddiayı bi nevi kazandım sayılır" diyor, yardımcısı da "iddianın aslı yazarın istediği yazıp yazmadığıyla ilgiliydi kazanın gerçekliği değildi" diyor
+Dedektif de "yalandan bir kaza uydurmasının hala bi sebebi olması gerektiğini düşünüyorum, biraz daha derine insem olay bi şekilde çözülecek gibi" diyor ve içinden diye günlüğü çalmaya karar veriyor.
+Yardımcısı eve yatmaya gidiyor, dedektif de apartmana gidiyor
+Apartman girişinde apartman tamircisiyle karşılaşıyor pencerede çay içerken, tamirciyle selamlaşıyorlar "dedektif bey sen buralara uğrar mıydın ya, az daha ortaya çıkmasan senin odayı da kiraya koyacaktım ahaha" diyor, dedektif de "valla ben de ofiste beklemekten sıkıldım, baktım son günlerde bir şey olmuyor bari bi buraya uğrayayım dedim de çok kalmayacağım" diyor ve dairesine çıkıyor.
+Dairesine çıkıp filmli fotoğraf makinesini, el fenerini, maymuncuk kitini falan alıyor, uyku vakti diyip alarm kurup uyuyor.
+Gece bi saatte uyanıyor, alarmdan önce uyandığını görüp alarmı kapatıyor, giyinip yazarın evine gitmek için çıkıyor.
 # [[Side Case 1 şifreli günlük (karakterleri tanıtmak için)#500|500]]
 burada adamın evine sızma ve günlüğün kopyasını çıkarma olayları olacak. Filmli fotoğraf makinesiyle sayfaları çekip, apartman dairesindeki kırmızı odaya gidip orada fotoları ortaya çıkarıyor. Sonra büyüteçle yazıları okuyup kopyalıyor.
 # [[Side Case 1 şifreli günlük (karakterleri tanıtmak için)#600|600]]

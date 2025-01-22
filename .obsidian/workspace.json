@@ -59,9 +59,9 @@
                   "state": {
                     "file": "book/Parallel Timelines.canvas",
                     "viewState": {
-                      "x": -11576.693160007771,
-                      "y": -5608.872848410119,
-                      "zoom": -0.09627585331598959
+                      "x": -11300.818105308797,
+                      "y": -5599.379625384073,
+                      "zoom": -0.5480551807085673
                     }
                   },
                   "icon": "lucide-layout-dashboard",
@@ -102,7 +102,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "kuzgun",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -213,9 +213,10 @@
   },
   "active": "16021abeb60367dc",
   "lastOpenFiles": [
-    "side cases/Side Case 1 şifreli günlük (karakterleri tanıtmak için).md",
-    "book/arcs/1 Şifreli Aşk.md",
+    "book/Arcs.canvas",
     "characters/dedektif/Dedektif (meriç).md",
+    "book/arcs/1 Şifreli Aşk.md",
+    "side cases/Side Case 1 şifreli günlük (karakterleri tanıtmak için).md",
     "book/Parallel Timelines.canvas",
     "characters/dedektif/Dedektif.png",
     "characters/dedektif uşağı/Dedektifin Uşağı (berat).md",
@@ -238,7 +239,6 @@
     "book/arcs/4 Tüplerin Peşinde.md",
     "book/arcs/3 Parktaki Ceset.md",
     "book/arcs/2 Kurabiye Hırsızı.md",
-    "book/Arcs.canvas",
     "Side.md",
     "book/arcs/yhyhtt",
     "book/arcs/yhyh",
