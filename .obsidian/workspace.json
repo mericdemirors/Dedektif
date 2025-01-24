@@ -30,6 +30,7 @@
           {
             "id": "b6d02871d3bcae10",
             "type": "tabs",
+            "dimension": 63.47248576850095,
             "children": [
               {
                 "id": "e76fcc0bc947c6d6",
@@ -50,6 +51,7 @@
           {
             "id": "bf61b06ebca1a8df",
             "type": "tabs",
+            "dimension": 36.527514231499055,
             "children": [
               {
                 "id": "adbe120e954f7492",
@@ -59,7 +61,7 @@
                   "state": {
                     "file": "book/Parallel Timelines.canvas",
                     "viewState": {
-                      "x": -11200.61933798629,
+                      "x": -9425.669690998004,
                       "y": -5649.4790405731255,
                       "zoom": -0.5480551807085673
                     }
@@ -213,10 +215,10 @@
   },
   "active": "16021abeb60367dc",
   "lastOpenFiles": [
-    "book/Parallel Timelines.canvas",
-    "book/arcs/1 Şifreli Aşk.md",
-    "book/Rules.md",
     "side cases/Side Case 1 şifreli günlük (karakterleri tanıtmak için).md",
+    "book/arcs/1 Şifreli Aşk.md",
+    "book/Parallel Timelines.canvas",
+    "book/Rules.md",
     "book/Arcs.canvas",
     "characters/dedektif/Dedektif (meriç).md",
     "characters/dedektif/Dedektif.png",
