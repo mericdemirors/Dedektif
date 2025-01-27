@@ -116,3 +116,28 @@ Dedektif "O not aslında her şeyi garantiye almak içindi. İntiharından sonra
 # [[Side Case 1 şifreli günlük (karakterleri tanıtmak için)#1100|1100]]
 yazar de "Mantıklı, ama sadece böyle net şekilde açıklanınca mantıklı. Hala aklım almıyor ne yazık ki. Ondan bi süre nefret edersem yas tutma kısmını çok üzüntülü geçirmeyeceğimi bilip ona göre hareket etmiş. Tam da istediği olmuş oldu galiba, notun asıl sebebini çözememiştim ama aklımı da karıştırıyordı o yüzden yasını tutmakla nefret etmek arasında garip bi çizgide birkaç hafta geçirdim bu romanı yazmaya başladığım zamanlarda, sonradan nefretim eridi yavaş yavaş, hayatıma devam ettim ve şimdi de şifre çözülünce kendimi tamamen iyi hissediyorum". Lüften bu olay böyle kalsın, olayla alakalı insanlar ve okurların çoğu bunu senin ve benim kadar olgun karşılamayacaktır, diyor olay burada kapanıyor.
 yazar "E ne oldu iddianı kazandın mı bari" diyor, dedektif de "evet, biraz yasa dışı yöntemlere başvurmuş olsam da kazanmış oldum" diyor.
+
+
+Yazar ve sevgilisinin oynadığı şifreleme oyunu farklı akrostiş şekilleri kullanmak.
+"seni seviyorum" şifresi de günlüğün en başına ilk sayfaya yazılmış bir şiirde akrostiş tiplerinden biri olarak gizli
+Oynadıkları oyun "herkes akrostiş yazar, zor olan cümlenin sonundaki harflerle akrostiş yapmaktır. Vermek istediğin mesajı verirken ahengi ve uyumu bozmamak, ve bu mesajı herkese göstermeden vermek  ustalık ister" tarzı bir konuşma geçiyor yazarla sevgilisi arasında, o yüzden "seni seviyorum" şifresi için bunu kullanıyorlar.
+İlk sayfadaki şiir
+...s
+...e
+...n
+...i
+
+...s
+...e
+...v
+...i
+
+...y
+...o
+...r
+...u
+...m
+
+
+"sana gönderdiğim nottaki hislerim gerçek değil, seni korumak istedim. Gerçeği öğrenmek için nefretini yenip notu tekrar okumalısın" gibi olan şifre de günlüğün en başına ikinci sayfaya yazılmış bir şiirde daha üst düzey bir şekilde yazılmış
+nefret notunu ve şifresini bul
