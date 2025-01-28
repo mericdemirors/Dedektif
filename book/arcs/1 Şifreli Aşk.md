@@ -119,24 +119,26 @@ yazar "E ne oldu iddianı kazandın mı bari" diyor, dedektif de "evet, biraz ya
 
 
 Yazar ve sevgilisinin oynadığı şifreleme oyunu farklı akrostiş şekilleri kullanmak.
-"seni seviyorum" şifresi de günlüğün en başına ilk sayfaya yazılmış bir şiirde akrostiş tiplerinden biri olarak gizli
+"seni seviyorum" şifresi de günlüğün en başına ilk sayfaya yazar tarafından yazılmış bir şiirde akrostiş tiplerinden biri olarak gizli. 
 Oynadıkları oyun "herkes akrostiş yazar, zor olan cümlenin sonundaki harflerle akrostiş yapmaktır. Vermek istediğin mesajı verirken ahengi ve uyumu bozmamak, ve bu mesajı herkese göstermeden vermek  ustalık ister" tarzı bir konuşma geçiyor yazarla sevgilisi arasında, o yüzden "seni seviyorum" şifresi için bunu kullanıyorlar.
 İlk sayfadaki şiir
-...s
-...e
-...n
-...i
 
-...s
-...e
-...v
-...i
+Seni hatırlatır bir demet gül bir buket nergis
+Nefes nefes çekerim kokunu bin kere
+Çiçekçi abi yine soruyor: ey güzel oğlan kime bu sevgin
+Söylemem güzel abim, paylaşamam adını, biriciğimi
 
-...y
-...o
-...r
-...u
-...m
+Kader benimle mi oynuyor acep, nerede bende bu şans
+Tekrar tekrar bakarım telveme fincan fincan içe içe
+Falcı ablam yine öğüt ediyor: ey saf oğlum, onu güzel sev
+Severim güzel ablam, senin yerine de severim biriciğimi
+
+Ey kader, sen misin sevdamı bana veren, gel masaya bir kadeh de kendine koy,
+En kadim dostumsun bundan sonra, eğer son kaderim ise o
+
+Sakın tekrar bir oyun çevirme, sonra halim ne olur
+Son seferki gibi ne aklım boş ne kuyularım dolu
+Nolur bu sefer sonum olma, o olsun sonum.
 
 
 "sana gönderdiğim nottaki hislerim gerçek değil, seni korumak istedim. Gerçeği öğrenmek için nefretini yenip notu tekrar okumalısın" gibi olan şifre de günlüğün en başına ikinci sayfaya yazılmış bir şiirde daha üst düzey bir şekilde yazılmış
