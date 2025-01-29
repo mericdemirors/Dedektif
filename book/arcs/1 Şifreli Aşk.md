@@ -120,7 +120,7 @@ yazar "E ne oldu iddianı kazandın mı bari" diyor, dedektif de "evet, biraz ya
 
 Yazar ve sevgilisinin oynadığı şifreleme oyunu farklı akrostiş şekilleri kullanmak.
 "seni seviyorum" şifresi de günlüğün en başına ilk sayfaya yazar tarafından yazılmış bir şiirde akrostiş tiplerinden biri olarak gizli. 
-Oynadıkları oyun "herkes akrostiş yazar, zor olan cümlenin sonundaki harflerle akrostiş yapmaktır. Vermek istediğin mesajı verirken ahengi ve uyumu bozmamak, ve bu mesajı herkese göstermeden vermek  ustalık ister" tarzı bir konuşma geçiyor yazarla sevgilisi arasında, o yüzden "seni seviyorum" şifresi için bunu kullanıyorlar.
+Oynadıkları oyun "herkes akrostiş yazar, zor olan cümlenin sonundaki harflerle akrostiş yapmaktır. Vermek istediğin mesajı verirken ahengi ve uyumu bozmamak, ve bu mesajı herkese göstermeden vermek ustalık ister" tarzı bir konuşma geçiyor yazarla sevgilisi arasında, o yüzden "seni seviyorum" şifresi için son harfleri kullanıyorlar.
 İlk sayfadaki şiir
 
 Seni hatırlatır bir demet gül bir buket nergis
@@ -141,5 +141,15 @@ Son seferki gibi ne aklım boş ne kuyularım dolu
 Nolur bu sefer sonum olma, o olsun sonum.
 
 
-"sana gönderdiğim nottaki hislerim gerçek değil, seni korumak istedim. Gerçeği öğrenmek için nefretini yenip notu tekrar okumalısın" gibi olan şifre de günlüğün en başına ikinci sayfaya yazılmış bir şiirde daha üst düzey bir şekilde yazılmış
+"nefret seni korumak için, tekrar oku" gibi olan şifre de günlüğün en başına ikinci sayfaya yazılmış bir şiirde daha üst düzey bir şekilde yazılmış. Akrostiş şeklinde okuyucuya hint vermeli ve asıl şifre nerede çözülecek onu göstermeli. İlk başta "otaharf" şifresini bulan biri orta harflere bakması gerektiğini anlayacak ama satırların değil de kelimelerin orta harflerine bakınca şifreyi çözecek.
+..n.. ..e.. ..f.. ..r.. ..f
+..e.. ..t.. ..s.. ..e.. ..f
+..n.. ..i.. ..k.. ..o.. ..a
+..r.. ..u.. ..m.. ..a.. ..h
+..k.. ..i.. ..ç.. ..i.. ..a
+..n.. ..t.. ..e.. ..k.. ..t
+..r.. ..a.. ..r.. ..r
+..o.. ..k.. ..u.. ..o
+
+
 nefret notunu ve şifresini bul
