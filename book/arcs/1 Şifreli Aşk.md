@@ -141,15 +141,34 @@ Son seferki gibi ne aklım boş ne kuyularım dolu
 Nolur bu sefer sonum olma, o olsun sonum.
 
 
-"nefret seni korumak için, tekrar oku" gibi olan şifre de günlüğün en başına ikinci sayfaya yazılmış bir şiirde daha üst düzey bir şekilde yazılmış. Akrostiş şeklinde okuyucuya hint vermeli ve asıl şifre nerede çözülecek onu göstermeli. İlk başta "otaharf" şifresini bulan biri orta harflere bakması gerektiğini anlayacak ama satırların değil de kelimelerin orta harflerine bakınca şifreyi çözecek.
+"nefret seni korumak için, tekrar oku" gibi olan şifre de günlüğün en başına ikinci sayfaya yazılmış bir şiirde daha üst düzey bir şekilde yazılmış. Akrostiş şeklinde okuyucuya hint vermeli ve asıl şifre nerede çözülecek onu göstermeli. İlk başta "ortaharf" şifresini bulan biri orta harflere bakması gerektiğini anlayacak ama satırların değil de kelimelerin orta harflerine bakınca şifreyi çözecek.
+
 ..n.. ..e.. ..f.. ..r.. ..f
-..e.. ..t.. ..s.. ..e.. ..f
+..e.. ..t.. ..s.. ..e.. ..r
 ..n.. ..i.. ..k.. ..o.. ..a
 ..r.. ..u.. ..m.. ..a.. ..h
 ..k.. ..i.. ..ç.. ..i.. ..a
 ..n.. ..t.. ..e.. ..k.. ..t
 ..r.. ..a.. ..r.. ..r
 ..o.. ..k.. ..u.. ..o
+
+
+Be***n***im kad***e***rim, ke***f***en sa***r***dı ithaf
+bed***e***nim tap***t***aze kal***s***ada, özl***e***nir anılar,
+Seve***n***leri karanf***i***llerle bıra***k***ınca, kayb***o***lmaz rahiya.
+Kara***r***madı n***u***r se***m***am, karal***a***nmadı ervah.
+BURADAN SONRAKİ 4 DİZE DE ARTIK ÖNÜNÜZE BAKIN SEVİNİN FALAN DESİN
+..***r***.. ..***u***.. ..***m***.. ..***a***.. ..h
+..***k***.. ..***i***.. ..***ç***.. ..***i***.. ..a
+..***n***.. ..***t***.. ..***e***.. ..***k***.. ..t
+..***r***.. ..***a***.. ..***r***.. ..r
+..***o***.. ..***k***.. ..***u***.. ..o
+
+Şiir ölen bir insanın, arkasında bıraktığı sevdiklerine ve yakınlarına öğütlerini vs anlatıyor.
+* "Benim kaderim kefen sardi ithaf" = benim kefenimi kader hazırladı zaten ölecektim diyor
+* "bedenim taptaze tutsada, özlenir anılar," = benimle olan anılarınız beni çürüyüp yok olmaktan kurtarsa da özlenir diyor
+* "Sevenleri karanfillerle bırakınca, kaybolmaz rahiya" = Cenazeye taziyeye gelen, ev sahiplerini karanfillerle başbaşa bırakınca evdeki benim o kokumu karanfiller yok edemez ben sizinle yaşamaya devam edeceğim diyor, bir yandan da benim kokumu karanfiller yok edemez, üzüntünüzü böyle şeylerle örtemeyeceksiniz aklınızda kalıp sizi üzmeye devam edeceğim bir süre diyor.
+* "Kararmadı nur semam, karalanmadı ervah" = daha toprağım sağlanlaşıp kapanmadı, gökyüzüm açık, ölümümün üstünden çok geçmedi. ruhum da karalanmadı yani gömüldüm, münker nekir de geldi ama iyi biriymişim bir sıkıntı yaşamadım daha, iyiyim. diyor
 
 
 nefret notunu ve şifresini bul
