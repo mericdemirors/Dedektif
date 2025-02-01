@@ -102,7 +102,7 @@ Hastalık olayını kanıtlamak için doktora gidip ona soruyor böyle bir hasta
 # [[Side Case 1 şifreli günlük (karakterleri tanıtmak için)#800|800]]
 Dedektif yazara gidip "sevgilinin neden intihar ettiğini öğrenmek ister misin?" diyince yazar şok oluyor. İntihar ettiğini nasıl öğrendin falan diyor. Dedektif de olayı anlatıyor, "günlüğün içine böyle böyle şifreli ipuçları koymuş. Neden bu yolla yaptı bilemem ama olayı kesinlikle çözebilmem için kızın sana bıraktığı nefret notuna bakmam lazım" diyor.
 Yazar da şok oluyor notu nereden biliyorsun diyor, çekmeceden notu çıkarıp dedektife veriyor. Dedektif notu okuyup şifreyi çözüyor ve nefret notunun aslında sevgi notu olduğu söylüyor.
-Dedektif "Bence olay şöyle: 'kız seni seviyordu, hastaydı ve yakında ölecekti. İntihar edip senden nefret etmiş gibi davrandı ki ölümünden sonra ona takılıp kalmak yerine ondan nefret edip ilerlemeni istiyordu. Günlüğe seninle geçen günleri kötü geçmiş gibi yazarsa kendini paralayıp senin yüzünden intihar etti sanardın ve ne bu romanı yazardın ne de kendini affedebilirdin. O yüzden günlüğüne her şey çok güzelmiş gibi yazdı, ve hastalıktan ölüp onun yasını tutman yerine intihar ederek ondan nefret etmeni ve hayatına devam etmeni istedi. Ama bir yanı da bütün her şeyi anlatıp doğruları bilmeni istedi o yüzden de şifreleri günlüğe ekledi.'"
+Dedektif "Bence olay şöyle: 'kız seni seviyordu, hastaydı ve yakında ölecekti. İntihar edip senden nefret etmiş gibi davrandı ki ölümünden sonra ona takılıp kalmak yerine ondan nefret edip ilerlemeni istiyordu. Günlüğe seninle geçen günleri kötü geçmiş gibi yazarsa kendini paralayıp senin yüzünden intihar etti sanardın ve ne bu romanı yazardın ne de kendini affedebilirdin. O yüzden günlüğüne her şey çok güzelmiş gibi yazdı, ve hastalıktan ölüp onun yasını tutman yerine intihar ederek ondan nefret etmeni ve hayatına devam etmeni istedi. Ama bir yanı da bütün her şeyi anlatıp doğruları bilmeni istedi o yüzden de şifreleri günlüğe ekledi. Hatta eğer sen şifreyi hızlıca çözebilirsen onu engelleme diye şifreyi çözmen için gerekli olan anahtarı günlüğündeki sadece onun ölümünden sonra okuyabileceğin bir şiire gizlemiş.'" diyor
 Yazar "hastalığını nereden biliyorsun, bunu ben bile ilk kez duydum" diyince Dedektif "Hasta olayını bir tahmindi sadece, olaya uyan en mantıklı çözüm oydu çünkü. Ama sonradan gerçekten de hasta olduğunu doğruladım. Sevgilin hastaydı ve yakında ölecekti ama sana ölümcül bir hastalık olduğunu söylemedi büyük ihtimalle sonra da bu notlarla vs senin için en iyisini yapmaya çalıştı" diyor.
 "Yani şöyle özetlenebilir: a.Seni seviyordu, bu konuda şüphen olmasın. b.Her şeyi ortaya çıkaran nota gizli olan şifre ise bir nevi garantisiydi. Hasta olduğunu, hayatına devam etmeni istediğini söylemek için böyle bir yol izlemiş. Ha bana sorarsan mantıklı mı, değil. Seni karşına alıp açıklasa anlardın büyük ihtimalle, bazen zor olan da odur ama."
 # [[Side Case 1 şifreli günlük (karakterleri tanıtmak için)#900|900]]
@@ -173,4 +173,35 @@ h***o***ş tari***k***leri sun***u***yor o.
 * "hoş tarikleri sunuyor o" = güzel hoş yolları sunuyor o, geleceğini yaşa diyor yani
 
 
-nefret notunu ve şifresini bul
+nefret notunun içine gizli mesaj:
+hastayım yakında öleceğim hayata küsüp yasımı tutma hayatına devam et diye senden nefret ediyormuş numarası yapıyorum
+
+nefret notu:
+
+..h.. ..a.. ..s.. ..t.. ..a.. ..y.. ..ı.. ..m..
+..ö.. ..l.. ..e.. ..c.. ..e.. ..ğ.. ..i.. ..m..
+..h.. ..a.. ..y.. ..a.. ..t.. ..a..
+..k.. ..ü.. ..s.. ..ü.. ..p.. 
+..y.. ..a.. ..s..
+..t.. ..u.. ..t.. ..m.. ..a.. 
+..h.. ..a.. ..y.. ..a.. ..t.. ..ı.. ..n.. ..a..
+..d.. ..e.. ..v.. ..a.. ..m.. 
+..e.. ..t..
+
+
+..h.. ..a.. ..s.. ..t.. ..a.. ..y.. ..ı.. ..m..
+gör gönlümü, seneler evvelcesini, ben yüreğimde hiç sevemedim
+..h.. ..a.. ..y.. ..a.. ..t.. ..a..
+..k.. ..ü.. ..s.. ..ü.. ..p.. 
+..y.. ..a.. ..s..
+..t.. ..u.. ..t.. ..m.. ..a.. 
+..h.. ..a.. ..y.. ..a.. ..t.. ..ı.. ..n.. ..a..
+..d.. ..e.. ..v.. ..a.. ..m.. 
+..e.. ..t..
+
+R
+bırak
+
+T
+yeter
+artık
