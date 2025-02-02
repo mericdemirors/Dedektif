@@ -189,19 +189,39 @@ nefret notu:
 ..e.. ..t..
 
 
-..h.. ..a.. ..s.. ..t.. ..a.. ..y.. ..ı.. ..m..
-gör gönlümü, seneler evvelcesini, ben yüreğimde hiç sevemedim
-..h.. ..a.. ..y.. ..a.. ..t.. ..a..
-..k.. ..ü.. ..s.. ..ü.. ..p.. 
+İzahımı amacı, tasasızca, "yeter!" yazarak böyle, aslında ayrılmaktır.
+Gör gönlümü, seneler evvelcesini, ben yüreğimde hiç sevemedim
+küstahlığın buncasını, çekemeyeceğim, katlanmayacağım aptal uydurmalarına
+sakın "üzgünüm kusur üstümde" yapma
 ..y.. ..a.. ..s..
 ..t.. ..u.. ..t.. ..m.. ..a.. 
 ..h.. ..a.. ..y.. ..a.. ..t.. ..ı.. ..n.. ..a..
 ..d.. ..e.. ..v.. ..a.. ..m.. 
 ..e.. ..t..
 
+
+
+A
+numaraların
+
+I
+davranışların
+
+İ
+seninle
+
+L
+yalanlarına
+tavırlarını
+
 R
 bırak
 
+S
+masum
+
 T
+yatma
 yeter
 artık
+
