@@ -193,19 +193,26 @@ nefret notu:
 Gör gönlümü, seneler evvelcesini, ben yüreğimde hiç sevemedim
 küstahlığın buncasını, çekemeyeceğim, katlanmayacağım aptal uydurmalarına
 sakın "üzgünüm kusur üstümde" yapma
-..y.. ..a.. ..s..
-..t.. ..u.. ..t.. ..m.. ..a.. 
-..h.. ..a.. ..y.. ..a.. ..t.. ..ı.. ..n.. ..a..
+böyle numaraların geçersizdir
+artık uydurma mazeretlerine körlemesine kanamam
+kabahatin, tam hayat anlamlı olmaktayken davranışların yaşantımı parçaladı
 ..d.. ..e.. ..v.. ..a.. ..m.. 
 ..e.. ..t..
 
 
 
+
+
 A
-numaraların
+kandıramazsın
+
+E
+üzere
 
 I
-davranışların
+yaptığını
+inanmıyorum
+dolayısıyla
 
 İ
 seninle
@@ -214,7 +221,12 @@ L
 yalanlarına
 tavırlarını
 
+N
+nedeniyle
+inanmam
+
 R
+üzerine
 bırak
 
 S
@@ -224,4 +236,7 @@ T
 yatma
 yeter
 artık
+
+Y
+inanmayacağım
 
