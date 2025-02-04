@@ -188,55 +188,9 @@ nefret notu:
 ..d.. ..e.. ..v.. ..a.. ..m.. 
 ..e.. ..t..
 
-
-İzahımı amacı, tasasızca, "yeter!" yazarak böyle, aslında ayrılmaktır.
-Gör gönlümü, seneler evvelcesini, ben yüreğimde hiç sevemedim
-küstahlığın buncasını, çekemeyeceğim, katlanmayacağım aptal uydurmalarına
-sakın "üzgünüm kusur üstümde" yapma
-böyle numaraların geçersizdir
-artık uydurma mazeretlerine körlemesine kanamam
-kabahatin, tam hayat anlamlı olmaktayken davranışların yaşantımı parçaladı
-..d.. ..e.. ..v.. ..a.. ..m.. 
-..e.. ..t..
-
-
-
-
-
-A
-kandıramazsın
-
-E
-üzere
-
-I
-yaptığını
-inanmıyorum
-dolayısıyla
-
-İ
-seninle
-
-L
-yalanlarına
-tavırlarını
-
-N
-nedeniyle
-inanmam
-
-R
-üzerine
-bırak
-
-S
-masum
-
-T
-yatma
-yeter
-artık
-
-Y
-inanmayacağım
-
+İza***h***ımı am***a***cı, tasa***s***ızca, "ye***t***er!" yaz***a***rak bö***y***le, asl***ı***nda ayrıl***m***aktır.
+G***ö***r gön***l***ümü, sen***e***ler evvel***c***esini, b***e***n yüre***ğ***imde h***i***ç seve***m***edim.
+Küsta***h***lığın bunc***a***sını, çekeme***y***eceğim katlanm***a***yacağım ap***t***al uydurm***a***larına.
+Sa***k***ın "üzg***ü***nüm ku***s***ur üst***ü***mde" ya***p***ma, bö***y***le numar***a***ların geçer***s***izdir ar***t***ık, uyd***u***rma mazere***t***lerine körle***m***esine kan***a***mam.
+Kaba***h***atin, t***a***m ha***y***at anl***a***mlı olmak***t***ayken davran***ı***şların yaşa***n***tımı parç***a***ladı.
+Had***d***ini bilem***e***yerek Ya***v***uz müd***a***hil ol***m***an, öz***e***li karış***t***ırman.

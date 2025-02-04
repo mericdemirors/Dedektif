@@ -10,7 +10,7 @@
           {
             "id": "b6d02871d3bcae10",
             "type": "tabs",
-            "dimension": 51.992528019925274,
+            "dimension": 51.99252801992529,
             "children": [
               {
                 "id": "f4f901e7b43b693e",
@@ -31,7 +31,7 @@
           {
             "id": "0bd27e714f7db723",
             "type": "split",
-            "dimension": 48.00747198007472,
+            "dimension": 48.00747198007471,
             "children": [
               {
                 "id": "ee8136508e8941a4",
@@ -237,11 +237,11 @@
   },
   "active": "f4f901e7b43b693e",
   "lastOpenFiles": [
-    "characters/roman yazarının sevgilisi/Roman Yazarının sevgilisi.md",
-    "book/arcs/1 Şifreli Aşk.md",
     "characters/roman yazarı/Roman Yazarı.md",
-    "side cases/Side Case 1 şifreli günlük (karakterleri tanıtmak için).md",
+    "book/arcs/1 Şifreli Aşk.md",
     "images/study/Study Videos.md",
+    "characters/roman yazarının sevgilisi/Roman Yazarının sevgilisi.md",
+    "side cases/Side Case 1 şifreli günlük (karakterleri tanıtmak için).md",
     "images/study/video images/video1_image2.png",
     "images/study/video images/video1_image1.png",
     "images/study/video images/2025_02_01_11w_Kleki.png",
