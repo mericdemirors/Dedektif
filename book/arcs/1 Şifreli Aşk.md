@@ -1,8 +1,9 @@
 # [[Side Case 1 şifreli günlük (karakterleri tanıtmak için)#100|100]]
+* 1995-03-27 10:00
 Dedektif apartmana purna selamlaması ile giriyor
 Sekreteri gameboy'u durdurup günlük raporu verip kendi işine bakmaya devam ediyor, dedektifle gameboy sohbeti ediyorlar biraz
 Dedektif tekrar purna selamını verip ofise giriyor
-Yardımcısı da purna selamlama işine laf ediyor
+Yardımcısı da purna selamlama işine laf ediyor, başka selamlama şekli bulamıyor musun diyor dedektif de kuş sevgisini ve turna kuşunun simgelediği şeyleri söylüyor (haber götürüp getiren bir sembol, sadakat ve vefa).
 Sekreteri yardımcıya kahve yapıp ofise getiriyor birlikte içiyorlar
 Dedektif otururken yardımcısı "şu kitabı okudun mu, yeni yeni ünlenen bir roman" diyor.
 Dedektif de "saçma sapan uzay olaylarını bıraktın da aşk romanlarına mı sardın şimdi de" diyor, geçen gazetede okudukları uzaya gitme işini konuşuyorlar
@@ -12,9 +13,11 @@ Yardımcısı "neyse onu bunu bırak da iş güç nasıl gidiyor yeni bir olay v
 Dedektif "Ciddi bir olay yok şu anda, boş vaktim olunca kuzgunlarla ilgileniyorum, japonca bir şeyler okuyorum vesaire. Bi ara gel de yeni öğrendiğim oyunları öğreteyim sana. Gerçi ilgini çeker mi bilemedim, senin gibi bir adam nasıl satrancı sevmez anlamıyorum"
 Yardımcısı da "NAZMİ SATRANCI NEDEN SEVMİYOR ONU ANLAT. Vaktim olursa laf atmak için bi ara uğrarım yine. Birazdan yayımevine gideceğim bir şey istiyorsan şimdiden söyle, binadan çıkınca yine omzuma kuzgun saldırısı almak istemiyorum."
 Dedektif de uşağına "alışveriş listesinin kopyasını hazırlayıp çıkarken yardımcıma verirsen iyi olur, kendine de bir şeyler ekleyebilirsin" diyor, yardımcısına da "Bu ayki dergini bekliyoruz, şiir hikaye eksiği çıkarsa söyle biliyorsun bir şeyler yazarım ben de" diyor ve Yardımcı ayrılıyor
-Dedektif kitabı alıp "bakalım neymiş bu aşk romanı" diyor. BURADA BİRAZ ROMANI ANLAT.
+Dedektif kitabı alıp "bakalım neymiş bu aşk romanı" diyor. 
+Yavuz Yalnız diye birinin yazdığı bir aşk romanıymış. Sevgilisi Zelda Yayla'yla geçirdiği zamanı bir tür otobiyografi olarak yazmaya başlamış ileride okuruz günleri yad ederiz diye ama sonra sevgilisi ölünce aşk romanı olarak değiştirmek istemiş. Sevgilisi zaten her zaman bir şeyler yazmasını desteklermiş ama Yavuz her zaman "özel şeyler özel olarak kalmalı" diye düşündüğü için roman olarak yazmak yerine ileride ailecek bakılacak/okunacak bir anı kitabı/günlük olarak yazmaya başlamış. Sevgilisinin ölümüyle ve ona vasiyetinde günlüğünü bırakması üzerine günlüğünde "bunu aşk romanına çevirmeni istiyorum" diyince romana çevirmeye karar vermiş.
 Uşak Yardımcıyı uğurladıktan sonra ofise geri geliyor kahveleri toplamaya.
 Dedektif, uşağına "şöyle bir otur bakalım, aşk meşk işleri nasıl, okudun mu bu aşk romanını" diyor birlikte üniversite, sevgili işlerini falan konuşuyorlar. Sana dul kadının oğlunu yapayım mı diyor dedektif sonra şakayla karışık kapatıyorlar konuyu.
+* 1995-03-27 17:00
 Akşama doğru Yardımcı tekrar ofise geliyor, uşakla birlikte ofiste dedektifi romanı okurken  buluyorlar
 Sadece 2 bölüm kaldı şunu bitirip size katılacağım siz takılın bi yarım saat diyor.
 Dedektif okumasını bitiriyor, ne konuştunuz bakalım diye yardımcısı ve uşağının gameboy oyunları konuşmasına dahil oluyor, biraz konuşuyorlar 
@@ -22,6 +25,7 @@ Dedektif "romanda bir şeyler sıkıntılı, bazı şeyler yerine tam oturmuyor.
 Uşağı da dergide buna benzer yayımlanan bi hikayeyi anlatıyor, bunlar tutuyor diye dramatik bitiriyorlar artık hikayeleri diyor ama dedektif "hayır, yazar istede daha dramatik yapabilirmiş, kaza oldu öldü bittiye getirmektense hastanede de kızı biraz süründürebilirmiş ama romanı bitiresi gelmiş gibi, ya da silah zoruyla sonunu değiştirtmişler gibi aceleyle bitirdi. Her iddiasına varım yazmak istediği son bu değildi" diyor
 Yardımcısıyla iddiaya giriyorlar "sen ne anlarsın hikayeden romandan, eğer romanın gizli bir sonu varsa ve yazar zorunlu olarak başka bir son yazmışsa bir sonraki market alışverişin benden" diyor. Dedektif de kabul ediyor.
 # [[Side Case 1 şifreli günlük (karakterleri tanıtmak için)#200|200]]
+* 1995-03-28 09:00
 Yardımcısıyla sabah kalkıp yayımevine gidiyor, orada editörlerden biriyle sohbet muhabbet edip yazarın adresini öğreniyorlar
 Dedektif yazarın adresine gidiyor, "ne güzel karlı dağlı manzaralı, tahta kaplamalı geniş pencereli, şömineli bir ev. Tam hayalimdeki yazar evi, işi gücü bıraksam da buraya yerleşsem keşke" diyip içeri giriyor.
 Yazarın evine girip "merhabalar yazar bey, romanınızla ilgili bir şey sormak istiyordum diyor" ama yazar kapıyı yüzüne kapatıyor.
@@ -66,6 +70,7 @@ Dedektif de "yalandan bir kaza uydurmasının hala bi sebebi olması gerektiğin
 Yardımcısı eve yatmaya gidiyor, dedektif de apartmana gidiyor
 Apartman girişinde apartman tamircisiyle karşılaşıyor pencerede çay içerken, tamirciyle selamlaşıyorlar "dedektif bey sen buralara uğrar mıydın ya, az daha ortaya çıkmasan senin odayı da kiraya koyacaktım ahaha" diyor, dedektif de "valla ben de ofiste beklemekten sıkıldım, baktım son günlerde bir şey olmuyor bari bi buraya uğrayayım dedim de çok kalmayacağım" diyor ve dairesine çıkıyor. Burada diğer apartman sakinlerini de tanıt
 Dairesine çıkıp filmli fotoğraf makinesini, el fenerini, ince bir kağıt, maymuncuk kitini falan alıyor, uyku vakti diyip alarm kurup uyuyor.
+* 1995-03-28 23:00
 Gece bi saatte uyanıyor, alarmdan önce uyandığını görüp alarmı kapatıyor, giyinip yazarın evine gitmek için çıkıyor.
 # [[Side Case 1 şifreli günlük (karakterleri tanıtmak için)#500|500]]
 Dedektif yazarın evine varıyor ve kapıya yaklaşıyor biraz içeriyi dinliyor ses var mı diye.
@@ -80,26 +85,33 @@ Kitaplıklardan biri şöminenin yanındaki koltuğun arkasında ve bütün kita
 Dedektif de "çok vakit kalmadı, günlük şu kitaplıkta bir yerde" diyor üstteki kitaplardan başlayıp günlüğü sonunda buluyor. 
 Günlüğün sonunu okuyor ama günlükteki son sayfa romandaki sonun yalancı bir son olduğunu kanıtlamıyor, ama okurken kızın günlükteki şifrelerden bahsettiğini görüyor ve o yüzden başka yerlerde şifreler olabilir diye günlüğün fotoğrafını çekmeye karar veriyor
 Sonra Fotoğraf makinesini çıkarıp ilk sayfadan fotoğraf çekmeye başlıyor.
+* 1995-03-29 04:00
 Fotoğraflamayı bitirdikten sonra evden çıkıyor ve apartmana gidiyor, film geliştirme odasına gidip filmleri geliştirmeye başlıyor ve işi bitince uyumaya gidiyor.
+* 1995-03-30 10:00
 Uyanınca fotoğrafları, ve büyütecini alıp ofise gidiyor, uşağıyla karşılaşıyor, içeri girip günlüğün kopyasını çıkarmaya başlıyor
-Birazdan yardımcısı geliyor ve gazetedeki amerika haberini gösteriyor, günlüğü çalmaya mı gittin diye dedektife kızıyor.
+Birazdan yardımcısı geliyor ve gazetedeki amerika haberini gösteriyor, dün ortada yoktun günlüğü çalmaya mı gittin diye dedektife kızıyor.
 Dedektif çalmaya gitmedim diyince "o zaman kopyalamaya gitmişsin çok da bir farkı yok, kim fotoğraf makinesiyle hırsızlığa gider ki" diyor. Dedektif de "günlükteki sonun romandakinden farklı olduğunu sana nasıl gösterecektim başka türlü? Fotoğraf makinesi onun için lazımdı" diyor.
 Dedektif "günlükte bazı şifreler olabilir, son sayfada kız vasiyet olarak günlüğü bırakmasını ve adamın neler yapmasını istediğini yazmış, ve 'sana şifreli olarak neler yazdıysam hepsi doğru, benim ardımdan çözeceğin şifreler de sana doğruyu söyleyecek' demiş.
 Yardımcısı "kız, sevgilisine 'kalbinin sesini dinle' falan demek yerine bunu yazdı diye günlüğü mü kopyaladın yani?" diyince dedektif "hayır, 'çözdüğün' dememiş, 'çözeceğin şifreler de' demiş. Yani günlüğün içinde bir yerlerde daha çözülecek bir şeyler var. Kız çözülmesi için bir şifre bırakmış ve o şifrenin doğruyu göstereceğini söylüyor. Ayrıca araştırmanı yaptın mı bilmiyorum ama kütüphanedeyken bulduğum bir üniversite yayınına göre kız kriptografi üzerine çalışıyormuş. Yani aslında burada mecazi bir anlamda söylemiyor" diyor
+* 1995-03-30 11:00
 Sonra büyüteçle yazıları okuyup kopyalamaya başlıyor ve "Şifre yoksa da yapacak bir şey yok, fotoğrafları yakarım olur biter amma abarttın" diyor, yardımcısı da "şu amerika haberi üzerine sohbet etmeye gelmiştim de işin varsa sonra konuşuruz" diyip çıkıyor.
 # [[Side Case 1 şifreli günlük (karakterleri tanıtmak için)#600|600]]
+* 1995-03-31 00:00
 dedektif kopyalamayı bitiriyor ve kolay şifreler aramaya başlıyor. Günlükte kızın sevgilisiyle oynadıkları bir şifreleme oyunu buluyor ve aynı şifre kırmayı günlükte deneyince "seni seviyorum" diye bir şey buluyor. "demek ki bahsettiği olay bu, gerçekten de mecazi kullanmıyorlarmış, kendi aralarında şifreli mesajlar yolluyorlarmış"
 "Ama bu şifre oyununu sevgilisiyle oynuyorsa sevgilisi de bunu bulmuştur çoktan, 'çözeceği' şifre bu olamaz" diyor ve aramaya devam ediyor ama bulamıyor neyse artık yarın çözeriz bu kısmı da diyor, uyumaya gidiyor.
 # [[Side Case 1 şifreli günlük (karakterleri tanıtmak için)#700|700]]
+* 1995-03-31 09:00
 Sabah uyanınca şifreleri çözmeye çalışırken yardımcısı geliyor, "ne o gene dergiye akrostiş mi yazıyorsun açık yerleri kapatalım diye? Merak etme dün yazıyı yetiştirdim şiirlerine yer kalmadı" diye dalga geçiyor.
 Dedektif de "şifre işleriyle uğraşıyorum, dergine git saçma sapan uzay yazıları yazmaya devam et sen, ben de iddiayı kazanacağım bu sırada" diyor, yardımcısı da "bırak artık şunu da yazardan özür dile, milletin özelini karıştırdın boşuna o kadar" diyor ve ofisten çıkıyor derginin ilk basılan çıktısını kontrol etmek için.
 Dedektif de akrostiş vs denilince aklına o şifreler geliyor onlara da bakmaya başlıyor ve en sonunda bir şekilde gerçeği anlatan olayı çözen şifreyi buluyor ve "sana gönderdiğim nottaki hislerim gerçek değil, seni korumak istedim. Gerçeği öğrenmek için nefretini yenip notu tekrar okumalısın" gibi bir şey ortaya çıkıyor.
 Dedektif "demek ki kız sevgilisine bi not yollamış ve notta da onu sevmediğini vs söylemiş. Sevgilisini bir şeyden korumak istemiş. Kızın sevgilisine söylemek istemediği bir şeyler var, ve bunu söylemek istiyor ama onun iyiliği için söylemiyor. Yine de bir yandan da bunları öğrenebilmesi için bu notu şifreleri ayarlamış" diyor.
 Varsayalım ki "sevgilisini çok seven bir kızım, ama ondan bir şey saklıyorum ve onu öğrenmemesi için ondan nefret ediyormuş numarası yapıyorum ama bir yandan da öğrenmesini umuyorum" diyor. "Öğrenmesini umduğuma göre kızacağı bir şey değil, aldatma vs gibi, ve ondan nefret ediyormuş gibi davrandığıma göre onunla alakası olmasını istemediğim bir şey. Belki de çok büyük bir borcum vardı ve tefecilerin ona bulaşmasını istemedim. Ama o zaman vasiyet olarak bu romanı yazmasını istemezdim. Yani işin içinde üçüncü bir kişi yok. Benim kendime sakladığım bir sırrım bu."
 Uşağına soruyor "böyle böyle bir sevgili olsanız neyi saklamak istersiniz" diye, oradan da kızın hasta olma olasılığını en makulu olarak seçiyor.
-Ve bir varsayım yapıyor "kız aslında erkeği çok seviyormuş ama hastaymış ve yakın bir zamanda da ölecekmiş, o yüzden hastalığını söyleyip onu üzmek istememiş. Kız da ölümü yaklaştıktan sonra gidip intihar etmiş." erkek de vasiteyi için kitabı yazmaya karar vermiş.
+Ve bir varsayım yapıyor "kız aslında erkeği çok seviyormuş ama hastaymış ve yakın bir zamanda da ölecekmiş, o yüzden hastalığını söyleyip onu üzmek istememiş. Kız da ölümü yaklaştıktan sonra gidip intihar etmiş." erkek de vasiyeti için kitabı yazmaya karar vermiş.
+* 1995-03-31 20:00
 Hastalık olayını kanıtlamak için doktora gidip ona soruyor böyle bir hasta kaydı var mı hiç diye ondan bilgi alıyor.
 # [[Side Case 1 şifreli günlük (karakterleri tanıtmak için)#800|800]]
+* 1995-04-01 09:00
 Dedektif yazara gidip "sevgilinin neden intihar ettiğini öğrenmek ister misin?" diyince yazar şok oluyor. İntihar ettiğini nasıl öğrendin falan diyor. Dedektif de olayı anlatıyor, "günlüğün içine böyle böyle şifreli ipuçları koymuş. Neden bu yolla yaptı bilemem ama olayı kesinlikle çözebilmem için kızın sana bıraktığı nefret notuna bakmam lazım" diyor.
 Yazar da şok oluyor notu nereden biliyorsun diyor, çekmeceden notu çıkarıp dedektife veriyor. Dedektif notu okuyup şifreyi çözüyor ve nefret notunun aslında sevgi notu olduğu söylüyor.
 Dedektif "Bence olay şöyle: 'kız seni seviyordu, hastaydı ve yakında ölecekti. İntihar edip senden nefret etmiş gibi davrandı ki ölümünden sonra ona takılıp kalmak yerine ondan nefret edip ilerlemeni istiyordu. Günlüğe seninle geçen günleri kötü geçmiş gibi yazarsa kendini paralayıp senin yüzünden intihar etti sanardın ve ne bu romanı yazardın ne de kendini affedebilirdin. O yüzden günlüğüne her şey çok güzelmiş gibi yazdı, ve hastalıktan ölüp onun yasını tutman yerine intihar ederek ondan nefret etmeni ve hayatına devam etmeni istedi. Ama bir yanı da bütün her şeyi anlatıp doğruları bilmeni istedi o yüzden de şifreleri günlüğe ekledi. Hatta eğer sen şifreyi hızlıca çözebilirsen onu engelleme diye şifreyi çözmen için gerekli olan anahtarı günlüğündeki sadece onun ölümünden sonra okuyabileceğin bir şiire gizlemiş.'" diyor
