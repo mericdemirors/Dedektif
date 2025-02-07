@@ -4,80 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "5090bf43bfd2c94b",
-        "type": "split",
+        "id": "1bab70dc64e14404",
+        "type": "tabs",
         "children": [
           {
-            "id": "b6d02871d3bcae10",
-            "type": "tabs",
-            "dimension": 51.99252801992529,
-            "children": [
-              {
-                "id": "f4f901e7b43b693e",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "book/arcs/1 Şifreli Aşk.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "1 Şifreli Aşk"
-                }
-              }
-            ]
-          },
-          {
-            "id": "0bd27e714f7db723",
-            "type": "split",
-            "dimension": 48.00747198007471,
-            "children": [
-              {
-                "id": "ee8136508e8941a4",
-                "type": "tabs",
-                "children": [
-                  {
-                    "id": "16021abeb60367dc",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "side cases/Side Case 1 şifreli günlük (karakterleri tanıtmak için).md",
-                        "mode": "source",
-                        "source": false
-                      },
-                      "icon": "lucide-file",
-                      "title": "Side Case 1 şifreli günlük (karakterleri tanıtmak için)"
-                    }
-                  }
-                ]
+            "id": "6d744d4550596adc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "book/arcs/1 Şifreli Aşk.md",
+                "mode": "source",
+                "source": false
               },
-              {
-                "id": "7202dffd96f3436f",
-                "type": "tabs",
-                "children": [
-                  {
-                    "id": "adbe120e954f7492",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "book/Event Timeline.md",
-                        "mode": "source",
-                        "source": false
-                      },
-                      "icon": "lucide-file",
-                      "title": "Event Timeline"
-                    }
-                  }
-                ]
-              }
-            ],
-            "direction": "horizontal"
+              "icon": "lucide-file",
+              "title": "1 Şifreli Aşk"
+            }
           }
-        ],
-        "direction": "vertical"
+        ]
       }
     ],
     "direction": "vertical"
@@ -218,56 +162,57 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "16021abeb60367dc",
+  "active": "6d744d4550596adc",
   "lastOpenFiles": [
-    "book/arcs/1 Şifreli Aşk.md",
-    "book/Event Timeline.md",
-    "book/Parallel Timelines.canvas",
-    "side cases/Side Case 1 şifreli günlük (karakterleri tanıtmak için).md",
-    "characters/roman yazarı/Roman Yazarı.md",
-    "characters/roman yazarının sevgilisi/Roman Yazarının sevgilisi.md",
-    "images/study/Study Videos.md",
-    "images/study/video images/video1_image2.png",
-    "images/study/video images/video1_image1.png",
-    "images/study/video images/2025_02_01_11w_Kleki.png",
-    "images/study/video images/2025_02_01_11y_Kleki.png",
-    "images/study/video images",
-    "images/study/videos/video1_image2.png",
-    "images/study/videos/video1_image1.png",
-    "images/study/videos",
-    "images/study/vids/video1_image1.png",
-    "images/study/vids/video1_image2.png",
-    "images/study/vids",
-    "images/study",
     "book/Rules.md",
+    "book/Event Timeline.md",
+    "book/arcs/1 Şifreli Aşk.md",
+    "book/Parallel Timelines.canvas",
+    "characters/Characters.canvas",
     "book/Arcs.canvas",
-    "characters/dedektif/Dedektif (meriç).md",
+    "book/arcs/2 Kurabiye Hırsızı.md",
+    "images/study/Study Videos.md",
     "characters/dedektif/Dedektif.png",
+    "book/arcs/4 Tüplerin Peşinde.md",
+    "book/arcs/3 Parktaki Ceset.md",
+    "characters/dedektif/Dedektif (meriç).md",
+    "characters/rus ajan/Rus Ajan.png",
+    "characters/roman yazarı/Roman Yazarı.png",
+    "characters/RBA/RBA.png",
+    "characters/komiser yardımcısı/Komiser Yardımcısı.png",
+    "characters/komiser/Komiser.png",
+    "characters/doktor/Doktor (barış).md",
+    "characters/doktor/Doktor.png",
+    "characters/dedektif uşağı/Dedektif Uşağı.png",
     "characters/dedektif uşağı/Dedektifin Uşağı (berat).md",
+    "characters/dedektif yardımcısı/Dedektif Yardımcısı.png",
     "characters/dedektif yardımcısı/Dedektif Yardımcısı (nazmi).md",
-    "side cases/Side Case 2 dul kadın (dedektifin rus ajandan haberi olması için).md",
-    "book/arcs/6 Sayfalar Gösteriyor.md",
+    "characters/rus ajan/Rus Ajan.md",
+    "characters/komiser yardımcısı/Komiser Yardımcısı (Münür).md",
+    "characters/komiser/Komiser (Doğukan abi).md",
+    "book/arcs/5 Taziye Yemeği ve Hava Yastığı.md",
+    "book/arcs/8 Profesörün Peşinde.md",
+    "book/arcs/7 Vadideki Tuzak.md",
+    "book/arcs/9 Kanlı Sahil.md",
+    "book/arcs/10 Beklenmedik ve Bilinmedik 2 Yüz.md",
+    "images/World Map.png",
     "side cases/Side Case 3.3 antifrizli tamirci (dedektifin zehirlemeler için rus ajandan şüphelenmesi için).md",
     "side cases/Side Case 3.2 Botulinum'lu yazar (dedektifin şeker kokulu birinin insanları zehirlediğini anlaması için).md",
     "side cases/Side Case 3.1 ricinli evsiz (dedektifin rusun göz altına alması için).md",
-    "side cases/Side Case 3.4 zehirsiz dedektif (dedektifin rus ajanı tutuklamak için yeterli kanıtı bulması ve main story'yi öğrenmesi için).md",
-    "book/arcs/7 Vadideki Tuzak.md",
-    "book/arcs/8 Profesörün Peşinde.md",
-    "book/arcs/9 Kanlı Sahil.md",
-    "book/arcs/10 Beklenmedik ve Bilinmedik 2 Yüz.md",
-    "characters/dul kadının çocuğu/Dul Kadının Çocuğu.md",
+    "side cases/Side Case 2 dul kadın (dedektifin rus ajandan haberi olması için).md",
+    "side cases/Side Case 1 şifreli günlük (karakterleri tanıtmak için).md",
+    "main story/66 Hours In Hell.md",
     "main story/Main Story.md",
-    "book/arcs/5 Taziye Yemeği ve Hava Yastığı.md",
-    "book/arcs/4 Tüplerin Peşinde.md",
-    "book/arcs/3 Parktaki Ceset.md",
+    "images/study/video images",
+    "images/study/videos",
+    "images/study/vids",
+    "images/study",
     "book/arcs/yhyhtt",
     "book/arcs/yhyh",
     "book/arcs/1 Şifreli Aşk (copy)",
     "book/arcs/1 Şifreli Aşk",
     "book/arcs/2 Kurabiye Hırsızı",
     "book/arcs/10 Beklenmedik ve Bilinmedik 2 Yüz",
-    "confidential documents/obsidians/arcs.png",
-    "characters/Characters.canvas",
     "book/Parallel Time Lines.canvas",
     "book/events.canvas",
     "kitap/events.canvas",

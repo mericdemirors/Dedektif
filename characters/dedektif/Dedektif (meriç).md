@@ -1,4 +1,4 @@
-* Ad Soyad: Tarık Melih Çelik
+* Ad Soyad: Tarık M. Çelik
 * Yaş: 26
 * Hobiler: Dizi izlemek, uşağıyla japon edebiyatı konuşmak, yardımcısıyla tahta oyunu oynamak. İkisiyle de gameboy konuşmak ve derin konularda dertleşmek. Yemek ve tatlı yapmak. Spor yapmak.
 * Özgün şey: her zaman yanında ekstra etkili ferahlatıcı şeker taşıyor, yardımcısı ve uşağıyla arasında "pur-na" şifrelemesi var, dedektifin sherlock şapkası/piposu gibi imza eşyası da kuzgun simgeli bir şey olsun. Dedektif kuzgunları eğitmiş olsun, sürekli onu takip eden 1-2 posta kuzgunu olsun, ülkeye de cep telefonu yeni yeni geldiği için kuzgunları hala kullanmaya devam etsin
