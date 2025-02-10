@@ -11,5 +11,17 @@ Koltukta hafif toparlanan adam ayraç niyetine kullandığı ince not defretini 
 -Hatırlıyorum aslında, turnadan geldiğini falan biliyorum.
 -Bak dinleyen dinlemiş Nail efendi.
 -Anlattığını hatırlıyorum ama hiç dinlemedim, sadece öyle turnalarla alakalı bir şeyler konuştun işte diye kalmış aklımda.
-Bozulan dedektif biraz daha sandalyeye gömüldü, "Neyse ne, bundan sonra o zaman şifre işi yok. Gene yapmak isteyen yapabilir ama şifreyi 'havalar değişmeye başladı' ve 'turnalar yakında göç eder' diye değiştiriyorum. İster kullanın ister kullanmayın, biri sizi kaçırırsa işinize yarar ama.". Sessizliği tepsideki 2 fincan kahve ve 1 bardak suyun tıngırtısı bozuyor.
--Teşekkürler Betül, ben de tam şu değişik herife ROMANINADI'ı önerecektim, sen de okudun mu bunu? Baya ünlendi, duymuşssundur herhalde.
+Bozulan dedektif biraz daha sandalyeye gömüldü, "Neyse ne, bundan sonra o zaman şifre işi yok. Gene yapmak isteyen yapabilir ama şifreyi 'havalar değişmeye başladı' ve 'turnalar yakında göç eder' diye değiştiriyorum. İster kullanın ister kullanmayın, biri sizi kaçırırsa işinize yarar ama.". Sessizliği tepsideki 1 fincan ve 1 kupa kahve ile 1 bardak suyun tıngırtısı bozuyor.
+-Teşekkürler Betül, ben de tam şu değişik herife Senden Bana Kalan'ı önerecektim, sen de okudun mu bunu? Son zamanlarda baya ünlendi, duymuşssundur herhalde.
+Tepsiyi masaya bırakıp karşıdaki koltuğa oturan kız kupasından bir yudum alıp başını salladı, tepside kalan bardağı alan dedektif sandalyesine geri yaslanmadan önce kitabı önüne çekti:
+-Bir bakalım neymiş şu roman, aşk dizilerini ve filmlerini severim ama daha önce hiç romanını okuduğumu sanmıyorum. Arada farklı şeylere sarman güzel ama aşk romanı senden beklemezdim.
+-Niye ben sevemez miyim? Belki sevgilim önerdi ben de öyle okudum?
+Havaya kaldırdığı su bardağıyla, su dökmemeye dikkat ederek umursamazca birkaç daire çizen dedektif dalga geçti:
+-Benim de sevgilim yok boşver üzülme, yalan söylemeye de gerek yok, arada farklı şeyler oku. Hep uzay galaksi insanın içi bayılır.
+-Anca uzaya salla zaten, işin gücün yok ofiste oturup benim yazdıklarımı okuyorsun anca.
+Dostunu biraz da olsa kızdırabilmenin verdiği mutluluğu gizleyebilmek için bir yudum su alan dedektif romanı tekrar elinde evirip çevirmeye başladı hafiften incelemeye başlayarak.
+-Benim derdim seninle, sadece sen yazdın diye beğenmiyorum onları, göz ucuyla bir yandan dostunu incelerken bir yandan da romanın sayfalarını geziyordu. "Şaka bir yana, geçen getirdiğin 'Amerika Milenyum'da Tekrar Ay'da' gazete haberi iyiydi ama. Arada şöyle kaliteli şeyler getir de üzerine konuşalım, iş yokken vakit geçirmek iyi oluyor". Kitabı eğip üstten kahvesini yudumlayan kıza hızlıca bir bakış attı, "En azından konuşacak biri olunca zaman geçiyor yani" diye iğneleyip tekrar kitaba daldı karşı cevap alamayacağını bilerekten.
+-Hiç iş yok mu, yan gelip yatmaya devam yani. Ne güzel meslekmiş seninkisi de, ben her gün basımevinden kitapevine koşturup durayım, üstüne de yorgun argın dostumu görmeye geleyim ama hale bak. Tarık bey yatıyor, içeceğini yudumlayıp bütün gün eğleniyor.
+-Amma abarttın sen de, gel sana da iş vereyim diyorum yok dergiyi bırakmam demiyor musun? Neyse işte bir sürü boş vaktim var romanı okurum en kısa zamanda. Merak ettim hem bizim köylü Nail Aga romantizimden ne anlarmış bir bakayım.
+
+Nail "oo ben dedim diye okuyacaksan aceleye getirme boşver, sindire sindire oku" falan diyecek dedektif de "yok ya merak etme düzgünce okuyacam dalga geçtiğime bakma" diyince Nail "merak etmemiştim zaten, işin gücün yok tabi okuyacan" diyor
