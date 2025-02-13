@@ -62,3 +62,19 @@ Merhabalar sayın okur, ben Senden Bana Kalan'ın yazarı Yavuz Yalnız. Sevgili
 İlk başlarda "ailecek bakılacak/okunacak bir anı kitabı" olarak başladığım bu yazıyı, bana bıraktığın günlüğündeki "bunu aşk romanına çevirmeni istiyorum" isteğin doğrultusunda çalışmalarım umarım okurları, daha da önemlisi seni mutlu edebilmiştir, ikinci bir sefer tekrar kavuşmamızı bekliyor olacağım...
 
 * 1995-03-27 17:00
+
+Dış kapının açılmasıyla poşet hışırtısı antreyi doldurdu, Hoşgeldin Nail abi, ofise geçerken poşetleri mutfak kapısına bırakırsan az sonra yerleştiririm ben, dedi sandalyesinden kalkan kız.
+-Hepsini sana yüklemeyeyim bi ucundan da ben tutayım gel hızlıca halledelim birlikte, dedi koridora geçen adam, poşetleri mutfağa bırakıp geri antreye geldi: "Senin mesain bitti sayılır hatta, ben yaparım bunu sen yavaştan çıkmaya hazırlan istersen."
+-Yerleştirme işini yaptıktan sonra çıkarım, Tarık abi saatlere çok dikkat etmese de zaten bugün biraz geç gelmiştim ona sayarım.
+-Bizimki napıyor bugün de hep yattı değil mi, dedi ceketini asıp çantasını da askının dibine bırakan yazar.
+Önden mutfağa giden kız poşetleri tezgaha koyarken cevap verdi: Bilmem, bi ara öğle yemeği yedik onun dışında görmedim, yeni iş de gelmedi ofisteydi hep.
+Mutfağa gelen adam da işin bir ucundan tuttu, bir yandan da sohbete başladı: Yatış devam yani, yanına uğrayayım birazdan. Sende işler güçler nasıl? Çok denk gelemedik son günlerde var mı bir hareketlilik?
+Çekirdeklerini keselerinden kavanozlarına döken kız tıngırtının bitmesini bekledikten sonra sohbete katıldı: Çekirdekler için teşekkürler, stoktaki çekirdeğim bitti bitecekti. Buzdolabını açıp poşetteki sodaları raflara dizerken devam etti: Bende de bir yenilik yok, okul iş güç aynı devam ediyorum. Geçen bit pazarına gittim Eyüp Amca yine bir sürü yeni yeni oyun bulmuş onları satıyordu oraya giderim bi ara.
+Buzdolabının kapağını kapatan kız etraftaki poşetleri toplarken, tezgaha yaslanmış meyveli yoğurdunu yiyen adam kapıya yöneldi: "Eyüp Amca'ya ben de bir ara uğrasam iyi olur bendeki oyunlar da yavaştan sıkmaya başladı. Ben ofise geçiyorum bizimkine bir bakayım.". Betül de adamın peşine takıldı, ben de öğle yemeğinden ofiste kalan bulaşık varsa onları alayım.
+Koltukta yan dönmüş kitap okuyan dedektifi görünce gülmeye başlayan adam, Betül'ün geçmesi için yana çekilirken bir yandan da dedektife sataşmaya başladı "Gene verimli bir gün geçirmiş gibisin, işin başından aşkın" diyip bir kaşık daha yoğurt aldı.
+-Jhoooouuuk. Gene almışsın bizim korelilerin yoğurdunu. Köylü adam meyveli yoğurttan ne anlar, gidip eski kaşar falan kemirsene sen. Sabahtan beri önerdiğin kitabı okuyorum az bekle 3-5 sayfa bir şey kaldı.
+-İyi iyi bekleyeyim bakalım, derken elindeki yoğurtla karşı koltuğa geçip bir kaşık daha aldı. "Bugün kasiyer çocuk 'Jhouk Abi' dedi bana, senin yüzünden itibarım yerle bir oldu milletin dalga konusu olduk çıktık.
+-Yapacak bir şey yok, köylülüğünü bilip meyveli yoğurdu bırakacaksın o zaman, diyen dedektif son 1-2 sayfayı da gözüyle taradıktan sonra kitabı kapatıp ortadaki sehpaya atıp koltuğa oturdu. "Sonsöz okumayı sevmem, 2-3 sayfa daha sevgilimi şöyle severdim böyle severdim teşekkürler sevgilim demiş. Okumaya gerek yok herhalde", acaba yargılanacak mıyım diye karşısında oturan adama baktıktan sonra etraftaki bulaşıkları toplayan kıza döndü: "Eyüp Amca'ya gidersen güzel oyun var mıymış bana da söyle bi ara ben de bakayım belki ileride oynamak için alırım.".
+Tepsiyi düşürmeden kapıyı açmaya çalışan kız "Eyüp Amca'ya ben gezmeye gidiyorum, oyun soracaksan Nail abi benden daha çok takip ediyordur" diyen kız kapıyı açabildikten sonra ayağıyla aralayıp koridorda çıktı.
+
+Dedektif "romanda bir şeyler sıkıntılı, bazı şeyler yerine tam oturmuyor. Bütün roman kızın günlüğü üzerineyse ve romanda da birlikte geçirdikleri vakitlerin fotoğraflarıyla bu gerçek destekleniyorsa neden yalandan bir ölüm yazsın ki" diyor.

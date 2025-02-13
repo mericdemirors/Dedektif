@@ -35,12 +35,14 @@
                 "id": "458355ae5e3b9884",
                 "type": "leaf",
                 "state": {
-                  "type": "image",
+                  "type": "markdown",
                   "state": {
-                    "file": "characters/dedektif yardımcısı/Dedektif Yardımcısı.png"
+                    "file": "characters/dedektif yardımcısı/Dedektif Yardımcısı (nazmi).md",
+                    "mode": "source",
+                    "source": false
                   },
-                  "icon": "lucide-image",
-                  "title": "Dedektif Yardımcısı"
+                  "icon": "lucide-file",
+                  "title": "Dedektif Yardımcısı (nazmi)"
                 }
               }
             ]
@@ -211,10 +213,10 @@
   "lastOpenFiles": [
     "book/arcs/1 Şifreli Aşk.md",
     "book/chapters/Şifreli Aşk.md",
+    "characters/dedektif yardımcısı/Dedektif Yardımcısı (nazmi).md",
+    "characters/dedektif yardımcısı/Dedektif Yardımcısı.png",
     "images/study/Study Videos.md",
     "book/Rules.md",
-    "characters/dedektif yardımcısı/Dedektif Yardımcısı.png",
-    "characters/dedektif yardımcısı/Dedektif Yardımcısı (nazmi).md",
     "characters/dedektif/Dedektif (meriç).md",
     "characters/dedektif uşağı/Dedektifin Uşağı (berat).md",
     "characters/dedektif/Dedektif.png",
