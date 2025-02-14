@@ -1,3 +1,4 @@
+* 1995-03-27 10:00
 "Pur!".
 Ayaklarını masaya dayamış kız, elindeki Gameboy'u masadaki bulaşık yığının arasına koydu, hafif öne eğilip masaya çarpmaması için kapıyı parmak uçlarıyla tuttuktan sonra sandalyesine geri düşmeden önce kapıyı yavaşça itiverip ve son nefesiyle karşılık verdi:
 -Na!
@@ -52,7 +53,7 @@ Uzun bir uğraşın sonunda masasında yer açmanın verdiği rahatlıkla sandal
 -Daha yeni açılan bi bölüm olduğu için kimse bilmiyor, hatta üst dönemim bile yok. İlk dönem biziz o yüzden etrafta da değerlendirecek birileri yok.
 -Neydi bölümün adı, "Japon Dili ve Edebiyatı" mıydı? Başka bölümlerle olan ortak derslerden birilerini bulursun?
 Çekmeceleri karıştırmaya başlayan dedektif eline aldığı Japonca eserleri çıkarıp sayfa sayfa karıştırmaya başladı.
--Aynen, bizimkiler de daha öğrenemedi adını. Aslında ortak ders var da ben gitmedim, not çıktılarını hocalar dağıtıyor haftanın başında. Ben de alıp kendim çalışıyorum. 
+-Aynen, bizimkiler de daha öğrenemedi adını. Aslında ortak ders var da ben gitmedim, not çıktılarını hocalar dağıtıyor haftanın başında pazartesi sabah dersinde. Ben de alıp kendim çalışıyorum, dedi masadaki sabah aldığı fotokopiyi gösteren kız.
 Sonunda oyunu seçebilen kız, sandalyesine biraz daha gömülerek: kitaplar sağdan sola okunuyor, sayfaları soldan sağa inceleme havalı gözükmüyorsun, dedi.
 Kitapları çekmeceye geri bırakan dedektif sandalyeden kalkıp yavaşça koridora döndü, Sana anlattığım dul kadının oğlunu bi düşün. Herkesin ayağına Amerika'da doktora yapan talip gelmez. Beğenmediğin mühendis oğlan tiplemesinde biri de değil. Taşlarla kayalarla alakalı enteresan bi şey okuyor senin gibi.
 Biplemeler arasından ancak sesini duyurmaya yetecek bir sesle, "İstemez, uzaktan uzaktan ilişki mi olurmuş" diyen kız tekrar oyununa gömülürken ofisine giren dedektif de koltuğa uzanıp masadaki romanı alıp arkasını dışından okumaya başladı:
@@ -76,5 +77,23 @@ Koltukta yan dönmüş kitap okuyan dedektifi görünce gülmeye başlayan adam,
 -İyi iyi bekleyeyim bakalım, derken elindeki yoğurtla karşı koltuğa geçip bir kaşık daha aldı. "Bugün kasiyer çocuk 'Jhouk Abi' dedi bana, senin yüzünden itibarım yerle bir oldu milletin dalga konusu olduk çıktık.
 -Yapacak bir şey yok, köylülüğünü bilip meyveli yoğurdu bırakacaksın o zaman, diyen dedektif son 1-2 sayfayı da gözüyle taradıktan sonra kitabı kapatıp ortadaki sehpaya atıp koltuğa oturdu. "Sonsöz okumayı sevmem, 2-3 sayfa daha sevgilimi şöyle severdim böyle severdim teşekkürler sevgilim demiş. Okumaya gerek yok herhalde", acaba yargılanacak mıyım diye karşısında oturan adama baktıktan sonra etraftaki bulaşıkları toplayan kıza döndü: "Eyüp Amca'ya gidersen güzel oyun var mıymış bana da söyle bi ara ben de bakayım belki ileride oynamak için alırım.".
 Tepsiyi düşürmeden kapıyı açmaya çalışan kız "Eyüp Amca'ya ben gezmeye gidiyorum, oyun soracaksan Nail abi benden daha çok takip ediyordur" diyen kız kapıyı açabildikten sonra ayağıyla aralayıp koridorda çıktı.
-
-Dedektif "romanda bir şeyler sıkıntılı, bazı şeyler yerine tam oturmuyor. Bütün roman kızın günlüğü üzerineyse ve romanda da birlikte geçirdikleri vakitlerin fotoğraflarıyla bu gerçek destekleniyorsa neden yalandan bir ölüm yazsın ki" diyor.
+Cebinden çıkardığı not defteriyle uğraşan yazar bir süre sonra daldığı işten çıkıp arkadaşının kitabı okumadığını farketti, tam söze girecekken dedektif ayaklanıp elleri arkasında pencereden sokağı izlemeye başladı.
+-Romanda bir şeyler sıkıntılı, bazı şeyler yerine tam oturmuyor. Tamam iyi güzel yazmış aşkları çok güzelmiş özelmiş falan da, bütün roman kızın günlüğü üzerineyse ve romanda da birlikte geçirdikleri vakitlerin fotoğraflarıyla bu gerçek destekleniyorsa neden yalandan bir ölüm yazmış acaba.
+Arkadaşının söyledikleri üzerine şaşkınlıktan ne söyleyeceğini unutan adam not defterini cebine koyduktan sonra sehpanın üzerindeki kitabı alıp son sayfaları taramaya başladı,
+-Şu araba kazasını mı diyorsun? Fotoğrafı yok diye yalan mı oldu yani?
+Hala eli arkasında parmaklarıyla ritim tutarak düşünen dedektife bakan arkadaşı tekrar kazanın anlatıldığı sayfaya bir göz gezdirip kitabı geri bıraktı, "Hem roman gerçeğe dayansa da kurgu kısımları olacaktır illaki. Böyle dramlı sonlar daha çok tutuyor, bizim dergide de yayımlandığında daha çok okunuyorlar"
+-Hayır, yazar iste daha da dramatik yapabilirmiş, kaza oldu öldü bittiye getirmektense hastanede kızı biraz süründürebilirmiş ama romanı bitiresi gelmiş gibi, ya da zorla romanın sonunu değiştirtmişler gibi aceleyle bitirdi.
+Dönüp sırtını pencereye veren dedektif sabit bir yerde gözlerini odaklamış düşünmeye devam ediyordu, "Her iddiasına varım yazmak istediği son bu değildi"
+-Senin yine canın sıkılmış kendine uğraş arıyorsun gibime geliyor, hem sen ne anlarsın hikayeden romandan? Ciddi ciddi yazarlık yapmışlığın mı var sanki?"
+Koltuktan kalkan adamın önüne geçip elini uzatmasıyla odağı bozulan dedektif başını kaldırıyor "İddianı kabul ediyorum, eğer romanın gizli bir sonu varsa ve yazar zorunlu olarak başka bir son yazmışsa bir sonraki market alışverişin benden. Ama eğer haksızsan..." Havadaki elini çenesine götüren yazar bir süre düşündükten sonra tekrardan elini uzatıp devam etti "Ama eğer haksızsan ya bir daha bana Jhouk demeyeceksin ya da uzaya bir daha laf etmeyeceksin, istediğin birini seç."
+Hafif bir sırıtmayla yaslandığı duvarkan uzaklaşan dedektif masanın üzerinden uzatıaln eli sıktı: "Benden isteyeceğin bir şeyin yok mu, gerçekten bu kadar üzülüyor musun seninle dalga geçilince yoksa?" dedi dalga geçer bir tonda.
+Sıktığı eli sallamaya başlayan yazar hafif bir kahkaha attıktan sonra sallamayı bıraktı:
+-Benimle dalga geçmek beni üzmüyor ki, seni sevindiriyor. Senin mutluluğuna taş koyabilirsem komik olur diye düşündüm sadece, dedi geri çekilip koltuğa geri otururken.
+-Madem öyle, cezalardan ikisini de kabul ediyorum. Çocuk sevindirelim bari madem bundan mutlu oluyorsun.
+-Sonra bana ağlama ama ikisinden birine geri çevirelim diye?
+-Jhoooooukkkkk ağlamam merak etme, sen yavaştan paranı biriktir alışveriş ağır gelmesin sonra, dedi dedektif kendini sandalyeye bırakırken.
+Dedektifin oturmasıyla pencereden kararan havayı gören adam koltuktan kaltı, "ağlamam merak etme, ben de yavaştan kaçıyorum, yeni sayıya az kaldı diye işler yoğunlaşıyor gittikçe yarın sabah erken kalkmak gerek." Kapıdan çıkmadan başıyla sehpanın üzerindeki kitabı gösterip "sende kalabilir, iddiana yardım eder belki" diyip ofisten çıktı.
+Ofisin kapısını duyunca yerden çantasını alan adam "senin de mesain bugün bu kadar mı? Betül de çıkacağım diyordu zaten, saat 17.30 kepenkler kapanır mı?" dedi arkasını dönmeden.
+-Dışarıda bi yürüyüp gelirim belki, dedi kitabı arkadaşının çantasına koyan dedektif. Milletin emanetini taşımayı sevmem. Kitabı da okudum bitirdim her şey aklımda iddia için ihtiyacım yok, dedi çantayı geri kapatırken.
+-İyi bari, gel durağa kadar yürüyelim oradan devam edersin.
+DIşarı çıkan iki adamın ardından kapı kapandı, dedektifin merdivenlerden gelen sesi ofisin içinde cılız bir şekilde duyuldu: "bugün yeni bir iş çıkacak gibi hissediyorum demiştim değil mi..."

@@ -28,7 +28,7 @@ Akşama doğru Yardımcı tekrar ofise geliyor, uşakla birlikte ofiste dedektif
 Sadece 2 bölüm kaldı şunu bitirip size katılacağım siz takılın bi yarım saat diyor.
 Dedektif okumasını bitiriyor, ne konuştunuz bakalım diye yardımcısı ve uşağının gameboy oyunları konuşmasına dahil oluyor, biraz konuşuyorlar 
 Dedektif "romanda bir şeyler sıkıntılı, bazı şeyler yerine tam oturmuyor. Bütün roman kızın günlüğü üzerineyse ve romanda da birlikte geçirdikleri vakitlerin fotoğraflarıyla bu gerçek destekleniyorsa neden yalandan bir ölüm yazsın ki" diyor.
-Uşağı da dergide buna benzer yayımlanan bi hikayeyi anlatıyor, bunlar tutuyor diye dramatik bitiriyorlar artık hikayeleri diyor ama dedektif "hayır, yazar istede daha dramatik yapabilirmiş, kaza oldu öldü bittiye getirmektense hastanede de kızı biraz süründürebilirmiş ama romanı bitiresi gelmiş gibi, ya da silah zoruyla sonunu değiştirtmişler gibi aceleyle bitirdi. Her iddiasına varım yazmak istediği son bu değildi" diyor
+Yardımcısı da dergide buna benzer yayımlanan bi hikayeyi anlatıyor, bunlar tutuyor diye dramatik bitiriyorlar artık hikayeleri diyor ama dedektif "hayır, yazar istede daha dramatik yapabilirmiş, kaza oldu öldü bittiye getirmektense hastanede de kızı biraz süründürebilirmiş ama romanı bitiresi gelmiş gibi, ya da silah zoruyla sonunu değiştirtmişler gibi aceleyle bitirdi. Her iddiasına varım yazmak istediği son bu değildi" diyor
 Yardımcısıyla iddiaya giriyorlar "sen ne anlarsın hikayeden romandan, eğer romanın gizli bir sonu varsa ve yazar zorunlu olarak başka bir son yazmışsa bir sonraki market alışverişin benden" diyor. Dedektif de kabul ediyor.
 # [[Side Case 1 şifreli günlük (karakterleri tanıtmak için)#200|200]]
 * 1995-03-28 09:00
