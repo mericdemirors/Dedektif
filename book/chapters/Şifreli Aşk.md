@@ -97,3 +97,29 @@ Ofisin kapısını duyunca yerden çantasını alan adam "senin de mesain bugün
 -Dışarıda bi yürüyüp gelirim belki, dedi kitabı arkadaşının çantasına koyan dedektif. Milletin emanetini taşımayı sevmem. Kitabı da okudum bitirdim her şey aklımda iddia için ihtiyacım yok, dedi çantayı geri kapatırken.
 -İyi bari, gel durağa kadar yürüyelim oradan devam edersin.
 DIşarı çıkan iki adamın ardından kapı kapandı, dedektifin merdivenlerden gelen sesi ofisin içinde cılız bir şekilde duyuldu: "bugün yeni bir iş çıkacak gibi hissediyorum demiştim değil mi..."
+
+* 1995-03-28 09:00
+-Ofise gitmezsen sorun olmaz mı? Sen yoksen müşteri gelirse ne oluyor?
+-Betül var ofiste, sen merak etme o yapması gerekenleri biliyor. Yine arada ufak tefek şeyler kaçırıyor da gerçekten isteyebileceğimden de fazlasını yapıyor.
+Yayımevine giren adamların sohbetini koşturmaca ve kağıt hışırtısı sesleri kesti. Gürültüye şaşıran arkadaşını gören yazar birkaç adım öne geçip dedektife onu takip etmesini söyledi. Yeni sayı için meşgul olduğumuz için her zamankinden daha da gürültülü, sen bir de basım odasını göreceksin bu yine ona göre hiçbir şey, dedi sesini duyurmaya çalışarak. Sağ taratfaki sıra sıra odaları gösteren yazar koridordaki sessizlikte tekrar söze girdi: "Ofise çantamı bırakıp acil işler varsa onlarla ilgileneceğim, ondan sonra seni editörle görüştürebilirim eğer vakti varsa"
+Arkadaşının arkasından ofisine giren dedektif kapıyı kapatınca lobideki gürültü biraz daha bulanıklaştı. Yazar, masanın karşısındaki sandalyelerden birine çantasını koyarken diğer eliyle de masadaki zarfları aldı ve masanın başına geçti: Bunu geç... Bu da bekleyebilir... Şu zarfı sen al, diyerek aralardan küçük birini dedektifin önüne koydu ve kendisi de bir süre daha elindekileri saymaya devam etti. Şu anda acil yapmamız gerekenler şu taslağı okuyup geri dönüt vermek, sen de o elindekindekinin yazım hatalarını bul bu sırada.
+Yazar kırmızı bir kalemle taslakta bir yerlerin altını çizip notlar alırken dedektif de zarfından çıkan yazıyı okumaya başlamıştı:
+-Bunlar senin alt devrelerinin yazıları mı, gene eleman iyi yazmış hata yok gibi.
+-Sendeki kağıt sağlamlardan birinin yazısı, benim şimdi baktığım da aynı onun kadar iyi yazan bi çocuk. İkisi de iyidir, güzel yazıyorlar.
+Bir süre sessiz sessiz oturan dedektif boynunu kütletip omuzlarını gevşetti ve sandalyeye yaslanıp kağıdı tekrar yüzüne kaldırdı:
+-Yazım hatası yoktu, noktalamalara bakıyorum şimdi de. Eleman çok kısa yazmış ama, hep böyle kısa mı yazıyor bu çocuk?
+Ön sayfayı bitiren yazar arkaya geçip kalemin ucundaki mürekkepi kağıdın köşesine sürdükten sonra cevap verdi:
+-Senin okuduğun çocuk adım adım ilerliyor, ilk başta fikri bana sunuyor sonra da bunun gibi bir taslak veriyor, dedi kalemin ucunu mürekkebi sürdüğü yere birkaç kez vurduktan sonra. Taslaktan sonra da her bir parçayı son haline getirip bana yolluyor adım adım tekte bitiriyor. Benim baktığım çocuk da her seferinde bütün taslağa düzeltmeler yaparak ilerliyor.
+-Bendeki daha iyi yani? Hatası da yok gibi zaten, sen habire bir şeyler karalayıp duruyorsun o kağıda.
+Tekrar uzun bir satırın altını çizen yazar, dilini şaklatarak başını hafif eğip geri düzeltti. "Aralarında sıralama yapmıyorum ama çalışma kalitesi olarak bendekininkini beğeniyorum, yine de sendekiyle çalışmak daha kolay benim açımdan. Sonuç olarak neredeyse eşit sayılırlar.". Tekrar kısa bir not aldıktan sonra kağıdı tekrar zarfa sokan yazar devam etti: "Sendeki her gün birkaç tane elindeki gibi tamamen bitirilmiş yazı getiriyor, her hafta bir yazı çıkarıyor diyebilirim. Bendeki gün içinde bazen 10 tane taslak getiriyor, gene aynı oranda yazı çıkarıyor sadece paralel yapıyor. Ben de aynı anda bir konuyla ilgili şeyler okuduğum için çalışması daha eğlenceli, ama yine de günde 1-2 tane neredeyse mükemmel parça okumak daha kolay." Zarfın üzerine çocuğun adını ve ofis numarasını yazan adam arkadaşına dönüp kağıdı almak için elini uzattı.
+Zarfla birlikte kağıdı uzatan dedektif sandalyede hafif öne kaydı arkadaşının zarflara ne yazdığını görmek için.
+-Eee? hata var mıydı hiç işaretlememişsin?
+-Kalem vermedin ki, neyse alttan ikinci satırda cümleleri ayırırken noktalı virgül kullansın, ikinicikinci cümlede de zamiri virgülle ayırsın bence daha okunaklı olur gibi. Başka bir hata yoktu, iyi yazmış.
+Dedektifin söylediklerini aynen yazan yazar zarfın üzerine yazar ve ofis numarası ekledikten sonra zarfları bantladı ve masasından kalktı: "Gel benle, şunları bırakıp editöre geçeriz oradan."
+-Bu kadar mıydı acil iş? 
+-Bu kadardı. Çocuklar şu anda benden yazarlık eğitimi aldıkları için sadece yazı yazmaya odaklanıyorlar başka işlere sokmuyoruz onları. O yüzden bu düzeltmeleri ne kadar hızlı iletirsek o kadar çabuk işlerine devam ederler.
+Kapıyı açan yazar kapının dışındaki kutuya zarfları bırakıp arkadaşı da ofisten çıktıntan sonra koridordan tekrar gürültülü lobiye doğru yürümeye başladı.
+-Ofiste sürekli gezen elemanlar var, sürekli postaları toplayıp ofisler arası dağıtıyorlar. Bu da yazarlık eğitiminin ilk aşaması az sonra alırlar, dedi artmakta olan gürültüyü yenmeye çalışarak.
+
+
+Yardımcısıyla sabah kalkıp yayımevine gidiyor, orada editörlerden biriyle sohbet muhabbet edip yazarın adresini öğreniyorlar
