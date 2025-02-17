@@ -119,7 +119,30 @@ Dedektifin söylediklerini aynen yazan yazar zarfın üzerine yazar ve ofis numa
 -Bu kadar mıydı acil iş? 
 -Bu kadardı. Çocuklar şu anda benden yazarlık eğitimi aldıkları için sadece yazı yazmaya odaklanıyorlar başka işlere sokmuyoruz onları. O yüzden bu düzeltmeleri ne kadar hızlı iletirsek o kadar çabuk işlerine devam ederler.
 Kapıyı açan yazar kapının dışındaki kutuya zarfları bırakıp arkadaşı da ofisten çıktıntan sonra koridordan tekrar gürültülü lobiye doğru yürümeye başladı.
--Ofiste sürekli gezen elemanlar var, sürekli postaları toplayıp ofisler arası dağıtıyorlar. Bu da yazarlık eğitiminin ilk aşaması az sonra alırlar, dedi artmakta olan gürültüyü yenmeye çalışarak.
+-Ofiste sürekli gezen elemanlar var, sürekli postaları toplayıp ofisler arası dağıtıyorlar. Bu da yazarlık eğitiminin ilk aşaması, zarfları az sonra alırlar, dedi artmakta olan gürültüyü yenmeye çalışarak. 
+Lobiyi boydan boya geçtikten sonra karşı koridorun en sonunda, sağdaki sekreterin ofise girdiler. Ofise bağlı editör odası kapısından çıkan sekreter onları içeri buyur etti.
+-Oooo hoşgeldiniz astronot bey, size de rastlamak zorlaştı iyici bizim veletler çok mu yoruyor sizi yoksa, dedi masa başındaki göbekli pala bıyıklı editör.
+Masasına geçen sekretere teşekkür ettikten sonra arkadaşıyla birlikte odaya giren yazar kapıyı da arkasından kapatınca lobiden gelen son gürültüler de tamamen kesildi. Sessizliğe bir anlığına şaşıran dedektif arkadaşının çoktan masanın karşısındaki sandalyelerden birine geçtiğini görüp onu takip.
+-Hoşbulduk Süleyman abi, yeni sayının telaşından koştur koştur ancak selam vermeye gelebiliyorum işte naparsınız, üstüne bizim oğlanlar da sağ olsunlar durmadan yazıyorlar galiba elim boş kalmıyor desem yeridir. Sehpadaki şekerden birini alıp sandalyeye yaslandıktan sonra baş ucuyla arkadaşına da ikram eden yazar şekeri ağzına atıp tekrar lafa girdi: Sizde işler güçler nasıl gidiyor, her şey yolunda mı?
+-Ne olsun işte, yuvarlanıp gidiyoruz. Hanımın dırdırı arttı biraz onun dışında her şey on numara beş yıldız. Neyse şimdi özele çok girmeyelim sen de meşgulsündür bi ara anlatırım, bir eliyle bıyığını düzelten adam kahvesinden bir yudum alıp devam etti: Ne içersiniz beyler Aylin Hanım'dan isteyelim hemen? Nasıl yardımcı olabilirim size.
+-Sağ olasın abi, biz çok durmayalım malum çocuklar şimdiden yeni yazılarını bana yollamışlardır bile, sadede geleyim. Tarık'ı tanıyorsunuz zaten, diyip eliyle arkadaşını gösteren yazarın sözü arkadaşının hareketlenmesiyle kesildi.
+-Ben Tarık Çelik, dedektifim. Kartımı buyur edeyim, diyip kartvizitini editörün fincanının yanına bırakıp elini uzattı.
+Uzatılan eli sağlam bir şekilde kavrayıp sıkan editör kartviziti aldıktan sonra gülerek cevap verdi:
+-Evet ya, bizim Tarık değil mi bu, tanıyorum tabii. Arada eksik yazı çıktığında şiirlerinle dergiyi az kurtarmadın, gerçi Nail senin şiirleri çok beğenmiyor da, ben anlıyorum sen merak etme.
+-Vay, derginin editörüne kadar şiirlerim okunmuş, Nail efendi boşa beğenmez. Nail ikimiz arasında çok şiir ve teşekkür taşımış olsa da, ilk kez yüz yüze tanışıyoruz memnun oldum. Tam aklımdaki babacan bir abisiniz, dedi hafif bir kahkahayla sandalyeye yaslanan dedektif.
+-Ben de memnun oldum, siz bizi takip eder misiniz bilemem ama bizim dergide özellikle son sayıdan dolayı takipçiniz çoktur. O tabut olayı ne fenaydı öyle.
+Bir yandan canı sıkılan yazarı izleyen dedektif konuşmayı da kısa tutmak için konuya girmek istedi:
+-Aman efendim abartılacak bir şey değil, yine böyle küçük bir olay var aslında. Ziyaretimizin de sebebi o. Sandalyede hafif editöre dönen dedektif biraz öne eğildi adamın dikkatini çekmek için: Yeni yeni ünlenen bir aşk romanı var, ve yazarının adresini bulmam gerekiyor olayı çözmek için, ben de dedim ki 'benim kapı gibi Süleyman abim var, bulursa o bulur başkası beceremez', Nail'i de sürükledim arkamdan getirdim nankör adam size selam versin diye.
+Yüksek bir kahkaha patlatan adam kahve fincanı devrilmeden gülmesini durdurabildi ve nefesini toparlayınca bir kalem ve kağıt alıp üstüne bir şeyler karalamaya başladı.
+-Çok iyi yaptınız abinize gelerek. Ama bizim Nail'in de hakkını yedirmem nankörlüğün n'si yoktur onda. Bahsettiğiniz romanı galiba biliyorum, benim hanımın da dırdırını artıran 'Benden Sana Kalan'ı diyorsunuz sanırım.
+Karaladığı notu yazara uzatan adam kalemi geri yerine koydu: Neymiş efendim, bizim aşkımız solmuşmuş falan filan, çabucak unutsun şu kitabı da kurtulalım bari. Tekrardan bir kahkaha patlatıp sandalyesini geri iten editör ayağa kalkıp elini dedektife uzattı:
+-Kusura bakmayın beyler daha da sohbet etmek isterdim ancak birazdan kapak tasarımı için çizerlerin katına çıkmam gerekiyor, Aylin kapıma dayanmadan yavaştan kalkayım ben. Dedektifin elini sıkmak için masanın önüne dolanan adam masaya tekrardan tanıştığına memnun olduğunu söyledikten sonra boş fincanını da alıp kapıyı açtı ve beyfendileri dışarı buyur edip arkalarından da kendisi çıktı.
+-Aylin kızım Nail Bey'e yardım eder misin ben şu kapağa bir bakıp geleyim. Diyip yavaş, ama cüssesine göre hızlı adımlarla ofisten çıktı.
+-Tekrardan merhabalar Aylin Hanım, size şunu vereyim, diyip editörün yazdığı notu uzattı ve arkadaşına onun ofisinde bekleyeceklerini söyledi. Sekretere de tekrar teşekkür ettikten sonra kapıy kapatıp tekrar gürültülü lobiye nazaran daha sessiz olan ofise geçtiler.
+-Burada biraz oturalım, Aylin Hanım adres bilgilerini bulup bize iletecekmiş
 
 
 Yardımcısıyla sabah kalkıp yayımevine gidiyor, orada editörlerden biriyle sohbet muhabbet edip yazarın adresini öğreniyorlar
+
+
+yayımevinden çıkarken Nail: "ne çok konuştun adamla" diyince dedektif "bilgi almak bunu gerektiriyor, ben de milete sevdiğimden yağ çekmiyorum" diyor
