@@ -139,10 +139,20 @@ Karaladığı notu yazara uzatan adam kalemi geri yerine koydu: Neymiş efendim,
 -Kusura bakmayın beyler daha da sohbet etmek isterdim ancak birazdan kapak tasarımı için çizerlerin katına çıkmam gerekiyor, Aylin kapıma dayanmadan yavaştan kalkayım ben. Dedektifin elini sıkmak için masanın önüne dolanan adam masaya tekrardan tanıştığına memnun olduğunu söyledikten sonra boş fincanını da alıp kapıyı açtı ve beyfendileri dışarı buyur edip arkalarından da kendisi çıktı.
 -Aylin kızım Nail Bey'e yardım eder misin ben şu kapağa bir bakıp geleyim. Diyip yavaş, ama cüssesine göre hızlı adımlarla ofisten çıktı.
 -Tekrardan merhabalar Aylin Hanım, size şunu vereyim, diyip editörün yazdığı notu uzattı ve arkadaşına onun ofisinde bekleyeceklerini söyledi. Sekretere de tekrar teşekkür ettikten sonra kapıy kapatıp tekrar gürültülü lobiye nazaran daha sessiz olan ofise geçtiler.
--Burada biraz oturalım, Aylin Hanım adres bilgilerini bulup bize iletecekmiş
+-Burada biraz oturalım, Aylin Hanım adres bilgilerini bulup bize iletecekmiş.
+Kapıda duran dedektif biraz önce inceleyemediği ofisin içinde dolanmaya ve etrafa göz atmaya başladı. Kitaplıktaki ansiklopedileri ve cins cins Türkçe sözlükleri geçtikten sonra masanın arkasındaki kitaplıkta üst üste dizilmiş kutulardan birini indirdi.
+-Neyi karıştırıyorsan geri yerine koyuver arkanı toplamayayım bir de bu kadar işin ortasında, dedi sabahtan kalan diğer zarflarla uğraşan yazar. Amma çok konuştun Süleyman abiyle, bu kadar içten sohbet etmeni beklemiyordum. Millete bu kadar kibar davranırken gelip gidip bir tek bana mı sataşıyorsun yani?
+-Süleyman'ın hali hatrı çok umrumda olduğundan sormadım ben de merak etme. Bilgi almak için biraz yağ çekmek gerekiyor, işimin gereksinimi desem yeridir. Şansıma adam zaten şiirlerimi okuduğundan beni az çok tanıyormuş da yardım etti.
+-Senin şiirler ilk kez bi işe yaradı diyebilir miyiz o zaman? Yazarın sözü kapının açılmasıyla kesildi ve Aylin Hanım elindeki zarfı göstermek için havaya kaldırıp içerideki beyleri selamladı ve zarfı sehpaya bırakıp geri çıktı.
+-Hadi artık adresini al da ben de şunlarla ilgileneyim, diyen yazar kafasını kaldırmadan eliyle dedektifi kışkışladı. O kutuları da geri yerine koy.
+Kutudan bir kalem alan dedektif kutuyu geri yerine kaldırdıktan sonra kapıya doğru ilerledi:
+-İki tane kalemini aldım kutudan sen de bir sürü varmış zaten, sana kolay gelsin ben kaçtım o zaman.
+Zarfı kapan dedektif ofisten çıkıp artık sessiz olan lobiyi geçti ve dışarı çıktı, en yakın durağa yürümeye başladı.
 
+Ofisin açılan kapısının arkasından bir kafa ve kol uzanıp masadaki kıza doğru bir kağıt verdi:
+-Gelen giden oldu mu Betül?
+-Yok, aynı devam.
+Elindeki kağıdı masaya bırakan dedektif, bugün burada olacağım ofis sana emanet, diyip cebinden çıkardığı kalemle kağıda birkaç kez vurup kalemi kağıdın üstüne bıraktı, Nail'den çaldım artık senin oldu, dedi ve ofisin kapısı kapandı.
+-Tamamdır, diyen kız oyununa devam ederken kalemi ve kağıdı çekmeceye salladı. Dedektifin ayrılması üzerine oyunun sesini biraz daha artırdı.
 
-Yardımcısıyla sabah kalkıp yayımevine gidiyor, orada editörlerden biriyle sohbet muhabbet edip yazarın adresini öğreniyorlar
-
-
-yayımevinden çıkarken Nail: "ne çok konuştun adamla" diyince dedektif "bilgi almak bunu gerektiriyor, ben de milete sevdiğimden yağ çekmiyorum" diyor
+"YAZARIN ADRESİ YAZARIN ADRESİ YAZARIN ADRESİ YAZARIN ADRESİ YAZARIN ADRESİ" YAZARIN ADRESİ YAZARIN ADRESİ YAZARIN ADRESİ YAZARIN ADRESİ YAZARIN ADRESİ. Hmmmm bakalım nasıl bir evde oturuyormuş bizim yazar."

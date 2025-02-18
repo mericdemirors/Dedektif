@@ -6,6 +6,7 @@
       {
         "id": "1bab70dc64e14404",
         "type": "tabs",
+        "dimension": 50.249066002490665,
         "children": [
           {
             "id": "6b8f2f7b0a989675",
@@ -26,6 +27,7 @@
       {
         "id": "ebb73be796a6cb47",
         "type": "split",
+        "dimension": 49.750933997509335,
         "children": [
           {
             "id": "f333877e307756ea",
@@ -209,13 +211,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6b8f2f7b0a989675",
+  "active": "6d744d4550596adc",
   "lastOpenFiles": [
-    "characters/dedektif/Dedektif (meriç).md",
-    "characters/dedektif yardımcısı/Dedektif Yardımcısı (nazmi).md",
     "book/chapters/Şifreli Aşk.md",
     "book/arcs/1 Şifreli Aşk.md",
     "images/study/Study Videos.md",
+    "characters/dedektif/Dedektif (meriç).md",
+    "characters/dedektif yardımcısı/Dedektif Yardımcısı (nazmi).md",
     "characters/dedektif yardımcısı/Dedektif Yardımcısı.png",
     "book/Rules.md",
     "characters/dedektif uşağı/Dedektifin Uşağı (berat).md",
