@@ -32,11 +32,22 @@ Yardımcısı da dergide buna benzer yayımlanan bi hikayeyi anlatıyor, bunlar 
 Yardımcısıyla iddiaya giriyorlar "sen ne anlarsın hikayeden romandan, eğer romanın gizli bir sonu varsa ve yazar zorunlu olarak başka bir son yazmışsa bir sonraki market alışverişin benden" diyor. Dedektif de kabul ediyor.
 # [[Side Case 1 şifreli günlük (karakterleri tanıtmak için)#200|200]]
 * 1995-03-28 09:00
-Yardımcısıyla sabah kalkıp yayımevine gidiyor, orada editörlerden biriyle sohbet muhabbet edip yazarın adresini öğreniyorlar
+Yardımcısıyla sabah kalkıp yayımevine gidiyor, orada editörlerden biriyle sohbet muhabbet edip yazarın adresini istiyorlar, yazarın adresi gün içinde alabilecekleri söyleniyor.
+Öğlene kadar vakit geçirmek için yazar ve dedektif dolaşıyorlar biraz.
+Yardımcısıyla bi dışarıyı gezip yemek falan yemeye çıkıyorlar. Birlikte balık ekmek ve turşu suyu yapmaya gidiyorlar
+Dedektif ve yardımcısı yemeklerini yiyorlar sonra yardımcısı "ben şimdi derginin önümüzdeki sayısına bi yazı çıkarmak için kütüphaneye gidiyorum" diyor, dedektif de "ben de seninle geleyim zaten yapacak bir şeyim yok, romandaki kazayı araştırmam gerek zaten" diyor.
+Birlikte kütüphaneye gidiyorlar, dedektif gazete arşivine gidiyor sonra da yazarın sevgilisiyle ve romanın sonundaki günle alakalı gazeteleri istiyor belki o gün bir şey olmuştur onunla alakalıdır diye. Sonra yardımcısı yanına geliyor uzay bölümünden kitaplarla
+Dedektif "dergide boş yer açıldığında hemen uzayla ilgili bir şey dayamak zorunda değilsin bunu biliyorsun değil mi?" diye dalga geçiyor, yardımcısı da "saçma sapan akrostişler ya da sağdan soldan çalınmış oynanmış denemeler yayımlamaktan iyidir, en azından 1-2 çocuğun merağını aşılar. Sen gidip gazete mi aldın?" diyor
+Dedektif de "romanın sonunda bir şey olduysa belki bunlardan bir ipucu bulabilirim" diyor, yardımcısı da "kendini boşa yorma bence, iddiayı kaybedeceksin zaten. Yazarı çok darlama da ne yaparsan yap. Adam işinde gücünde, bir de seninle uğraşmasın" diyor.
+Dedektif de "Daha adresi bile alamadım ne darlaması, tamam tamam bir şey yapmam" diyor
+dedektif, olay eskiden olduğu için hiçbir kanıt bulamıyor, hatta kızın ölmüş olduğu kazaya dair bir şey bile bulamıyor.
+Kütüphaneden çıkıyorlar, dedektif de "gazetede günlükteki kazaya dair bir şey yoktu biliyor musun? Kaza yaşanmadıysa iddiayı bi nevi kazandım sayılır" diyor, yardımcısı da "iddianın aslı yazarın istediği yazıp yazmadığıyla ilgiliydi kazanın gerçekliği değildi" diyor
+Dedektif de "yalandan bir kaza uydurmasının hala bi sebebi olması gerektiğini düşünüyorum, biraz daha derine insem olay bi şekilde çözülecek gibi" diyor ve içinden diye günlüğü çalmaya karar veriyor.
+Birlikte ofise gidiyorlar, yazarın adresini alıyorlar. Yazar zaten yakın bir zamanda imza günü yapmak istediği için kitabı yazdığı yazarlık kulübesinin adresini acentesine vermiş, onlar da adresi paylaşmışlar.
 Dedektif yazarın adresine gidiyor, "ne güzel karlı dağlı manzaralı, tahta kaplamalı geniş pencereli, şömineli bir ev. Tam hayalimdeki yazar evi, işi gücü bıraksam da buraya yerleşsem keşke" diyip içeri giriyor.
-Yazarın evine girip "merhabalar yazar bey, romanınızla ilgili bir şey sormak istiyordum diyor" ama yazar kapıyı yüzüne kapatıyor.
+Yazarın evine girip "merhabalar yazar bey, romanınızla ilgili bir şey sormak istiyordum diyor" ama kapı açılmıyor..
 Dedektif biraz evin etrafını gezip manzaraya bakıyor sonra tekrar kapıyı tıklatıyor
-Yazarla biraz tartışıyorlar sonra kapı tam yüzüne kapanacakken "kız romandaki gibi kazada ölmedi değil mi?" diyor.
+Yazarla biraz konuşuyorlar sonra kapı tam kapanacakken "kız romandaki gibi kazada ölmedi değil mi?" diyor.
 Yazarın bi afallaması ve paniklemesi üzerine dedektif ayağını kapı eşiğine koyup "sakin ol, arkadaşımla olayın arka yüzünü bulup bulamayacağıma iddaya girdik. İnanır mısın şu anda da şehirde hiç dedektiflik iş dönmüyor can sıkıntısından buna sardım. Senlik bir olay yok sadece bunu doğrulamak istemiştim sağ ol." diyor, ayağını kapı eşiğinden çekiyor.
 Giderken de içinden "adam gibi konuşsak iyi olurdu aslında da çok panikledi en iyisi başka bir gün gelip adam sakinken tekrar sormak" diyor.
 Yazar, dedektif giderken kapıyı açıp "tamam gel konuşalım" diyor.
@@ -58,22 +69,12 @@ Yazar bir süre kendi günlüğünü kurcalıyor, "anlıyorum, romanı yazarken 
 Dedektif de "doğru söyledin, bir anı var olduğu veya kaydedildiği için değil, yaşanıp bittiği için güzeldir." diyip bir yudum daha alıyor, sen şu anda nelerle uğraşıyorsun aklında yeni fikirler var mı hiç?" diyor
 Yazar "şimdilik bir şeyler yok, konuşacak biri olması da iyi oldu aslında yoksa günümü boş geçirmeyi düşünüyordum. Ne zaman istersen gel yine ateşin önünde konuşalım seninle" diyor ve dedektifin kartını istiyor.
 Dedektif de kartını verip "günün sıcağı geçmeden ben de yavaştan kalkayım, kahve meyve şal ve ateş için teşekkürler" diyip odadan çıkıyor, evden çıkarken de temizlikçiyle karşılaşıp selam veriyor ve ofise geri dönüyor
-Ofise girip uşağı ve yardımcısıyla selamlaşıyor, uşağı iş saatleri bitti diye ofisten ayrılıyor, yardımcısı da ofiste oturuyormuş, "işim bitince uğramıştım geçen bahsettiğin oyunlara bi göz atıp eve geçerim diye gelmiştim de hiç hevesim kalmadı gelince. İstersen bi dışarı çıkalım yemek yiyelim, bacaklarım da açılmış olur" diyor
-Birlikte balık ekmek ve turşu suyu yapmaya gidiyorlar, dedektif yazarla olanları anlatıyor.
-Yardımcısı "ya polisi çağırsaydı, o zaman ne yapacaktın? Torpil ve tanınırlığımı kullanmayı sevmem diyorsun ama işine gelince kendini kurtarmak için kullanmayı mı düşünüyordun?" diyor
+# [[Side Case 1 şifreli günlük (karakterleri tanıtmak için)#400|400]]
+Ofiste yardımcısıyla karşılaşıyor ona yazarla olanları anlatıyor. Yardımcısı "ya polisi çağırsaydı, o zaman ne yapacaktın? Torpil ve tanınırlığımı kullanmayı sevmem diyorsun ama işine gelince kendini kurtarmak için kullanmayı mı düşünüyordun?" diyor
 Dedektif de "Polisi çağırmayacağını da biliyordum, polis geldikten sonra benim iddiamı dinleselerdi günlüğe olası cinayet davası kanıtı olduğu için el koyarlardı ve günlükteki asıl son ortaya çıkardı. Polisi çağırıp çağırmayacağını görüp günlükteki sonun gerçekten romandakinden farklı olup olmadığını öğrenmek istemiştim, tahmin ettiğim gibi günlüğün sonunda kimseye göstermek istemediği bir şeyler var" diyor
 Yardımcısı "peki sence kızı gerçekten o mu öldürdü" diyor dedektif de "nasıl tepki verecek diye ölçmek için söylemiştim ama onun öldürdüğünü düşünmüyorum" diyor.
 Yardımcısı "Otobiyografi işini niye söyledin ki, saçma sapan etrafa yayma bunu dedim ya sana" diyor, dedektif de otobiyografiden bahsedince ne tepki verecek onu merak ettim, doğal olarak onunla ilgili bir şey varsa oralara gözü kayacaktır. Tahmin ettiğim gibi de çekmecenin birinden kendi günlüğünü çıkardı bana verdi. Kızın günlüğü de o çekmecede kesin" diyor
-# [[Side Case 1 şifreli günlük (karakterleri tanıtmak için)#400|400]]
-Dedektif ve yardımcısı yemeklerini yiyorlar sonra yardımcısı "ben şimdi derginin önümüzdeki sayısına bi yazı yetiştirmek için kütüphaneye gidiyorum, şunun surasında 3-4 gün kalmışken yeni bi yazı istediler" diyor, dedektif de "ben de seninle geleyim zaten yapacak bir şeyim yok, yakında da iş gelecek gibi gözükmüyor okuyacak kitap falan bir şeylere bakarım" diyor.
-Birlikte kütüphaneye gidiyorlar, dedektif gazete arşivine gidiyor sonra da yazarın sevgilisiyle ve romanın sonundaki günle alakalı gazeteleri istiyor belki o gün bir şey olmuştur onunla alakalıdır diye. Sonra yardımcısı yanına geliyor uzay bölümünden kitaplarla
-Dedektif "dergide boş yer açıldığında hemen uzayla ilgili bir şey dayamak zorunda değilsin bunu biliyorsun değil mi?" diye dalga geçiyor, yardımcısı da "saçma sapan akrostişler ya da sağdan soldan çalınmış oynanmış denemeler yayımlamaktan iyidir, en azından 1-2 çocuğun merağını aşılar. Sen gidip gazete mi aldın?" diyor
-Dedektif de "romanın sonunda bir şey olduysa belki bunlardan bir ipucu bulabilirim" diyor, yardımcısı da "kendini boşa yorma bence, iddiayı kaybedeceksin zaten. Yazarı çok darlama da ne yaparsan yap. Adam işinde gücünde, bir de seninle uğraşmasın" diyor.
-Dedektif de "tamam tamam bir şey yapmam" diyor
-dedektif, olay eskiden olduğu için hiçbir kanıt bulamıyor, hatta kızın ölmüş olduğu kazaya dair bir şey bile bulamıyor. "demek ki böyle bir kaza yaşanmadı, yazar da o yüzden blöflerimi çok takmadı belki de" diye düşünüyor.
-Kütüphaneden akşam çıkıyorlar, dedektif de "gazetede günlükteki kazaya dair bir şey yoktu biliyor musun? Kaza yaşanmadıysa iddiayı bi nevi kazandım sayılır" diyor, yardımcısı da "iddianın aslı yazarın istediği yazıp yazmadığıyla ilgiliydi kazanın gerçekliği değildi" diyor
-Dedektif de "yalandan bir kaza uydurmasının hala bi sebebi olması gerektiğini düşünüyorum, biraz daha derine insem olay bi şekilde çözülecek gibi" diyor ve içinden diye günlüğü çalmaya karar veriyor.
-Yardımcısı eve yatmaya gidiyor, dedektif de apartmana gidiyor
+Sonra yardımcısı eve yatmaya gidiyor, dedektif de apartmana gidiyor
 Apartman girişinde apartman tamircisiyle karşılaşıyor pencerede çay içerken, tamirciyle selamlaşıyorlar "dedektif bey sen buralara uğrar mıydın ya, az daha ortaya çıkmasan senin odayı da kiraya koyacaktım ahaha" diyor, dedektif de "valla ben de ofiste beklemekten sıkıldım, baktım son günlerde bir şey olmuyor bari bi buraya uğrayayım dedim de çok kalmayacağım" diyor ve dairesine çıkıyor. Burada diğer apartman sakinlerini de tanıt
 Dairesine çıkıp filmli fotoğraf makinesini, el fenerini, ince bir kağıt, maymuncuk kitini falan alıyor, uyku vakti diyip alarm kurup uyuyor.
 * 1995-03-28 23:00
