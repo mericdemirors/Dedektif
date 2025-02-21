@@ -156,5 +156,32 @@ Ofisin açılan kapısının arkasından bir kafa ve kol uzanıp masadaki kıza 
 -Tamamdır, bugün dışarıda olacağım ofis sana emanet, diyip cebinden çıkardığı kalemi masaya birkaç kez tıklatıp bıraktı, Nail'den çaldım artık senin oldu, dedi ve ofisin kapısı kapandı.
 -Peki, diyen kız oyununa devam ederken kalemi çekmeceye salladı. Dedektifin ayrılması üzerine oyunun sesini biraz daha artırdı.
 
+Öğlen güneşi tenini ısıtan dedektif elindeki boş yem torbasını çöpe attıktan sonra bankına geri oturup yeri gagalayan kuzgunları izlemeye bir süre daha devam etti. Yemleri neredeyse temizleyen kuzgunlar etrafta gezinip son taneleri de aradıktan sonra teker teker uçuşup kayboldular. Üstünden geçe son kuzgunu da izleyen dedektif gözlerini kapatıp başını geriye attı ve derin bir nefes aldı... Bir süre daha gözkapağının altından hareket eden gözüyle ve ritim tutan parmaklarıyla planına kafa yorduktan sonra yorgunluğunu atar gibi yavaşça nefesini saldı... Ve parktan çıkıp tekrar yayımevinin yolunu tuttu. 
+Öğle arasında kendisini bekleyen arkadaşının ofisine girip bir süre son işlerini bitirmesini bekledi.
+-Bu da tamam, her şey bitti şimdilik napalım yemeği?
+-Balık ekmek turşu suyu yapalım mı? O civarda bi işim var sonra oraya geçerim ben de?
+Kalemini kapatıp geri diğerlerinin arasına sokan yazar kalkıp montunu aldı:
+-İyi olur ben de kütüphaneye geçecektim zaten önümüzdeki sayıya bi yazı çıkarmak için kütüphaneye gitmek istiyordum. Senin ne işin var sonunda iş mi çıktı?
+-Yok ben de kütüphaneye gidecektim, araştırmam gereken birkaç şey var bizim yazarla konuşmadan önce. Aylin Hanım adresi daha getirmemiş zarf göremedim etrafta, dedi ofisini kilitleyen yazarı bekleyen dedektif.
+"Öğleden sonra gelir herhalde" çoktan koridoru geçmiş arkadaşına yetişmek için hızlanan yazar.
 
-Dedektif öğlene doğru yayımevine gidiyor ve yardımcısını da alıp öğle yemeğine çıkıyorlar. Sonra yardımcısı "kütüphanede işim var biraz orada oyalanalım hem daha Aylin Hanım adresi de vermedi" diyor.
+Üzerlerine balık kokusu sinmiş iki arkadaş lokantadan çıkarken hava biraz daha ısınmıştı.
+-Ee şimdi nereye, kütüphaneye mi?
+-Turşu suyu içmek istiyorum, önce onu alalım sonra kütüphaneye yürürüz.
+-Ohh sen rahatsın tabi, iş güç yok turşu suyu içsin paşa, dedi sıcağı gördükten sonra ceketini geri çıkaran yazar.
+-İstemezsen gelme zorla içirmiyoruz ya, bu turşu suyu benim için önemli. Eskiden buradaki "Hüseyin Ağa Turşucusu"ndan benim babam da turşu suyu içermiş öğrenciyken. Beni de ilk seferimde o getirmişti onunla içmiştim. Arada bir için hatırlamak güzel oluyor.
+Turşu suyundan böyle derin bir hikaye beklemeyen yazar bir an duraksayıp cevap verdi:
+-Turşu suyunu bile romantize etmene gerek yok, ben de içecem zaten turşu suyunu severim.
+-Seversin tabi köylü seni, dedi sırıtan dedektif. Utanmasan balık ekmeğin yanına yoğurtta isterdin de iyi bari millete rezil olmadık lokantanın ortasında.
+Bir süre arkadaşının tepkisini bekleyen dedektif sadece bir onaylamayan kafa sallama aldıktan sonra devam etti: "Turşu suyu konusunda ciddiydim ama, bu turşucunun benim için bir anlamı var, öylesine söylemedim yani."
+
+Turşucuya giren dedektif tezgaha ilerlerken zaten küçük dükkanı kalabalıklaştırmak istemeyen yazar dışarıda bekledi.
+-Sana da acılı aldım, fazla acı değil zaten.
+-Bakalım neymiş senin şu anlamlı turşu suyu, diyen yazar bir yudum aldıktan sonra turşunun ekşiliği ve acılığıyla yüzünü ekşitip beğendiğini gösteren bir şekilde başını salladı.
+-İyiymiş, beğendim.
+Kendi bardağını çoktan yarılamış olan dedektif turşu suyunu dökmemeye çalışan arkadaşına nazaran biraz önde kalmıştı, omzunun üstünden cevap verdi kütüphaneye doğru dönerken:
+-Beğenirsin tabi, köylü seni.
+
+
+
+Birlikte kütüphaneye gidiyorlar, dedektif gazete arşivine gidiyor sonra da yazarın sevgilisiyle ve romanın sonundaki günle alakalı gazeteleri istiyor belki o gün bir şey olmuştur onunla alakalıdır diye. Sonra yardımcısı yanına geliyor uzay bölümünden kitaplarla
