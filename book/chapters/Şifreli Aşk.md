@@ -182,6 +182,26 @@ Turşucuya giren dedektif tezgaha ilerlerken zaten küçük dükkanı kalabalık
 Kendi bardağını çoktan yarılamış olan dedektif turşu suyunu dökmemeye çalışan arkadaşına nazaran biraz önde kalmıştı, omzunun üstünden cevap verdi kütüphaneye doğru dönerken:
 -Beğenirsin tabi, köylü seni.
 
+Danışmanın önünde arkadaşını bekleyen dedektif, boş bardakları çöpe atıp gelen yazara kendini göstermek için el salladıktan sonra seslendi:
+-Ben gazete arşivi için görevlilerden yardım isteyeceğim, sen istediğin bir masaya otur birazdan yanına gelirim.
+Başıyla onaynayan yazar kütüphanenin cam kapısından girip raflar arasında kaybolurken danışma masasının ardından öğle molası biten çalışanların ayak sesleri duyulmaya başladı.
+-İyi günler beyfendi nasıl yardımcı olabilirim?
+-Merhabalar kolay gelsin, gazete arşivinde belirli bir günün gazetelerine bakmak istiyorum da,
+-Tamamdır. Hangi güne bakmak istersiniz? Eğer çok eski bir tarihse gazeteyi ne yazık ki size veremeyiz, biz sizin için bakıp size bilgi verebiliriz ancak.
+-Bu yıl ocağın 22'sindeki yerel haberlere bakmak istiyorum.
+Önündeki bilgisayara tarihi giren görevli sayfanın yüklenmesini beklerken duvara asılı anahtarlardan gazete arşivinin anahtarını alıp masaya geri döndü:
+-7 tane gazete görünüyor sistemde, istediğin özel biri var mı?
+-Mümkünse hepsi lütfen.
+-Tamamdır, sisteme giriş yaptım, birkaç dakika içinde arkadaşım gazeteleri getirecektir. İçeride masanız varsa numarasını söylerseniz oraya yönlendirebilirim isterseniz.
+Cam kapıdan içeriye bir göz atan dedektif yazarı masalardan birinde göremeyince tekrar görevliye döndü:
+-Daha masam yok teşekkürler.
+Birkaç dakikanın ardından elinde gazetelerle kapıdan giren dedektif, kitaplıklar arasındaki büyük bir masaya oturmuş önüne ansiklopediler açmış yazarı buldu. Karşısındaki sandalyeye oturup gazeteleri üst üste koyup sayfa sayfa taramaya başladı:
+-Bakalım burada hangi kazalar varmış, "Dündar Kılıç'ın kızı... Kartalkaya, bu da değil..." (https://gazetearsivi.milliyet.com.tr/liste?tarih=1995.01.22). İlk gazeteyi bitirip kenara koydu ve diğerlerinden devam etti.
+
+
+Yazar'ın okuduğu ansiklopedilere laf edecek
+-En son kayak yapan kaybolan grup haberini bulacak
+
 
 
 Birlikte kütüphaneye gidiyorlar, dedektif gazete arşivine gidiyor sonra da yazarın sevgilisiyle ve romanın sonundaki günle alakalı gazeteleri istiyor belki o gün bir şey olmuştur onunla alakalıdır diye. Sonra yardımcısı yanına geliyor uzay bölümünden kitaplarla
