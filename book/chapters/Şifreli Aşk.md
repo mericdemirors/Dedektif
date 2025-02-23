@@ -196,12 +196,32 @@ Başıyla onaynayan yazar kütüphanenin cam kapısından girip raflar arasında
 Cam kapıdan içeriye bir göz atan dedektif yazarı masalardan birinde göremeyince tekrar görevliye döndü:
 -Daha masam yok teşekkürler.
 Birkaç dakikanın ardından elinde gazetelerle kapıdan giren dedektif, kitaplıklar arasındaki büyük bir masaya oturmuş önüne ansiklopediler açmış yazarı buldu. Karşısındaki sandalyeye oturup gazeteleri üst üste koyup sayfa sayfa taramaya başladı:
--Bakalım burada hangi kazalar varmış, "Dündar Kılıç'ın kızı... Kartalkaya, bu da değil..." (https://gazetearsivi.milliyet.com.tr/liste?tarih=1995.01.22). İlk gazeteyi bitirip kenara koydu ve diğerlerinden devam etti.
+-Bakalım burada hangi kazalar varmış, "Dündar Kılıç'ın kızı... Kartalkaya, bu da değil..." (https://gazetearsivi.milliyet.com.tr/liste?tarih=1995.01.22). İlk gazeteyi bitirip kenara koydu ve diğerlerinden devam etti. "Kayak spor kulübünden haber yok... Otoyolda kayan kamyon yoldan çıkıp çukura saplandı... Bunlar da değil."
+Kalan gazeteleri de inceledikten sonra aradığını bulamamanın verdiği mutsuzlukla sandalyesine çöken dedektif ansiklopedilerden not defterine bir şeyler geçiren arkadaşına baktı.
+-Ne yazısı istediler?
+-Yeni bir köşe ekliyorlarmış dergiye 'Evde Bilim' diye. Çocukları teknolojiye ve bilime ısındırmak için. Yayımevine de yeni bir bilgisayar sipariş etmişler o gelene kadar köşeyi aktif tutacak bir şeyler yaz dediler.
+Ansiklopedileri incelemek için yazarın yanındaki sandalyeye geçen dedektif yerleşirken hala not çıkaran adam devam etti:
+-İlk köşe biraz daha tanıtım amaçlı olacakmış onu zaten yazmışlar, benden bir sonraki köşelerin temalarını belirlememi istediler, şu anda şu sırayla seçtim:
+1- Bilgisayar nedir, nasıl çalışır? Basit bir şekilde mantığını, bilgisayarların ne işe yarayabileceğini ve yurt dışında hangi eğlenceli amaçlar için kullanıldığını anlatmak
+2- Bilgisayardan sonra sırada ne var? Ülkemizde ve Dünya'da teknolojinin gelişimi nasıl ilerliyor?
+Üçüncü konuyu hazırlıyorum şimdi de, bilgisayarlar bize nasıl yardım edebilir temalı bir şey düşünüyorum. Okyanuslarda yapılan araştırmalara, eğitime etkisini vs anlatırım herhalde. Aynı sayıya denk gelecek şekilde uzayda bilgisayarların kullanımı ve etkisiyle alakalı başka bir yazı da yazarım diyorum.
+Yazarın kenara koyduğu kitapları önüne çeken dedektif bir yandan onları karıştırırken bir yandan da "Mantıklıymış, bence güzel duruyor. Uzay ve okyanus işi biraz alakasız dursa da olur gibi herhalde" dedi.
+-Uzay ve okyanus kısmı biraz da dikkat çekmek için yoksa konuyla tam uyumla bir tema değil zaten, kabul almazsa değiştiririm de ben araştırırken eğleniyorum çocuklar da sever herhalde.
+-Peki sen bunları çocuklara anlatabilecek misin, diye sordu dedektif masadaki kitapları ve gazeteleri düzenlerken. "Bilgisayarların nasıl çalıştığını koca koca adamlar anlayamıyor tam olarak, çocuklara karışık gelmeyecek mi?"
+-Bakalım ya, yayımevine bilgisayarı kurmaya gelen kişi bir kaç gün bakım ve bize bilgisayarı anlatmak için gidip gelecek. Ondan öğrendiğin kadarıyla anlatırım bir şekilde.
+-Hadi bakalım, ben şu gazeteleri bırakıp geliyorum. Senin de işin bitince çıkarız, diyen dedektif sandalyeyi masanın altına itip etrafı toparladı. Birkaç dakika sonra masaya dönen dedektif arkadaşının da kitapları toparlamasına yardım etti, birlikte kütüphaneden çıktılar ve durağa yürümeye başladılar.
+-Ne yaptın bulabildin mi aradığın kazayı?
+-Gariptir ki ortada yazarın anlattığı gibi bir kaza yok ama aynı gün olan araba kazası falan var. Neden zaten yaşanmış bir olayı kullanmadı merak ediyorum. Yalandan bir kaza uydurmuş kitaba.
+-Kendini boşa yorma bence, iddiayı kaybedeceksin zaten. Yazarı da çok darlama. Kitap satsın diye bir şeyler yazmış işte.
+Başını sallayan dedektif, "Ortada tam olaya uyan çok güzel bir kaza varmış. Kayak yaparken kaybolan bi ekip varmış mesela. Yazar sevgilisiyle kayak tatiline gitse orada sevgilisi kaybolsa sonra onu bulamasa da kız öyle ölse mesela? Çok harika bi son olur. Şimdi de karakola gidiyorum bizim komiserleri göreceğim bu kayak grubunun aramaları ne alemde onu soracam. Eğer aramalar da ekibin tamamı bulunamadıysa kitabı bitirmek için harika bir son olurdu." dedi.
+-Gene de unutma iddianın aslı yazarın istediği yazıp yazmadığıyla ilgiliydi kazanın gerçekliği değildi. Dediklerin doğruysa bile yazar bile isteye bu yalan ölümü yazmışsa ben kazanırım.
+-Yalandan bir kaza uydurmasının hala bi sebebi olması gerektiğini düşünüyorum, biraz daha derine insem olay bi şekilde çözülecek gibi, diyen dedektif arkadaşını durağa bıraktıktan sonra karakoldan dönüşte adresi almak için ofisine tekrar geleceğini söyledi ancak tam gidecekken arkadaşı arkasından seslendi:
+-Gazetede yazarın yazdığı kazayı bulsaydın ne olacaktı?
+Dedektifin durduğunu gören arkadaşı devam etti: "Çok da derine inip milleti darlama tamam mı? Adam zaten sevgilisini kaybetmiş, üzerine yürüyüp onu sinirlendirecek şeyler söylememeye çalış. Gerçi daha adresi alap alamayacağımız da belli değil ama aklıma gelmişken seni uyarayım dedim."
+Durağa doğru dönen dedektif bir süre eli çenesinde durduktan sonra:
+-Gerçek bir kazayı kullanırsa romanı okuyanlardan o kazayla alakası olan biri çıkıp olayı araştırır ve romanın sonunun yalan olduğunu anlayabilir diye yapmış olabilir aklıma başka bir sebep gelmiyor, diyip tekrar yoluna devam etti. Bir iki adım sonra arkasını dönmeden duraktaki arkadaşına biraz da olsa merak aşılamayı umarak:
+-Ya da ortada yalandan bir ölüm veya cinayet falan var ve yazar bunu saklamaya çalışıyor? dedi ve vedalaşıp karakolun yolunu tuttu, o sırada durakta bekleyen adamın aklında çoktan birkaç soru dolanıyordu: kitabı yazarın sevgilisinin ailesi okumayacak mı? Neden yalan bir şey yazsın ki? Ancak bunlara cevap alamadan dedektif çoktan yolun karşısına geçmişti bile.
 
-
-Yazar'ın okuduğu ansiklopedilere laf edecek
--En son kayak yapan kaybolan grup haberini bulacak
-
-
-
-Birlikte kütüphaneye gidiyorlar, dedektif gazete arşivine gidiyor sonra da yazarın sevgilisiyle ve romanın sonundaki günle alakalı gazeteleri istiyor belki o gün bir şey olmuştur onunla alakalıdır diye. Sonra yardımcısı yanına geliyor uzay bölümünden kitaplarla
+Dedektif karakola gider
+komiserlere olayı sorar
+sonra yayımevine gidip adresi alır Yazar zaten yakın bir zamanda imza günü yapmak istediği için kitabı yazdığı yazarlık kulübesinin adresini acentesine vermiş, onlar da adresi paylaşmışlar

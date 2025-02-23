@@ -45,8 +45,8 @@ Kütüphaneden çıkıyorlar, dedektif de "gazetede günlükteki kazaya dair bir
 Dedektif de "yalandan bir kaza uydurmasının hala bi sebebi olması gerektiğini düşünüyorum, biraz daha derine insem olay bi şekilde çözülecek gibi" diyor ve içinden diye günlüğü çalmaya karar veriyor.
 Dedektif "Mesela sevgilisinin ölümünü gerçekçi yapmak için çok güzel bir fırsat varmış, kayak yaparken çığ altında kalıp kurtarılamayan grup haberinin bir parçası gibi anlatabilirmiş kızın ölümünü. Ama hiç gerçek bile olmayan bir kaza olarak göstermiş. Gerçek bir kazayı kullanırsa romanı okuyanlardan o kazayla alakası olan biri çıkıp olayı araştırırsa romanın sonunun yalan olduğunu anlayabilir diye yapmış olabilir aklıma başka bir sebep gelmiyor. Demek ki ortada bir yalan ölüm var ve yazar bunu saklamaya çalışıyor." diyor
 Yardımcısı da "kitabı yazarın sevgilisinin ailesi okumayacak mı? Neden yalan bir şey yazsın?" diyor.
-Birlikte ofise gidiyorlar, yazarın adresini alıyorlar. Yazar zaten yakın bir zamanda imza günü yapmak istediği için kitabı yazdığı yazarlık kulübesinin adresini acentesine vermiş, onlar da adresi paylaşmışlar.
 Dedektif önce karakola gidip kayak grubu kazası hakkında araştırma nasıl gidiyor kazazedeler bulundu mu diye soruyor, onlar da hayır o arama aylar önce bitti, kimse bulunmadı o gruptan diyor.
+Birlikte ofise gidiyorlar, yazarın adresini alıyorlar. Yazar zaten yakın bir zamanda imza günü yapmak istediği için kitabı yazdığı yazarlık kulübesinin adresini acentesine vermiş, onlar da adresi paylaşmışlar.
 Dedektif yazarın adresine gidiyor, "ne güzel karlı dağlı manzaralı, tahta kaplamalı geniş pencereli, şömineli bir ev. Tam hayalimdeki yazar evi, işi gücü bıraksam da buraya yerleşsem keşke" diyip içeri giriyor.
 Yazarın evine girip "merhabalar yazar bey, romanınızla ilgili bir şey sormak istiyordum diyor" ama kapı açılmıyor..
 Dedektif biraz evin etrafını gezip manzaraya bakıyor sonra tekrar kapıyı tıklatıyor
