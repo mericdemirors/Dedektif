@@ -222,6 +222,53 @@ Durağa doğru dönen dedektif bir süre eli çenesinde durduktan sonra:
 -Gerçek bir kazayı kullanırsa romanı okuyanlardan o kazayla alakası olan biri çıkıp olayı araştırır ve romanın sonunun yalan olduğunu anlayabilir diye yapmış olabilir aklıma başka bir sebep gelmiyor, diyip tekrar yoluna devam etti. Bir iki adım sonra arkasını dönmeden duraktaki arkadaşına biraz da olsa merak aşılamayı umarak:
 -Ya da ortada yalandan bir ölüm veya cinayet falan var ve yazar bunu saklamaya çalışıyor? dedi ve vedalaşıp karakolun yolunu tuttu, o sırada durakta bekleyen adamın aklında çoktan birkaç soru dolanıyordu: kitabı yazarın sevgilisinin ailesi okumayacak mı? Neden yalan bir şey yazsın ki? Ancak bunlara cevap alamadan dedektif çoktan yolun karşısına geçmişti bile.
 
-Dedektif karakola gider
-komiserlere olayı sorar
-sonra yayımevine gidip adresi alır Yazar zaten yakın bir zamanda imza günü yapmak istediği için kitabı yazdığı yazarlık kulübesinin adresini acentesine vermiş, onlar da adresi paylaşmışlar
+Karakola giren dedektif karmaşık koridorlardan geçtikten sonra Doruk komiserin ofisinin kapısını tıklattı ancak içeriden bir süre ses gelmeyince geldiği yoldan geri dönüp ön bürodaki memurlardan birinin masasına gitti.
+-Kolay gelsin komserim, Doruk Türker komiserim buralarda mı acaba? Veya Mürtem Kanat?
+-Sanırsam devriyeye çıktılar yarım saat önce, dedi masadaki memur gözünü ekrandan ayırmadan. Ve çekmecesinden boş bir kağıt ve kalem alıp devam etti: Buyrun ben yardımcı olayım, durum nedir?
+-İstediğini bulamadığı için çok da memnun gözükmeyen dedektif yine de sandalyelerden birine oturup durumu anlattı:
+-Ben dedektif Tarık Çelik, Doruk ve Mürtem komiserin ilgilendiği, geçen ay yaşanan kayıp kayak grubu hakkında bir şey sormak istemiştim. Sizin bilginiz varsa çok iyi olurdu.
+Kalemi kapatıp kağıdın üstüne koyan başını salladı:
+-Üzgünüm beyfendi üçüncü kişilerle rapor detayları paylaşamıyoruz.
+-Anlıyorum, tahmin etmiştim. En azından kurtulan olup olmadığını söyleseniz? Başka bir şey öğrenmek istemiyorum.
+-Dediğim gibi kusura bakmayın lütfen, kurtulan kişiler isimsiz kalmayı seçebilecekleri için size bilgi veremiyoruz. Başka yapabileceğim bir şey var mı sizin için?
+Sandalyeden kalkan dedektif masanın üzerinden adamın elini sıkıp teşekkür ettikten sonra ana lobiye geri döndü ve tam kapıdan çıkacakken tanıdık bir tok ses duydu.
+-Ya dayı ne demek acıktım daha 1 saat önce koca bi tavuğu gömdün ya, devriyede de zaten tatlı aldık yedik. Maşallah karadelik gibi yiyorsun ha.
+-Eee ne yapalım, vucüt makine gibi yaktıkça yakıyor. Antrenmana enerji depolamış olurum hem.
+Köşeyi dönünce az önce tıkladığı kapının açık olduğunu gören dedektif hızlıca koridoru aşıp kapıya yöneldi ve içeri girdi:
+-Dayı naptın ya hayat nası gidiyor, sesini taa nerden duydum da geldim bak.
+Dedektifi gördüğüne şaşıran hafif kilolu ama kalıplı adam babacan bir sesle cevap verdi:
+-Oooo bizim dedektif buralara gelir miymiş ya, biz iş güç uğraşalım sen gez toz hayat sana güzel. Sonra bi davayı çözünce ünlenen sen oluyorsun ama nasıl oluyor o ya.
+-Valla ben de anlamadım dayım, benim de işim böyle şatafatlı işte.
+Amiri ile dedektifin selamlaşmasının bitmesini bekleyen uzun boylu, dedektiften daha kalıplı ama üstünden daha zayıf adam da dedektifi selamlamak için öne çıktı ve elini sıktı.
+-Arada bir uğra ya, iyi oluyor seni görmek, deyip amirine döndü dedektifin elini bırakıp omzunu tuttuktan sonra: Tabii bu adam ünlenecek, sen bu omuzlarla tabuta sığamadın diye kendini tehlikeye atmadı mı bu çocuk?
+Koridora ses gitmesin diye arkasında kalan kapıyı kapatan dedektif omzundan inip kendisini sandalyeye buyur eden eli takip etti.
+-Çok da tehlikeye girmedim ama neyse, benim işime gelir ünlenirsem. Şu sıralar iş yok ama, ben de kendi bulduğum bi davayla vakit geçiriyorum. Sizde de ortalık sessiz gözüküyor, en son ben buradayken raporlar elden ele uçuşuyordu resmen.
+Masasına yerleşip çoktan kendine bir bardan çay koymuş komiser cevap verdi:
+-Bizde de işler durgun ama şikayet etmiyoruz Tarık Efendi. Hırlı hırsız yok halk hayatından memnun demek ki. Gene kendine yalandan uğraş ne buldun bakalım neymiş senin bu dava?
+-Sen anlamazsın aşk meşk işleri var işin içinde, derken çayını yudumlayan adam daha cümlesi bitmeden dedektifin sözünü kesti:
+-Hee boş ver o zaman, diyip bir kahkaha patlattı.
+Kendisine de bir bardan alıp gelen Mürtem sohbete sonradan dahil oldu dedektifin karşısındaki sandalyeye otururken:
+-Neymiş bu aşk meşk işi, birini mi buldun sonunda?
+Tersler gibi elini sallayan dedektif gülerek cevap verdi:
+-Yok be, davayı sonra anlatırım da şimdi bana geçen ayki sizin olaylardan birinin bilgileri lazım onun için uğradıydım aslında.
+-Bizim ön bürodaki çocuklardan iste versinler sana, diyen adam çoktan bardağın sonuna gelmişti bile, çayını tazelerken dedektif cevap verdi:
+-Ön bürodan geliyorum ben de, orada memurların birinden istedim de üçüncü şahıslara veremiyoruz dediler haklı olarak.
+-Evet öyle bir şey var da, sen üçüncü şahıs sayılmazsın artık ya, karakolda herkes biliyor seni, raporların yarısında adın geçiyor zaten yardımlarından dolayı, dedi dedektifin karşısında oturan adam.
+-Orası öyle de, gene de adam haklı yani. Ben de ısrar etmek istemedim.
+Yeni koyduğu çayından bir yudum adam komiser bardağı masaya bırakıp kitaplığın önüne kadar yürüdü:
+-Hangi raporu istiyorsun ben vereyim sana, "uzman görüşü alındı" falan diye de resmiyete geçerim sonra.
+-Rapor lazım değil aslında, geçenki kaybolan kayak grubundan kurtulan oldu mu onu söyleseniz yeter.
+-Maalesef kimseyi bulamadık, şu vakte kadar da donmuşlardır dağda yapacak bir şey gelmedi elimizden ne yazık ki.
+Bir anlığına odaya çöken sessizliği masasına geri oturan adam tekrar konuşarak bozdu:
+-Gazetede yazıyordu bu aslında boşuna yorulmuşsun biraz, neyse Allah rahmet eylesin ne diyelim davayı çözünce gelip bi ara anlat merak ettim nasıl bir bağlantısı varmış bununla senin davanın.
+-Olur anlatırım, diyen dedektif bir süre daha ofislerinde onlarla sohbet ettikten sonra ikisiyle de vedalaşıp karakoldan çıktı ve tekrardan yayımevine dönüş yoluna girdi.
+
+Günün yorgunluğundan sabaha göre çıt çıkmayan lobiden geçip ofise girdikten sonra arkadaşına selam verdi ve adresi sordu.
+-Aylin hanım az önce bıraktı, en üstteki zarfı alabilirsin. Yine de adamı çok rahatsız etmeyin diye tembihledi Aylin hanım. Temsilcisi adamın adresini verirken zaten yakın bir zamanda bu roman için imza günü düzenleneceği için birkaç gün önceden adı olan bir dergiye vermekten bir şey olmaz demiş öyle vermiş.
+-Yazarın haberi yok mu yani adresini aldığımızdan?
+-Yazar sadece yakın bir zamanda kitap imzalama etkinliği için okurların yazılarını yazdığı kulübesine davet edileceğini biliyor o yüzden gittiğinde bari kitapla falan git de imzaya gittin sansın, diyor sandalyesinde geri yaslanıp kitaplıkta gözüyle romanı arayan yazar.
+Kapıyı açan dedektif, "Gerek yok öyle yalan dolan iş yapmaya, hallederim bir şekilde" diyip arkadaşıyla vedalaşıp, bir kez daha adamı rahatsız etmemesi üzerine tembihlendikten sonra çıkıyor, ve hafif batmakta olan güneşin altında yazarın kulübesine gitmek üzere durağa gidiyor.
+
+
+
+Dedektif yazarın adresine gidiyor, "ne güzel karlı dağlı manzaralı, tahta kaplamalı geniş pencereli, şömineli bir ev. Tam hayalimdeki yazar evi, işi gücü bıraksam da buraya yerleşsem keşke" diyip içeri giriyor.
