@@ -6,7 +6,7 @@
       {
         "id": "1bab70dc64e14404",
         "type": "tabs",
-        "dimension": 42.21668742216688,
+        "dimension": 51.43212951432129,
         "children": [
           {
             "id": "6b8f2f7b0a989675",
@@ -27,7 +27,7 @@
       {
         "id": "37959c60c1b40def",
         "type": "split",
-        "dimension": 57.78331257783312,
+        "dimension": 48.567870485678704,
         "children": [
           {
             "id": "ec354eb55c65eef4",
@@ -39,12 +39,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "characters/komiser yardımcısı/Komiser Yardımcısı (Münür).md",
+                    "file": "characters/dedektif/Dedektif (meriç).md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Komiser Yardımcısı (Münür)"
+                  "title": "Dedektif (meriç)"
                 }
               }
             ]
@@ -215,15 +215,15 @@
   "lastOpenFiles": [
     "book/arcs/1 Şifreli Aşk.md",
     "book/chapters/Şifreli Aşk.md",
-    "characters/komiser yardımcısı/Komiser Yardımcısı (Münür).md",
     "characters/dedektif/Dedektif (meriç).md",
+    "characters/roman yazarı/Roman Yazarı.md",
+    "images/study/Study Videos.md",
+    "characters/komiser yardımcısı/Komiser Yardımcısı (Münür).md",
     "characters/dedektif uşağı/Dedektifin Uşağı (berat).md",
     "characters/komiser/Komiser (Doğukan abi).md",
     "characters/dedektif yardımcısı/Dedektif Yardımcısı (nazmi).md",
     "book/Rules.md",
-    "images/study/Study Videos.md",
     "characters/dedektif yardımcısı/Dedektif Yardımcısı.png",
-    "characters/roman yazarı/Roman Yazarı.md",
     "book/Parallel Timelines.canvas",
     "book/Event Timeline.md",
     "side cases/Side Case 1 şifreli günlük (karakterleri tanıtmak için).md",

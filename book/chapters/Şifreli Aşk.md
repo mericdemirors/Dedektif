@@ -271,4 +271,20 @@ Kapıyı açan dedektif, "Gerek yok öyle yalan dolan iş yapmaya, hallederim bi
 
 
 
-Dedektif yazarın adresine gidiyor, "ne güzel karlı dağlı manzaralı, tahta kaplamalı geniş pencereli, şömineli bir ev. Tam hayalimdeki yazar evi, işi gücü bıraksam da buraya yerleşsem keşke" diyip içeri giriyor.
+Kralı dağ eteklerinin karşısında beyazlı mavili manzaralar arasında 2 katlı küçük bir kulübe tek başına duruyordu. Kıvrıla kıvrıla, karlar arasından kulübeye ilerleyen patika gözleri bembeyaz karlardan kulübeye doğru çekiyordu, bacadan yükselen cılız duman kulübede buluşan gözleri yavaş yavaş gökyüzüne yükseltiyordu. Güneşin de batmaya yaklaşmasıyla maviden kırmızıya geçen gökyüzü altında patikanın başındaki tabelaya son bir kez daha baktıktan sonra elindeki kağıdı cebine koyup karlı patikaya girdi, beyazlar arasında kaybolarak bahçe kapısının önünde tekrar ortaya çıktı.
+"Ne güzel karlı bir dağ manzarası, geniş pencereli, şömineli bir kulübe. Tam kafa dinlemelik tatil yapmalık, işi gücü bıraksam da buraya yerleşsem keşke" diye düşünen adım açık kapıyı ittikten sonra küçük bahçeyi birkaç adımda katetti ve kulübenin kapısında dayandı.
+Kapı açılıp elinde poşetlerle orta yaşlarda bir kadın çıktı, başıyla selam verip üşümemek için hızlıca bahçenin uzak köşesindeki üstü kapanmış çöp kutusuna kadar gidip poşetleri yere bıraktı. Kapının iç tarafında kalmış son poşetleri de almak için geri dönerken elinde poşetlerle onu takip eden adamı görüp bir an şaşırdıktan sonra adamın elindeki poşetleri almak için bir hamle yaptı:
+-Çok teşekkür ederim zahmet etmeseydiniz, ben hallederdim.
+Poşetleri kadına vermeyen adam çöpe kadar kendisini takip eden kadına gülümseyerek poşetleri diğerlerinin yanına koydu:
+-Olur mu öyle şey efendim ne zahmeti, lütfen siz üşümeyin içeri geçin ben de bunları atıp geliyorum, diyip kapağın üstündeki karları koluyla temizledi ve kapağı açtı.
+Yerdeki poşetleri çöp kutusuna attıktan sonra birlikte kulübeye dönerlerken kadın tekrar mahçup bir ifadeyle söze girdi:
+-Kusura bakmayın sizi de yordum, içeri buyurmaz mısınız? Buraya kadar geldiyseniz Yavuz Bey'le bir işiniz var sanırım?
+Ayakkabısındaki karları yere vuran adam kapıdan geçtikten sonra ellerine hohladı ve cevap bekleyen kadına döndü:
+-Rica ederim ne demek, elime mi yapışacak sanki, diyip ellerini sıvazlamayı bırakıp kabanının düğmelerini açmaya başladı ve kendisine eşlik eden kadını takip etmeye başladı. "Yavuz Bey'le bir şey görüşmek için gelmiştim evet, temsilcisinden aldım adresi de gerçekten çok güzel bir yerdeymiş kulübe" dedi cüzdanından kartını çıkarırken: "Kusura bakmayın kendimi tanıtamadım, ben dedektif Tarık Çelik." diyip kendisini bekleme odası gibi küçük bir antreye getiren kadına kartını takdim etti.
+-Memnun oldum Tarık Bey, ben de Yavuz Bey'in hizmetlisi Hilal, isterseniz şöyle buyurun size çay ikram edelim içiniz ısınsın? dedi tekli koltuklardan birini işaret ederken.
+-Teşekkür ederim, çok vaktinizi almak istemem hemen bir şey sorup çıkacağım zaten zahmet etmeyin Hilal Hanım.
+Çoktan merdivenlere yönelmiş kadın, geri antreye döndü:
+-Hilal deseniz yeterli, dedi gülümseyerek. Yavuz Bey'in odası üst katta, merdivenlerden çıktıktan sonra kapıyı tıklatırsanız kendisi açacaktır. Kusuruma bakmayın benim yandaki odanın temizliğini bitirmem gerekiyor size eşlik edemeyeceğim. Zaten merdivenler de iki kişi için biraz dar sizi rahatsız etmek istemem, derken koltuğun yanındaki sehpanın altından toz bezini aldı.
+Merdivenin başına gelmiş dedektif son kez kadına teşekkür edip, iyi günler dileyip dar merdivenleri çıkmaya başladı.
+
+Yazarın evine girip "merhabalar yazar bey, romanınızla ilgili bir şey sormak istiyordum diyor" ama kapı açılmıyor..
