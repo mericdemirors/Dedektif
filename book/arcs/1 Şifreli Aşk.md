@@ -48,7 +48,7 @@ Yardımcısı da "kitabı yazarın sevgilisinin ailesi okumayacak mı? Neden yal
 Dedektif önce karakola gidip kayak grubu kazası hakkında araştırma nasıl gidiyor kazazedeler bulundu mu diye soruyor, onlar da hayır o arama aylar önce bitti, kimse bulunmadı o gruptan diyor.
 Birlikte ofise gidiyorlar, yazarın adresini alıyorlar. Yazar zaten yakın bir zamanda imza günü yapmak istediği için kitabı yazdığı yazarlık kulübesinin adresini acentesine vermiş, onlar da adresi paylaşmışlar.
 Dedektif yazarın adresine gidiyor, "ne güzel karlı dağlı manzaralı, tahta kaplamalı geniş pencereli, şömineli bir ev. Tam hayalimdeki yazar evi, işi gücü bıraksam da buraya yerleşsem keşke" diyip içeri giriyor.
-Yazarın evine girip "merhabalar yazar bey, romanınızla ilgili bir şey sormak istiyordum diyor" ama kapı açılmıyor..
+Yazarın evine girip "merhabalar yazar bey, romanınızla ilgili bir şey sormak istiyordum diyor" ama kapı açılmıyor.
 Dedektif biraz evin etrafını gezip manzaraya bakıyor sonra tekrar kapıyı tıklatıyor
 Yazarla biraz konuşuyorlar sonra kapı tam kapanacakken "kız romandaki gibi kazada ölmedi değil mi?" diyor.
 Yazarın bi afallaması ve paniklemesi üzerine dedektif ayağını kapı eşiğine koyup "sakin ol, arkadaşımla olayın arka yüzünü bulup bulamayacağıma iddaya girdik. İnanır mısın şu anda da şehirde hiç dedektiflik iş dönmüyor can sıkıntısından buna sardım. Senlik bir olay yok sadece bunu doğrulamak istemiştim sağ ol." diyor, ayağını kapı eşiğinden çekiyor.

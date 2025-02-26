@@ -285,6 +285,19 @@ Ayakkabısındaki karları yere vuran adam kapıdan geçtikten sonra ellerine ho
 -Teşekkür ederim, çok vaktinizi almak istemem hemen bir şey sorup çıkacağım zaten zahmet etmeyin Hilal Hanım.
 Çoktan merdivenlere yönelmiş kadın, geri antreye döndü:
 -Hilal deseniz yeterli, dedi gülümseyerek. Yavuz Bey'in odası üst katta, merdivenlerden çıktıktan sonra kapıyı tıklatırsanız kendisi açacaktır. Kusuruma bakmayın benim yandaki odanın temizliğini bitirmem gerekiyor size eşlik edemeyeceğim. Zaten merdivenler de iki kişi için biraz dar sizi rahatsız etmek istemem, derken koltuğun yanındaki sehpanın altından toz bezini aldı.
-Merdivenin başına gelmiş dedektif son kez kadına teşekkür edip, iyi günler dileyip dar merdivenleri çıkmaya başladı.
+Merdivenin başına gelmiş dedektif son kez kadına teşekkür etti, iyi günler dileyip dar merdivenleri çıkmaya başladı.
+Dedektif üst kata çıkınca ardından ateş çıtırtısı gelen kapıyı tıklatıp kendini tanıttı: "Merhabalar Yavuz Bey, ben Tarık Çelik. Romanınız Senden Bana Kalan ile alakalı size birkaç şey sormak istiyorum da", ancak kapı açılmadı. "İmza günlerini ayarlamak için geldim Yavuz Bey, temsilciniz size benden haber vermiş olmalı", bir süre daha bekledikten sonra içeriden yaklaşan ayak sesleri geldi ve kapı en azından yazarın yüzünü görebileceği kadar aralandı, kapıya yaslanan yazar, dedektifi süzdü:
+-Bana sizden bahseden olmadı, ne için geldiniz? İmza günlerini temsilcim ayarlayıp yönetiyor aslında. Ne yapabilirim sizin için?
+-İmza günleri için anket çalışması yaptık ve okurların romanla ilgili en çok sordukları soruları hazırlayıp sizden cevapları duymak istedik.
+-Anladım, sorular sizdeyse ben alayım cevaplayıp temsilcime iletirim yarın ilk iş, dedi aralık kapıdan elini uzatan yazar.
+Başını sallayan dedektif kabanının ceplerini karıştırırken bir yandan da göz ucuyla yazarı izliyordu konuşmayı uzatmanın bir yolunu bulmak için. "Nereye koydum şu kağıdı, o kadar da dedim küçücük postite yazıp verme kaybolur diye." sonunda cebinden çıkardığı kulübenin adresinin yazdığı katlanmış kağıdı açarken tekrar şansını denemek istedi:
+-Ben sorsam daha iyi olacaktır, sizin soruları ilk kez duyduğunuz andaki ve cevap vereceğinizdeki duygularınızı da not almamı istediler de, o yüzden...
+-Lütfen, kağıdı veriniz ben cevaplarım, dedi ve gülümseyerek devam etti, Merak etmeyin duygularımı iyi ifade edebileceğime inanıyorum, en azından okurlarım kitabımı beğendiyse öyle olduğunu düşünüyorum.
+Çıkmaza girdiğini anlayan dedektif daha açmayı bitirmeden yazara uzattı. Yazarın kağıdı alması ve açmaya çalışmasından faydalanarak ayağıdı hızlıca kapının arasına koyan dedektif yazarın üzerine eğilerek şaşırmış yüzüne yaklaştı, ve göz ucuyla koridoru kontrol ettikten sonra sessizce "Zelda aslında kitaptaki gibi kazada ölmedi değil mi?" dedi ve dramatik bir bekleyip devam etti: "Romanın gerçek sonunu öğrenmek istiyorum sadece" diyip tekrar dikleşti ve duyduklarını anlamlandırmaya çalışan yazarı izledi. Yazarın yüzündeki panik yavaşça kaybolup yerini duygusuz bir yüz ifadesine bıraktı. Kapıyı tutmaya devam eden yazar tekrardan dikkatlice dedektifi incelemeye başladı tek kelime etmeden. Bir süre birbirlerini süzüp ne olacağını anlamaya çalışan adamlardan sessizliii bozan dedektif oldu:
+-Sanırım ansızın duymak çok fazla oldu, ben biraz aşağıda oturayım bir süre sonra tekrar geleceğim. Sadece konuşmak istiyorum, dediğim gibi romanın sonunu öğrenip gideceğim, dedi ve yavaşça ayağını geri çekip yazarın dediklerini anladığından emin olduktan sonra gitmek üzere uzaklaşmaya başladı.
+-Tamam gel konuşalım
 
-Yazarın evine girip "merhabalar yazar bey, romanınızla ilgili bir şey sormak istiyordum diyor" ama kapı açılmıyor..
+Sonuna kadar açılan kapıdan odanın içini ilk defa gören dedektif şöminenin yanındaki koltuklardan birine oturdu
+
+
+Dedektif romanın neden alelacele bittiğini düşündüğünü anlatıyor ve "eğer hastanelerde drama yapıp romanı daha etkili yapmak isteseydin yapardın, yalandan hızlıca mutlu bir son yazmak istesen onu da yapardın yani kötü bir son yapmak dışında bir seçeneğin yoktu o yüzden bunu seçtin. Bu seçimi de süsleyip dramalarla püslemedin yani hoşuna giden veya sütünü sağmak istediğin bir durum değildi."
