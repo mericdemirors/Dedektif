@@ -169,7 +169,7 @@ Kalemini kapatıp geri diğerlerinin arasına sokan yazar kalkıp montunu aldı:
 -Ee şimdi nereye, kütüphaneye mi?
 -Turşu suyu içmek istiyorum, önce onu alalım sonra kütüphaneye yürürüz.
 -Ohh sen rahatsın tabi, iş güç yok turşu suyu içsin paşa, dedi sıcağı gördükten sonra ceketini geri çıkaran yazar.
--İstemezsen gelme zorla içirmiyoruz ya, bu turşu suyu benim için önemli. Eskiden buradaki "Hüseyin Ağa Turşucusu"ndan benim babam da turşu suyu içermiş öğrenciyken. Beni de ilk seferimde o getirmişti onunla içmiştim. Arada bir için hatırlamak güzel oluyor.
+-İstemezsen gelme zorla içirmiyoruz ya, bu turşu suyu benim için önemli. Eskiden buradaki "Hüseyin Ağa Turşucusu"ndan benim babam da turşu suyu içermiş eskiden. Beni de ilk seferimde o getirmişti onunla içmiştim. Arada bir hatırlamak için güzel oluyor.
 Turşu suyundan böyle derin bir hikaye beklemeyen yazar bir an duraksayıp cevap verdi:
 -Turşu suyunu bile romantize etmene gerek yok, ben de içecem zaten turşu suyunu severim.
 -Seversin tabi köylü seni, dedi sırıtan dedektif. Utanmasan balık ekmeğin yanına yoğurtta isterdin de iyi bari millete rezil olmadık lokantanın ortasında.
