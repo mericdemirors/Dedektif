@@ -42,7 +42,7 @@ Konu ilgisini çekmiş gibi görünen dedektif odağını yavaştan çıkmaya ha
 Sandalyesinden kalkan dedektif arkadaşını uğurlamak için arkasından takip etti:
 -İşin özünde bütün oyunlarda oyuncuya avantaj sağlayan böyle kurallar/öğrenilmiş taktikler var ama satrançta bu kuralların yeri büyük, yeni bulduğum oyun da satranca benzetiliyor bir nevi. Go diye, belki duymuşsundur bi ara konuşuruz.
 Koridoru geçen iki adam antredeki masanın önünde durdular, çantasını sırtına almadan önce çıkardığı bereyi takan Nail, birazdan yayımevine gideceğim bir şey istiyorsan şimdiden söyle, binadan çıkınca yine omzuma kuzgun saldırısı almak istemiyorum, dedi.
--Kuzgunlarımı önüne konduğunda farkedebilsen omzuna konması için eğitmek zorunda kalmam benim de işime gelir. En son kafede karşındaki sandalyeye konan kuzgunu görmediğin için fazladan 40 dakika boyunca tabutta gömülü kalmıştım yanlış hatırlamıyorsam.
+-Kuzgunlarımı önüne konduğunda farkedebilsen omzuna konması için eğitmek zorunda kalmam benim de işime gelir. Veya herkese yanında taşıyacağı bi ankesörlü telefon alalım onla gezelim nasıl fikir? Kuzgunları gelin size de öğreteyim böylece siz de bana mesaj yollayabilirsiniz diyorum yanaşan yok. En son kafede karşındaki sandalyeye konan kuzgunu görmediğin için fazladan 40 dakika boyunca tabutta gömülü kalmıştım yanlış hatırlamıyorsam.
 -Kendini tabuta sokmasaydın kardeşim, ben mi dedim sana git kendini göm diye? Yine de beni alakadar etmez, kuzgunlarını üçümüz aramızdan kime gideceklerini öğretebiliyorsan omzuma saldırtmadan da haber yollatmayı öğret bi şekilde.
 Ağırlığını bir ayağından diğerine veren dedektif istemeyerek de olsa kabul etti:
 -Peki öyle olsun, bundan sonra daha nazik olmalarını öğretirim. Ayrıca keyfimden gömülmedim ben de o an elimde başka bir kanıt yoktu, hem gelip beni çıkaracağına emindim zaten, diyip koridora doğru seslendi "Betüül, alışveriş listesini şu köylüye verir misin, marketten gelirken eksikleri alsın bi işe yaramış olur! İstediğin varsa listeye ekleyebilirsin", beresini düzelten arkadaşına bakıp başını eğen dedektif nidali bir sesle devam etti: "Ne de olsa kendimi gömmem sayesinde yüklü bir bonus kazandın son işten."
@@ -156,7 +156,7 @@ Ofisin açılan kapısının arkasından bir kafa ve kol uzanıp masadaki kıza 
 -Tamamdır, bugün dışarıda olacağım ofis sana emanet, diyip cebinden çıkardığı kalemi masaya birkaç kez tıklatıp bıraktı, Nail'den çaldım artık senin oldu, dedi ve ofisin kapısı kapandı.
 -Peki, diyen kız oyununa devam ederken kalemi çekmeceye salladı. Dedektifin ayrılması üzerine oyunun sesini biraz daha artırdı.
 
-Öğlen güneşi tenini ısıtan dedektif elindeki boş yem torbasını çöpe attıktan sonra bankına geri oturup yeri gagalayan kuzgunları izlemeye bir süre daha devam etti. Yemleri neredeyse temizleyen kuzgunlar etrafta gezinip son taneleri de aradıktan sonra teker teker uçuşup kayboldular. Üstünden geçe son kuzgunu da izleyen dedektif gözlerini kapatıp başını geriye attı ve derin bir nefes aldı... Bir süre daha gözkapağının altından hareket eden gözüyle ve ritim tutan parmaklarıyla planına kafa yorduktan sonra yorgunluğunu atar gibi yavaşça nefesini saldı... Ve parktan çıkıp tekrar yayımevinin yolunu tuttu. 
+Öğlen güneşi tenini ısıtan dedektif elindeki boş yem torbasını çöpe attıktan sonra bankına geri oturup yeri gagalayan kuzgunları izlemeye bir süre daha devam etti. Yemleri neredeyse temizleyen kuzgunlar etrafta gezinip son taneleri de aradıktan sonra teker teker uçuşup kayboldular. Üstünden geçen son kuşu da izleyen dedektif gözlerini kapatıp başını geriye attı ve derin bir nefes aldı... Bir süre daha gözkapağının altından hareket eden gözüyle ve ritim tutan parmaklarıyla planına kafa yorduktan sonra yorgunluğunu atar gibi yavaşça nefesini saldı... Ve parktan çıkıp tekrar yayımevinin yolunu tuttu. 
 Öğle arasında kendisini bekleyen arkadaşının ofisine girip bir süre son işlerini bitirmesini bekledi.
 -Bu da tamam, her şey bitti şimdilik napalım yemeği?
 -Balık ekmek turşu suyu yapalım mı? O civarda bi işim var sonra oraya geçerim ben de?
@@ -297,7 +297,52 @@ Başını sallayan dedektif kabanının ceplerini karıştırırken bir yandan d
 -Sanırım ansızın duymak çok fazla oldu, ben biraz aşağıda oturayım bir süre sonra tekrar geleceğim. Sadece konuşmak istiyorum, dediğim gibi romanın sonunu öğrenip gideceğim, dedi ve yavaşça ayağını geri çekip yazarın dediklerini anladığından emin olduktan sonra gitmek üzere uzaklaşmaya başladı.
 -Tamam gel konuşalım
 
-Sonuna kadar açılan kapıdan odanın içini ilk defa gören dedektif şöminenin yanındaki koltuklardan birine oturdu
+Sonuna kadar açılan kapıdan odanın içini ilk defa gören dedektif şöminenin yanındaki koltuklardan birine oturdu, zaten büyük olmayan odanın her duvarı kitaplıklarla kaplanmıştı. Yazarın savaş alanına dönmüş masasıyla, şöminenin yanındaki tekli koltuklar da işin içine girince odada neredeyse adım atacak yer kalmıyordu. Masasının arkasına geçen yazar bir süre pencereden dışarı bir baktıktan sonra sandalyesine oturup masaya biraz çeki düzen verdi ve dedektife döndü: "Evet bekliyorum, ne konuşmak istersiniz? Az önce söylediklerinizi açıklayarak başlamak ister misiniz? Çok cesurca bir varsayımda bulundunuz, hikayenizi dinlemek isterim.". Bir yandan da masadaki tekli kağıtları gruplayıp sıralıyor ve etrafa dağılmış kalemleri kalemliğine koyuyordu.
+-Romanınızı yeni yakın okudum ve anlattığınız her şeyin sonunda birden olayı öldü bittiye getirmeniz garip geldi. Bunun üzerine romanı bana öneren arkadaşımla konuştum ve aslında olayın başka bir yüzü olduğu üzerine iddiaya girdik. İnanır mısın şu anda da hiç uğraşacak başka bir işim olmadığı için ben de bunu kanıtlamak istedim.
+Toparlanmayı bitiren yazar üst üste sıraladığı kağıtlarını çekmecesine koyduktan sonra hışırtılar kesilince etraf bir süre sessizliğe büründü.
+-İddiaya girip kanıtlamak için uğraşıyorsanız güçlü kanıtlar bulduğunuzu düşünüyor olmalısınız, teoriniz nelere dayanıyor tam olarak?
+-Öncelikle kitabın hikayesi üzerine konuşursak, eğer hastanelerde drama yapıp romanı daha etkili yapmak isteseydin yapabilirdin. Veya yalandan hızlıca mutlu bir son yazmak istesen "Yakında evleneceğiz özel hayatımız da bize kalsın" diye onu da yapardın bunu yapmadığına göre ilişkinizin bir sebepten bittiğini düşünüyorum. Ve anlattıklarının da doğru olduğunu varsayarsak...
+Söyledikleri üzerine tepkisini ölçmek için duraksayan dedektif karşı bir cevap alamayınca devam etti:
+-Varsayalım ki Zelda öldü ve günlüğü sana verdi.
+-"Varsaymayalım, olan buydu" diye sözünü kesti yazar. "Devam edin lütfen."
+-Sizi üzersem kusura bakmayın lütfen, düşünce şeklimi tüm şeffaflığıyla anlatmak için kelimeleri süsleyip püslemeden kullanacağım. Elindeki bu üzgün olayı dramalarla abartmadan anlattığına göre sütünü sağmak istediğin bir durum değildi.
+-Evet, ne yazık ki bu tip durumları allayıp pullayan ve bunlardan yararlanmaya çalışan meslektaşlarım olsa da olayları abartmayı çok sevmem.
+-O zaman olay gerçekten oldu, Zelda öldü ve sen bunu olduğu gibi aktardın yani.
+Hala dedektifin nereye varmak istediğini anlamaya çalışan yazar onayladı ve dedektifin devam etmesini bekledi.
+-O günün yerel gazetelerine baktım ancak anlattığın gibi bir kaza yoktu, o zaman ilk hipotezimi düzeltirsem gerçekte öyle bir kaza olmadı ve sen yalandan bir kaza uydurdun.
+Başını sallayan yazar "Gazetede her kaza haberini yayımlıyorlar yani, dayanağın bu mu?" diye araya girdi. "Hayır, dayanağım ölümle sonuçlanan bir kazanın yerel gazeteye çıkmaması. Özellikle de senin gibi ünlü bir yazarın da dahil olduğu bir kazaysa.", cevabının yazarı bir nevi de olsa tatmin ettiğini göre dedektif tekra koltuğa yaslanarak devam etti:
+-Demek ki kaza yalandı, kaza yalansa aynı gün gazetelerde olan ve kitabın sonuna daha uygun olabilecek bir haber buldum ve neden bunu kullanmadığını merak etmeye başladım. Kayak yaparken kaybolan bir grup vardı ve kurtulan olmamıştı. Kitabı bitirmek için ve benim gibi sorgulayacaklar için çok güzel bir şekilde olayın üstünü örtebilirdin. Gerçek temeli olan ve arkada araştırılacak ipucu bırakmayan daha uygun bir olayı kullanmak yerine yalan bir kaza uydurdun.
+Hikayesinin sonuna yaklaşan dedektif hızlıca konuyu toparladı:
+-Bak kıza ne olduğuyla ilgilenmiyorum, sana da yeni bi dert çıkarmak istemiyorum romanı baz aldığını söylediğin günlüğü görebilir miyim? Olayın sonunu öğrenip iddiayı kazanıp olayı kapatmak istiyorum. Kimsenin ölümünü sorgulamayı ben de istemiyorum. İstersen beni odaya kapat, akşama kadar okur işimi bitiririm ya da kopyasını hazırladığında haber ver gelip alayım. Sadece olayın sonuyla ilgileniyorum.
+-Hayır, sevgilimin bana vasiyetini sana vermeyeceğim, eğer sağlam bir kanıtın olmadan bunu kanıtlayamayacaksan sadece teoriler üretiyorsun.
+Koltukta öne eğilen dedektif alnını kaşıdıktan sonra derin bir iç çekti ve ayağa kalktı:
+-Yavuz Bey, ben bir dedektifim, ve sizin şanssızlığınıza şehirde de hiç dedektiflik işi dönmüyor şu anda. Bu dava öylesine kendim devraldığım zaman geçirdiğin bir olay değil. Gerçekten işin içinde bir şeyler döndüğünü biliyorum. Eğer günlüğü alıp olayı öğrenirsem konuyu burada kapatırım ama diretmeye devam ederseniz karakoldaki arkadaşlarıma durumu anlatırım ve "kitabınızı pazarlamak için Zelda'yı bilerek öldürdüğünüzü kazayı kasten yaptığınızı" öne sürerim. 
+Sakinliğini şu vakte kadar koruyabilen yazar gerilmeye başlamıştı.
+-Dediğiniz gibi sözlerim teorilerden başka bir şey değil, sizin de kendinizi kanıtlamanız için sözleriniz dışında bir günlüğünüz var. Günlüğü kanıt olarak sunup işin içinden çıkabilirsiniz yoksa sizi uzun bir yol bekliyor.
+Masasının üstüne eğilen yazar elini çenesine koyup direkt olarak dedektifin gözlerine baktı ve sakinliğini korumaya çalışarak derin bir nefes alıp karşılık verdi:
+-Sevgilimin günlüğünü sana vermeyeceğim. Dedektif veya başka bir şey olmak beni ilgilendirmez. Sadece konuşmak için seni içeri buyur ettim, konuşman bittiyse çıkabilirsin.
+Koltuğunda daha da eğilen dedektif başını yana yatırıp yazara baktı.
+-Neden çok sakinsin? Günlüğü eninde sonunda alacağım ve kızın ölümünün sebebini kanıtlayacağım. Günlükteki kanıtları yok etmiş olsan bile bunları bulup kanıtlayabiliriz. 
+Umursamaz bir tavırla koltukta geriye yaslanan gerektif omzunu silkip biraz öyle bekledi:
+-Gerçek ölümü söylemezsen ortadaki ana şüpheli sen oluyorsun umarım farkındasındır, dedi ve ellerini dizlerine vurup kalktı.
+Ayağa kalkan yazar masanın etrafını dolaşıp kapıyı açtı ve odadan çıktı. Onu takip eden dedektif önce merdivenlerden indi sonra da yazarın ardından mutfağa girdi.
+-Günlüğü vermeyeceğim, hazır buraya kadar beni takip etmişken artık gidebilirsin hava da kararıyor çok geçe kalırsan buralarda toplu taşıma gece geçe kalmaz haberin olsun.
+Ocağın altını açıp su ısıtmaya başlayan yazar bir kupa ve bir tutam kekik aldı. Suyun ısınmasını beklerken kapının eşiğinden kendisini izleyen dedektife aldırmadan ocağın başında beklemeye başladı. 
+-"Şunu da vereyim sen gitmeden, zaten etraf kağıt dolu görüyorsun" diyip cebinden adresinin yazılı olduğu postiti çıkarıp dedektife uzattı.
+Çekinerek de olsa kağıdı alan dedektif bir sandalye çekip masaya oturdu:
+-Bir şey var sende, daha çözemedim. Dedi ve bir süre sustu. Çok... Umursamazsın. Ne bana kızdın ne üzüldün ne başka bir şey.
+-Umrumda değil açıkçası. Eskiden de insanları ve düşündüklerini çok kafaya takmazdım. Benim için önemli olan, kendi hislerim ve benim ne düşündüğümdü her zaman, belki de bu yüzden yazılarımda kendimi ifade etmekte bu kadar iyiyim bilmiyorum. Biraz göz önünde olmanın getirisi mi dersin bilemiyorum ama, kötü yorumlara ve söylentilere artık kulağımı tıkama ihtiyacı bile hissetmiyorum.
+Bir süre durup ocağın altını kapattı ve çayını hazırlayıp kapıya kadar yürüdü çayını dökmemeye çalışarak. Çayından bir yudum aldı ve kapı eşiğinde durdu, yüzünde hafif bir gülümsemeyle oturduğu yerden kendisini izlemeye devam eden dedektife döndü:
+-İnsanlar konuşur, en nihayetinde, insanlar...
+-Kendine sıcak bir şeyler koymak istersen sana da yetecek kadar su kaynattım ocakta duruyor. Kurabiye meyve falan istersen dolaplardan birinde vardı arayıp bulursun.
+Dedektif masadan bir ayva alıp üstüne sildi ve beni mi deniyor diye yazara baktı.
+-Ayvalar iyidir, afiyet olsun. Ancak kusura bakma şu aralar biraz sıkışığım o yüzden ofisime dönmem gerekiyor, çıkmadan önce ayvanın sapını bana getirebilir misin saksılarımın dibine koyuyorum da, dedi ve eşiğe dayanmayı bırakıp merdivenlere yöneldi. "Günlüğü unut ama, günlüğü vermeyeceğim."
 
+Mutfakta bir süre ayva yiyen dedektif birkaç dakika sonra tekrar ofisin kapısının önündeydi. Kapıyı tıklatıp izin aldı ve içeri girdi:
+-Dışarısı da soğukmuş mutfağa işliyor soğuğu. Şurada şömine dibinde biraz oturup ısınayım sonra giderim sana daha fazla rahatsızlık vermeyeyim. Dedi ve az önceki koltuğuna geçti.
+-Odunlardan ateşi harlayabilirsin, içerisi de ısınsın gece soğuğu bastırmadan önce.
+Göz ucuyla etrafına bakınan dedektifi görünce eliyle şöminenin öbür tarafında kapının arkasında kalan küçük dolabı gösterdi: "Odunlar dolabın içinde, üst çekmecesinde de şal var üstüne almak istersen."
 
-Dedektif romanın neden alelacele bittiğini düşündüğünü anlatıyor ve "eğer hastanelerde drama yapıp romanı daha etkili yapmak isteseydin yapardın, yalandan hızlıca mutlu bir son yazmak istesen onu da yapardın yani kötü bir son yapmak dışında bir seçeneğin yoktu o yüzden bunu seçtin. Bu seçimi de süsleyip dramalarla püslemedin yani hoşuna giden veya sütünü sağmak istediğin bir durum değildi."
+Dedektif neden bu kadar naziksin diye soracak
+Yazar da üzülmemi gerektirecek bir şey yok ortada. Kendince teorilerin var ve bunları doğrulamak için bana geldin olaya böyle bakıyorum. Polis işi vesaire biraz aşırı olsa da polisi çağırmadığın sürece istediğin kadar tehdit et beni ilgilendiren bir durum yok ortada. 
+Sandalyesinde geriye yaslanıp kollarını açtı "günlüğü de kendin arayıp bulamayacağına göre endişe etmemi veya üzülmemi gerektiren bir durum yok. Hem herkesin dinlenmeye değer bir hikayesi olduğunu düşünüyorum. Şu sıralar da meşgul olmamın sebebi ilham almak için çeşitli kaynakları taramam. Belki seni dinlemek bana ilham olur, sonuçta her gün bir dedektifle konuşmuyoruz. Vaktin varsa konuşalım istersen?" diyor
