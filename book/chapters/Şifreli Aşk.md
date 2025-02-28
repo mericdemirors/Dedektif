@@ -342,7 +342,35 @@ Mutfakta bir süre ayva yiyen dedektif birkaç dakika sonra tekrar ofisin kapıs
 -Dışarısı da soğukmuş mutfağa işliyor soğuğu. Şurada şömine dibinde biraz oturup ısınayım sonra giderim sana daha fazla rahatsızlık vermeyeyim. Dedi ve az önceki koltuğuna geçti.
 -Odunlardan ateşi harlayabilirsin, içerisi de ısınsın gece soğuğu bastırmadan önce.
 Göz ucuyla etrafına bakınan dedektifi görünce eliyle şöminenin öbür tarafında kapının arkasında kalan küçük dolabı gösterdi: "Odunlar dolabın içinde, üst çekmecesinde de şal var üstüne almak istersen."
+Şömineyi harlayıp geri koltuğuna oturan dedektif odanın içinde gözüyle bir şey aramaya başladı. Çekmecesinden çıkardığı kağıtları masanın üzerinde gruplara ayıran yazar dedektifteki hareketliliği farkedip ne aradığını sordu. Elindeki ince ayva sapını kaldıran dedektif:
+-Saksıları arıyorum da şunu atayım diye, etrafta göremedim hiç masanın o tarafına da gelmek istemedim meşgulsün diye.
+Elindeki son kağıtları da masaya dizdikten sonra sandalyesinden kalkıp pencereyi açtı ve dışarıdan küçük bir saksı alıp dedektife uzattı:
+-Çiğden çiçeği, burası gibi yüksek soğuk yerlerde kışın çiçekleniyorlar, çiçeklerle ilgilenit misin?
+Dedektif ayva sapını saksıya bıraktıktan sonra çiçek açmaya yüz tutmuş tomurcuklara bakıp geri yerine oturdu.
+-Bir aralar denemiştim, ama şehir dışına çıkmak zorunda kaldığım bir zamanda yavaşça solmuşlardı. Benim de hatam vardı olması gerekenden daha küçük bir saksıya koymuştum da çiçeklendiklerini görmüştüm en azından.
+-Evet, ben de sadece uzun yazma maratonları yapacağımda bir şeyler ekiyorum yoksa kimseye ardımdan bakılacak çiçekle uğraş çıkarmak istemem, dedi saksıyı geri yerine koyan yazar. Pencereyi kapatıp dolaptan bir şal aldı ve sandalyeye geri oturdu.
+-Eee, hayat nasıl gidiyor? Şehirde dedektiflik işi yok demiştin, boş zamanlarında ne yaparsın?
+-Ofiste oturup bir şeyler okurum, arkadaşlarım da ofisteyse onlarla konuşuruz, yemek ve tatlı falan yaparım. Sen?
+-"Genelde bir sonraki eserim için seyehatlar yaparım etrafta gezip tanıştığım  kişilerin hikayelerini dinlerim. Şu anda da meşgul olmamın sebebi bu" diyip elini masadaki kağıtlar üzerinde gezdirdi. "Bunlar da 'Senden Bana Kalan'dan sonra topladığım hikayeler ilgimi çeken şeyler falan. Bir sonraki hikayem için neleri kullanabilirim diye bakıyorum.
+-İlham arıyorsun yani, anladım.
+-Öyle de diyebilirsin evet, etrafımda ilgimi çeken şeyleri toplamak olarak bakıyorum ben. Sonra kağıtları gruplara ayırıyorum insanlar, yerler, olaylar vesaire gibi. Yazmaya değecek bir konu geldiğinde zaten bir kıvılcım gibi birden her şey birbirine bağlanıyor. O kıvılcımı yakana kadar gezip tozup materyal topluyorum ben de.
+Kalemliğinden bir kalem alıp boş kağıtlardan birini önüne çekti ve üstüne bir şeyler karaladı.
+-Ben yavaştan kalkayım sen de meşgulsün zaten.
+-Yo lütfen otur. Meşgulüm dediğim aslında kağıtlara bakıp hikayeleri düşünmek. Sen buradayken yapamayacağım bir şey değil, dedi ve önündeki kağıdı dedektife göstermek için havaya kaldırdı
+Dedektif, kağıdın tepesindeki başlığı okumak için koltuğunda öne eğildi "Dedektif Tarık", ve gülümseyerek geri yaslandı.
+-İlgini mi çektim, hafızaya yeni bir insan daha mı ekleyeceksin?
+-Evet, öyle oldu. İlk kez gerçek bir dedektif gibi dedektifle karşılaşıyorum, ve gayet de değişik bir kişiliğin var.
+-Anladım, daha kötü yorumlar da almıştım kişiliğimle ilgili. Bir yazarın ilgisini çekmiş olmayı övgü olarak kabul ediyorum o zaman.
+Kağıdı masaya geri koyan yazar kalemi kulağına koyup sandalyesine yaslandı:
+-Anlat bakalım dedektif efendi. Bakalım ne kadar ilginçsin.
+-Önce bir şey sormama izin ver, neden bu kadar naziksin? Rastgele adamın biri gelip seni sevgilinin ölümünü yalanlamakla suçluyor ve tehditler ediyor. Umursamaz da olsan bir yerden sonra kim olsa 'Bu adam da benim ayvamı yemese olur aslında' diyip evden kovardı.
+-Üzülmemi gerektirecek bir şey yok ortada. Senin kendince teorilerin vardı ve bunları doğrulamak için bana geldin, ben olaya böyle bakıyorum. Polis işi vesaire biraz aşırı olsa da polisi çağırmadığın sürece istediğin kadar tehdit et, sadece lafta kaldıktan sonra banane.
+Sandalyesinde geriye yaslanıp kollarını açtı "günlüğü de kendin arayıp bulamayacağına göre endişe etmemi veya üzülmemi gerektiren bir durum yok.
+-Ya sana saldırsaydım?
+-Bu kadar insan gözlemledikten sonra yavaş yavaş anlamaya başlıyorsun, bana saldıracağını hiçbir zaman düşünmedim açıkçası.
+-Anladım. Yine de kusura bakma polis işi falan abarttım biraz, günlüğün sonunu ne kadar merak etsem de tehdit etmek falan hoş değildi.
+Hafifçe gülümseyen yazar odaya hakim olan negatif ruh halini dağıtmak ister gibi elini sallayıp cevap verdi:
+-Takma kafana boşver, çok da umrumda olan bir şey değil. Hem herkesin dinlenmeye değer bir hikayesi olduğunu düşünüyorum. Anlat bakalım seni dinleyelim biraz da, belki bana çok iyi bir malzeme verirsen seni affederim.
 
-Dedektif neden bu kadar naziksin diye soracak
-Yazar da üzülmemi gerektirecek bir şey yok ortada. Kendince teorilerin var ve bunları doğrulamak için bana geldin olaya böyle bakıyorum. Polis işi vesaire biraz aşırı olsa da polisi çağırmadığın sürece istediğin kadar tehdit et beni ilgilendiren bir durum yok ortada. 
-Sandalyesinde geriye yaslanıp kollarını açtı "günlüğü de kendin arayıp bulamayacağına göre endişe etmemi veya üzülmemi gerektiren bir durum yok. Hem herkesin dinlenmeye değer bir hikayesi olduğunu düşünüyorum. Şu sıralar da meşgul olmamın sebebi ilham almak için çeşitli kaynakları taramam. Belki seni dinlemek bana ilham olur, sonuçta her gün bir dedektifle konuşmuyoruz. Vaktin varsa konuşalım istersen?" diyor
+
+Dedektif "dediğim gibi son zamanlarda hiç heyecan veren şeyler olmuyor seni dinlemeyi daha çok isterim, şu anda üzerinde çalıştığın bir şey var mı? Benim de bir arkadaşım dergide yayımevinde çalışıyor romanını bana öneren ve iddiaya girdiğim kişi de o. Kendisi de otobiyografi yazıyor aslında ikiniz iyi anlaşırsınız, sen yazıyor musun otobiyografi falan?" diyor.
