@@ -370,7 +370,45 @@ Sandalyesinde geriye yaslanıp kollarını açtı "günlüğü de kendin arayıp
 -Bu kadar insan gözlemledikten sonra yavaş yavaş anlamaya başlıyorsun, bana saldıracağını hiçbir zaman düşünmedim açıkçası.
 -Anladım. Yine de kusura bakma polis işi falan abarttım biraz, günlüğün sonunu ne kadar merak etsem de tehdit etmek falan hoş değildi.
 Hafifçe gülümseyen yazar odaya hakim olan negatif ruh halini dağıtmak ister gibi elini sallayıp cevap verdi:
--Takma kafana boşver, çok da umrumda olan bir şey değil. Hem herkesin dinlenmeye değer bir hikayesi olduğunu düşünüyorum. Anlat bakalım seni dinleyelim biraz da, belki bana çok iyi bir malzeme verirsen seni affederim.
+-Takma kafana boşver, çok da umrumda olan bir şey değil. Hem herkesin dinlenmeye değer bir hikayesi olduğunu düşünüyorum. Anlat bakalım seni dinleyelim biraz da, belki bana çok iyi bir malzeme verirsen yaşananları unuturum, dedi gülerek.
+Bir süre tavanı izleyip anlatacak bir şeyler arayan dedektif koltukta oturuşunu değiştirdi:
+-Dediğim gibi son zamanlarda hiç heyecan veren şeyler olmuyor. Son birkaç gündür bu roman işlerine yoğunlaştım iddiaya girdiğim arkadaşım romanı bana önerdiğinden beri. Onun dışındaaaa... Geçen kendimi tabuta gömdüm, sanırım bunun gibi bir şeyler arıyorsun iyi malzeme derken.
+-O olay gerçekten oldu yani. Gazetelerde görünce inanmamıştım kesin abarttılar diyordum. Ciddi ciddi kendini gömüp kuzgunlarla haber mi yolladın ayarlanmış bir oyun falan değil miydi? Dedi heyecandan kulağındaki kalemi unutup kalemliğinden yenisini alan yazar sandalyesinin ucunda otururken.
+-Hayır, abartma yok.
+Yazar, dedektifi dinlerken bir yandan da önündeki kağıda bir şeyler yazmaya başladı.
+-Tabii ki olayın aslını ve detaylarını soruşturma raporundaki gibi aktaramam gizlilikten dolayı ancak gazetede ne yazıyorsa üç aşağı beş yukarı öyle oldu her şey.
+-inanılmaz, dedi hala şaşkınlıktan açtığı gözlerini kırpmadan not alan yazar. "Gazeteyi okuyup kenara fırlatmıştım iyice abarttılar rol kesiyorlar diye, yoksa çok iyi bir malzemeydi. Sadece ben olayları abartmayı sevmediğim için not almamıştım.". Bir süre yazmayı bırakıp kalemin ucunu ısırdıktan sonra ani bir hareketle sandalyesinde doğrulup dedektife döndü, "Peki her şey mi gerçek? Kuşlarla haber yollamayı nasıl yaptın?"
+-Aslında temelde basit, herhangi bir hayvanın hatta insanın koşullanmasından bir farkı yok sadece sabır gerektiriyor. Üstünkörü adımları şöyle anlatabilirim:
+Bir: kuzgunu komutla çağırmayı öğrenmelisin.
+İki: kuzguna kime gitmesi gerektiğini öğretmelisin.
+Üç: kuzguna komutunla gitmesi gerektiğini öğretmelisin.
+Komutla çağırmak için önce kuzgunların etrafında rahat davranması gerekir. Sonra çağırma komutunu verip gelen kuzguna yem verirsin, bunu öğrenene kadar mesafeyi artırarak tekrarlarsın. Kuzgun artık uzaktan da duysa yanına gelene kadar devam edersin.
+-Peki bütün kuzgunlara öğrettin mi bunu? Veya yani sadece sana gelmelerini de öğrettin mi? Başkası taklit etse ne oluyor? Diye sordu masaya bir tomar daha kağıt çıkaran yazar kağıtlardan birini önüne alırken.
+-Kuzgunlar akıllıdır, hatta kargalardan daha akıllılardır çoğu insan aradaki farkı bile bilmez ama. Birine bir şey öğretirsen diğer kuzgunlar ondan onu izleyerek o bilgiyi öğrenirler zaten. Ayrıca ıslık ve melodi tonunu da ayırt etmeyi bilirlen o yüzden sadece benim komutlarıma cevap veriyorlar.
+-Islık mı? Komutların "gel" "uç" "getir" gibi kelimeler değil mi?
+Başını sallayan dedektif  1 uzun 4 kısa ve tekrar 1 uzun ıslık çaldı.
+-Bu çağırma komutu. Kelime yerine ıslık seçmemin sebebi daha anlaşılır ve daha uzun menzilli olması, dedi ve bu sefer de nefes alırken 2 kısa ıslık çalıp 3 kez dilini şaklattı. Bu da uçma komutu. Bunun diğeri kadar uzun menzilli olmasına gerek yok, zaten kuzgunu çağırdıktan sonra benden yem beklemeye başladığı için bana yakın duruyorlar.
+-Peki diğer şeyleri nasıl öğrettin?
+-"Gitme komutu ve kime gitmesi gerektiği aynı anda öğreniliyor gibi. Şöyle anlatayım." diyen dedektif yumruğunu havaya kaldırıp parmaklarıyla saydı: Kuzgunları gitmesi için eğittim 3 kişi var: yardımcım, doktorum, sekreterim. Yardımcımı genelde bir konuda acil desteğe ihtiyacım olduğunda çağırıyorum, mesela bir kovalamacada hırsızın önünün kesilmesi gerekiyor veya ofiste ekmek bitmiş gelirken ekmek al diyorum, takdir edersin ki bunlar önemli şeyler. Doktoruma gitmelerini acil bir durumda ilk yardıma falan ihtiyaç olursa diye öğrettim aslında.
+-Tekrar önüne yeni bir kağıt alan yazar kaleminin ucu köreldiği için dedektifin sözünü kesti, "Dur bekle şunu açayım öyle devam et." dedi ve masada kağıtlar arasında kalemtıraş aramaya başladı.
+-Kulağının arkasında bir tane daha kalem var, haberin var değil mi?
+Karıştırdığı kağıtları düzelten yazar bir anlığına dondu ve gülerek elini kulağına götürdü, gülerek dedektiften devam etmesini rica etti:
+-Peki kuzgunlar bunları hiç unutmuyor mu? Veya sadece bu 2 komut sana yetiyor mu yoksa her şeyi bir kere öğrettim gerisi rahat artık gibi mi?
+Dedektif havadaki elini tekrar koltuğa indirdi:
+-Tam da oraya geliyordum, önce komutları anlatayım. Yeni bir komuta ihtiyacım olmuyor çünkü üçüncü kişiyi, sekreterimi aracı olarak kullanıyorum. Ekstra bir şey isteyeceksem kuzgunları ona yolluyorum o da ofisten istediğim şeyi yapıyor, karakolu aramak, müşteriye bir şeyi haber vermek mesela.
+-Kuşların bacağına not bağlayarak mı mesajlarını yolluyorsun?
+-Evet, sol bacağa mesaj bağlarsam doktora, sağ tarafa bağlarsam yardımcıma ikisine de birer tane bağlarsam sekreterime gidiyorlar.
+Yavaş yavaş sakinleşmiş olan yazar tekrar bir şaşkınlık şoku geçirdi:
+-Bekle, ne? Mesajın bağlanışına göre uçmayı mı öğrettin yani?
+-Şimdi de ilk soruna bu öğrenimi nasıl pekiştirdiğime geldik. Eğitim şöyle oluyor: ıslıkla kuzgunu çağırıyorum, gelene yem veriyorum. Mesajı ayağına bağlıyorum, sonra tekrar ıslık çalıp dilimi şaklatınca mesajı bağladığım ayağa göre gitmesi gereken kişi elimdeki yemi açığa çıkarıyor. Kuzgun burada birkaç şeye koşullanıyor. Çağırma ıslığını öğreniyor, gitmesi gereken kişinin ıslıkla değil, mesajın bağlandığı ayakla belirlendiğini öğreniyor, dil şaklatmanın da git komutu olduğunu öğreniyor.
+Dedektif koltukta biraz kayıp cebinden küçük bir poşet çıkardı ve yazarın masasına koyup geri koltuğuna oturdu.
+-Yanımda her zaman yem taşırım. Diğer üç kişiye de aynı yemlerden veririm. Arada sırada onlarla dışarı çıktığımızda bu eğitim dersini tekrarlarız ki kuzgunlar yem alacaklarını bilsinler. Veya ben bir kuzgunu çağırıp mesaj yolladıysam, mesajı alan kişi kuzguna yem vermesi gerektiğini bilir.
+Son cümlelerini karalayan yazar masadaki torbayı alıp inceledikten sonra dedektife geri verdi ve sandalyesinde geriye yaslanıp karalamalarına baktı.
+-Çok enteresan bir sistem.
+-Evet öyle, ama faydasını da çok gördüm. Müşterimi korumak için sekreterime mesaj yolladım karakolu arayıp koruma talep etmesini istedim. Başka bir zaman hırsızı kovalarken önünü kesmek için yardımcımı çağırdım. Gerçi o gelmeden adam karşı binaya atmayamayıp yere düştü ama neyse. Düşen adamı da kurtarmak için doktora mesaj yolladım gene. Şehir içi veya dışı her yerden istediğim herkese mesaj yollayabiliyorum yani.
+Dedektifin verdiği örnekleri, yazar kağıdın bir köşesine not aldı. Koltuğunda doğrulan dedektif yazara döndü:
+-Aslında bunun gibi enteresan olayları ve dedektiflik işlerini anlatmak için bir otobiyografi yazmamı öneriyor dergiden çalışan yardımcım, bir aralar giriştim ama bıraktım. Sende var mı hiç otobiyografi yazma isteği. Veya günlük falan yazıyor musun?
 
 
-Dedektif "dediğim gibi son zamanlarda hiç heyecan veren şeyler olmuyor seni dinlemeyi daha çok isterim, şu anda üzerinde çalıştığın bir şey var mı? Benim de bir arkadaşım dergide yayımevinde çalışıyor romanını bana öneren ve iddiaya girdiğim kişi de o. Kendisi de otobiyografi yazıyor aslında ikiniz iyi anlaşırsınız, sen yazıyor musun otobiyografi falan?" diyor.
+
+Yazar da bir komodin çekmecesinden bir günlük çıkarıp "ben otobiyografi olarak değil de ölümümden sonra yayımlanmasını isteyeceğim bir günlük yazıyorum. Aslında bir günlükten ziyade benim aklıma gelen fikirler ve duygular curcunası" diyor, içinden küçük bi kağıt çıkarıp "bu fikirden daha emin değilim o yüzden daha günlüğe eklemedim" diyip kağıdı çekmeceye geri atıyor günlüğü de dedektife uzatıyor. Dedektif inceliyor, "hmm aklına gelen fikirleri karalayıp büyüttüğün bi tarla gibi. Mantıklı aslında, sevdiğim yazarların sanatçıların böyle bir günlüğünü okumak güzel olurdu. Acaba ölmese neler yapardı, ya da neleri yapmak istedi ama yapamadı, bu eserinde neler hissetti gibi karıştırmak ilginç olurdu" diyor
