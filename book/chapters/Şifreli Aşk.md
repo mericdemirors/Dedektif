@@ -426,9 +426,12 @@ Oda bir süreliğine sessizleşiyor, dedektifin daha söyleyecekleri olduğunu a
 -Arada birine böyle anlatınca tekrar heveslenirim yazmak için, ama işte ben aslında yazmayı değil de yakın bir arkadaşımda böyle otururken bu konulardan bahsetmeyi seviyorum.
 Yazar az önce yerine bıraktığı kalın defterine doğru baktı:
 -Anlıyorum, romanı yazarken suçluluk duyma sebebimle çok benzer. Ben de kişinin özeli özel olarak kalsın isteyenlerdenim. Ama Zelda romanı yazmamı isterdi diye biraz da kendimi bile bile kandırarak yazdım aslında. Anılar anı olarak kalmalı ifadene katılıyorum. Bu zamandan sonra o hatıraları hatırlamak bana yettiği gibi sana da yeter eminim.
+-Doğru söyledin, bir anı var olduğu veya kaydedildiği için değil, yaşanıp bittiği için güzeldir.
+Bir süre sanki havalı bir söz söylemiş gibi yazarla bakıştıktan sonra ikisi birden kahkaha patlattı.
+-Neyse onu bunu boşver de, masadan bir şey çıktı mı? Yeni umut verici tarifler var mı hiç?
+-Şimdilik bir şeyler yok, konuşacak biri olması da iyi oldu aslında yoksa günüm boş geçecek gibiydi. Ne zaman istersen gel yine ateşin önünde konuşalım seninle. Eski soruşturmalarını falan anlat malzeme çıkar bana da.
+-Kartımı şöyle takdim edeyim o zaman, yavaştan da izin isteyeyim ben. İçimiz ısındı şömine sağ olsun. Gecenin soğuğu daha da bastırmadan kalkayım. Ayva için de ateş için teşekkürler.
+Ve yazarla tokalaşan dedektif tekrar merdivenlerden indi. Çıkmadan önce Hilal Hanım'la da tekrar selamlaştı ve ofise dönmek üzere tekrar karların kapattığı patikada karanlığa yürüdü.
 
 
-
-Dedektif de "doğru söyledin, bir anı var olduğu veya kaydedildiği için değil, yaşanıp bittiği için güzeldir." diyip bir yudum daha alıyor, sen şu anda nelerle uğraşıyorsun aklında yeni fikirler var mı hiç?" diyor
-Yazar "şimdilik bir şeyler yok, konuşacak biri olması da iyi oldu aslında yoksa günümü boş geçirmeyi düşünüyordum. Ne zaman istersen gel yine ateşin önünde konuşalım seninle" diyor ve dedektifin kartını istiyor.
-Dedektif de kartını verip "günün sıcağı geçmeden ben de yavaştan kalkayım, kahve meyve şal ve ateş için teşekkürler" diyip odadan çıkıyor, evden çıkarken de temizlikçiyle karşılaşıp selam veriyor ve ofise geri dönüyor
+Ofiste yardımcısıyla karşılaşıyor ona yazarla olanları anlatıyor. Yardımcısı "ya polisi çağırsaydı, o zaman ne yapacaktın? Torpil ve tanınırlığımı kullanmayı sevmem diyorsun ama işine gelince kendini kurtarmak için kullanmayı mı düşünüyordun?" diyor
