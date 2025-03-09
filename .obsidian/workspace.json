@@ -6,7 +6,7 @@
       {
         "id": "1bab70dc64e14404",
         "type": "tabs",
-        "dimension": 51.43212951432129,
+        "dimension": 50.31133250311333,
         "children": [
           {
             "id": "6b8f2f7b0a989675",
@@ -21,13 +21,25 @@
               "icon": "lucide-file",
               "title": "Şifreli Aşk"
             }
+          },
+          {
+            "id": "d4793464cfce926b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
+            }
           }
         ]
       },
       {
         "id": "37959c60c1b40def",
         "type": "split",
-        "dimension": 48.567870485678704,
+        "dimension": 49.68866749688667,
         "children": [
           {
             "id": "ec354eb55c65eef4",
