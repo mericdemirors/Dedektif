@@ -49,14 +49,17 @@
                 "id": "458355ae5e3b9884",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
+                  "type": "canvas",
                   "state": {
-                    "file": "characters/apartman tamircisi/Apartman Tamircisi.md",
-                    "mode": "source",
-                    "source": false
+                    "file": "book/Parallel Timelines.canvas",
+                    "viewState": {
+                      "x": -10784.972986154453,
+                      "y": -6182.821128830009,
+                      "zoom": -0.31997242848078394
+                    }
                   },
-                  "icon": "lucide-file",
-                  "title": "Apartman Tamircisi"
+                  "icon": "lucide-layout-dashboard",
+                  "title": "Parallel Timelines"
                 }
               }
             ]
@@ -227,8 +230,10 @@
   "lastOpenFiles": [
     "book/arcs/1 Şifreli Aşk.md",
     "book/chapters/Şifreli Aşk.md",
-    "images/study/Study Videos.md",
+    "book/Parallel Timelines.canvas",
+    "book/Event Timeline.md",
     "characters/apartman tamircisi/Apartman Tamircisi.md",
+    "images/study/Study Videos.md",
     "characters/dedektif/Dedektif (meriç).md",
     "confidential documents/drawing/video1_image1.png",
     "characters/roman yazarı/Roman Yazarı.md",
@@ -239,8 +244,6 @@
     "characters/dedektif yardımcısı/Dedektif Yardımcısı (nazmi).md",
     "book/Rules.md",
     "characters/dedektif yardımcısı/Dedektif Yardımcısı.png",
-    "book/Parallel Timelines.canvas",
-    "book/Event Timeline.md",
     "side cases/Side Case 1 şifreli günlük (karakterleri tanıtmak için).md",
     "characters/dedektif/Dedektif.png",
     "book/chapters",
@@ -264,7 +267,6 @@
     "book/arcs/9 Kanlı Sahil.md",
     "book/arcs/10 Beklenmedik ve Bilinmedik 2 Yüz.md",
     "side cases/Side Case 3.3 antifrizli tamirci (dedektifin zehirlemeler için rus ajandan şüphelenmesi için).md",
-    "side cases/Side Case 3.2 Botulinum'lu yazar (dedektifin şeker kokulu birinin insanları zehirlediğini anlaması için).md",
     "images/study/video images",
     "images/study/videos",
     "images/study/vids",
