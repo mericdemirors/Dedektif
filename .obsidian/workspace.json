@@ -53,9 +53,9 @@
                   "state": {
                     "file": "book/Parallel Timelines.canvas",
                     "viewState": {
-                      "x": -10784.972986154453,
-                      "y": -6182.821128830009,
-                      "zoom": -0.31997242848078394
+                      "x": -10547.460079230226,
+                      "y": -5519.71019744875,
+                      "zoom": -0.6094620649019861
                     }
                   },
                   "icon": "lucide-layout-dashboard",
@@ -228,9 +228,10 @@
   },
   "active": "6b8f2f7b0a989675",
   "lastOpenFiles": [
-    "book/arcs/1 Şifreli Aşk.md",
-    "book/chapters/Şifreli Aşk.md",
     "book/Parallel Timelines.canvas",
+    "book/chapters/Şifreli Aşk.md",
+    "book/arcs/1 Şifreli Aşk.md",
+    "Pasted image 20250315002241.png",
     "book/Event Timeline.md",
     "characters/apartman tamircisi/Apartman Tamircisi.md",
     "images/study/Study Videos.md",
@@ -259,7 +260,6 @@
     "characters/komiser/Komiser.png",
     "characters/doktor/Doktor (barış).md",
     "characters/doktor/Doktor.png",
-    "characters/dedektif uşağı/Dedektif Uşağı.png",
     "characters/rus ajan/Rus Ajan.md",
     "book/arcs/5 Taziye Yemeği ve Hava Yastığı.md",
     "book/arcs/8 Profesörün Peşinde.md",

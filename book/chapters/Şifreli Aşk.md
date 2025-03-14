@@ -497,14 +497,43 @@ Okumayı bitiren yazar kafasını defterden kaldırmadan kendisinden bir yanıt 
 Siniri yatışsa da alaycı tavrı elden bırakmayan adam defteri geri dedektife uzattı:
 -Allah allah Tarık Efendi eminse o zaman o iş ayrı bak.
 Defterin ilk sayfalarını çeviren dedektif parmağıyla satırlarda gezdikten sonra aradığını buldu, açtığı defteri yazara tuttu:
--Burada sevgililerin şifreleşerek oynadıkları bi oyunu anlatıyor kız, dedi ve defterin ilk sayfasını çevirdi:
--Bu şiir de el yazısı olarak günlüğe uymuyor, bizim elemanı ziyarete gittiğimde yazdıklarına bakarak onun el yazısı olduğunu söyleyebilirim. Gece gittiğimde adamın da günlüğünü biraz incelemiş olabilirim tabi konumuz bu değil, dedi ve hızlıca elini havada salladı yazarın dikkatini dağıtmak için.
+-Bir yerde sevgililerin şifreleşerek oynadıkları bi oyunu anlatıyor kız, dedi ve sayfaları biraz karıştırdıktan sonra defterin ilk sayfasına geri döndü:
+-Burada da, bu şiirde de el yazısı günlüğe uymuyor, bizim elemanı ziyarete gittiğimde yazdıklarına bakarak onun el yazısı olduğunu söyleyebilirim. Gece gittiğimde adamın da günlüğünü biraz incelemiş olabilirim tabi konumuz bu değil, dedi ve hızlıca elini havada salladı yazarın dikkatini dağıtmak için.
 Defteri geri uzatan dedektif arkasına yaslandı:
 -Şifreyi çözmeyi dene istersen, çözemezsen açıklayayım. Günlükte buna benzer başka şifreler de olmasını bekliyorum. Ve hepsini çözünce de...
 Bir an duraksadı dedektif, yazarla birbirlerine baktılar. Ve dedektif gülmeye başladı:
 -O kadar derine girdim ki asıl amacımı unuttum, neyse. Çözünce de iddiayı kazanmış olacağım.
 Arkadaşının gülmesine siniri bozulan yazar da hafifçe güldü:
--Gerçekten yapacak bir şey olmayınca kafayı yedin herhalde, bir tane iddia için... Neyse bakalım neymiş senin şu şiir ve her şeyi çözecek şifre
+-Gerçekten yapacak bir şey olmayınca kafayı yedin herhalde, bir tanecik iddia için... Neyse bakalım neymiş senin şu şiir ve her şeyi çözecek şifre
+Defteri alıp ilk sayfasını açan yazar şiiri okumaya başladı:
+
+Seni hatırlatır bir demet gül bir buket nergis
+Nefes nefes çekerim kokunu bin kere
+Çiçekçi abi yine soruyor: ey güzel oğlan kime bu sevgin
+Söylemem güzel abim, paylaşamam adını, biriciğimi
+
+Kader benimle mi oynuyor acep, nerede bende bu şans
+Tekrar tekrar bakarım telveme fincan fincan içe içe
+Falcı ablam yine öğüt ediyor: ey saf oğlum, onu güzel sev
+Severim güzel ablam, senin yerine de severim biriciğimi
+
+Ey kader, sen misin sevdamı bana veren, gel masaya bir kadeh de kendine koy,
+En kadim dostumsun bundan sonra, eğer son kaderim ise o
+
+Sakın tekrar bir oyun çevirme, sonra halim ne olur
+Son seferki gibi ne aklım boş ne kuyularım dolu
+Nolur bu sefer sonum oldur, o olsun sonum.
+
+-Edebi olarak beğenmedim. Bir dergide yazar olarak onayımı alamadı.
+-Ya adamın da öyle bir iddiası yok zaten, roman yazarı adam. Sen edebi yanını boşver şifreyi buldun mu onu söyle.
+-Hmmm... Akrostiş gibi basit bir şey bekliyordum ama değilmiş. Çiçekçi abiyle, falcı ablayla ve kader dediği dostuyla alakalı bir şeydir kesin. Günlüğün başka yerlerinde yine böyle atıflar yapıyorsa oradan çözebilirim belki.
+-Hmmm, çiçekçi ve falcı diyorsun, anladım.
+Defteri kapatıp geri uzatan yazar koltuktan kalkıp kağıya doğru ilerledi:
+-Öğleni çok geçmeden ben yayımevine gidip geleyim, şifrelerinle sonra oynarız olur mu? Gazete de sende kalsın belki okuyup biraz kültürlenirsin, dedi ve şifreyi açıklayamadığı için hevesi kursağında kalan dedektifle vedalaşıp ayrıldı.
+
+Kutusundan bir fotoğraf daha çıkaran dedektif kendi kendine konuşarak günlüğü kopyalamaya devam etti, "O zamaaann, kopyalamaya devam edelim bakalım. Kesin ileride olayı aydınlatacak bir şifre bulabilirim. Bu fıs çıktı."
+Gün boyu boş kalan ofiste son fotoğrafı da kutudan alan dedektif günlüğü kopyalamayı bitirdi ve sandalyesine yaslanıp ağrıyan elini sıvazladı, "Şifre mifre uğraşamam, etrafı toplayıp uyumak istiyorum artık". Masasını düzenledikten sonra antrede, mesaisini çoktan bitiren sekreterin boş bıraktığı masanın çekmecesini açtı ve defteri alıp karıştırmaya başladı. "27... 28, 29, 30." Defteri geri yerine koydu, ve iç çekerek ofisten çıktı, "Offf, bomboş. Gerçekten de ilk 2 haftanın acısını çıkarıyoruz, Umarım çok sürmez."
+* 1995-03-31 09:00
 
 
-Dedektif burada ilk şiirdeki şifreyi anlatsın, sonra bizim yazar yayımevine gitsin
+Sabah uyanınca şifreleri çözmeye çalışırken yardımcısı geliyor, "ne o gene dergiye akrostiş mi yazıyorsun açık yerleri kapatalım diye? Merak etme dün yazıyı yetiştirdim şiirlerine yer kalmadı" diye dalga geçiyor.
