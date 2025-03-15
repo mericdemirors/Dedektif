@@ -535,5 +535,27 @@ Kutusundan bir fotoğraf daha çıkaran dedektif kendi kendine konuşarak günl�
 Gün boyu boş kalan ofiste son fotoğrafı da kutudan alan dedektif günlüğü kopyalamayı bitirdi ve sandalyesine yaslanıp ağrıyan elini sıvazladı, "Şifre mifre uğraşamam, etrafı toplayıp uyumak istiyorum artık". Masasını düzenledikten sonra antrede, mesaisini çoktan bitiren sekreterin boş bıraktığı masanın çekmecesini açtı ve defteri alıp karıştırmaya başladı. "27... 28, 29, 30." Defteri geri yerine koydu, ve iç çekerek ofisten çıktı, "Offf, bomboş. Gerçekten de ilk 2 haftanın acısını çıkarıyoruz, Umarım çok sürmez."
 * 1995-03-31 09:00
 
+-Eee nasıl gidiyor, çözdün mü bari şifreyi?
+-Daha yeni başladım, dün kopyalamayı bitirip bırakmıştım, dedi masadaki sayfaları dikkatli bir şekilde inceleyip önündeki iki yığından birine koyan dedektif.
+Dedektifi izleyen yazar her zamanki yerine geçmeden önce masanın yanına geçip kağıtları inceledi. "Bugün tamamen boş sayılırım, yardım edebilirim benlik bir şey varsa, ama bir şartım var.".
+Dedektif masadaki son kalan kağıtları da yerleştirdikten sonra sandalyesinde yaslanıp tepesinde dikilen arkadaşına baktı ne isteyeceğini çözmeye çalışır gibi:
+-Neymiş bakalım şartın?
+-Ne yapıyorsan yardım ederim ama işin sonunda bizim adamdan özür dileyeceksin 'böyle böyle günlükleri okudum çaldım kopyaladım' diye tamam mı, diye tehdirkar bir tavırla sordu masadaki fotoğraf kutusunu göstererek.
+-Niye kabul edeyim ki? Bunları zaten sen yardım etmesen de tek başıma bitirebileceğimi biliyorum. Bir de üstüne durduk yere özür mü dileyeyim yani?
+Arkadaşının umursamazlığına canı sıkılan yazar koltuğuna geçti, "Benim de çok umrumda değil ne yaparsan yap, sadece adres bulma işlerine dahil olduğum için kendi nefsimi rahatlatmak istiyordum." dedi ve çantasından bir gazete alıp arkasına yaslandı. Tam okumaya başlayacaktı ki önündeki sehpaya bir tomar kağıt düştü.
+-Merak etme o kadar da yozlaşmadım. Her şey olup bitince gidip bizim elemana olanları anlatacağım. Önündekiler içinden şifre çıkması düşük ihtimal olan sayfalar, yardım etmek istiyorsan onlara bakabilirsin.
+Gazetesini geri katlayıp sehpadaki kağıtları kucağına alan yazar kaç sayfa olduğuna baktı ve çoktan kendi payına başlamış olan yazara baktı:
+-Neye bakmam gerek peki? Dünkü şifreyle falan alakalı bir şey mi arıyoruz, sahi o nasıl çözülüyordu onu da işim çıktı diye yarım bırakmıştım.
+Önündeki sayfayı baştan sonra tarayıp şifre olmadığına kanaat getiren dedektif kağıdı masanın köşesine koydu ve kendi kağıt tomarının el altındaki kağıdı çıkarıp yazara uzattı.
+-Bakalım senin payının derinlerinde neler yatıyormuş, şu 'içinde şifre olması muhtemel' sayfana bir göz atalım. Haaa dünkü şiir bu.
+-Evet dünkü şiir, çiçekçi ve falcı falan demiştin çözememiştin. Merak etme benim de çözmem biraz süre almıştı hemen öyle göz önünde olan bir şey değil yani.
+-Eee neye bakmam gerek, dedi kağıdı pencereye doğru tutan yazar.
+Yazarın yaptığına gülen dedektif, arkadaşını daha fazla yormamak için şifrelemeyi anlattı, ve ekledi:
+-Çok fazla ajanlık filmi izlemişsin, ne o öyle ışığa tutmalar falan. 2 tane sevgilinin o kadar üst düzey şifreleme kullanacaklarını mı sanıyorsun?
+-Ya ne bileyim, şifre mifre dedin aklıma ilk bunlar geliyor benim. Üstüne su atınca ortaya çıkan şifreler falan izliyoruz ya hep aklım onlara gidiyor.
+-Gider tabi köylü seni, neyse üzülme. Artık örnek bir şifre gördüğüne göre önündeki sayfalar ellerinden öper. Sadece bu tip şifrelere değil, bunların varyantı olanları da ara, belki her seferinde bir şey değiştiriyorlardır.
+Kağıdı masaya bırakan yazar kucağındaki kağıtlardan ilkini incelemeye başladı, "Yine de sadece 'seni seviyorum' demek için çok fazla uğraş değil mi?" diye sordu ve incelediği kağıdı kenara ayırırken masada çoktan kendi payına dalmış dedektife baktı.
+-Öyle veya değil, aşk maşk işlerinde mantık aramıyorum. Yargılamayı boşver bakalım, bugün milletin özelini okuyup incik cincik etme günü senle ben için.
+Önlerindeki sayfalara odaklanmış adamlar ne kadar süre geçtiğini farketmeden ofise giren Betül herkesin önüne bir kupa çay koydu, ve odada onlara katıldı.
 
-Sabah uyanınca şifreleri çözmeye çalışırken yardımcısı geliyor, "ne o gene dergiye akrostiş mi yazıyorsun açık yerleri kapatalım diye? Merak etme dün yazıyı yetiştirdim şiirlerine yer kalmadı" diye dalga geçiyor.
+Dedektif de akrostiş vs denilince aklına o şifreler geliyor onlara da bakmaya başlıyor ve en sonunda bir şekilde gerçeği anlatan olayı çözen şifreyi buluyor ve "sana gönderdiğim nottaki hislerim gerçek değil, seni korumak istedim. Gerçeği öğrenmek için nefretini yenip notu tekrar okumalısın" gibi bir şey ortaya çıkıyor.
