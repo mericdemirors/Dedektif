@@ -556,6 +556,68 @@ Yazarın yaptığına gülen dedektif, arkadaşını daha fazla yormamak için �
 -Gider tabi köylü seni, neyse üzülme. Artık örnek bir şifre gördüğüne göre önündeki sayfalar ellerinden öper. Sadece bu tip şifrelere değil, bunların varyantı olanları da ara, belki her seferinde bir şey değiştiriyorlardır.
 Kağıdı masaya bırakan yazar kucağındaki kağıtlardan ilkini incelemeye başladı, "Yine de sadece 'seni seviyorum' demek için çok fazla uğraş değil mi?" diye sordu ve incelediği kağıdı kenara ayırırken masada çoktan kendi payına dalmış dedektife baktı.
 -Öyle veya değil, aşk maşk işlerinde mantık aramıyorum. Yargılamayı boşver bakalım, bugün milletin özelini okuyup incik cincik etme günü senle ben için.
-Önlerindeki sayfalara odaklanmış adamlar ne kadar süre geçtiğini farketmeden ofise giren Betül herkesin önüne bir kupa çay koydu, ve odada onlara katıldı.
+Önlerindeki sayfalara odaklanmış adamlar ne kadar süre geçtiğini farketmeden ofise giren Betül herkesin önüne bir fincan kahve koydu, ve odada onlara katıldı. Bir yandan kendi kahvesini yudumlarken bir yandan da yazarın okumayı bırakıp sehpaya koyduğu sayfalara göz gezdiriyordu. 
+Sessiz ofiste sadece kağıt hışırtıları ve kapı sesleri duyuluyordu. Bir kez daha boş abur cubur tabağını mutfağa götüren Betül yeni kupalarda herkese birer bitki çayı ile geri döndü. Kupaların ikinci kez doldurulduğu sırada Yazarın kucağındaki sayfalar sehpaya geçmişti, masadaki alçak kağıt yığınının boyu sabaha göre hayli artmıştı ve artık son sayfalarını okuyan dedektiften gelecek sonuç heyecanla beklenmeye başlamıştı. Yazar çoktan kendi yığınından bir şey çıkmadığını Betül'e fısıldamaya başlamıştı, aynı sayfalara göz gezdiren Betül de sessizce başıyla onaylıyordu yazarı. Dedektif son kalan iki sayfayı da eline alıp, birini Betül'e uzattı:
+-Bunu Nail gördü, sana da bir göstereyim dedim. Ne diyosun bu şiire? Şifre koysan neresine koyardın, bakalım sen bilebilecek misin?
+Boştaki eliyle kağıdı alan kız çayını yudumlarken göz ucuyla şiiri okudu, üzerine çok düşünmeden geri masaya uzattı:
+-Ben anlamam böyle şifreleme kodlama işlerini. Ama edebiyatla alakalı bir bölüm okuyan biri olarak söyleyebilirim ki...
+-Sen daha birinci sınıf değil misin neyin havası bakalım bu?
+-Orası öyle Nail abi de, hepimiz dergilerde yüksek rütbelere gelmedik ancak bu kadar bilgimiz var, ben de bir nevi bunla alakalı bir şeyler okuyorum.
+Dedi ve gülümseyerek tekrar elindeki kağıdı salladı önündeki son sayfasına dalmış dedektifin dikkatini çekmek için.
+-Bence de bir şeyler farklı bu şiir için. Özellikle dize sayıları ve düzenleri. Kim 4-4-2-3 diye aşk şiiri yazar ki? Edebi olarak bunu yorumlayabilecek yetkinlikte biri olduğunu da sanmıyorum Yavuz Bey'in... En azından şiir tarafında.
+Hala elinde sallanan kağıttan kurtulmak isteyen kız kupasını sehpaya bıraktıktan sonra masanın üzerine eğilip uzak köşedeki okunmuş kağıtların üzerine bıraktı elindekini:
+-Buraya koydum, önündekiyle işin bitince bakarsın doğru mu koymuşum diye, dedi.
+Geri çekilirken kağıt kalemle bir şeylerin altını çizip yuvarlaklar çizen dedektifi gördü, ve karşısındaki yazarla, dedektifin etrafında olan biteni görmemesiyle üzerine fısıldaşmaya başladı. Birden gülüşmeleri, ayağa kalkan dedektifin elinde salladığı kağıtla bölündü:
+-Buldum! Yine şiir üzerinden şifreleme kullanmışlar. Bu seferki şifre biraz daha akıllıca ama.
+Elindeki kağıdı sehpaya fırlattı ve yavaşça süzülen kağıt sehpaya konana kadar ofsite bir sessizlik oldu. Kağıt yerine yerleştiği anda masasından kalkan dedektif tekrar heyecanlı heyecanlı konuşmaya başladı ve elinde kalemle masanın etrafından dolanıp sehpanın yanına çömeldi. Şifreyi nasıl çözdüğünü üzeri karalanmış kağıttan biir kez daha geçerek anlatırken koltukta oturan adam birden araya girdi:
+-Dur bir şu kağıdı ver de bakalım. İyice karalamışsın zaten, bir de bize anlatacaksın diye karalarsan hepten okumaz hale gelecek, dedi ve adamın sehpadan alıp karalamaya hazırladığı kağıdı elinden kaptı:
+-Bakalım ne yazıyormuş, neymiş şu şiir. Bak bu daha düzenli, 4-4 2 kıta olarak yazılmış, dedi Betül'e dönen adam ve karalamaların altında kalmış şiiri masadaki silgiyle ortaya çıkardı okuyabilmek için.
 
-Dedektif de akrostiş vs denilince aklına o şifreler geliyor onlara da bakmaya başlıyor ve en sonunda bir şekilde gerçeği anlatan olayı çözen şifreyi buluyor ve "sana gönderdiğim nottaki hislerim gerçek değil, seni korumak istedim. Gerçeği öğrenmek için nefretini yenip notu tekrar okumalısın" gibi bir şey ortaya çıkıyor.
+Be***n***im kad***e***rim, ke***f***en sa***r***dı ithaf
+bed***e***nim tap***t***aze kal***s***ada, özl***e***nir anılar,
+Seve***n***leri karanf***i***llerle bıra***k***ınca, kayb***o***lmaz rahiya.
+Yalva***r***mayın dondur***u***lmasın za***m***an, ağl***a***tır kah
+
+isti***k***bali maz***i***nin sevin***ç***liyse, b***i***r armağansa,
+sa***n***ki korku***t***ulmuş isk***e***ten kaybolaca***k***mışçasına tut.
+ko***r***ku vey***a***hut has***r***ete mecbur,
+h***o***ş tari***k***leri sun***u***yor o.
+
+Birkaç kez üzerinden geçen Nail ve Betül, hala sehpanın yanına çömelmiş vaziyette onların da şifreyi çözüm çözemeyeceğini izleyen dedektif, sonunda ayağa kalkıp masasına geçti ve az önce yığınların en üstüne koyulmuş diğer şiiri eline aldı. Sehpadaki kağıdı da arkadaşından istedikten sonra, tekrar bir kez daha, bu sefer daha az karalamaya çalışarak, şifreyi onların önünde çözdü. Betül'ün çok da umursamayan, Nail'in şifrelemeye şaşırmış ancak anlamaya çalışmaktan kafası karışmış yüzlerine bakarak tekrar lafa girdi:
+-Bence kız, sevgilisine bir şey yazmış ve onu sevmediğini vesaire söylemiş. Ama şifrede de ikinici bir kez göz atmasını istemiş. Sanırsam kızın sevgilisine yüz yüze söyleyemedi bir şeyler var, ama bu hislerini de aktarabilmek için şifreler kullanmış ve sevgilisinin yeniden bir düşünmesini istiyor.
+-Amma salladın sen de, öyle 1-2 şifre çözdün diye hemen milletin aklını mı okumaya başladın?
+-Bu söylediklerim hem şifreden çıkardıklarım, hem de şiirin anlamıyla birleştirdiklerim. Senin de dediğin gibi bu şiir daha bir özenli yazılmış. Kullanılan kelimeler öncekine göre daha bir özenle seçilmiş gibi o yüzden şiirde şifrenin dışında da bir şeyler olduğunu düşünüp ona göre yorumladım.
+Arkadaşının biraz daha ikna olmuş yüzüne bakıp, kurşun kalemle satırların altını çizmeye hepsini kendince yorumlamaya başladı.
+-Şiir ölen bir insanın, arkasında bıraktığı sevdiklerine ve yakınlarına öğütlerini anlatıyor benim gözümde. "Benim kaderim kefen sardı ithaf", yani diyor ki "benim kefenimi benim adıma kader hazırladı, zaten ölecektim. Her şey en başından belli yazılıydı".
+Şiirin yorumlanmasıyla birlikte konu biraz daha ilgisini çeken Betül masaya eğilip parmağıyla son kelimeyi gösterdi:
+-O zaman neden adam akıllı yazmamış? Edebi yazma sanatkar yazma falan da bir yere kadar. En azından ekleri falan kelimeye ekleyebilirmiş.
+Tekrar kelimelerin altını çizip harfleri yuvarlak içine alan dedektif, masadaki silgisini ararken cevap verdi:
+-O zaman da şifre tutmazdı ama, belki başka şekilde en iyi şiir yazılabilirdi. Demek ki şiiri daha da mükemmel bir şekilde yazmaya vakti olmamış, dedi ve silgiyi kağıdın üstüne koyduktan sonra satırlatı açıklamaya devam etti:
+-"bedenim taptaze kalsada, özlenir anılar", yani "benimle olan anılarınız beni çürüyüp yok olmaktan kurtarsa da, zihninizde ben taze kalsam da ölen özlenir" diyor. Sonra "Sevenleri karanfillerle bırakınca, kaybolmaz rahiya", yani "cenazeye taziyeye gelen kişiler gidince, ev sahiplerini karanfillerle başbaşa bırakınca evdeki benim o kokumu karanfiller yok edemez ben sizinle yaşamaya devam edeceğim üzülmeyin bir yere gitmiyorum" diyor, bir yandan da "benim kokumu karanfiller yok edemez, üzüntünüzü böyle şeylerle örtemezsiniz, ben aklınızda kalıp sizi üzmeye devam edeceğim bir süre" diyor.
+Boş kupasını sephaya koyup tekrar boşlarla dolu tepsiyi mutfağa götürmek üzere kalkan Betül kapıyı açtı, "Benim favori dizem buydu sanırım, şunu mutfağa bırakıp geliyorum siz devam edin", dedi ve çıktı.
+-Gene iyi yorumlamışsın, sende de varmış bir şeyler. Dergiyle dalga geçiyorsun benim yazdıklarımla uğraşıyorsun diye böyle şeylerden çok anlamıyorsun diyordum.
+Sandalyesinde yaslanan adam kalemin arkasıyla kağıda vurdu:
+-Adam akıllı yazılmış bir şeyler olunca okuyasım geliyor işte, seninkiler de bu kadar iyi olsa ciddi ciddi okurum da nerdeeee.
+Sabır çeken yazarın sözü kapının açılmasıyla bölündü ve üçlü tekrar yerlerini aldı. Dedektif açıklamaya devam etti:
+-"yalvarmayın dondurulmasın zaman, ağlatır kah", arkasında kalan sevenlerine diyor ki "zamanı durdurmaya çalışmayın hayatınızı yaşayın, evet arada ağlatır ama bu da böyle, yapacak bir şey yok". Bundan sonraki dizeler ikişer ikişer yorumlanıyor: "istikbali mazinin sevinçliyse, bir armağansa sanki korkutulmuş isketen kaybolacakmışçasına tut". Yani "benimle yaşadığınız geçmişin ilerisi, geleceğiniz eğer güzelse, onu sanki bir isketeymişçesine tut" diyor.
+-İskete ne çiçek falan mı, diye sordu sehpaya yeni getirdiği abur cuburu açıp koyan kız.
+-İskete koruma türü altında olan bir kuş türü. Sevinç, umut ve dayanıklılığı simgeler.
+-Senin şu kuş bilgin beni benden alıyor, dedi koltuğuna yaslanan yazar. Yine de dizenin anlamına bakınca gerçekten cuk oturmuş. İyi yazılan bir şiir olduğu belli oluyor.
+-Son iki dize de şöyle, "korku veyahut hasrete mecbur hoş tarikleri sunuyor o". "Gelecek günler korkunç olsa da, hasret dolu olsa da, buna rağmen güzel hoş yolları sunuyor o".
+Sehpadaki abur cuburdan bir lokma alan yazar bir süre aklında şiirin yorumunu toparlarken sessiz kaldı, lokmasını yutup lafa girdi:
+-Güzel şiir aslında, önceki şiire nazaran anlamı da yazım tekniği de daha derin. Keşke ölmüşlerin özelini karıştırıp bulmuş olmasaydık, dergide yayımlanacak kadar kaliteli çünkü.
+Karalamaları silgiyle silen dedektif sonra sehpadaki kağıtları da istedi ve hepsini düzenledikten sonra fotoğraflarla birlikte kutularına koyup kutuyu kenara kaldırdı.
+-Neyse, şimdi asıl şifrenin yorumu, ve şiirin yorumunun neden alakalı olduğunu düşündüğüme gelirsek: Şiir ölümden sonra ardında bıraktığı kişilere yaşamaya devam etmelerini söylüyor, ki bence konumuz olan ölen bir sevgiliyle gayet uyumlu. Ayrıca kızın şifreli söylediği şeye de bakarsak şunu çıkarabiliriz ki: Az önce de söylediğim gibi kız sevgilisine onu sevmediğini falan söylemiş, ama aslında sevgilisinin yaşamına devam etmesini istiyor, yani onu bir şeyden korumak istemiş. Ayrıca kızın da şiiri yazmak için kısıtlı vakti olduğunu düşünürsek, şiiri mükemmelleştirmeye vakti olmamış Betül'ün de söylediği gibi, ben buradan şunu anlıyorum...
+Bir süre duraksayan dedektif düşüncelerini toparladı, ve direkt olarak sonuca varmak yerine arkadaşları da düşüncelerini takip edebilsin diye adım adım ilerlemeye karar verdi:
+-Varsayalım ki sevgilisini çok seven bir kızım, ama ondan bir şey saklıyorum ve onu öğrenmemesi için ondan nefret ediyormuş numarası yapıyorum ama bir yandan da öğrenmesini umuyorum. 
+Dedektif bir an durup arkadaşlarına baktı takip edebiliyorlar mı diye, ve devam etti:
+-Öğrenmesini umduğuma göre kızacağı bir şey değil aldatma vesaire gibi. Ve ondan nefret ediyormuş gibi davrandığıma göre onunla alakası olmasını istemediğim bir şey, veya bana kızacağı ama bilme hakkı olduğunu düşündüğüm bir şey. Belki de çok büyük bir borcum vardı ve tefecilerin ona bulaşmasını istemedim.
+-Ama o zaman vasiyet olarak bu romanı yazmasını istemezdin yoksa tefeciler Yavuz'u bulup parayı ondan isteyebilirlerdi. Özellikle de roman bu kadar ünlü olmuşken. 
+Yavaş yavaş yazar ile sekreter de konunun içine çekiliyorlardı:
+-Yani işin içinde üçüncü bir kişi yok. Senin kendine sakladığım bir sırrın bu şifreyle ve şiirle alakalı şey, dedi elindeki abur cuburla dedektife işaret eden Betül.
+-Hmmm, peki benim gibi bir sevgili olsanız söyleyin bakalım, neyi bu şekilde sevgilinizden saklıyor olurdunuz. Ayrıca unutmayın, kısıtlı bir zamanınız var söylemek için.
+
+Burada Betül ve Nail fikirler sunacak en sonunda dedektif "hastalık doğru cevap olacaktı" diyecek.
+
+
+Uşağına soruyor "böyle böyle bir sevgili olsanız neyi saklamak istersiniz" diye, oradan da kızın hasta olma olasılığını en makulu olarak seçiyor.

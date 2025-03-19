@@ -177,7 +177,7 @@ Nolur bu sefer sonum olma, o olsun sonum.
 Be***n***im kad***e***rim, ke***f***en sa***r***dı ithaf
 bed***e***nim tap***t***aze kal***s***ada, özl***e***nir anılar,
 Seve***n***leri karanf***i***llerle bıra***k***ınca, kayb***o***lmaz rahiya.
-Kara***r***madı n***u***r se***m***am, karal***a***nmadı ervah.
+Yalva***r***mayın dondur***u***lmasın za***m***an, ağl***a***tır kah
 
 isti***k***bali maz***i***nin sevin***ç***liyse, b***i***r armağansa,
 sa***n***ki korku***t***ulmuş isk***e***ten kaybolaca***k***mışçasına tut.
@@ -185,8 +185,8 @@ ko***r***ku vey***a***hut has***r***ete mecbur,
 h***o***ş tari***k***leri sun***u***yor o.
 
 Şiir ölen bir insanın, arkasında bıraktığı sevdiklerine ve yakınlarına öğütlerini vs anlatıyor.
-* "Benim kaderim kefen sardi ithaf" = benim kefenimi benim adıma kader hazırladı zaten ölecektim diyor
-* "bedenim taptaze tutsada, özlenir anılar" = benimle olan anılarınız beni çürüyüp yok olmaktan kurtarsa da özlenir diyor
+* "Benim kaderim kefen sardı ithaf" = benim kefenimi benim adıma kader hazırladı zaten ölecektim diyor
+* "bedenim taptaze kalsada, özlenir anılar" = benimle olan anılarınız beni çürüyüp yok olmaktan kurtarsa da özlenir diyor
 * "Sevenleri karanfillerle bırakınca, kaybolmaz rahiya" = Cenazeye taziyeye gelen, ev sahiplerini karanfillerle başbaşa bırakınca evdeki benim o kokumu karanfiller yok edemez ben sizinle yaşamaya devam edeceğim diyor, bir yandan da benim kokumu karanfiller yok edemez, üzüntünüzü böyle şeylerle örtemeyeceksiniz aklınızda kalıp sizi üzmeye devam edeceğim bir süre diyor.
 * "yalvarmayın dondurulmasın zaman, ağlatır kah" = arkasında kalan sevenlerine diyor ki zamanı durdurmaya çalışmayın hayatınızı yaşayın, evet arada ağlatır ama bu da böyle.
 * "istikbali mazinin sevinçliyse, bir armağansa" = benimle yaşadığınız geçmişin ilerisi, geleceği güzelse yaşamaya devam edin diyor

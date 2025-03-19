@@ -21,18 +21,6 @@
               "icon": "lucide-file",
               "title": "Şifreli Aşk"
             }
-          },
-          {
-            "id": "d4793464cfce926b",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.9"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.9"
-            }
           }
         ]
       },
@@ -53,7 +41,7 @@
                   "state": {
                     "file": "book/Parallel Timelines.canvas",
                     "viewState": {
-                      "x": -10547.460079230226,
+                      "x": -9826.77259276557,
                       "y": -5519.71019744875,
                       "zoom": -0.6094620649019861
                     }
