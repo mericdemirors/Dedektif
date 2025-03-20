@@ -37,17 +37,14 @@
                 "id": "458355ae5e3b9884",
                 "type": "leaf",
                 "state": {
-                  "type": "canvas",
+                  "type": "markdown",
                   "state": {
-                    "file": "book/Parallel Timelines.canvas",
-                    "viewState": {
-                      "x": -9826.77259276557,
-                      "y": -5519.71019744875,
-                      "zoom": -0.6094620649019861
-                    }
+                    "file": "characters/doktor/Doktor (barış).md",
+                    "mode": "source",
+                    "source": false
                   },
-                  "icon": "lucide-layout-dashboard",
-                  "title": "Parallel Timelines"
+                  "icon": "lucide-file",
+                  "title": "Doktor (barış)"
                 }
               }
             ]
@@ -218,6 +215,8 @@
   "lastOpenFiles": [
     "book/arcs/1 Şifreli Aşk.md",
     "book/chapters/Şifreli Aşk.md",
+    "characters/doktor/Doktor (barış).md",
+    "characters/roman yazarının sevgilisi/Roman Yazarının sevgilisi.md",
     "book/Parallel Timelines.canvas",
     "Pasted image 20250315002241.png",
     "book/Event Timeline.md",
@@ -226,7 +225,6 @@
     "characters/dedektif/Dedektif (meriç).md",
     "confidential documents/drawing/video1_image1.png",
     "characters/roman yazarı/Roman Yazarı.md",
-    "characters/roman yazarının sevgilisi/Roman Yazarının sevgilisi.md",
     "characters/komiser yardımcısı/Komiser Yardımcısı (Münür).md",
     "characters/dedektif uşağı/Dedektifin Uşağı (berat).md",
     "characters/komiser/Komiser (Doğukan abi).md",
@@ -246,7 +244,6 @@
     "characters/RBA/RBA.png",
     "characters/komiser yardımcısı/Komiser Yardımcısı.png",
     "characters/komiser/Komiser.png",
-    "characters/doktor/Doktor (barış).md",
     "characters/doktor/Doktor.png",
     "characters/rus ajan/Rus Ajan.md",
     "book/arcs/5 Taziye Yemeği ve Hava Yastığı.md",

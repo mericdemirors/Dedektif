@@ -388,7 +388,7 @@ Komutla çağırmak için önce kuzgunların etrafında rahat davranması gereki
 -Peki bütün kuzgunlara öğrettin mi bunu? Veya yani sadece sana gelmelerini de öğrettin mi? Başkası taklit etse ne oluyor? Diye sordu masaya bir tomar daha kağıt çıkaran yazar kağıtlardan birini önüne alırken.
 -Kuzgunlar akıllıdır, hatta kargalardan daha akıllılardır çoğu insan aradaki farkı bile bilmez ama. Birine bir şey öğretirsen diğer kuzgunlar ondan onu izleyerek o bilgiyi öğrenirler zaten. Ayrıca ıslık ve melodi tonunu da ayırt etmeyi bilirlen o yüzden sadece benim komutlarıma cevap veriyorlar.
 -Islık mı? Komutların "gel" "uç" "getir" gibi kelimeler değil mi?
-Başını sallayan dedektif  1 uzun 4 kısa ve tekrar 1 uzun ıslık çaldı.
+Başını sallayan dedektif 1 uzun 4 kısa ve tekrar 1 uzun ıslık çaldı.
 -Bu çağırma komutu. Kelime yerine ıslık seçmemin sebebi daha anlaşılır ve daha uzun menzilli olması, dedi ve bu sefer de nefes alırken 2 kısa ıslık çalıp 3 kez dilini şaklattı. Bu da uçma komutu. Bunun diğeri kadar uzun menzilli olmasına gerek yok, zaten kuzgunu çağırdıktan sonra benden yem beklemeye başladığı için bana yakın duruyorlar.
 -Peki diğer şeyleri nasıl öğrettin?
 -"Gitme komutu ve kime gitmesi gerektiği aynı anda öğreniliyor gibi. Şöyle anlatayım." diyen dedektif yumruğunu havaya kaldırıp parmaklarıyla saydı: Kuzgunları gitmesi için eğittim 3 kişi var: yardımcım, doktorum, sekreterim. Yardımcımı genelde bir konuda acil desteğe ihtiyacım olduğunda çağırıyorum, mesela bir kovalamacada hırsızın önünün kesilmesi gerekiyor veya ofiste ekmek bitmiş gelirken ekmek al diyorum, takdir edersin ki bunlar önemli şeyler. Doktoruma gitmelerini acil bir durumda ilk yardıma falan ihtiyaç olursa diye öğrettim aslında.
@@ -590,9 +590,11 @@ Birkaç kez üzerinden geçen Nail ve Betül, hala sehpanın yanına çömelmiş
 Arkadaşının biraz daha ikna olmuş yüzüne bakıp, kurşun kalemle satırların altını çizmeye hepsini kendince yorumlamaya başladı.
 -Şiir ölen bir insanın, arkasında bıraktığı sevdiklerine ve yakınlarına öğütlerini anlatıyor benim gözümde. "Benim kaderim kefen sardı ithaf", yani diyor ki "benim kefenimi benim adıma kader hazırladı, zaten ölecektim. Her şey en başından belli yazılıydı".
 Şiirin yorumlanmasıyla birlikte konu biraz daha ilgisini çeken Betül masaya eğilip parmağıyla son kelimeyi gösterdi:
--O zaman neden adam akıllı yazmamış? Edebi yazma sanatkar yazma falan da bir yere kadar. En azından ekleri falan kelimeye ekleyebilirmiş.
+-O zaman neden adam akıllı yazmamış? Edebi yazma sanatkar yazma falan da bir yere kadar. En azından ekleri falan kelimeye ekleyebilirmiş. Az daha üstüne düşünseymiş de anlaşılacak şekilde yazsaymış.
 Tekrar kelimelerin altını çizip harfleri yuvarlak içine alan dedektif, masadaki silgisini ararken cevap verdi:
--O zaman da şifre tutmazdı ama, belki başka şekilde en iyi şiir yazılabilirdi. Demek ki şiiri daha da mükemmel bir şekilde yazmaya vakti olmamış, dedi ve silgiyi kağıdın üstüne koyduktan sonra satırlatı açıklamaya devam etti:
+-O zaman da şifre tutmazdı ama, belki başka şekilde en iyi şiir yazılabilirdi. Belki de dediğim gibi şiiri daha da mükemmel bir şekilde yazmaya vakti olmamış, dedi ve silgiyi kağıdın üstüne koyduktan sonra bir an donup kaldı. Bir süre dünyadan kopmuş gibi masada boş bir noktaya baktı, masanın çekmecesinden bir lastik alıp elindeki kağıdın bir köşesini kopardı ve yazmaya başladı: "Zelda Yayla, 22 Ocak". Koşup pencereyi açtı. 1 uzun 4 kısa ve tekrar 1 uzun ıslık. Gelen kuzgunlardan birinin sol bacağına kağıdı sabitledi ve git komutunu verdikten sonra masada onu izleyen meraklı gözlere döndü, "Şu satırları açıklamayı bitireyim her şey açıklığa kavuşacak, şimdilik şuna odaklanalım".
+-Öyle diyorsan öyledir de, yayla ne alaka? notu hafif bir açıkla en azından aklımızda kalmasın, diye sordu yazar.
+-Yayla kızın soyadı, romanın arkasında yazıyordu hatırlarsınız sanmıştım. Şu satırları bitirelim her şeyi anlayacaksınız. Diyen dedektif tekrar şiirde kaldığı yeri bulup satırları açıklamaya devam etti:
 -"bedenim taptaze kalsada, özlenir anılar", yani "benimle olan anılarınız beni çürüyüp yok olmaktan kurtarsa da, zihninizde ben taze kalsam da ölen özlenir" diyor. Sonra "Sevenleri karanfillerle bırakınca, kaybolmaz rahiya", yani "cenazeye taziyeye gelen kişiler gidince, ev sahiplerini karanfillerle başbaşa bırakınca evdeki benim o kokumu karanfiller yok edemez ben sizinle yaşamaya devam edeceğim üzülmeyin bir yere gitmiyorum" diyor, bir yandan da "benim kokumu karanfiller yok edemez, üzüntünüzü böyle şeylerle örtemezsiniz, ben aklınızda kalıp sizi üzmeye devam edeceğim bir süre" diyor.
 Boş kupasını sephaya koyup tekrar boşlarla dolu tepsiyi mutfağa götürmek üzere kalkan Betül kapıyı açtı, "Benim favori dizem buydu sanırım, şunu mutfağa bırakıp geliyorum siz devam edin", dedi ve çıktı.
 -Gene iyi yorumlamışsın, sende de varmış bir şeyler. Dergiyle dalga geçiyorsun benim yazdıklarımla uğraşıyorsun diye böyle şeylerden çok anlamıyorsun diyordum.
@@ -615,9 +617,45 @@ Dedektif bir an durup arkadaşlarına baktı takip edebiliyorlar mı diye, ve de
 -Ama o zaman vasiyet olarak bu romanı yazmasını istemezdin yoksa tefeciler Yavuz'u bulup parayı ondan isteyebilirlerdi. Özellikle de roman bu kadar ünlü olmuşken. 
 Yavaş yavaş yazar ile sekreter de konunun içine çekiliyorlardı:
 -Yani işin içinde üçüncü bir kişi yok. Senin kendine sakladığım bir sırrın bu şifreyle ve şiirle alakalı şey, dedi elindeki abur cuburla dedektife işaret eden Betül.
--Hmmm, peki benim gibi bir sevgili olsanız söyleyin bakalım, neyi bu şekilde sevgilinizden saklıyor olurdunuz. Ayrıca unutmayın, kısıtlı bir zamanınız var söylemek için.
-
-Burada Betül ve Nail fikirler sunacak en sonunda dedektif "hastalık doğru cevap olacaktı" diyecek.
-
-
-Uşağına soruyor "böyle böyle bir sevgili olsanız neyi saklamak istersiniz" diye, oradan da kızın hasta olma olasılığını en makulu olarak seçiyor.
+-Hmmm, peki benim gibi bir sevgili olsanız neyi bu şekilde sevgilinizden saklıyor olurdunuz. Sizce neden böyle yaptım, diye sordu ve sehpadaki son parçayı da eline aldıktan sonra "Ayrıca unutmayın, kısıtlı bir zamanınız var söylemek için." dedi ve ağzına atıp arkasına yaslandı.
+Düşünmek için koltuğuna yaslanan yazar, elini çenesine koyup seslice düşünmeye başladı:
+-Sadece kızla sevgilisi arasında bir şey, ve kız kısa bir sürede söylemek istiyor ama söyleyemiyor... Şehir dışına taşınacaklardır belki. Veya ne bileyim ailesi ilişkilerini bitirmeleri için kızı zorluyordur.
+-Ya da anne babası evlenmesi için kıza memur birini ayarlamışlardır, her şey çoktan ayarlanmıştır. Kızımız da söylemek istiyordur ama dili varmıyordur.
+-Çok dramatize düşünüyorsun Betül, Nail'in taşınma ilişkiyi bitirme tahmini iyi bir tahmin ama tam olayı çözmüyor sanki.
+Her ne kadar olayın en başındaki şifre çözme curcunasından itibaren umursamamış gibi gözükse de, fikrinin beğenilmemesi ile rekabetçiliği tetiklenen Betül, koltuğunda yaslandı ve karşısındaki yazara meydan okur gibi bakarak kollarını kavuşturdu.
+-Belki erkeğimiz kızımızı aldatmıştır, kız da öğrenip ayrılmak istiyordur.
+Meydan okumayı kabul eden yazar yavaş yavaş olaydan keyif almaya başladı.
+-O zaman da günlüğünü verip roman yazmasını istemezdi. Hala çok dramatik şeyler arıyorsun. Belki de Tarık'ın da bahsettiği tefecilerin olduğu senaryo gibi bir şeydir? Eğer üçüncü şahsın roman yazarının peşine düşmesi için ortada bir sebep kalmazsa her şey yerine oturuyor değil mi?
+-Buna uygun bir teorin varsa söyle, yine de duruma tam uyacağını düşünmüyorum, dedi masa başındaki adam.
+-Belki de kızın bir sapığı vardı, onu rahatsız ediyordu. Ama sevgilisi öğrenirse sapığına kötü şeyler yapar diye söylemek istemiyordu, yine de bir yandan söylemesi gerektiğini biliyordu?
+-Ama o zaman yazardan nefret etmesi için bir sebebi olmazdı yani bilemedin, diye atıldı adamın teorisini çürütmekten mutlu olan kız.
+-Belki de bu sapık çocukluk arkadaşıydı, bizim kız da onunla birlikte olmak istiyordu. Belki de aldatan taraf Yavuz değil de kızdı? Çözüm bu mu, diye sordu arkadaşına dönen yazar.
+Sandalyesine yaslanmış dedektif başını salladı, ve kendi teorisini anlatmaya başladı:
+-Benim de ilk düşüncem aldatmayla alakalıydı, şifreyi ilk çözdüğümde iki taraftan birinin aldattığı aklıma geldi. Şifrede nefret etmekten ve korumaktan bahsedildiğine göre ya erkek aldatıyordu, kız da erkeğin yazarlık kariyerini korumaktan bahsediyordu; ya da kız aldatıyordu ve erkeğe 'bunları seni korumak için sakladım' kolpasını sıkıyordu.
+-Bence ikincisi daha muhtemel, kızlar sever öyle kolpaları.
+Kendilerini süzen Betül'ün bakışları altında konudan sapmamaya dikkat eden dedektif, yazarın yorumunu gözardı ederek devam etti:
+-Biri veya diğeri, ikiside yanlış olduktan sonra bir önemi yok. Betül, şiirin özenildiğini ama yine de mükemmelleştirilmek için yaterli vakit verilmediğini söylediğinde aldatma senaryolarından vazgeçtim.
+Dedektif sandalyesinden kalkıp ellerini arkasında kavuşturup pencereden dışarıyı seyretmeye başladı:
+-Bence kızın vaktinin sınırlı olmasının sebebi, yakında öleceğini biliyor olması.
+Arkadaşlarına dönüp bir tepki bekleyen dedektif istediği merağı uyandırdığını görünce çok beklemeden devam etti:
+-Kız yakında ölecekti, ve bundan haberi vardı. Ama bunu sevgilisine söyleyip onu üzmek istemedi. Son anlarını mutlu yaşamak istedi. Ama sonu yaklaştıkça ölümünün sevgilisini çok üzeceğini farketti ve onu üzmemek için neler yapabileceğini düşünmeye başladı. Ve intihar etmeye karar verdi.
+-Saçmaladın iyice, çok dramatik çok dramatik diye bize laf anlatıyordun az önce.
+-Ben saçmalamadım, intihar eden kız saçmaladı bana göre. Sevgilisi onun arkasından üzülmesin diye ondan nefret ediyormuş gibi yapıp ayrıldı. Ardında da gerçekleri öğrenmesi için şifreler bıraktı. Bütün kriterlerimize uyuyor değil mi?
+Dedektifin senaryosunu bir süre sessizce düşünen ikili, bir çelişki göremiyordu.
+-Kısıtlı zamanı, erkeği korumak istemesini, şifrede geçen 'nefret', her şeyi açıklıyor.
+-Ama şu 'ikinci kez göz atma'kla alakalı kısmı açıklamıyor, dedi antitez bulmanın heyecanıyla arkadaşını haksız çıkarmak isteyen yazar.
+-Ona çok takılma olur öyle şeyler, orasını boşver. Birazını da sonra çözelim olmaz mı?
+Tekrar pencereye dönen dedektif etrafta toparlanmaya başlayan kuzgunları görünce gülümsedi:
+-Hem haklı olup olmadığımı yaklaşık birkaç dakika içinde göreceğiz. Bekleyelim bakalım.
+Dedektifin tahmin ettiği gibi çok kısa bir süre sonra pencere pervazında bir kuzgun belirdi. Kuşun bacağındaki notu altıktan sonra elinde hazır beklettiği yemi kendisini bekleyen kuzgunlar için pencere pervazına serpti ve pencereyi kapatıp masasına döndü.
+-Ne yazmış doktor abla, diye heyecanla atıldı daha az önce meydan okumasında iki tarafta kaybettiğin için hevesi kaçmış olan Betül.
+Kağıdı yavaşça açmaya başladı dedektif:
+-Eveeett, bakalım Banu gerçekleri aydınlattı mı yoksa düşündüğüm şeyi mi yazdı.
+-Düşündüğün şey mi? Zaten bu hastalık intihar şeyi ilk tek fikrin değil miydi, diye sordu arkadaşının birden fazla senaryosu olmasına şaşıran yazar.
+-Kağıdın küçüklüğüne bakarsak tahmin ettiğimi yazdı, dedi ve açtığı kağıdı ortaya koydu dedektif.
+"hasta mahremiyeti"
+-Offfff, yani bir şey de diyemiyorum haklı ne de olsa. Mecbur yanına gidip konuşmak gerek şimdi.
+Hevesleri kursaklarında kalan ekip, gün boyunca şifrelerle uğraşmanın yorgunluğuyla vaktin ne kadar geçtiğinin farkında değildi. Her şeyin sakinleşmesi üzerine çoktan akşam olduğunu farkettiler ve ofisi el yordamıyla toplarlayıp mutfağı da temizledikten sonra yollarını ayırdılar. 
+Dedektif, yarın dağıtıma çıkacak dergileri kontrol etmek için basımevine giden yazarı ve artık evine dönmesi gereken Betül'ü uğurladı. Masasını toparladıktan sonra hastanenin yolunu tuttu, şansına mesai bitiminde Banu Doktor'u yakalayabilirdi belki.
+* 1995-03-31 17:00
+Hastalık olayını kanıtlamak için doktora gidip ona soruyor böyle bir hasta kaydı var mı hiç diye ondan bilgi alıyor.
