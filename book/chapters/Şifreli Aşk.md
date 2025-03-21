@@ -658,4 +658,36 @@ Kağıdı yavaşça açmaya başladı dedektif:
 Hevesleri kursaklarında kalan ekip, gün boyunca şifrelerle uğraşmanın yorgunluğuyla vaktin ne kadar geçtiğinin farkında değildi. Her şeyin sakinleşmesi üzerine çoktan akşam olduğunu farkettiler ve ofisi el yordamıyla toplarlayıp mutfağı da temizledikten sonra yollarını ayırdılar. 
 Dedektif, yarın dağıtıma çıkacak dergileri kontrol etmek için basımevine giden yazarı ve artık evine dönmesi gereken Betül'ü uğurladı. Masasını toparladıktan sonra hastanenin yolunu tuttu, şansına mesai bitiminde Banu Doktor'u yakalayabilirdi belki.
 * 1995-03-31 17:00
-Hastalık olayını kanıtlamak için doktora gidip ona soruyor böyle bir hasta kaydı var mı hiç diye ondan bilgi alıyor.
+
+Danışmanın önünden hızla geçen dedektif; mesai sonu hengamesine yetişmeye çalışan, haftasonuna kalmak istemeyen insanların arasından sıyrılıp neredeyse bomboş olan bloğa girdi. Şansına o kadar koşuşturmacanın arasında kimse farketmemişti, ana binaya nazaran korkutucu derecede boş denilebilecek adli tıp ve morg bloğu içinde her zamanki ofisin yerini tuttu. Aradığı ofise geldi, "Banu Zeytindalı", kapıyı tıklattı, ses yok... Koşar adım laboratuvara indi ve kapıyı tıklattı. Bir topuklu sesi kapıya yaklaştı... Takıt, takıt, takıt, ve kapı açıldı. Mesai sonunda iş çıkmamasını uman doktor, karşısında dedektifi görünce başını uzatıp koridora baktı, kimseyi göremeyince mutsuz bir şekilde başını sallayıp dedektifi laboratuvara aldı ve kapıyı ardından kapattı:
+-Sana kaç kez kafana esince buraya sızma dedim, gerçekten bir gün başın belaya girecek ve o zaman ben yardım etmeyeceğim haberin olsun.
+-Bir şey olmaaaaz, yakalanmadığım sürece bi sıkıntı var mı? Bence yok.
+-Bence de yok ama gizli bilgilerini istediğin ölüler sanki biraz gönül koyuyor olabilir haberin olsun. Kim bu Zelda Yayla? Niye bilgilerini istiyorsun? diye sordu raporların olduğu kitaplığa ilerlerken.
+-Kendi yürüttüğüm bir araştırma için gerekli de, dedi laboratuvarda dolaşıp etrafı incelemeye başlayan dedektif.
+-Etrafı kurcalama, masama git otur birazdan raporu alıp geliyorum.
+Masanın yanına geçip asistan taburesine oturan dedektif bir süre etrafı izledikten sonra elinde raporla yanına gelen doktor söze girdi:
+-Yine her zamanki gibi, anlat bakalım neden bunu sana vermeliyim?
+-Son zamanlarda bir aşk romanı var, okudun mu bilmem. "Senden Bana Kalan" diye.
+-Eee, bana ne bu romandan?
+-Romanın içindeki ölümlerden birini araştırıyorum, arkasından ilginç bir şey çıkabilir.
+-Yani, sırf sen ilginç bir şey buldun diye kızcağızın özelini sana mı açayım?
+Çıkmaza girdiğini anlayan dedektif mesai bitimi tutulduğu için inatçılığı üzerinde olan doktoru ikna edemeyeceğini anladı. Bir süre başını kaşıdıktan sonra tabureden kalktı ve laboratuvarda tezgahlar arasında yürümeye başladı.
+-Anladım, zaten raporu vermeyeceksin. Her zamankinden yapalım mı o zaman?
+-Her zamanki yetmez, cuma akşamı vaktimi yiyorsun. Bu sefer 2 tane vaka için sözünü istiyorum. Biri senin opsiyonuna kalmış, istediğin davayı seçebilirsin, diğerini de ben seçeceğim.
+Tezgahın başında sessizce etrafı izleyen dedektif kararını verince masaya doğru ilerledi ve doktorla el sıkıştı, "2 vaka, biri benden biri senden. Zaten şu anda yapacak hiç iş yok, belki bana uğraş çıkartır. Kabul ediyorum."
+-O zaman al bakalım raporunu, dedi masasına oturan doktor raporu masanın üstüne atıp.
+Raporu alıp taburesine geçen dedektif dosyayı kucağına koyup açtı ve okumaya başladı:
+-Zelda Yayla, yaş 26... Kan grubuuu, doğum tarihiiii, TC mece geeçç... Heh ölüm bilgileri. 22 Ocak 1995, hmmmm bu adres kızın evi mi?
+Başını işinden kaldıran doktor, dedektifin uzattığı adrese baktı ve tekrar işine döndü:
+-Üçüncü bir vaka hakkı istiyorum, tamam mısın?
+Raporu geri önüne çekti dedektif:
+-Kendim de gidip görebilirim evi, zaten eminim senin de böyle bir bilgin yoktur.
+-Haklısın, sadece seni deniyordum, dedi gülümseyen doktor.
+-Neyse asıl önemli noktaya gelelim. Ölüm sebebi, "Benzodiazepin veya hipnotik ilaç zehirlenmesi sonucu solunum yetmezliği"... İleri düzeyde pankreas kanseri... Her şey yerine oturdu şimdi.
+Sayfaların geri kalanına da hızlıca göz atan dedektif raporu masaya koydu ve kalktı:
+-Bu işimi görür. Tahmin ettiğim gibiymiş.
+-Yapacak bir şey yok, üzücü. En azından yaşayacak çok bir vakti kalmamışken bunu yaptığını bilmek belki bir tık rahatlatıyordur ailesini.
+laboratuvarın soğuğundan irkilen dedektif, kendine geldi ve doktora tekrardan teşekkür edip laboratuvardan çıktı. Kendi kendine konuşarak hastaneden ayrıldı ve boş apartmanının yolunu tuttu, "Bakalım Yavuz bey bu olayların ne kadardın haberdar".
+
+
+Dedektif yazara gidip "sevgilinin neden intihar ettiğini öğrenmek ister misin?" diyince yazar şok oluyor. İntihar ettiğini nasıl öğrendin falan diyor. Dedektif de olayı anlatıyor, "günlüğün içine böyle böyle şifreli ipuçları koymuş. Neden bu yolla yaptı bilemem ama olayı kesinlikle çözebilmem için kızın sana bıraktığı enteresan bir şekilde yazılmış olan nefret notuna bakmam lazım" diyor.

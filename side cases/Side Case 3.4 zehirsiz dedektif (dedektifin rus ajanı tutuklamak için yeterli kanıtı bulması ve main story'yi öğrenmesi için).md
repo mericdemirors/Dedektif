@@ -23,4 +23,4 @@ Rus ajan bunu nasıl biliyorsunuz diyince dedektif odaya girip "öyle herkes yal
 # [[6 Sayfalar Gösteriyor#400|400]]
 "Evet sayın rus ajan hanımefendi, 10 dakika içinde bana gerçekten de her şeyi anlatıp anlatmadığınıza ben karar veririm. Siz hikayeyi kesmek istediğinizde değil, ben her şeyi anlattığınızı teyit ettiğimde bu sorgu biter." diyor, rus ajan da uzayla ilgili RBA, USA , aldığı mektuplar ve uzay araştırması detayları dosyalarının yerini vesaire anlatıyor. Dedektif de sonra "vay be gene iyi tutturmuşum", diyor pişkin pişkin sırıtarak. Neyse her şeyi anlattı artık, sorguya polis devam edebilir diyip çıkıyor, telefondaki de yardımcısıymış ona da "akşam yemeği senden, itiraf ettirdim" diyor.
 # [[6 Sayfalar Gösteriyor#500|500]]
-artık side case'ler çözüldü ve yavaştan USA RBA kısmı başlayacak.
+Dedektif, doktora verdiği vaka çözme sözlerinden birini bu vakaya harcıyor ve artık side case'ler çözüldü ve yavaştan USA RBA kısmı başlayacak.
