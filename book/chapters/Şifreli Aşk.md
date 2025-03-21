@@ -688,6 +688,22 @@ Sayfaların geri kalanına da hızlıca göz atan dedektif raporu masaya koydu v
 -Bu işimi görür. Tahmin ettiğim gibiymiş.
 -Yapacak bir şey yok, üzücü. En azından yaşayacak çok bir vakti kalmamışken bunu yaptığını bilmek belki bir tık rahatlatıyordur ailesini.
 laboratuvarın soğuğundan irkilen dedektif, kendine geldi ve doktora tekrardan teşekkür edip laboratuvardan çıktı. Kendi kendine konuşarak hastaneden ayrıldı ve boş apartmanının yolunu tuttu, "Bakalım Yavuz bey bu olayların ne kadardın haberdar".
+* 1995-04-01 09:00
+Dış kapının açılmasıyla kulibenin sıcağı dedektifin yüzüne vurdu, "Günaydınlar Hilal Hanım, Yine ben geldim", diyip gülümseyerek içeri girdi:
+-Yavuz beyle görüşecektim de, müsait midir acaba?
+-Buyrun, içeri geçin isterseniz, ben de kahvaltılık bir şeyler hazırlamayı yeni bitirdim. Tepsimi alınca size ofise kadar eşlik edeyim, diyen hizmetli antredeki koltuklardan birini gösterip misafiri yalnız bıraktı. Bir süre sonra elinde tepsiyle merdivenlerin başına geldi ve birlikte ofise çıktılar.
+-Yavuz bey bir şeyler hazırladım, içeri geliyorum şimdi.
+Açılan kapıdan gözüken ofis geçen günkü ofisin aynısıydı, sadece sanki masada fazladan bir kaç kağıt daha vardı. Aralıktan başını uzatan dedektif kapı çerçevesini tıklatıp kendini belli etti ve yazarın selamını başıyla aldı. Hizmetli tepsisini boşalttıktan sonra ofisten çıktı ve dedektifi içeri buyur etti.
+-Günaydın dedektif bey, polisçilik işleri nasıl gidiyor? Yeni bir iş çıktı mı?
+Şöminenin yanındaki koltuğuna oturan dedektif, yazarın tavırlarından hırsızlıkla ilgili bir şeyden haberi olmadığını anlayınca rahatladı ve hizmetlinin ona bıraktığı kupayı sehpadan kucağına aldı.
+-Ne olsun be, aynı yuvarlanıp gidiyorum. Dün büyük bir gelişme oldu ama. Üzerinde çalıştığım bir şifreyi çözdüm, onu konuşmak için sana geldim aslında.
+Çekmeceden yeni kağıt çıkardı yazar ve masada yer açtı, "Oooo güzeeel, anlat bakalım bana ne malzemeler getirdi."
+-Direk konuya giriyorum, biraz sert olabilir. Malzemelik bir şey değil aslında... Sevgilinin neden intihar ettiğini öğrenmek ister misin? Veya çoktan biliyor musun?
+Kalemi havada kalan yazarın kaşları kalktı ve bir süre dedektifle birbirlerine bakıştılar. Yavaş hareketlerle, hala olayı çözmeye çalışırken kalemi yavaşça masaya bıraktı. Dedektifin bakışları altında, olayın ne kadarını anlatsam ne kadarını saklasam diye tartıyormuşçasına sandalyesine yaslanıp parmaklarıyla masada ritim tuttu, ve ansızın ritmi kesin kollarını bağladı:
+-Sen ne kadarını biliyorsun? Bu saatten sonra salağı oynamanın bir faydasını göremiyorum. Ama bildiğinden fazlasını da sana açıklamaya pek niyetim yok açıkçası.
+-O zaman ben de bütün kozlarımı oynamadan önce senin elini görmek isterim. Eğer bana Sevgilinden kalan karmaşık bir şekilde yazılmış nefret mektubunu gösterirsen bildiğim her şeyi anlatırım, ne diyorsun?
+'Nefret notu' lafını duyduğu an başını öne eğen yazar kupasından bir yudum aldı. Kalkıp kitaplıktan bir kutu çıkardı ve geri yerine oturdu. Kutuyu açmadan önce dedektifi tekrar süzdü, sakin bir şekilde bekliyordu kucağında çayıyla. Sanki çoktan notu okumuşta da, acaba yazar bana notu gösterecek mi diye onu denemek istiyordu, yüzünden merak belirtisi yoktu. Yazar kutunun kapağını kaldırdı, "Ama her şeyi anlatacaksın, tamam mı? Her ne kadar özelimi açmak istemesem de, merak ediyorum bu kadar şeyi nasıl bulduğunu. Başka bir sebebim yok.". Kutudan mesajı çıkarıp masanın üstüne koydu, hala çıkar bir yol arıyor gibi durdu ve kupasından bir yudum daha aldı. Notu kaldırıp uzaktan dedektife gösterdi ve sonra geri masaya koydu.
+-Al bakalım, notu sana gösterdim, şimdi bana bildiklerini anlat. Eğer hak ettiğini düşünüyorsam okumana da izin veririm.
 
 
 Dedektif yazara gidip "sevgilinin neden intihar ettiğini öğrenmek ister misin?" diyince yazar şok oluyor. İntihar ettiğini nasıl öğrendin falan diyor. Dedektif de olayı anlatıyor, "günlüğün içine böyle böyle şifreli ipuçları koymuş. Neden bu yolla yaptı bilemem ama olayı kesinlikle çözebilmem için kızın sana bıraktığı enteresan bir şekilde yazılmış olan nefret notuna bakmam lazım" diyor.
