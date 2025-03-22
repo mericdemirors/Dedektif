@@ -683,7 +683,7 @@ Başını işinden kaldıran doktor, dedektifin uzattığı adrese baktı ve tek
 Raporu geri önüne çekti dedektif:
 -Kendim de gidip görebilirim evi, zaten eminim senin de böyle bir bilgin yoktur.
 -Haklısın, sadece seni deniyordum, dedi gülümseyen doktor.
--Neyse asıl önemli noktaya gelelim. Ölüm sebebi, "Benzodiazepin veya hipnotik ilaç zehirlenmesi sonucu solunum yetmezliği"... İleri düzeyde pankreas kanseri... Her şey yerine oturdu şimdi.
+-Neyse asıl önemli noktaya gelelim. Ölüm sebebi, "Benzodiazepin veya hipnotik ilaç zehirlenmesi sonucu solunum yetmezliği"... İleri seviye yumurtalık kanseri... Her şey yerine oturdu şimdi.
 Sayfaların geri kalanına da hızlıca göz atan dedektif raporu masaya koydu ve kalktı:
 -Bu işimi görür. Tahmin ettiğim gibiymiş.
 -Yapacak bir şey yok, üzücü. En azından yaşayacak çok bir vakti kalmamışken bunu yaptığını bilmek belki bir tık rahatlatıyordur ailesini.
@@ -701,9 +701,46 @@ Açılan kapıdan gözüken ofis geçen günkü ofisin aynısıydı, sadece sank
 -Direk konuya giriyorum, biraz sert olabilir. Malzemelik bir şey değil aslında... Sevgilinin neden intihar ettiğini öğrenmek ister misin? Veya çoktan biliyor musun?
 Kalemi havada kalan yazarın kaşları kalktı ve bir süre dedektifle birbirlerine bakıştılar. Yavaş hareketlerle, hala olayı çözmeye çalışırken kalemi yavaşça masaya bıraktı. Dedektifin bakışları altında, olayın ne kadarını anlatsam ne kadarını saklasam diye tartıyormuşçasına sandalyesine yaslanıp parmaklarıyla masada ritim tuttu, ve ansızın ritmi kesin kollarını bağladı:
 -Sen ne kadarını biliyorsun? Bu saatten sonra salağı oynamanın bir faydasını göremiyorum. Ama bildiğinden fazlasını da sana açıklamaya pek niyetim yok açıkçası.
--O zaman ben de bütün kozlarımı oynamadan önce senin elini görmek isterim. Eğer bana Sevgilinden kalan karmaşık bir şekilde yazılmış nefret mektubunu gösterirsen bildiğim her şeyi anlatırım, ne diyorsun?
+-O zaman ben de bütün kozlarımı oynamadan önce senin elini görmek isterim. Eğer bana Sevgilinden kalan karmaşık bir şekilde yazılmış nefret notunu gösterirsen bildiğim her şeyi anlatırım, ne diyorsun?
 'Nefret notu' lafını duyduğu an başını öne eğen yazar kupasından bir yudum aldı. Kalkıp kitaplıktan bir kutu çıkardı ve geri yerine oturdu. Kutuyu açmadan önce dedektifi tekrar süzdü, sakin bir şekilde bekliyordu kucağında çayıyla. Sanki çoktan notu okumuşta da, acaba yazar bana notu gösterecek mi diye onu denemek istiyordu, yüzünden merak belirtisi yoktu. Yazar kutunun kapağını kaldırdı, "Ama her şeyi anlatacaksın, tamam mı? Her ne kadar özelimi açmak istemesem de, merak ediyorum bu kadar şeyi nasıl bulduğunu. Başka bir sebebim yok.". Kutudan mesajı çıkarıp masanın üstüne koydu, hala çıkar bir yol arıyor gibi durdu ve kupasından bir yudum daha aldı. Notu kaldırıp uzaktan dedektife gösterdi ve sonra geri masaya koydu.
 -Al bakalım, notu sana gösterdim, şimdi bana bildiklerini anlat. Eğer hak ettiğini düşünüyorsam okumana da izin veririm.
+Kucağındaki kupayı sehpayan bırakan dedektif ilk tanıştıkları günün gecesinden itibaren anlatmaya başladı:
+-Detayları şu anda hızlı geçiyorum ana fikri anla diye. Gece geldim, ofisine sızdım ve günlüklere göz attım. Günlüğün en başındaki şiirin "seni seviyorum" şifresini çözdüm. Yazılanlardan yola çıkaran günlüğün içinde daha çözülecek şifreler olduğunu düşündüm ve onları da bulup onları da çözdüm. En son çözdüğüm şifrede ise...
+-"Dur dur bir dakika", dedektifin sözünü bölen yazar çekmeceden sevgilisinin günlüğünü aldı ve şiirin olduğu sayfayı açtı. "Tamam devam et şimdi".
+-En son çözdüğüm şifrede ise insanların yas tutmaktansa hayatlarını yaşamalarını anlatıyordu; sana bir nefret notu yolladığından, ve bu nota tekrar bir göz atman gerektiğinden bahsediyordu. Şifrenin yazılışına vesaire de baktıktan sonra sevgilinin intihar ettiğini tahmin ediyorum. Her şeyden kesin emin olabilmek için nefret notuna bakıp ondaki şifreyi çözmem gerek.
+Bir süre duyduklarını ölçüp tartan yazar önündeki boş kağıtlardan birine bir şeyler karaladı, nefret notunu ve kutuyu geri yerine koydu.
+-Al bakalım, notta bu yazıyor. Şifreyi çözmek için bunun yeterli olduğunu düşünüyorum. El yazısı tipine veya kağıda falan ihtiyacın yoksa notun orijinalini saklamak isterim.
+-Bu yeterli olacaktır, teşekkürler.
+-Yine de yaptıklarını sonra konuşacağız. Hırsızlık vs ciddi şeyler, umarım bana bilmediğim bir şey ortaya çıkarırsın ki seni affedebileyim.
+-Tamamdır, onları sonra konuşuruz, şimdiiii, şu notumuza bir bakalım neymiş bu not.
+Öne eğilen dedektif yazardan bir kalem istedi ve elinde kalemle notu okumaya, okurken belirli harfleri işaretlemeye başladı.
+
+İza***h***ımı am***a***cı, tasa***s***ızca, "ye***t***er!" yaz***a***rak bö***y***le, asl***ı***nda ayrıl***m***aktır.
+G***ö***r gön***l***ümü, sen***e***ler evvel***c***esini, b***e***n yüre***ğ***imde h***i***ç seve***m***edim.
+Küsta***h***lığın bunc***a***sını, çekeme***y***eceğim katlanm***a***yacağım ap***t***al uydurm***a***larına.
+Sa***k***ın "üzg***ü***nüm ku***s***ur üst***ü***mde" ya***p***ma, bö***y***le numar***a***ların geçer***s***izdir ar***t***ık, uyd***u***rma mazere***t***lerine körle***m***esine kan***a***mam.
+Kaba***h***atin, t***a***m ha***y***at anl***a***mlı olmak***t***ayken davran***ı***şların yaşa***n***tımı parç***a***ladı.
+Had***d***ini bilem***e***yerek Ya***v***uz müd***a***hil ol***m***an, öz***e***li karış***t***ırman.
+
+-Eee ne anlıyorsun, var mı bir şifre?
+-Bir saniye, başka bir şeye bakmam lazım, ilk baktığım şifre tutmadı.
+Tekrar en baştan okumaya ve harf saymaya başlayan dedektif son satırı da okuduktan sonra kağıdın altına bir kaç cümle yazdı ve notu tekrar yazara uzattı. Yazar notu okurken oda bir anlığına soğudu, şöminenin neredeyse sönecek olduğunu gören dedektif yeni odunlarla ateşi harlarken yazar konuşmaya başladı.
+-Yani haklıydın. Şu "insanların yas tutmamalarını söyleyen şiir"i biliyorum, o şiirle birlikte bunu da görünce biraz daha ikna oldum. Tek yerine oturmayan taş hastalık taşı, böyle bir hastalığın canını sıktığını bilmiyordum sen nasıl bu kadar emin olabiliyorsun?
+-İleri seviye yumurtalık kanseri... Ölüm raporunu gördüm, üzgünüm başın sağ olsun. Gelişi süresince aşırı belirgin bir semptom göstermez o yüzden senden saklaması kolay olmuş olmalı. Sonlara doğru hiç karın ağrısı, kilo kaybı vesaire gibi şeyler gördün mü?
+-Evet, önemli bir şey olmadığını, büyük ihtimalle üşütmüş olduğunu söylerdi sorduğumda da.
+Başını elleri arasına alan yazar kendi kendine konuşur gibi sessiz bir şekilde devam etti:
+-Yani elimden bir şey geleceğinden değil de... İnsan en azından bilmek istiyor... Saklamasını da anlıyorum ama, ben olsam ben de ondan saklardım üzmemek için. Böyle de bencil bir şey işte aşk.
+-Benim de anlamadığım kısım bu şifreleme kısmı, yine de kimsenin özeline bu kadar da burnumu sokup aşklarını nasıl yaşamaları gerektiğini söyleyecek biri değilim. Sadece izin ver son bir kez her şeyi toparlayıp üzerinden geçeyim: Zelda seni seviyordu, hastaydı ve yakında ölecekti. İntihar edip senden nefret etmiş gibi davrandı ki ölümünden sonra ona takılıp kalmak yerine ondan nefret edip ilerlemeni istiyordu. Günlüğe seninle geçen günleri kötü geçmiş gibi yazarsa kendini paralayıp senin yüzünden intihar etti sanardın ve ne bu romanı yazardın ne de kendini affedebilirdin. O yüzden günlüğüne her şey çok güzelmiş gibi yazdı, ve hastalıktan ölüp onun yasını tutman yerine intihar ederek ondan nefret etmeni ve hayatına devam etmeni istedi. Ama bir yanı da bütün her şeyi anlatıp doğruları bilmeni istedi o yüzden de şifreleri günlüğe ekledi. Hatta eğer sen şifreyi hızlıca çözebilirsen onu engelleme diye şifreyi çözmen için gerekli olan anahtarı günlüğündeki sadece onun ölümünden sonra okuyabileceğin bir şiire gizledi.
+Yazarın olayları sindirmesini bekleyen dedektif ayağa kalkıp masaya kadar gitti ve yazarın omzunu sıvazladı:
+-Kusura bakma böyle durumlarda ne yapılır çok bilmem, teselli olaylarını beceremem hiç. Ama şu konuda şüphen olmasın: Sevgilin seni seviyordu, nefret notu bir nevi onun garantisiydi. Seni karşısına alıp her şeyi açıklasa eminim anlardın, bazen zor olan da odur ama.
+Kupasını sehpadan alan dedektif kapıya yöneldi, söyleyecek son bir şey bulmak için masaya döndüğünde kendini biraz da olsa toparlamış gözüken yazar söze girdi:
+-Hala aklıma takılan birkaç parça var, ve görünen o ki sen bu parçaları bulup yerine oturtmakta gayet iyisin. Müsaitsen bir süre daha konuşabilir miyiz?
+Dedektif kapıyı kapatıp geri koltuğuna döndü, hala sıcak olan kupasını elleriyle sardı.
+-Tabii ki, en azından bu kadarını yapabileyim senin için.
+-Ben nefret notunu ilk başta şaka veya doğruluk mu cesaret mi cezası olarak yazdı falan sanmıştım ve çok takmamıştım, ama sonra intihar haberini alınca aklıma da takılmadı değil doğrusu. Ama hemen ardından da vasiyet olarak günlüğünü bana bırakıp romanı yazmamı isteyince "benim iyiliğimi istiyor" diyerekten üstüne tekrar çok düşünmemiştim. Belki de bizi ayırmaya çalışan biri notu onun ağzından yazdı demiştim kendi kendime yazma şekli hiç Zelda'nınkine benzemediği için... Demek şifreli yazdığı içinmiş
+Bir an duraksayıp aklındakileri toparlayan yazar ilk sorusunu sordu
+-Madem böyle bir şifre var neden normal şifreleme yöntemimizi kullanmadı sence?
+-Benim tahminim Zelda'nın eğer ikisi arasında bir çözüm yapacaksa şifreyi çözmeni istemeyeceği üzerine. O şekilde daha mutlu olacağını düşünmüş olmalı. Böyle olunca da şifreli notu yazdı ama sadece çok uğraşırsan çözebilmeni umarak yazdı. Amacı zaten çözmen değildi, şu an yaşadığın iç savaşlar onun istediği bir şey yani. Ama şifreyi yazıp olayı çözmene izin vermek de onun nefsini rahatlatması için gerekliydi. O yüzden her zamanki şifreyi kullanmadı.
 
 
-Dedektif yazara gidip "sevgilinin neden intihar ettiğini öğrenmek ister misin?" diyince yazar şok oluyor. İntihar ettiğini nasıl öğrendin falan diyor. Dedektif de olayı anlatıyor, "günlüğün içine böyle böyle şifreli ipuçları koymuş. Neden bu yolla yaptı bilemem ama olayı kesinlikle çözebilmem için kızın sana bıraktığı enteresan bir şekilde yazılmış olan nefret notuna bakmam lazım" diyor.
+Yazar "sen nasıl çözdün şifreyi" diyince, dedektif "oralara girmeyelim, ip ucu buldum halletim diyelim." diyor. "Asıl bilmek istediğin sevgilinin ailesinin romana yazdığın yalan ölüme tepkisi. Hiçbiri bir şey demedi mi?" diyince Yazar "Ailesi de aslında bana garip gelen bir şekilde ölümünü böyle yazdığım için bana teşekkür etmişlerdi, sebebini sorduğumda söylemek istemediler demek ki onlar durumu en azından bir parça biliyorlardı ve intihar olayının etrafa yayılmasını istemediler" diyor
