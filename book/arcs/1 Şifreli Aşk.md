@@ -140,6 +140,8 @@ yazar de "Mantıklı, ama sadece böyle net şekilde açıklanınca mantıklı. 
 yazar "E ne oldu iddianı kazandın mı bari" diyor, dedektif de "evet, biraz yasa dışı yöntemlere başvurmuş olsam da kazanmış oldum" diyor.
 
 
+
+
 Yazar ve sevgilisinin oynadığı şifreleme oyunu farklı akrostiş şekilleri kullanmak.
 "seni seviyorum" şifresi de günlüğün en başına ilk sayfaya yazar tarafından yazılmış bir şiirde akrostiş tiplerinden biri olarak gizli. 
 Oynadıkları oyun "herkes akrostiş yazar, zor olan cümlenin sonundaki harflerle akrostiş yapmaktır. Vermek istediğin mesajı verirken ahengi ve uyumu bozmamak, ve bu mesajı herkese göstermeden vermek ustalık ister" tarzı bir konuşma geçiyor yazarla sevgilisi arasında, o yüzden "seni seviyorum" şifresi için son harfleri kullanıyorlar.
