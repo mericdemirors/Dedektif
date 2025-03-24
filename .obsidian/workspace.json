@@ -127,7 +127,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 314.5
+    "width": 200
   },
   "right": {
     "id": "429837ed208361d4",
@@ -214,16 +214,18 @@
   "active": "6b8f2f7b0a989675",
   "lastOpenFiles": [
     "book/arcs/1 Şifreli Aşk.md",
+    "book/arcs/2 Kurabiye Hırsızı.md",
+    "side cases/Side Case 2 dul kadın (dedektifin rus ajandan haberi olması için).md",
     "book/chapters/Şifreli Aşk.md",
+    "book/Parallel Timelines.canvas",
+    "book/Event Timeline.md",
     "characters/roman yazarının sevgilisi/Roman Yazarının sevgilisi.md",
     "side cases/Side Case 3.4 zehirsiz dedektif (dedektifin rus ajanı tutuklamak için yeterli kanıtı bulması ve main story'yi öğrenmesi için).md",
     "book/arcs/6 Sayfalar Gösteriyor.md",
     "side cases/Side Case 3.2 Botulinum'lu yazar (dedektifin şeker kokulu birinin insanları zehirlediğini anlaması için).md",
     "book/arcs/5 Taziye Yemeği ve Hava Yastığı.md",
     "characters/doktor/Doktor (barış).md",
-    "book/Parallel Timelines.canvas",
     "Pasted image 20250315002241.png",
-    "book/Event Timeline.md",
     "characters/apartman tamircisi/Apartman Tamircisi.md",
     "images/study/Study Videos.md",
     "characters/dedektif/Dedektif (meriç).md",
@@ -240,7 +242,6 @@
     "book/chapters",
     "characters/Characters.canvas",
     "book/Arcs.canvas",
-    "book/arcs/2 Kurabiye Hırsızı.md",
     "book/arcs/4 Tüplerin Peşinde.md",
     "book/arcs/3 Parktaki Ceset.md",
     "characters/rus ajan/Rus Ajan.png",
@@ -252,7 +253,6 @@
     "characters/rus ajan/Rus Ajan.md",
     "book/arcs/8 Profesörün Peşinde.md",
     "book/arcs/7 Vadideki Tuzak.md",
-    "book/arcs/9 Kanlı Sahil.md",
     "images/study/video images",
     "images/study/videos",
     "images/study/vids",
