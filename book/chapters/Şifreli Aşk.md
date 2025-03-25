@@ -93,95 +93,101 @@ Dedektifin oturmasıyla pencereden kararan havayı izleyen adam yoğurdunu bitir
 Antreye giderken arkasından ofisin kapısını duyan yazar "senin de mesain bugün bu kadar mı? Betül de çıkacağım diyordu o ad gitmiş, saat 17.30 kepenkler kapanır mı?" dedi arkasını dönmeden.
 -Dışarıda bi yürüyüp gelirim belki, dedi kendisine bırakılan kitabı geri arkadaşının çantasına koyan dedektif. "Milletin emanetini taşımayı sevmem. Kitabı da okudum bitirdim her şey aklımda iddia için ihtiyacım yok", dedi ve çantanın gözünü geri kapattı.
 -İyi bari, gel durağa kadar yürüyelim oradan devam edersin.
-DIşarı çıkan iki adamın ardından kapı kapandı, dedektifin merdivenlerden gelen sesi ofisin içinde cılız bir şekilde duyuldu: "bugün yeni bir iş çıkacak gibi hissediyorum demiştim değil mi... Bakalım ne kadar büyüyecek bu iddia..."
-
-77777777
-
+Dışarı çıkan iki adamın ardından kapı kapandı, dedektifin merdivenlerden gelen sesi ofisin içinde cılız bir şekilde duyuldu: "bugün yeni bir iş çıkacak gibi hissediyorum demiştim değil mi... Bakalım ne kadar büyüyecek bu iddia..."
+***
 * 1995-03-28 09:00
 -Ofise gitmezsen sorun olmaz mı? Sen yoksen müşteri gelirse ne oluyor?
 -Betül var ofiste, sen merak etme o yapması gerekenleri biliyor. Yine arada ufak tefek şeyler kaçırıyor da gerçekten isteyebileceğimden de fazlasını yapıyor.
-Yayımevine giren adamların sohbetini koşturmaca ve kağıt hışırtısı sesleri kesti. Gürültüye şaşıran arkadaşını gören yazar birkaç adım öne geçip dedektife onu takip etmesini söyledi. Yeni sayı için meşgul olduğumuz için her zamankinden daha da gürültülü, sen bir de basım odasını göreceksin bu yine ona göre hiçbir şey, dedi sesini duyurmaya çalışarak. Sağ taratfaki sıra sıra odaları gösteren yazar koridordaki sessizlikte tekrar söze girdi: "Ofise çantamı bırakıp acil işler varsa onlarla ilgileneceğim, ondan sonra seni editörle görüştürebilirim eğer vakti varsa"
-Arkadaşının arkasından ofisine giren dedektif kapıyı kapatınca lobideki gürültü biraz daha bulanıklaştı. Yazar, masanın karşısındaki sandalyelerden birine çantasını koyarken diğer eliyle de masadaki zarfları aldı ve masanın başına geçti: Bunu geç... Bu da bekleyebilir... Şu zarfı sen al, diyerek aralardan küçük birini dedektifin önüne koydu ve kendisi de bir süre daha elindekileri saymaya devam etti. Şu anda acil yapmamız gerekenler şu taslağı okuyup geri dönüt vermek, sen de o elindekindekinin yazım hatalarını bul bu sırada.
+Yayımevine giren adamların sohbetini koşturmaca ve kağıt hışırtısı sesleri kesti. Gürültüye şaşıran arkadaşını gören yazar birkaç adım öne geçip dedektife onu takip etmesini söyledi. "Yeni sayı için meşgul olduğumuz için ayın geri kalanından daha da gürültülü şu anda, sen bir de basım odasını göreceksin bu yine ona göre hiçbir şey!", dedi sesini duyurmaya çalışarak. Sağ taratfaki sıra sıra odaları gösteren yazar koridordaki sessizlikte tekrar söze girdi: "Ofise çantamı bırakıp acil işler varsa onlarla ilgileneceğim, ondan sonra rica ettiğin gibi seni editörle görüştürebilirim eğer vakti varsa"
+Arkadaşının arkasından ofisine giren dedektif kapıyı kapatınca lobideki gürültü biraz daha bulanıklaştı. Yazar, masanın karşısındaki sandalyelerden birine çantasını koyarken diğer eliyle de masadaki zarfları aldı ve masanın başına geçti: "Bunu geç... Bu da bekleyebilir... Şu zarfı sen al.", diyerek aralardan küçük birini dedektifin önüne koydu ve kendisi de bir süre daha elindekileri saymaya devam etti. "Şu anda acil yapmamız gerekenler şu taslağı okuyup geri dönüt vermek, sen de o elindekindekinin yazım hatalarını bul bu sırada."
 Yazar kırmızı bir kalemle taslakta bir yerlerin altını çizip notlar alırken dedektif de zarfından çıkan yazıyı okumaya başlamıştı:
 -Bunlar senin alt devrelerinin yazıları mı, gene eleman iyi yazmış hata yok gibi.
 -Sendeki kağıt sağlamlardan birinin yazısı, benim şimdi baktığım da aynı onun kadar iyi yazan bi çocuk. İkisi de iyidir, güzel yazıyorlar.
 Bir süre sessiz sessiz oturan dedektif boynunu kütletip omuzlarını gevşetti ve sandalyeye yaslanıp kağıdı tekrar yüzüne kaldırdı:
 -Yazım hatası yoktu, noktalamalara bakıyorum şimdi de. Eleman çok kısa yazmış ama, hep böyle kısa mı yazıyor bu çocuk?
 Ön sayfayı bitiren yazar arkaya geçip kalemin ucundaki mürekkepi kağıdın köşesine sürdükten sonra cevap verdi:
--Senin okuduğun çocuk adım adım ilerliyor, ilk başta fikri bana sunuyor sonra da bunun gibi bir taslak veriyor, dedi kalemin ucunu mürekkebi sürdüğü yere birkaç kez vurduktan sonra. Taslaktan sonra da her bir parçayı son haline getirip bana yolluyor adım adım tekte bitiriyor. Benim baktığım çocuk da her seferinde bütün taslağa düzeltmeler yaparak ilerliyor.
+"Senin okuduğun çocuk adım adım ilerliyor, ilk başta fikri bana sunuyor sonra da bunun gibi bir taslak veriyor", dedi kalemin ucunu az önce mürekkebi sürdüğü yere birkaç kez vurduktan sonra. "Taslaktan sonra da her bir parçayı son haline getirip bana yolluyor adım adım tekte bitiriyor. Benim baktığım çocuk da her seferinde bütün taslağa düzeltmeler yaparak ilerliyor."
 -Bendeki daha iyi yani? Hatası da yok gibi zaten, sen habire bir şeyler karalayıp duruyorsun o kağıda.
-Tekrar uzun bir satırın altını çizen yazar, dilini şaklatarak başını hafif eğip geri düzeltti. "Aralarında sıralama yapmıyorum ama çalışma kalitesi olarak bendekininkini beğeniyorum, yine de sendekiyle çalışmak daha kolay benim açımdan. Sonuç olarak neredeyse eşit sayılırlar.". Tekrar kısa bir not aldıktan sonra kağıdı tekrar zarfa sokan yazar devam etti: "Sendeki her gün birkaç tane elindeki gibi tamamen bitirilmiş yazı getiriyor, her hafta bir yazı çıkarıyor diyebilirim. Bendeki gün içinde bazen 10 tane taslak getiriyor, gene aynı oranda yazı çıkarıyor sadece paralel yapıyor. Ben de aynı anda bir konuyla ilgili şeyler okuduğum için çalışması daha eğlenceli, ama yine de günde 1-2 tane neredeyse mükemmel parça okumak daha kolay." Zarfın üzerine çocuğun adını ve ofis numarasını yazan adam arkadaşına dönüp kağıdı almak için elini uzattı.
+Tekrar uzun bir satırın altını çizen yazar, dilini şaklatarak başını hafif eğip geri düzeltti. "Aralarında sıralama yapmıyorum ama çalışma kalitesi olarak bendekini beğeniyorum, yine de sendekiyle çalışmak daha kolay benim açımdan. Sonuç olarak neredeyse eşit sayılırlar.". Tekrar kısa bir not aldıktan sonra kağıdı zarfa geri sokan yazar devam etti: "Sendeki her gün birkaç tane elindeki gibi tamamen bitirilmiş yazı getiriyor, her hafta bir yazı çıkarıyor diyebilirim. Bendeki gün içinde bazen 10 tane taslak getiriyor, gene aynı oranda yazı çıkarıyor sadece paralel yapıyor. Benim için aynı anda bir sürü konuyla ilgili şeyler okuduğum için çalışması daha eğlenceli, ama yine de günde 1-2 tane neredeyse mükemmel parça okumak daha kolay." Zarfın üzerine çocuğun adını ve ofis numarasını yazan adam arkadaşına dönüp kağıdı almak için elini uzattı.
 Zarfla birlikte kağıdı uzatan dedektif sandalyede hafif öne kaydı arkadaşının zarflara ne yazdığını görmek için.
 -Eee? hata var mıydı hiç işaretlememişsin?
--Kalem vermedin ki, neyse alttan ikinci satırda cümleleri ayırırken noktalı virgül kullansın, ikinicikinci cümlede de zamiri virgülle ayırsın bence daha okunaklı olur gibi. Başka bir hata yoktu, iyi yazmış.
+-Kalem vermedin ki, neyse alttan ikinci satırda cümleleri ayırırken noktalı virgül kullansın, ikinici cümlede de zamiri virgülle ayırsın bence daha okunaklı olur gibi. Başka bir hata yoktu, iyi yazmış.
 Dedektifin söylediklerini aynen yazan yazar zarfın üzerine yazar ve ofis numarası ekledikten sonra zarfları bantladı ve masasından kalktı: "Gel benle, şunları bırakıp editöre geçeriz oradan."
 -Bu kadar mıydı acil iş? 
 -Bu kadardı. Çocuklar şu anda benden yazarlık eğitimi aldıkları için sadece yazı yazmaya odaklanıyorlar başka işlere sokmuyoruz onları. O yüzden bu düzeltmeleri ne kadar hızlı iletirsek o kadar çabuk işlerine devam ederler.
-Kapıyı açan yazar kapının dışındaki kutuya zarfları bırakıp arkadaşı da ofisten çıktıntan sonra koridordan tekrar gürültülü lobiye doğru yürümeye başladı.
--Ofiste sürekli gezen elemanlar var, sürekli postaları toplayıp ofisler arası dağıtıyorlar. Bu da yazarlık eğitiminin ilk aşaması, zarfları az sonra alırlar, dedi artmakta olan gürültüyü yenmeye çalışarak. 
-Lobiyi boydan boya geçtikten sonra karşı koridorun en sonunda, sağdaki sekreterin ofise girdiler. Ofise bağlı editör odası kapısından çıkan sekreter onları içeri buyur etti.
+Kapıyı açan yazar, kapının dışındaki kutuya zarfları bıraktı. Dedektif de ofisten çıktıktan sonra koridordan tekrar gürültülü lobiye doğru yürümeye başladılar.
+-Binada sürekli gezen elemanlar var, sürekli postaları toplayıp ofisler arası dağıtıyorlar. Bu da yazarlık eğitiminin ilk aşaması, daha sonra farklı farklı yerlerde birkaç görev daha var son adım olan dergiye yazı yazma işini kapmadan önce. Zarfları az sonra alırlar, diye arkasına seslendi artmakta olan gürültüyü yenmeye çalışan yazar.
+Lobiyi boydan boya geçtikten sonra karşı koridorun en sonunda, sağdaki sekreterin ofisine girdiler. Ofise bağlı editör odası kapısından çıkan sekreter onları içeri buyur etti.
 -Oooo hoşgeldiniz astronot bey, size de rastlamak zorlaştı iyici bizim veletler çok mu yoruyor sizi yoksa, dedi masa başındaki göbekli pala bıyıklı editör.
 Masasına geçen sekretere teşekkür ettikten sonra arkadaşıyla birlikte odaya giren yazar kapıyı da arkasından kapatınca lobiden gelen son gürültüler de tamamen kesildi. Sessizliğe bir anlığına şaşıran dedektif arkadaşının çoktan masanın karşısındaki sandalyelerden birine geçtiğini görüp onu takip.
--Hoşbulduk Süleyman abi, yeni sayının telaşından koştur koştur ancak selam vermeye gelebiliyorum işte naparsınız, üstüne bizim oğlanlar da sağ olsunlar durmadan yazıyorlar galiba elim boş kalmıyor desem yeridir. Sehpadaki şekerden birini alıp sandalyeye yaslandıktan sonra baş ucuyla arkadaşına da ikram eden yazar şekeri ağzına atıp tekrar lafa girdi: Sizde işler güçler nasıl gidiyor, her şey yolunda mı?
--Ne olsun işte, yuvarlanıp gidiyoruz. Hanımın dırdırı arttı biraz onun dışında her şey on numara beş yıldız. Neyse şimdi özele çok girmeyelim sen de meşgulsündür bi ara anlatırım, bir eliyle bıyığını düzelten adam kahvesinden bir yudum alıp devam etti: Ne içersiniz beyler Aylin Hanım'dan isteyelim hemen? Nasıl yardımcı olabilirim size.
--Sağ olasın abi, biz çok durmayalım malum çocuklar şimdiden yeni yazılarını bana yollamışlardır bile, sadede geleyim. Tarık'ı tanıyorsunuz zaten, diyip eliyle arkadaşını gösteren yazarın sözü arkadaşının hareketlenmesiyle kesildi.
+"Hoşbulduk Süleyman abi, yeni sayının telaşından koştur koştur ancak selam vermeye gelebiliyorum işte naparsınız, üstüne bizim oğlanlar da sağ olsunlar durmadan yazıyorlar galiba, elim boş kalmıyor desem yeridir.". Sehpadaki şekerden birini alıp sandalyeye yaslandıktan sonra baş ucuyla arkadaşına da ikram eden yazar şekeri ağzına atıp tekrar lafa girdi:
+-Sizde işler güçler nasıl gidiyor, her şey yolunda mı?
+-Ne olsun işte, yuvarlanıp gidiyoruz. Hanımın dırdırı arttı biraz onun dışında her şey on numara beş yıldız. Neyse şimdi özele çok girmeyelim sen de meşgulsündür bi ara anlatırım.
+Bir eliyle bıyığını kıvıran adam kahvesinden bir yudum alıp devam etti:
+-Ne içersiniz beyler Aylin Hanım'dan isteyelim hemen? Nasıl yardımcı olabilirim size?
+"Sağ olasın abi, biz çok durmayalım malum çocuklar şimdiden yeni yazılarını bana yollamışlardır bile, sadede geleyim. Tarık'ı tanıyorsunuz zaten", diyip eliyle arkadaşını gösteren yazarın sözü arkadaşının hareketlenmesiyle kesildi.
 -Ben Tarık Çelik, dedektifim. Kartımı buyur edeyim, diyip kartvizitini editörün fincanının yanına bırakıp elini uzattı.
 Uzatılan eli sağlam bir şekilde kavrayıp sıkan editör kartviziti aldıktan sonra gülerek cevap verdi:
--Evet ya, bizim Tarık değil mi bu, tanıyorum tabii. Arada eksik yazı çıktığında şiirlerinle dergiyi az kurtarmadın, gerçi Nail senin şiirleri çok beğenmiyor da, ben anlıyorum sen merak etme.
--Vay, derginin editörüne kadar şiirlerim okunmuş, Nail efendi boşa beğenmez. Nail ikimiz arasında çok şiir ve teşekkür taşımış olsa da, ilk kez yüz yüze tanışıyoruz memnun oldum. Tam aklımdaki babacan bir abisiniz, dedi hafif bir kahkahayla sandalyeye yaslanan dedektif.
--Ben de memnun oldum, siz bizi takip eder misiniz bilemem ama bizim dergide özellikle son sayıdan dolayı takipçiniz çoktur. O tabut olayı ne fenaydı öyle.
-Bir yandan canı sıkılan yazarı izleyen dedektif konuşmayı da kısa tutmak için konuya girmek istedi:
--Aman efendim abartılacak bir şey değil, yine böyle küçük bir olay var aslında. Ziyaretimizin de sebebi o. Sandalyede hafif editöre dönen dedektif biraz öne eğildi adamın dikkatini çekmek için: Yeni yeni ünlenen bir aşk romanı var, ve yazarının adresini bulmam gerekiyor olayı çözmek için, ben de dedim ki 'benim kapı gibi Süleyman abim var, bulursa o bulur başkası beceremez', Nail'i de sürükledim arkamdan getirdim nankör adam size selam versin diye.
-Yüksek bir kahkaha patlatan adam kahve fincanı devrilmeden gülmesini durdurabildi ve nefesini toparlayınca bir kalem ve kağıt alıp üstüne bir şeyler karalamaya başladı.
+-Evet ya, bizim Tarık değil mi bu, tanıyorum tabii. Arada eksik yazı çıktığında şiirlerinle dergiyi az kurtarmadın, gerçi Nail senin şiirleri çok beğenmiyor da, ben sanatının değerini anlıyorum sen merak etme.
+-Vay be, derginin editörüne kadar şiirlerim okunmuş, Nail efendi boşa beğenmez. İkimiz arasında çok şiir ve teşekkür taşımış olsa da, ilk kez yüz yüze tanışıyoruz memnun oldum. Tam aklımdaki gibi babacan bir abisiniz, dedi hafif bir kahkahayla sandalyeye yaslanan editöre gülümseyerek karşılık veren dedektif.
+-Ben de memnun oldum, siz bizi takip eder misiniz bilemem ama bizim dergide özellikle son davanızdan dolayı takipçileriniz arttı. O tabut olayı ne fenaydı öyle.
+Bir yandan canı sıkılan yazarı izleyen dedektif konuşmayı da kısa tutmak için konuya girmek istedi: "Aman efendim abartılacak bir şey değil, yine böyle küçük bir olay var aslında. Ziyaretimin de bir sebebi o aslında."
+Hafifçe sandalyede editöre dönen dedektif biraz öne eğildi adamın dikkatini çekmek için:
+-Yeni yeni ünlenen bir aşk romanı var, ve yazarının adresini bulmam gerekiyor olayı çözmek için, ben de dedim ki 'benim kapı gibi Süleyman abim var, bulursa o bulur başkası beceremez', Nail'i de sürükledim arkamdan getirdim nankör adam size selam versin diye.
+Yüksek bir kahkaha patlatan şişman adam kahve fincanı devrilmeden gülmesini durdurabildi ve nefesini toparlayınca bir kalem ve kağıt alıp üstüne bir şeyler karalamaya başladı.
 -Çok iyi yaptınız abinize gelerek. Ama bizim Nail'in de hakkını yedirmem nankörlüğün n'si yoktur onda. Bahsettiğiniz romanı galiba biliyorum, benim hanımın da dırdırını artıran 'Benden Sana Kalan'ı diyorsunuz sanırım.
-Karaladığı notu yazara uzatan adam kalemi geri yerine koydu: Neymiş efendim, bizim aşkımız solmuşmuş falan filan, çabucak unutsun şu kitabı da kurtulalım bari. Tekrardan bir kahkaha patlatıp sandalyesini geri iten editör ayağa kalkıp elini dedektife uzattı:
--Kusura bakmayın beyler daha da sohbet etmek isterdim ancak birazdan kapak tasarımı için çizerlerin katına çıkmam gerekiyor, Aylin kapıma dayanmadan yavaştan kalkayım ben. Dedektifin elini sıkmak için masanın önüne dolanan adam masaya tekrardan tanıştığına memnun olduğunu söyledikten sonra boş fincanını da alıp kapıyı açtı ve beyfendileri dışarı buyur edip arkalarından da kendisi çıktı.
--Aylin kızım Nail Bey'e yardım eder misin ben şu kapağa bir bakıp geleyim. Diyip yavaş, ama cüssesine göre hızlı adımlarla ofisten çıktı.
+Karaladığı notu yazara uzatan editör kalemi geri yerine koydu: "Neymiş efendim, bizim aşkımız solmuşmuş falan filan, çabucak unutsun şu kitabı da kurtulalım bari." Tekrardan bir kahkaha patlatıp sandalyesini geri iten editör ayağa kalkıp elini dedektife uzattı:
+-Kusura bakmayın beyler daha da sohbet etmek isterdim ancak birazdan kapak tasarımı için çizerlerin katına çıkmam gerekiyor, Aylin kapıma dayanmadan yavaştan kalkayım ben.
+Dedektifin elini sıkmak için masanın önüne dolanan adam boş fincanını da alıp kapıyı açtı ve beyfendileri dışarı buyur edip arkalarından da kendisi çıktı.
+-Aylin kızım Nail Bey'e yardım eder misin ben şu kapağa bir bakıp geleyim. Dedi fincanını sephaya bırakırken, ardından da yavaş, ama cüssesine göre hızlı adımlarla ofisten çıktı.
 Süleyman beyin çıkması üzerine fırsat kollayan dedektif arkadaşının önüne geçti:
 -Rica etsem, karşı taraf isteğimin sebebini sorarsa ropörtaj yapmak istediğimi söylerseniz sevinirim.
 Dedektifin atılganlığına şaşıran yazar onun ardından Aylin Hanım'ın masasına yaklaştı:
 -Tekrardan merhabalar Aylin Hanım, size şunu vereyim, diyip editörün yazdığı notu uzattı ve arkadaşına onun ofisinde bekleyeceklerini söyledi. Sekretere de tekrar teşekkür ettikten sonra kapıy kapatıp tekrar gürültülü lobiye nazaran daha sessiz olan ofise geçtiler.
--Burada biraz oturalım, Aylin Hanım adres bilgilerini bulup bize iletecekmiş.
+-Burada biraz oturalım, Aylin Hanım adres bilgilerini bulup bize iletecek.
 Kapıda duran dedektif biraz önce inceleyemediği ofisin içinde dolanmaya ve etrafa göz atmaya başladı. Kitaplıktaki ansiklopedileri ve cins cins Türkçe sözlükleri geçtikten sonra masanın arkasındaki kitaplıkta üst üste dizilmiş kutulardan birini indirdi.
--Neyi karıştırıyorsan geri yerine koyuver arkanı toplamayayım bir de bu kadar işin ortasında, dedi sabahtan kalan diğer zarflarla uğraşan yazar. Amma çok konuştun Süleyman abiyle, bu kadar içten sohbet etmeni beklemiyordum. Millete bu kadar kibar davranırken gelip gidip bir tek bana mı sataşıyorsun yani?
+-Neyi karıştırıyorsan geri yerine koyuver arkanı toplamayayım bir de bu kadar işin ortasında, dedi sabahtan kalan diğer zarflarla uğraşan yazar. "Amma çok konuştun Süleyman abiyle, bu kadar içten sohbet etmeni beklemiyordum. Millete bu kadar kibar davranırken gelip gidip bir tek bana mı sataşıyorsun yani?"
+Göz ucuyla ofisin kapısını kontrol eden dedektif hala kutuyu karıştırırken cevap verdi:
 -Süleyman'ın hali hatrı çok umrumda olduğundan sormadım ben de merak etme. Bilgi almak için biraz yağ çekmek gerekiyor, işimin gereksinimi desem yeridir. Şansıma adam zaten şiirlerimi okuduğundan beni az çok tanıyormuş da yardım etti.
--Senin şiirler ilk kez bi işe yaradı diyebilir miyiz o zaman? Yazarın sözü kapının açılmasıyla kesildi ve Aylin Hanım "Yavuz beyin temsilcisine ulaştım, adresini iletip iletemeyeceğine bakıp gün içinde geri döneceğini söyledi" diyip geri çıktı.
--Hadi artık adresini gün içinde alacakmışsın bak. Artık git de ben de şunlarla ilgileneyim, diyen yazar kafasını kaldırmadan eliyle dedektifi kışkışladı. O kutuları da geri yerine koy.
+-Senin şiirler ilk kez bi işe yaradı diyebilir miyiz o zaman?
+Yazarın sözü kapının açılmasıyla kesildi ve Aylin Hanım "Yavuz beyin temsilcisine ulaştım, adresini iletip iletemeyeceğine bakıp gün içinde geri döneceğini söyledi" diyip geri çıktı.
+-Hadi artık adresini gün içinde alacakmışsın bak. Artık git de ben de şunlarla ilgileneyim, diyen yazar kafasını kaldırmadan eliyle dedektifi kışkışladı. "O kutuları da geri yerine koy."
 Dedektif, kutuyu biraz daha karıştırıp geri yerine kaldırdıktan sonra kapıya doğru ilerledi:
--İki tane kalemini aldım kutudan sen de bir sürü varmış zaten, sana kolay gelsin ben kaçtım o zaman. Ofise uğrayacağım, bir ara tekrar gelirim öğle yemeğini birlikte yiyebiliriz.
+-İki tane kalemini aldım kutudan sen de bir sürü varmış zaten, sana kolay gelsin ben kaçtım. Ofise uğrayacağım, bir ara tekrar gelirim öğle yemeğini birlikte yiyebiliriz.
 Dedektif ofisten çıkıp artık sessiz olan lobiyi geçti ve dışarı çıktı, en yakın durağa yürümeye başladı.
 
 Ofisin açılan kapısının arkasından bir kafa ve kol uzanıp masadaki kıza selam verdi:
 -Gelen giden oldu mu Betül?
 -Yok, aynı devam.
--Tamamdır, bugün dışarıda olacağım ofis sana emanet, diyip cebinden çıkardığı kalemi masaya birkaç kez tıklatıp bıraktı, Nail'den çaldım artık senin oldu, dedi ve ofisin kapısı kapandı.
+-Tamamdır, bugün dışarıda olacağım ofis sana emanet, diyip cebinden çıkardığı kalemi masaya birkaç kez tıklatıp bıraktı, "Nail'den çaldım artık senin oldu", dedi ve ofisin kapısı kapandı.
 -Peki, diyen kız oyununa devam ederken kalemi çekmeceye salladı. Dedektifin ayrılması üzerine oyunun sesini biraz daha artırdı.
 
 Öğlen güneşi tenini ısıtan dedektif elindeki boş yem torbasını çöpe attıktan sonra bankına geri oturup yeri gagalayan kuzgunları izlemeye bir süre daha devam etti. Yemleri neredeyse temizleyen kuzgunlar etrafta gezinip son taneleri de aradıktan sonra teker teker uçuşup kayboldular. Üstünden geçen son kuşu da izleyen dedektif gözlerini kapatıp başını geriye attı ve derin bir nefes aldı... Bir süre daha gözkapağının altından hareket eden gözüyle ve ritim tutan parmaklarıyla planına kafa yorduktan sonra yorgunluğunu atar gibi yavaşça nefesini saldı... Ve parktan çıkıp tekrar yayımevinin yolunu tuttu. 
 Öğle arasında kendisini bekleyen arkadaşının ofisine girip bir süre son işlerini bitirmesini bekledi.
 -Bu da tamam, her şey bitti şimdilik napalım yemeği?
--Balık ekmek turşu suyu yapalım mı? O civarda bi işim var sonra oraya geçerim ben de?
+-Balık ekmek turşu suyu? Uyar mı? O civarda bi işim var sonra oraya geçerim ben de?
 Kalemini kapatıp geri diğerlerinin arasına sokan yazar kalkıp montunu aldı:
 -İyi olur ben de kütüphaneye geçecektim zaten önümüzdeki sayıya bi yazı çıkarmak için kütüphaneye gitmek istiyordum. Senin ne işin var sonunda iş mi çıktı?
--Yok ben de kütüphaneye gidecektim, araştırmam gereken birkaç şey var bizim yazarla konuşmadan önce. Aylin Hanım adresi daha getirmemiş zarf göremedim etrafta, dedi ofisini kilitleyen yazarı bekleyen dedektif.
-"Öğleden sonra gelir herhalde" çoktan koridoru geçmiş arkadaşına yetişmek için hızlanan yazar.
+-Yok ben de kütüphaneye gidecektim, araştırmam gereken birkaç şey var bizim yazarla konuşmadan önce. Aylin Hanım adresi daha getirmemiş zarf göremedim etrafta, dedi soru soran bir tonla ofisini kilitleyen yazarı bekleyen dedektif.
+-Öğleden sonra gelir herhalde, dedi çoktan koridoru geçmiş arkadaşına yetişmek için hızlanan yazar.
 
 Üzerlerine balık kokusu sinmiş iki arkadaş lokantadan çıkarken hava biraz daha ısınmıştı.
 -Ee şimdi nereye, kütüphaneye mi?
 -Turşu suyu içmek istiyorum, önce onu alalım sonra kütüphaneye yürürüz.
 -Ohh sen rahatsın tabi, iş güç yok turşu suyu içsin paşa, dedi sıcağı gördükten sonra ceketini geri çıkaran yazar.
--İstemezsen gelme zorla içirmiyoruz ya, bu turşu suyu benim için önemli. Eskiden buradaki "Hüseyin Ağa Turşucusu"ndan benim babam da turşu suyu içermiş eskiden. Beni de ilk seferimde o getirmişti onunla içmiştim. Arada bir hatırlamak için güzel oluyor.
-Turşu suyundan böyle derin bir hikaye beklemeyen yazar bir an duraksayıp cevap verdi:
+-İstemezsen gelme zorla içirmiyoruz ya, bu turşu suyu benim için önemli. Buradaki "Hüseyin Ağa Turşucusu"ndan benim babam da turşu suyu içermiş eskiden. Beni de ilk seferimde o getirmişti onunla içmiştim. Arada bir hatırlamak için güzel oluyor.
+Turşu suyundan böyle derin bir hikaye beklemeyen yazar bir an şaşıp cevap verdi:
 -Turşu suyunu bile romantize etmene gerek yok, ben de içecem zaten turşu suyunu severim.
--Seversin tabi köylü seni, dedi sırıtan dedektif. Utanmasan balık ekmeğin yanına yoğurtta isterdin de iyi bari millete rezil olmadık lokantanın ortasında.
-Bir süre arkadaşının tepkisini bekleyen dedektif sadece bir onaylamayan kafa sallama aldıktan sonra devam etti: "Turşu suyu konusunda ciddiydim ama, bu turşucunun benim için bir anlamı var, öylesine söylemedim yani."
+-Seversin tabi köylü seni, dedi sırıtan dedektif. Utanmasan balık ekmeğin yanına yoğurt da isterdin de iyi bari millete rezil olmadık lokantanın ortasında.
+Bir süre arkadaşının tepkisini bekleyen dedektif sadece bir onaylamayan kafa sallama aldıktan sonra devam etti: "Turşu suyu konusunda ciddiydim ama, bu turşucunun benim için bir anlamı var, öyle herkesi getirmem yani buraya."
 
 Turşucuya giren dedektif tezgaha ilerlerken zaten küçük dükkanı kalabalıklaştırmak istemeyen yazar dışarıda bekledi.
 -Sana da acılı aldım, fazla acı değil zaten.
 -Bakalım neymiş senin şu anlamlı turşu suyu, diyen yazar bir yudum aldıktan sonra turşunun ekşiliği ve acılığıyla yüzünü ekşitip beğendiğini gösteren bir şekilde başını salladı.
--İyiymiş, beğendim.
 Kendi bardağını çoktan yarılamış olan dedektif turşu suyunu dökmemeye çalışan arkadaşına nazaran biraz önde kalmıştı, omzunun üstünden cevap verdi kütüphaneye doğru dönerken:
 -Beğenirsin tabi, köylü seni.
+
+7777777777777777
 
 Danışmanın önünde arkadaşını bekleyen dedektif, boş bardakları çöpe atıp gelen yazara kendini göstermek için el salladıktan sonra seslendi:
 -Ben gazete arşivi için görevlilerden yardım isteyeceğim, sen istediğin bir masaya otur birazdan yanına gelirim.
