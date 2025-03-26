@@ -413,12 +413,9 @@ Son cümlelerini karalayan yazar masadaki torbayı alıp inceledikten sonra dede
 -Çok enteresan bir sistem.
 -Evet öyle, ama faydasını da çok gördüm. Müşterimi korumak için sekreterime mesaj yolladım karakolu arayıp koruma talep etmesini istedim. Başka bir zaman hırsızı kovalarken önünü kesmek için yardımcımı çağırdım. Gerçi o gelmeden adam karşı binaya atmayamayıp yere düştü ama neyse. Düşen adamı da kurtarmak için doktora mesaj yolladım gene. Şehir içi veya dışı her yerden istediğim herkese mesaj yollayabiliyorum yani.
 Dedektifin verdiği örnekleri, yazar kağıdın bir köşesine not aldı. Koltuğunda doğrulan dedektif yazara döndü:
-
-77777
-
--Aslında bunun gibi enteresan olayları ve dedektiflik işlerini anlatmak için bir otobiyografi yazmamı öneriyor dergiden çalışan yardımcım, bir aralar giriştim ama bıraktım. Sende var mı hiç otobiyografi yazma isteği. Veya günlük falan yazıyor musun?
+-Aslında bunun gibi enteresan olayları ve dedektiflik işlerini anlatmak için bir otobiyografi yazmamı öneriyor yardımcım, bir aralar giriştim ama bıraktım. Sende var mı hiç otobiyografi yazma isteği. Veya günlük falan yazıyor musun?
 Yazar, masanın alt gözünden kalın bir defter çıkardı ve dedektife göstermek için elinde biraz çevirdi:
--Ben otobiyografi olarak değil de ölümümden sonra yayımlanmasını isteyeceğim bir şey yazıyorum. Aslında günlük gibi bir şeyden ziyade benim aklıma gelen fikirler ve duygular curcunası" dedi ve içinden, masadakiler gibi karalamalarla dolu ama daha düzenli yazılmış bi kağıt çıkarıp "bu fikirden daha emin değilim o yüzden daha günlüğe eklemedim. Şimdi de aslında bunun gibi fikirler arıyorum" diyip kağıdı masadakilerin arasına koydu. Defteri de dedektife uzattı
+-Ben otobiyografi olarak değil de ölümümden sonra yayımlanmasını isteyeceğim bir şey yazıyorum. Aslında günlük gibi bir şeyden ziyade benim aklıma gelen fikirler ve duygular curcunası" dedi ve içinden, masadakiler gibi karalamalarla dolu ama daha düzenli yazılmış bi kağıt çıkarıp "bu fikirden daha emin değilim o yüzden daha günlüğe eklemedim. Şimdi de aslında bunun gibi fikirler arıyorum" diyip kağıdı masadakilerin arasına koydu. Defteri de dedektife uzattı.
 -Hmm... Masandaki kağıtlar mutfaktaki deneylerinse bunlar da tadının güzel olacağını düşündüğün yemekler o zaman. Yeni tarifler arayıp sonradan pişirmek istediklerini buna yazıyorsun. 
 Dedektifin benzetmesini beğenmiş olan yazar eliyle masadaki kargaşayı gösterdi:
 -Şimdi de yeni bir tarif arıyorum, elimdeki hiç bir şey güzel bir yemek çıkaracak gibi değil ama.
@@ -429,34 +426,35 @@ Yazar, defterini alıp geri yerine koydu:
 -Bu tip işlerde en güzel kısım en sonda olayların tamamen çözülmesi olduğu için adım adım benim neler düşündüğümü anlatmam gizemin heyecanını kaçırabilir diye düşünüyorum. O yüzden biraz daha otobiyografi tarzı bir şey yazmak istemiştim zamanında. Adına manuel-biyografi demiştim. Sonuçta işin otomatik olan bir tarafi yok, kendim yaşayıp kendim yazıyorum.
 Hafif güldükten sonra devam etti:
 -Asıl amacım yarı günlük yarı biyografi tarzı bir şey ortaya koymaktı. Düşün şimdi, 26 yaşındasın, kitap 26 yaşından itibaren tuttuğun bir günlük gibi başlıyor ama günlükte yer yer geçmişini ve olayların/yerlerin/kişilerin önemini anlatıyorsun bi nevi de biyografi gibi oluyor yani. Fikir çok hoşuma gitmişti, hatta yazmaya da başlamıştım biraz günümü anlatıyordum biraz kendimden bahsediyordum. Aralara parantezler açıyordum 'bu bahsettiğim kişiler şu anda size yabancı geliyor ama önemini çok sonradan anlayacaksınız, önümüzdeki günlerde anlatırım' tarzında.
-Biraz duraksayıp kendisini dinleyen yazara bakıyor. Az önceki heyecanı durgunlaşmıştı:
--Sonra farkettim ki kim benim hayatımı ne yapsın. Yani evet bunu yazmak güzeldi eğlenceliydi falan ama insanlar görsün diye yapmaktan ziyade kendim hoşuma gittiği için yapıyordum, bir süre yazmayı bıraktım hem yazacak bir şey olmuyordu hem de yazma sebebimi kaybetmiştim. Sonra bir gün tekrar yazmayı deneyince farkettim ki insanların hayatımı öğrenmesini istemiyordum, hele benim için özelim olan detayları, kişileri/yerleri vs kimseye açmayı sevmem ben. Kendi kendime, arkamda iz bırakmadan anonim yaşayıp gitmeyi severim. Olmuş bitmiş anıların anı olarak, benim özelimin de özel olarak kalmasını isterim. O yüzden bıraktım yazmayı.
-Oda bir süreliğine sessizleşiyor, dedektifin daha söyleyecekleri olduğunu anlayan yazar dinlemeye devam ediyor:
+Biraz duraksayıp kendisini dinleyen yazara baktı.
+-Sonra farkettim ki kim benim hayatımı ne yapsın. Yani evet bunu yazmak güzeldi eğlenceliydi falan ama insanlar görsün diye yapmaktan ziyade kendim hoşuma gittiği için yapıyordum, bir süre yazmayı bıraktım hem yazacak bir şey olmuyordu hem de yazma sebebimi kaybetmiştim. Sonra bir gün tekrar yazmayı deneyince farkettim ki insanların hayatımı öğrenmesini istemiyordum, hele benim için özelim olan detayları, kişileri/yerleri vs kimseye açmayı sevmem ben. Kendi kendime, arkamda iz bırakmadan gizlice yaşayıp ölüp gitmeyi severim. Olmuş bitmiş anıların anı olarak, benim özelimin de özel olarak kalmasını isterim. O yüzden bıraktım yazmayı.
+Oda bir süreliğine sessizleşti, dedektifin daha söyleyecekleri olduğunu anlayan yazar elinde kalemle dinlemeye devam etti.
 -Arada birine böyle anlatınca tekrar heveslenirim yazmak için, ama işte ben aslında yazmayı değil de yakın bir arkadaşımda böyle otururken bu konulardan bahsetmeyi seviyorum.
 Yazar az önce yerine bıraktığı kalın defterine doğru baktı:
--Anlıyorum, romanı yazarken suçluluk duyma sebebimle çok benzer. Ben de kişinin özeli özel olarak kalsın isteyenlerdenim. Ama Zelda romanı yazmamı isterdi diye biraz da kendimi bile bile kandırarak yazdım aslında. Anılar anı olarak kalmalı ifadene katılıyorum. Bu zamandan sonra o hatıraları hatırlamak bana yettiği gibi sana da yeter eminim.
+-Anlıyorum, romanı yazarken suçluluk duyma sebebimle çok benzer. Ben de kişinin özeli özel olarak kalsın isteyenlerdenim. Ama Zelda romanı yazmamı isterdi diye biraz da kendimi bile bile kandırarak yazdım. Anılar anı olarak kalmalı ifadene katılıyorum. Bu zamandan sonra o hatıraları hatırlamak bana yettiği gibi sana da yeter eminim.
 -Doğru söyledin, bir anı var olduğu veya kaydedildiği için değil, yaşanıp bittiği için güzeldir.
 Bir süre sanki havalı bir söz söylemiş gibi yazarla bakıştıktan sonra ikisi birden kahkaha patlattı.
 -Neyse onu bunu boşver de, masadan bir şey çıktı mı? Yeni umut verici tarifler var mı hiç?
 -Şimdilik bir şeyler yok, konuşacak biri olması da iyi oldu aslında yoksa günüm boş geçecek gibiydi. Ne zaman istersen gel yine ateşin önünde konuşalım seninle. Eski soruşturmalarını falan anlat malzeme çıkar bana da.
--Kartımı şöyle takdim edeyim o zaman, yavaştan da izin isteyeyim ben. İçimiz ısındı şömine sağ olsun. Gecenin soğuğu daha da bastırmadan kalkayım. Ayva için de ateş için teşekkürler.
-Ve yazarla tokalaşan dedektif tekrar merdivenlerden indi. Çıkmadan önce Hilal Hanım'la da tekrar selamlaştı ve ofise dönmek üzere tekrar karların kapattığı patikada karanlığa yürüdü.
+-Kartımı şöyle takdim edeyim o zaman, yavaştan da izin isteyeyim ben. Şömine sağ olsun içim yeterince ısındı. Gecenin soğuğu daha da bastırmadan kalkayım. Ayva için de ateş için teşekkürler.
+Yazarla tokalaşan dedektif merdivenlerden indi. Çıkmadan önce Hilal Hanım'la da tekrar selamlaştı ve ofise dönmek üzere karların kapattığı patikada karanlığa yürüdü.
 
 Tam dedektif içeri girdiğinde ders kitaplarını toparlayan Betül, tam çıkmak üzere olduğunu ve gün boyunca hiç bir şey olmadığını rapor ettikten sonra ofiste oturan Nail abisiyle de vedalaşıp çıktı. Ofiste roman yazarıyla neler olduğunu dinlemek için kendisini bekleyen Nail'le selamlaşan dedektif, masasına geçtikten sonra olanları anlattı. Araya girmeden dedektifin hikayesini dinleyen yazar, bir süre sessizce oturup onaylamayan bakışlarını odada gezdirdikten sonra tepkisini bekleyen dedektife patladı:
 -Sen salak mısın? Ben o kadar uğraşıyorum, araya editör sekreter falan sokuyorum sen gidip adamı tehdit mi ediyorsun! Ya polisi çağırsaydı, o zaman ne yapacaktın? Torpil ve tanınırlığımı kullanmayı sevmem diyorsun ama işine gelince kendini kurtarmak için kullanmayı mı düşünüyordun?
-Sinirden sorusuna cevap bile beklemeden tekrar başladı masasına oturmuş onu izleyen dedektifi:
+Sinirden sorusuna cevap bile beklemeden tekrar başladı masasına oturmuş onu izleyen dedektifi haşlamaya:
 -Ya adam bizi şikayet etseydi? Adresimi böyel bir sapığa veriyorsunuz diye skandal çıkarsaydı. Adamın kendi temsilcisinden başlayarak dergide sana adresi vermeye uğraşan herkes davalık olurdu.
 Arkadaşının bitirmesini bekleyen dedektif odada tekrar bağrışmalar yaşanmadan hızlıca söze girdi:
--Bir: salak değilim, bir şekilde halledeceğim dedim ve hallettim. İki: Adam adresini dergiden aldığımı bilmiyor, tamamen anonim anlattım hikayeyi korkmana gerek yok. Eğer temsilcisine "Sen adresimi kime verdin" diye sorarsa ancak o zaman adresinin bir ropörtaj için sizin derginize verildiğini öğrenebilir. Böyle bir durum yaşanmasın diye de Aylin Hanım'a durumu özellikle tembihlemiştim hatırlarsan. Sen de durumu garantiye almak istersen bi ara gidersin "Ropörtaj için dergiden geliyorum. Aaaa demek adresiniz sızdı hiç haberim yok" diye rol yaparsın olur biter.
+-Bir: salak değilim, bir şekilde halledeceğim dedim ve hallettim. İki: Adam adresini dergiden aldığımı bilmiyor, tamamen isim kullanmadan anlattım hikayeyi korkmana gerek yok. Eğer temsilcisine "Sen adresimi kime verdin" diye sorarsa ancak o zaman adresinin bir ropörtaj için sizin derginize verildiğini öğrenebilir. Böyle bir durum yaşanmasın diye de Aylin Hanım'a durumu özellikle tembihlemiştim hatırlarsan. Sen de durumu garantiye almak istersen bi ara gidersin "Ropörtaj için dergiden geliyorum. Aaaa demek adresiniz sızdı hiç haberim yok" diye rol yaparsın olur biter.
 Arkadaşının sakinleştiğini gören dedektif sözünün kesilmeyeceğinden emin olduktan sonra konuşmasını yavaşlattı
 -Polisi de çağırmayacağı biliyordum, polis geldikten sonra benim iddiamı dinleselerdi günlüğe olası cinayet davası kanıtı olduğu için el koyarlardı ve günlükteki asıl son ortaya çıkardı. Polisi çağırıp çağırmayacağını görüp günlükteki sonun gerçekten romandakinden farklı olup olmadığını öğrenmek istemiştim o yüzden kazanacağımdan emin olduğum bir blöf oynadım. Tahmin ettiğim gibi de günlüğün sonunda kimseye göstermek istemediği bir şeyler varmış.
+Her ne kadar evhamı geçse de, arkadaşının kendini beğenmiş tavırları yüzünden hala canı sıkılan yazar merağına yenik düştü:
 -Peki sence kızı gerçekten o mu öldürdü?
-Dedektif daha sorunun bitmesini beklemeden başını salladı:
+Dedektif daha sorunun bitmesini beklemeden başını sallamaya başlamıştı gelecek soruyu bilir gibi:
 -Sanmam, sadece nasıl tepki verecek diye bakmak için söylemiştim onu.
--Anladım, dedi tamamen sakinleşmiş olan yazar, gene adamın gönlünü almışsın gibi biyografi falan konuşarak. Temsilcisine kızacağını sanmam.
+-Anladım, dedi artık tamamen sakinleşmiş olan yazar, "gene adamın gönlünü almışsın gibi biyografi falan konuşarak. Temsilcisine kızacağını sanmam."
 -O konuyu da aslında otobiyografiden bahsedince ne tepki verecek diye merak ettiğim için açtım. Doğal olarak onunla ilgili bir şey varsa gözü oralara kayacaktır diyordum tahmin ettiğim gibi çekmecenin birinden kendi günlüğünü çıkardı bana verdi. Eminim kızın günlüğü de o çekmecede kitli bi kutunun içinde falan duruyordur.
--Gene başladın atıp tutmaya, senin şu kaybolan kayak grubu hipotezi doğru olabilir ama ben yine de olayın arkasından bir şey çıkacağını sanmam. Sevgilisi olan bir adamı darlıyorsun sadece benim gözümde, dedi ve bir kahkaha attı koltukta oturan adam. Sonra da ayağa kalkıp müsaade istedi ve dedektif ofiste tek başına kaldı. Birkaç dakika sessiz ofiste oturdu, ve derin bir nefes alıp kalktı. "Şu kulübemizi tekrar bir ziyaret edelim bakalım".
-
+-Gene başladın atıp tutmaya, senin şu kaybolan kayak grubuna dayandırdığın yalancı ölüm hipotezi doğru olabilir ama ben yine de olayın arkasından bir şey çıkacağını sanmam. Sevgilisi yeni yakın ölen ünlü bir adamı darlıyorsun sadece benim gözümde, dedi ve ayağa kalkıp müsaade istedi. Tek başına kalan dedektif bir süre sessiz ofiste kafasını toparladı ve derin bir nefes alıp kalktı. "Şu kulübemizi tekrar bir ziyaret edelim bakalım, Yavuz efendi neler saklıyormuş".
+***
 -Ooooo dedektif efendi, seni buralarda görür müydük ya?
 Giriş kat pencere başında çay içen adam dedektife el salladı:
 -Biz de ünlü oldu da buraları unuttu diyorduk tam. Az daha senden haber alamasam senin daireye yeni kiracı aramaya başlayacaktım, dedi ve yüksek bir kahkaha attı.
