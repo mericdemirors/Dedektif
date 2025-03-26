@@ -59,7 +59,7 @@ Biplemeler arasından ancak sesini duyurmaya yetecek bir sesle, "İstemez, uzakt
 -Hmmm... Bakalım neymiş bu ünlü roman
 
 Merhabalar sayın okur, ben Senden Bana Kalan'ın yazarı Yavuz Yalnız. Sevgilim Zelda Yayla'yla geçirdiğim zamanı ilk başlarda bir tür otobiyografi olarak yazmaya başlamıştım ileride okuruz günleri yad ederiz diye ancak sevdiğimin vefatı ve vasiyetinde bana bıraktığı günlüğü ile onun isteği üzerine yazdıklarımı bir aşk romanı yaptım. Aranızdak illa ki bunu onaylamayanlar veya garip bulanlar olacaktır, hatta ben de ilk başta özel şeyler özel olarak kalmalı diye düşündüğüm için bu fikre çok yakın bakamamıştım, ancak benim için asıl önemli olan Zelda'nın bu dünyadan mutlu bir şekilde göçmüş.
-
+***
 * 1995-03-27 17:00
 "Dış kapının açılmasıyla poşet hışırtısı antreyi doldurdu, Hoşgeldin Nail abi, ofise geçerken poşetleri mutfak kapısına bırakırsan az sonra yerleştiririm ben", dedi sandalyesinden kalkan kız.
 -Hepsini sana yüklemeyeyim bi ucundan da ben tutayım gel hızlıca halledelim birlikte, dedi koridora geçen adam. Poşetleri mutfağa bırakıp geri antreye geldi: "Senin mesain bitti sayılır hatta, ben yaparım bunu sen yavaştan çıkmaya hazırlan istersen."
@@ -187,140 +187,138 @@ Turşucuya giren dedektif tezgaha ilerlerken zaten küçük dükkanı kalabalık
 Kendi bardağını çoktan yarılamış olan dedektif turşu suyunu dökmemeye çalışan arkadaşına nazaran biraz önde kalmıştı, omzunun üstünden cevap verdi kütüphaneye doğru dönerken:
 -Beğenirsin tabi, köylü seni.
 
-7777777777777777
-
-Danışmanın önünde arkadaşını bekleyen dedektif, boş bardakları çöpe atıp gelen yazara kendini göstermek için el salladıktan sonra seslendi:
+Danışma masasının önünde arkadaşını bekleyen dedektif, boş bardakları çöpe atıp gelen yazara kendini göstermek için el salladı:
 -Ben gazete arşivi için görevlilerden yardım isteyeceğim, sen istediğin bir masaya otur birazdan yanına gelirim.
-Başıyla onaynayan yazar kütüphanenin cam kapısından girip raflar arasında kaybolurken danışma masasının ardından öğle molası biten çalışanların ayak sesleri duyulmaya başladı.
+Başıyla onaynayan yazar kütüphanenin cam kapısından girip raflar arasında kaybolurken masanın ardından öğle molası biten çalışanların ayak sesleri duyulmaya başladı.
 -İyi günler beyfendi nasıl yardımcı olabilirim?
 -Merhabalar kolay gelsin, gazete arşivinde belirli bir günün gazetelerine bakmak istiyorum da,
 -Tamamdır. Hangi güne bakmak istersiniz? Eğer çok eski bir tarihse gazeteyi ne yazık ki size veremeyiz, biz sizin için bakıp size bilgi verebiliriz ancak.
--Bu yıl ocağın 22'sindeki yerel haberlere bakmak istiyorum.
+-Bu yıl ocağın 22'sindeki yerel gazetelere bakmak istiyorum.
 Önündeki bilgisayara tarihi giren görevli sayfanın yüklenmesini beklerken duvara asılı anahtarlardan gazete arşivinin anahtarını alıp masaya geri döndü:
--7 tane gazete görünüyor sistemde, istediğin özel biri var mı?
+-7 tane gazete görünüyor sistemde, istediğiniz özel biri var mıdır?
 -Mümkünse hepsi lütfen.
--Tamamdır, sisteme giriş yaptım, birkaç dakika içinde arkadaşım gazeteleri getirecektir. İçeride masanız varsa numarasını söylerseniz oraya yönlendirebilirim isterseniz.
+-Tamamdır, sisteme girişi yaptım, birkaç dakika içinde arkadaşım gazeteleri getirecektir. İçeride masanız varsa numarasını söylerseniz oraya yönlendirebilirim isterseniz.
 Cam kapıdan içeriye bir göz atan dedektif yazarı masalardan birinde göremeyince tekrar görevliye döndü:
 -Daha masam yok teşekkürler.
-Birkaç dakikanın ardından elinde gazetelerle kapıdan giren dedektif, kitaplıklar arasındaki büyük bir masaya oturmuş önüne ansiklopediler açmış yazarı buldu. Karşısındaki sandalyeye oturup gazeteleri üst üste koyup sayfa sayfa taramaya başladı:
--Bakalım burada hangi kazalar varmış, "Dündar Kılıç'ın kızı... Kartalkaya, bu da değil..." (https://gazetearsivi.milliyet.com.tr/liste?tarih=1995.01.22). İlk gazeteyi bitirip kenara koydu ve diğerlerinden devam etti. "Kayak spor kulübünden haber yok... Otoyolda kayan kamyon yoldan çıkıp çukura saplandı... Bunlar da değil."
+Birkaç dakikanın ardından elinde gazetelerle kapıdan giren dedektif, kitaplıklar arasındaki büyük bir masaya oturmuş, önüne ansiklopediler açmış yazarı buldu. Karşısındaki sandalyeye oturup gazeteleri üst üste koyup sayfa sayfa taramaya başladı:
+-Bakalım burada hangi kazalar varmış, "Dündar Kılıç'ın kızı... Kartalkaya'da soğuk..., bu da değil..." (https://gazetearsivi.milliyet.com.tr/liste?tarih=1995.01.22). İlk gazeteyi bitirip kenara koydu ve diğerlerinden devam etti. "Kayak spor kulübünden haber yok... Otoyolda kayan kamyon yoldan çıkıp çukura saplandı... Bunlar da değil."
 Kalan gazeteleri de inceledikten sonra aradığını bulamamanın verdiği mutsuzlukla sandalyesine çöken dedektif ansiklopedilerden not defterine bir şeyler geçiren arkadaşına baktı.
 -Ne yazısı istediler?
 -Yeni bir köşe ekliyorlarmış dergiye 'Evde Bilim' diye. Çocukları teknolojiye ve bilime ısındırmak için. Yayımevine de yeni bir bilgisayar sipariş etmişler o gelene kadar köşeyi aktif tutacak bir şeyler yaz dediler.
 Ansiklopedileri incelemek için yazarın yanındaki sandalyeye geçen dedektif yerleşirken hala not çıkaran adam devam etti:
--İlk köşe biraz daha tanıtım amaçlı olacakmış onu zaten yazmışlar, benden bir sonraki köşelerin temalarını belirlememi istediler, şu anda şu sırayla seçtim:
-1- Bilgisayar nedir, nasıl çalışır? Basit bir şekilde mantığını, bilgisayarların ne işe yarayabileceğini ve yurt dışında hangi eğlenceli amaçlar için kullanıldığını anlatmak
-2- Bilgisayardan sonra sırada ne var? Ülkemizde ve Dünya'da teknolojinin gelişimi nasıl ilerliyor?
-Üçüncü konuyu hazırlıyorum şimdi de, bilgisayarlar bize nasıl yardım edebilir temalı bir şey düşünüyorum. Okyanuslarda yapılan araştırmalara, eğitime etkisini vs anlatırım herhalde. Aynı sayıya denk gelecek şekilde uzayda bilgisayarların kullanımı ve etkisiyle alakalı başka bir yazı da yazarım diyorum.
-Yazarın kenara koyduğu kitapları önüne çeken dedektif bir yandan onları karıştırırken bir yandan da "Mantıklıymış, bence güzel duruyor. Uzay ve okyanus işi biraz alakasız dursa da olur gibi herhalde" dedi.
--Uzay ve okyanus kısmı biraz da dikkat çekmek için yoksa konuyla tam uyumla bir tema değil zaten, kabul almazsa değiştiririm de ben araştırırken eğleniyorum çocuklar da sever herhalde.
+-İlk köşe biraz daha tanıtım amaçlı olacakmış onu zaten yazmışlar, benden bir sonraki köşelerin temalarını belirlememi istediler, şu anda şu sırayla seçtim: Bir bilgisayar nedir, nasıl çalışır? Basit bir şekilde mantığını, bilgisayarların ne işe yarayabileceğini ve yurt dışında hangi eğlenceli amaçlar için kullanıldığını anlatmak. İki bilgisayardan sonra sırada ne var? Ülkemizde ve Dünya'da teknolojinin gelişimi nasıl ilerliyor? Üçüncü konuyu hazırlıyorum şimdi de, bilgisayarlar bize nasıl yardım edebilir temalı bir şey düşünüyorum. Okyanuslarda yapılan araştırmalara, eğitime etkisini vs anlatırım herhalde. Aynı sayıya denk gelecek şekilde uzayda bilgisayarların kullanımı ve etkisiyle alakalı başka bir yazı da yazarım diyorum.
+Yazarın kenara koyduğu kitapları önüne çeken dedektif bir yandan onlara göz attı, "Mantıklıymış, bence güzel duruyor. Uzay ve okyanus işi biraz alakasız dursa da olur gibi herhalde".
+-Uzay ve okyanus kısmı, biraz da dikkat çekmek için; yoksa konuyla tam uyumla bir tema değil zaten; kabul almazsa değiştiririm de ben araştırırken eğleniyorum çocuklar da sever herhalde.
 -Peki sen bunları çocuklara anlatabilecek misin, diye sordu dedektif masadaki kitapları ve gazeteleri düzenlerken. "Bilgisayarların nasıl çalıştığını koca koca adamlar anlayamıyor tam olarak, çocuklara karışık gelmeyecek mi?"
--Bakalım ya, yayımevine bilgisayarı kurmaya gelen kişi bir kaç gün bakım ve bize bilgisayarı anlatmak için gidip gelecek. Ondan öğrendiğin kadarıyla anlatırım bir şekilde.
--Hadi bakalım, ben şu gazeteleri bırakıp geliyorum. Senin de işin bitince çıkarız, diyen dedektif sandalyeyi masanın altına itip etrafı toparladı. Birkaç dakika sonra masaya dönen dedektif arkadaşının da kitapları toparlamasına yardım etti, birlikte kütüphaneden çıktılar ve durağa yürümeye başladılar.
+-Bakalım ya, yayımevine bilgisayarı kurmaya gelen kişi birkaç gün bakım ve bize bilgisayarı anlatmak için gidip gelecek. Ondan öğrendiğin kadarıyla anlatırım bir şekilde.
+"Hadi bakalım, ben şu gazeteleri bırakıp geliyorum. Senin de işin bitince çıkarız.", diyen dedektif sandalyeyi masanın altına itip etrafı toparladı. Birkaç dakika sonra masaya dönen dedektif arkadaşının da kitapları toparlamasına yardım etti, birlikte kütüphaneden çıktılar ve durağa yürümeye başladılar.
 -Ne yaptın bulabildin mi aradığın kazayı?
 -Gariptir ki ortada yazarın anlattığı gibi bir kaza yok ama aynı gün olan araba kazası falan var. Neden zaten yaşanmış bir olayı kullanmadı merak ediyorum. Yalandan bir kaza uydurmuş kitaba.
 -Kendini boşa yorma bence, iddiayı kaybedeceksin zaten. Yazarı da çok darlama. Kitap satsın diye bir şeyler yazmış işte.
 Başını sallayan dedektif, "Ortada tam olaya uyan çok güzel bir kaza varmış. Kayak yaparken kaybolan bi ekip varmış mesela. Yazar sevgilisiyle kayak tatiline gitse orada sevgilisi kaybolsa sonra onu bulamasa da kız öyle ölse mesela? Çok harika bi son olur. Şimdi de karakola gidiyorum bizim komiserleri göreceğim bu kayak grubunun aramaları ne alemde onu soracam. Eğer aramalar da ekibin tamamı bulunamadıysa kitabı bitirmek için harika bir son olurdu." dedi.
--Gene de unutma iddianın aslı yazarın istediği yazıp yazmadığıyla ilgiliydi kazanın gerçekliği değildi. Dediklerin doğruysa bile yazar bile isteye bu yalan ölümü yazmışsa ben kazanırım.
--Yalandan bir kaza uydurmasının hala bi sebebi olması gerektiğini düşünüyorum, biraz daha derine insem olay bi şekilde çözülecek gibi, diyen dedektif arkadaşını durağa bıraktıktan sonra karakoldan dönüşte adresi almak için ofisine tekrar geleceğini söyledi ancak tam gidecekken arkadaşı arkasından seslendi:
+-Gene de unutma, iddianın aslı yazarın istediği yazıp yazmadığıyla ilgiliydi kazanın gerçekliği değildi. Dediklerin doğruysa bile yazar bile isteye bu yalan ölümü yazmışsa ben kazanırım.
+"Yalandan bir kaza uydurmasının hala bi sebebi olması gerektiğini düşünüyorum, biraz daha derine insem olay bi şekilde çözülecek gibi", diyen dedektif arkadaşını durağa bıraktıktan sonra karakoldan dönüşte adresi almak için ofisine tekrar geleceğini söyledi. Vedalaştıktan sonra gidecekken arkadaşı arkasından seslendi:
 -Gazetede yazarın yazdığı kazayı bulsaydın ne olacaktı?
 Dedektifin durduğunu gören arkadaşı devam etti: "Çok da derine inip milleti darlama tamam mı? Adam zaten sevgilisini kaybetmiş, üzerine yürüyüp onu sinirlendirecek şeyler söylememeye çalış. Gerçi daha adresi alap alamayacağımız da belli değil ama aklıma gelmişken seni uyarayım dedim."
-Durağa doğru dönen dedektif bir süre eli çenesinde durduktan sonra:
--Gerçek bir kazayı kullanırsa romanı okuyanlardan o kazayla alakası olan biri çıkıp olayı araştırır ve romanın sonunun yalan olduğunu anlayabilir diye yapmış olabilir aklıma başka bir sebep gelmiyor, diyip tekrar yoluna devam etti. Bir iki adım sonra arkasını dönmeden duraktaki arkadaşına biraz da olsa merak aşılamayı umarak:
--Ya da ortada yalandan bir ölüm veya cinayet falan var ve yazar bunu saklamaya çalışıyor? dedi ve vedalaşıp karakolun yolunu tuttu, o sırada durakta bekleyen adamın aklında çoktan birkaç soru dolanıyordu: kitabı yazarın sevgilisinin ailesi okumayacak mı? Neden yalan bir şey yazsın ki? Ancak bunlara cevap alamadan dedektif çoktan yolun karşısına geçmişti bile.
+Durağa doğru dönen dedektif bir süre eli cebinde durduktan sonra:
+-Gerçek bir kazayı kullanırsa, romanı okuyanlardan o kazayla alakası olan biri çıkıp olayı araştırır ve romanın sonunun yalan olduğunu anlayabilir diye yapmış olabilir aklıma başka bir sebep gelmiyor, diyip tekrar yoluna devam etti. Bir iki adım sonra arkasını dönmeden duraktaki arkadaşına biraz da olsa merak aşılamayı umarak ortaya bir teori attı:
+"Ya da ortada yalandan bir ölüm veya cinayet falan var ve yazar bunu saklamaya çalışıyor? Ne dersin?" dedi ve vedalaşıp karakolun yolunu tuttu, o sırada durakta bekleyen adamın aklında çoktan birkaç soru dolanıyordu: kitabı yazarın sevgilisinin ailesi okumayacak mı? Neden yalan bir şey yazsın ki? Ancak bunlara cevap alamadan dedektif çoktan yolun karşısına geçmişti bile.
 
 Karakola giren dedektif karmaşık koridorlardan geçtikten sonra Doruk komiserin ofisinin kapısını tıklattı ancak içeriden bir süre ses gelmeyince geldiği yoldan geri dönüp ön bürodaki memurlardan birinin masasına gitti.
 -Kolay gelsin komserim, Doruk Türker komiserim buralarda mı acaba? Veya Mürtem Kanat?
--Sanırsam devriyeye çıktılar yarım saat önce, dedi masadaki memur gözünü ekrandan ayırmadan. Ve çekmecesinden boş bir kağıt ve kalem alıp devam etti: Buyrun ben yardımcı olayım, durum nedir?
+-Sanırsam devriyeye çıktılar yarım saat önce, dedi masadaki memur gözünü ekrandan ayırmadan. Ve çekmecesinden boş bir kağıt ve kalem alıp devam etti: "Buyrun ben yardımcı olayım, durum nedir?"
 -İstediğini bulamadığı için çok da memnun gözükmeyen dedektif yine de sandalyelerden birine oturup durumu anlattı:
 -Ben dedektif Tarık Çelik, Doruk ve Mürtem komiserin ilgilendiği, geçen ay yaşanan kayıp kayak grubu hakkında bir şey sormak istemiştim. Sizin bilginiz varsa çok iyi olurdu.
 Kalemi kapatıp kağıdın üstüne koyan başını salladı:
 -Üzgünüm beyfendi üçüncü kişilerle rapor detayları paylaşamıyoruz.
 -Anlıyorum, tahmin etmiştim. En azından kurtulan olup olmadığını söyleseniz? Başka bir şey öğrenmek istemiyorum.
--Dediğim gibi kusura bakmayın lütfen, kurtulan kişiler isimsiz kalmayı seçebilecekleri için size bilgi veremiyoruz. Başka yapabileceğim bir şey var mı sizin için?
-Sandalyeden kalkan dedektif masanın üzerinden adamın elini sıkıp teşekkür ettikten sonra ana lobiye geri döndü ve tam kapıdan çıkacakken tanıdık bir tok ses duydu.
--Ya dayı ne demek acıktım daha 1 saat önce koca bi tavuğu gömdün ya, devriyede de zaten tatlı aldık yedik. Maşallah karadelik gibi yiyorsun ha.
+-Dediğim gibi kusura bakmayın lütfen, kurtulan kişiler olduğu durumlarda kurtulanlar isimsiz kalmayı seçebilecekleri için bu konuda size direkt bilgi veremiyoruz. İsterseniz bilgi edinmek için resmi bir dilekçeyle geri gelebilirsiniz. Eğer kuurtulan varsa isimsiz kalmayı isteyip istememelerine göre size bilgi verebiliriz. Dilekçe için kağıt isterseniz girişten isteyebilirsiniz size yardım edeceklerdir. Başka yapabileceğim bir şey var mı sizin için?
+Sandalyeden kalkan dedektif masanın üzerinden adamın elini sıkıp teşekkür ettikten sonra ana lobiye geri döndü ve tam danışmaya yönelecekken tanıdık bir ton ses duydu.
+-Ya dayı ne demek acıktım daha 1 saat önce koca bi tavuğu gömdün ya, devriyede de zaten tatlı aldık yedik. Maşallah iyi yiyorsun ha.
 -Eee ne yapalım, vucüt makine gibi yaktıkça yakıyor. Antrenmana enerji depolamış olurum hem.
-Köşeyi dönünce az önce tıkladığı kapının açık olduğunu gören dedektif hızlıca koridoru aşıp kapıya yöneldi ve içeri girdi:
+Köşeyi dönünce az önce tıkladığı kapının açık olduğunu gören dedektif hızlıca koridoru aşıp kapıdan girdi:
 -Dayı naptın ya hayat nası gidiyor, sesini taa nerden duydum da geldim bak.
 Dedektifi gördüğüne şaşıran hafif kilolu ama kalıplı adam babacan bir sesle cevap verdi:
 -Oooo bizim dedektif buralara gelir miymiş ya, biz iş güç uğraşalım sen gez toz hayat sana güzel. Sonra bi davayı çözünce ünlenen sen oluyorsun ama nasıl oluyor o ya.
--Valla ben de anlamadım dayım, benim de işim böyle şatafatlı işte.
-Amiri ile dedektifin selamlaşmasının bitmesini bekleyen uzun boylu, dedektiften daha kalıplı ama üstünden daha zayıf adam da dedektifi selamlamak için öne çıktı ve elini sıktı.
--Arada bir uğra ya, iyi oluyor seni görmek, deyip amirine döndü dedektifin elini bırakıp omzunu tuttuktan sonra: Tabii bu adam ünlenecek, sen bu omuzlarla tabuta sığamadın diye kendini tehlikeye atmadı mı bu çocuk?
+-Valla ben de anlamadım dayım, benim de işim böyle şatafatlı işte, dedi dedektif gülümseyerek.
+Amiri ile dedektifin selamlaşmasının bitmesini bekleyen uzun boylu, dedektiften daha kalıplı ama üstünden daha zayıf adam da öne çıkıp dedektifin elini sıktı.
+-Arada bir uğra iyi oluyor seni görmek, deyip amirine döndü. Elini dedektifin omzuna koydu: "Tabii bu adam ünlenecek, sen şu sütun gibi vücutla tabuta sığamadın diye kendini tehlikeye atmadı mı bu çocuk?"
 Koridora ses gitmesin diye arkasında kalan kapıyı kapatan dedektif omzundan inip kendisini sandalyeye buyur eden eli takip etti.
--Çok da tehlikeye girmedim ama neyse, benim işime gelir ünlenirsem. Şu sıralar iş yok ama, ben de kendi bulduğum bi davayla vakit geçiriyorum. Sizde de ortalık sessiz gözüküyor, en son ben buradayken raporlar elden ele uçuşuyordu resmen.
-Masasına yerleşip çoktan kendine bir bardan çay koymuş komiser cevap verdi:
+-Çok da tehlikeye girmedim ama neyse, benim işime gelir ünlenirsem. Şu sıralar yeni dava yok ama ben de kendi bulduğum bi davayla vakit geçiriyorum. Sizde de ortalık sessiz gözüküyor, en son ben buradayken raporlar elden ele uçuşuyordu resmen.
+Masasına yerleşip çoktan kendine bir bardak çay koymuş komiser cevap verdi:
 -Bizde de işler durgun ama şikayet etmiyoruz Tarık Efendi. Hırlı hırsız yok halk hayatından memnun demek ki. Gene kendine yalandan uğraş ne buldun bakalım neymiş senin bu dava?
--Sen anlamazsın aşk meşk işleri var işin içinde, derken çayını yudumlayan adam daha cümlesi bitmeden dedektifin sözünü kesti:
+-Senlik değil dayı aşk meşk işleri var işin içinde, derken çayını yudumlayan adam daha cümlesi bitmeden dedektifin sözünü kesti:
 -Hee boş ver o zaman, diyip bir kahkaha patlattı.
 Kendisine de bir bardan alıp gelen Mürtem sohbete sonradan dahil oldu dedektifin karşısındaki sandalyeye otururken:
 -Neymiş bu aşk meşk işi, birini mi buldun sonunda?
 Tersler gibi elini sallayan dedektif gülerek cevap verdi:
 -Yok be, davayı sonra anlatırım da şimdi bana geçen ayki sizin olaylardan birinin bilgileri lazım onun için uğradıydım aslında.
 -Bizim ön bürodaki çocuklardan iste versinler sana, diyen adam çoktan bardağın sonuna gelmişti bile, çayını tazelerken dedektif cevap verdi:
--Ön bürodan geliyorum ben de, orada memurların birinden istedim de üçüncü şahıslara veremiyoruz dediler haklı olarak.
--Evet öyle bir şey var da, sen üçüncü şahıs sayılmazsın artık ya, karakolda herkes biliyor seni, raporların yarısında adın geçiyor zaten yardımlarından dolayı, dedi dedektifin karşısında oturan adam.
+-Ön bürodan geliyorum ben de, orada memurların birinden istedim de üçüncü şahıslara veremiyoruz dedi dilekçe yaz falan dedi haklı olarak.
+"Evet öyle bir şey var da, sen üçüncü şahıs sayılmazsın artık ya, karakolda herkes biliyor seni, raporların yarısında adın geçiyor zaten yardımlarından dolayı", dedi dedektifin karşısında oturan adam.
 -Orası öyle de, gene de adam haklı yani. Ben de ısrar etmek istemedim.
 Yeni koyduğu çayından bir yudum adam komiser bardağı masaya bırakıp kitaplığın önüne kadar yürüdü:
 -Hangi raporu istiyorsun ben vereyim sana, "uzman görüşü alındı" falan diye de resmiyete geçerim sonra.
 -Rapor lazım değil aslında, geçenki kaybolan kayak grubundan kurtulan oldu mu onu söyleseniz yeter.
--Maalesef kimseyi bulamadık, şu vakte kadar da donmuşlardır dağda yapacak bir şey gelmedi elimizden ne yazık ki.
-Bir anlığına odaya çöken sessizliği masasına geri oturan adam tekrar konuşarak bozdu:
--Gazetede yazıyordu bu aslında boşuna yorulmuşsun biraz, neyse Allah rahmet eylesin ne diyelim davayı çözünce gelip bi ara anlat merak ettim nasıl bir bağlantısı varmış bununla senin davanın.
--Olur anlatırım, diyen dedektif bir süre daha ofislerinde onlarla sohbet ettikten sonra ikisiyle de vedalaşıp karakoldan çıktı ve tekrardan yayımevine dönüş yoluna girdi.
+Kitaplığın kapağını geri kapatan komiser masadan bardağını alıp bir süre ayakta bekledi:
+-Maalesef kimseyi bulamadık, şu vakte kadar da dağda donmuşlardır yapacak bir şey gelmez elimizden ne yazık ki.
+Bir anlığına odaya çöken sessizliği masasına geri oturan adam konuşarak bozdu:
+-Arama kurtarma gelişmeleri gün gün gazetelerde yazıyordu bu aslında boşuna yorulmuşsun biraz, neyse Allah rahmet eylesin ne diyelim. Seni görmemize vesile oldu diyip kapatalım konuyu bari.
+Dedektif bir süre daha ofislerinde durduktan sonra ikisiyle de vedalaşıp karakoldan çıktı ve tekrardan yayımevine dönüş yoluna girdi.
 
 Günün yorgunluğundan sabaha göre çıt çıkmayan lobiden geçip ofise girdikten sonra arkadaşına selam verdi ve adresi sordu.
--Aylin hanım az önce bıraktı, en üstteki zarfı alabilirsin. Yine de adamı çok rahatsız etmeyin diye tembihledi Aylin hanım. Temsilcisi adamın adresini verirken zaten yakın bir zamanda bu roman için imza günü düzenleneceği için birkaç gün önceden adı olan bir dergiye vermekten bir şey olmaz demiş öyle vermiş.
+-Aylin hanım az önce bıraktı, en üstteki zarfı alabilirsin. Yine de adamı çok rahatsız etmeyin diye tembihledi Aylin hanım. Temsilcisi adamın adresini önceye, adı olan bir dergiye ropörtaj sıkıştırmaktan bir şey olmaz demiş öyle vermiş.
 -Yazarın haberi yok mu yani adresini aldığımızdan?
--Yazar sadece yakın bir zamanda kitap imzalama etkinliği için okurların yazılarını yazdığı kulübesine davet edileceğini biliyor o yüzden gittiğinde bari kitapla falan git de imzaya gittin sansın, diyor sandalyesinde geri yaslanıp kitaplıkta gözüyle romanı arayan yazar.
-Kapıyı açan dedektif, "Gerek yok öyle yalan dolan iş yapmaya, hallederim bir şekilde" diyip arkadaşıyla vedalaşıp, bir kez daha adamı rahatsız etmemesi üzerine tembihlendikten sonra çıkıyor, ve hafif batmakta olan güneşin altında yazarın kulübesine gitmek üzere durağa gidiyor.
-
-
-
-Kralı dağ eteklerinin karşısında beyazlı mavili manzaralar arasında 2 katlı küçük bir kulübe tek başına duruyordu. Kıvrıla kıvrıla, karlar arasından kulübeye ilerleyen patika gözleri bembeyaz karlardan kulübeye doğru çekiyordu, bacadan yükselen cılız duman kulübede buluşan gözleri yavaş yavaş gökyüzüne yükseltiyordu. Güneşin de batmaya yaklaşmasıyla maviden kırmızıya geçen gökyüzü altında patikanın başındaki tabelaya son bir kez daha baktıktan sonra elindeki kağıdı cebine koyup karlı patikaya girdi, beyazlar arasında kaybolarak bahçe kapısının önünde tekrar ortaya çıktı.
-"Ne güzel karlı bir dağ manzarası, geniş pencereli, şömineli bir kulübe. Tam kafa dinlemelik tatil yapmalık, işi gücü bıraksam da buraya yerleşsem keşke" diye düşünen adım açık kapıyı ittikten sonra küçük bahçeyi birkaç adımda katetti ve kulübenin kapısında dayandı.
-Kapı açılıp elinde poşetlerle orta yaşlarda bir kadın çıktı, başıyla selam verip üşümemek için hızlıca bahçenin uzak köşesindeki üstü kapanmış çöp kutusuna kadar gidip poşetleri yere bıraktı. Kapının iç tarafında kalmış son poşetleri de almak için geri dönerken elinde poşetlerle onu takip eden adamı görüp bir an şaşırdıktan sonra adamın elindeki poşetleri almak için bir hamle yaptı:
+"Yazar sadece yakın bir zamanda kitap imzalama etkinliği için okurların yazılarını yazdığı kulübesine davet edileceğini biliyor o yüzden gittiğinde bari kitapla falan git de imzaya gittin sansın", dedi sandalyesinde geri yaslanıp kitaplıkta gözüyle romanı arayan yazar.
+Kapıyı açan dedektif, "Gerek yok öyle yalan dolan iş yapmaya, hallederim bir şekilde" diyip arkadaşıyla vedalaştı, bir kez daha adamı rahatsız etmemesi üzerine tembihlendikten sonra çıktı ve hafif batmakta olan güneşin altında yazarın kulübesine gitmek üzere durağa yürüdü.
+***
+Karlı dağ eteklerinin karşısında beyazlı mavili manzarada 2 katlı küçük bir kulübe tek başına duruyordu. Kıvrıla kıvrıla, karlar arasından kulübeye ilerleyen patika gözleri bütün bu beyazlıktan kulübeye doğru çekiyordu, bacadan yükselen cılız duman kulübede buluşan gözleri yavaş yavaş gökyüzüne yükseltiyordu. Güneşin de batmaya yaklaşmasıyla maviden kırmızıya geçen ufuk çizgisinden gözlerini alan adam patikanın başındaki tabelaya son bir kez daha baktıktan sonra elindeki kağıdı cebine koyup karlı patikaya girdi, beyazlar arasında kaybolarak bahçe kapısının önünde tekrar ortaya çıktı.
+"Ne güzel karlı bir dağ manzarası, geniş pencereli, şömineli bir kulübe. Tam kafa dinlemelik tatil yapmalık, işi gücü bıraksam da buraya yerleşsem keşke" düşüncelerinde etrafı izleyen adam açık kapıyı ittikten sonra küçük bahçeyi birkaç adımda katetti.
+Kulübenin kapısı açılıp elinde poşetlerle orta yaşlarda bir kadın çıktı, başıyla selam verip üşümemek için hızlıca bahçenin uzak köşesindeki üstü kapanmış çöp kutusuna kadar gidip poşetleri yere bıraktı. Kapının iç tarafında kalmış son poşetleri de almak için geri dönerken elinde poşetlerle onu takip eden adamı görüp bir an şaşırdıktan sonra adamın elindeki poşetleri almak için hamle yaptı:
 -Çok teşekkür ederim zahmet etmeseydiniz, ben hallederdim.
 Poşetleri kadına vermeyen adam çöpe kadar kendisini takip eden kadına gülümseyerek poşetleri diğerlerinin yanına koydu:
 -Olur mu öyle şey efendim ne zahmeti, lütfen siz üşümeyin içeri geçin ben de bunları atıp geliyorum, diyip kapağın üstündeki karları koluyla temizledi ve kapağı açtı.
 Yerdeki poşetleri çöp kutusuna attıktan sonra birlikte kulübeye dönerlerken kadın tekrar mahçup bir ifadeyle söze girdi:
 -Kusura bakmayın sizi de yordum, içeri buyurmaz mısınız? Buraya kadar geldiyseniz Yavuz Bey'le bir işiniz var sanırım?
 Ayakkabısındaki karları yere vuran adam kapıdan geçtikten sonra ellerine hohladı ve cevap bekleyen kadına döndü:
--Rica ederim ne demek, elime mi yapışacak sanki, diyip ellerini sıvazlamayı bırakıp kabanının düğmelerini açmaya başladı ve kendisine eşlik eden kadını takip etmeye başladı. "Yavuz Bey'le bir şey görüşmek için gelmiştim evet, temsilcisinden aldım adresi de gerçekten çok güzel bir yerdeymiş kulübe" dedi cüzdanından kartını çıkarırken: "Kusura bakmayın kendimi tanıtamadım, ben dedektif Tarık Çelik." diyip kendisini bekleme odası gibi küçük bir antreye getiren kadına kartını takdim etti.
+"Rica ederim ne demek, elime mi yapışacak sanki", diyip ellerini sıvazlamayı bıraktı, Paltosunun düğmelerini açmaya başladı ve antreye geçen kadını takip etmeye başladı. "Yavuz Bey'le bir şey görüşmek için gelmiştim evet, temsilcisinden aldım adresi de gerçekten çok güzel bir yerdeymiş kulübe" dedi cüzdanından kartını çıkarırken: "Kusura bakmayın kendimi tanıtamadım, ben dedektif Tarık Çelik." diyip kendisini bekleme odası gibi küçük bir antreye getiren kadına kartını takdim etti.
 -Memnun oldum Tarık Bey, ben de Yavuz Bey'in hizmetlisi Hilal, isterseniz şöyle buyurun size çay ikram edelim içiniz ısınsın? dedi tekli koltuklardan birini işaret ederken.
 -Teşekkür ederim, çok vaktinizi almak istemem hemen bir şey sorup çıkacağım zaten zahmet etmeyin Hilal Hanım.
-Çoktan merdivenlere yönelmiş kadın, geri antreye döndü:
--Hilal deseniz yeterli, dedi gülümseyerek. Yavuz Bey'in odası üst katta, merdivenlerden çıktıktan sonra kapıyı tıklatırsanız kendisi açacaktır. Kusuruma bakmayın benim yandaki odanın temizliğini bitirmem gerekiyor size eşlik edemeyeceğim. Zaten merdivenler de iki kişi için biraz dar sizi rahatsız etmek istemem, derken koltuğun yanındaki sehpanın altından toz bezini aldı.
+Çoktan mutfağa girmiş kadın, geri antreye döndü:
+-Hilal deseniz yeterli, dedi gülümseyerek. "Yavuz Bey'in odası üst katta, merdivenlerden çıktıktan sonra kapıyı tıklatırsanız kendisi açacaktır. Kusuruma bakmayın benim yandaki odanın temizliğini bitirmem gerekiyor size eşlik edemeyeceğim. Zaten merdivenler de iki kişi için biraz dar sizi rahatsız etmek istemem", derken koltuğun yanındaki sehpanın altından toz bezini aldı.
 Merdivenin başına gelmiş dedektif son kez kadına teşekkür etti, iyi günler dileyip dar merdivenleri çıkmaya başladı.
-Dedektif üst kata çıkınca ardından ateş çıtırtısı gelen kapıyı tıklatıp kendini tanıttı: "Merhabalar Yavuz Bey, ben Tarık Çelik. Romanınız Senden Bana Kalan ile alakalı size birkaç şey sormak istiyorum da", ancak kapı açılmadı. "İmza günlerini ayarlamak için geldim Yavuz Bey, temsilciniz size benden haber vermiş olmalı", bir süre daha bekledikten sonra içeriden yaklaşan ayak sesleri geldi ve kapı en azından yazarın yüzünü görebileceği kadar aralandı, kapıya yaslanan yazar, dedektifi süzdü:
+Dedektif üst kata çıkınca ardından ateş çıtırtıları gelen kapıyı tıklatıp kendini tanıttı: "Merhabalar Yavuz Bey, ben Tarık Çelik. Romanınız Senden Bana Kalan ile alakalı size birkaç şey sormak istiyorum da", ancak kapı açılmadı. "İmza günleriyle alakalı geldim Yavuz Bey, temsilciniz size benden haber vermiş olmalı", bir süre daha bekledikten sonra içeriden yaklaşan ayak sesleri geldi ve kapı en azından yazarın yüzünü görebileceği kadar aralandı, kapıya yaslanan yazar, adamı süzdü:
 -Bana sizden bahseden olmadı, ne için geldiniz? İmza günlerini temsilcim ayarlayıp yönetiyor aslında. Ne yapabilirim sizin için?
 -İmza günleri için anket çalışması yaptık ve okurların romanla ilgili en çok sordukları soruları hazırlayıp sizden cevapları duymak istedik.
--Anladım, sorular sizdeyse ben alayım cevaplayıp temsilcime iletirim yarın ilk iş, dedi aralık kapıdan elini uzatan yazar.
-Başını sallayan dedektif kabanının ceplerini karıştırırken bir yandan da göz ucuyla yazarı izliyordu konuşmayı uzatmanın bir yolunu bulmak için. "Nereye koydum şu kağıdı, o kadar da dedim küçücük postite yazıp verme kaybolur diye." sonunda cebinden çıkardığı kulübenin adresinin yazdığı katlanmış kağıdı açarken tekrar şansını denemek istedi:
+-Anladım, sorular sizdeyse ben alayım cevaplayıp temsilcime iletirim yarın ilk iş, dedi aralanmış kapıdan elini uzatan yazar.
+Dedektif, paltosunun ceplerini karıştırırken bir yandan da göz ucuyla yazarı izliyordu konuşmayı uzatmanın bir yolunu bulmak için. "Nereye koydum şu kağıdı, o kadar da dedim küçücük postite yazıp verme kaybolur diye." sonunda cebinden çıkardığı kulübenin adresinin yazılı olduğu katlanmış kağıdı açarken tekrar şansını denemek istedi:
 -Ben sorsam daha iyi olacaktır, sizin soruları ilk kez duyduğunuz andaki ve cevap vereceğinizdeki duygularınızı da not almamı istediler de, o yüzden...
 -Lütfen, kağıdı veriniz ben cevaplarım, dedi ve gülümseyerek devam etti, Merak etmeyin duygularımı iyi ifade edebileceğime inanıyorum, en azından okurlarım kitabımı beğendiyse öyle olduğunu düşünüyorum.
-Çıkmaza girdiğini anlayan dedektif daha açmayı bitirmeden yazara uzattı. Yazarın kağıdı alması ve açmaya çalışmasından faydalanarak ayağıdı hızlıca kapının arasına koyan dedektif yazarın üzerine eğilerek şaşırmış yüzüne yaklaştı, ve göz ucuyla koridoru kontrol ettikten sonra sessizce "Zelda aslında kitaptaki gibi kazada ölmedi değil mi?" dedi ve dramatik bir duraksamadan sonra devam etti: "Romanın gerçek sonunu öğrenmek istiyorum sadece" diyip tekrar dikleşti ve duyduklarını anlamlandırmaya çalışan yazarı izledi. Yazarın yüzündeki panik yavaşça kaybolup yerini duygusuz bir yüz ifadesine bıraktı. Kapıyı tutmaya devam eden yazar tekrardan dikkatlice dedektifi incelemeye başladı tek kelime etmeden. Bir süre birbirlerini süzüp ne olacağını anlamaya çalışan adamlardan sessizliii bozan dedektif oldu:
--Sanırım ansızın duymak çok fazla oldu, ben biraz aşağıda oturayım bir süre sonra tekrar geleceğim. Sadece konuşmak istiyorum, dediğim gibi romanın sonunu öğrenip gideceğim, dedi ve yavaşça ayağını geri çekip yazarın dediklerini anladığından emin olduktan sonra gitmek üzere uzaklaşmaya başladı.
--Tamam gel konuşalım
+Çıkmaza girdiğini anlayan dedektif daha açmayı bitirmeden yazara uzattı. Yazarın kağıdı alması ve açmaya çalışmasından faydalanarak ayağıdı hızlıca kapının arasına koyan dedektif yazarın üzerine eğilerek şaşırmış yüzüne yaklaştı, ve göz ucuyla koridoru kontrol ettikten sonra sessizce fısıldadı "Zelda aslında kitaptaki gibi kazada ölmedi değil mi?". Dramatik bir duraksamadan sonra devam etti: "Romanın gerçek sonunu öğrenmek istiyorum sadece", tekrar dikleşti ve duyduklarını anlamlandırmaya çalışan yazarı izledi. Yazarın yüzündeki panik yavaşça kaybolup yerini az önceki duygusuz yüz ifadesine bıraktı. Kapıyı tutmaya devam eden yazar tekrardan dikkatlice karşısındaki adamı incelemeye başladı tek kelime etmeden. Bir süre birbirlerini süzüp ne olacağını anlamaya çalışan adamlardan sessizliği bozan dedektif oldu:
+-Sanırım ansızın duymak çok fazla oldu, ben biraz aşağıda oturayım bir süre sonra tekrar geleceğim. Sadece konuşmak istiyorum, dediğim gibi romanın sonunu öğrenip gideceğim.
+Yavaşça ayağını geri çekip yazarın dediklerini anladığından emin olduktan sonra gitmek üzere uzaklaşmaya başladı. Merdivenlerin başına varamadan yazar tekrar konuştu:
+-Tamam gel konuşalım.
 
-Sonuna kadar açılan kapıdan odanın içini ilk defa gören dedektif şöminenin yanındaki koltuklardan birine oturdu, zaten büyük olmayan odanın her duvarı kitaplıklarla kaplanmıştı. Yazarın savaş alanına dönmüş masasıyla, şöminenin yanındaki tekli koltuklar da işin içine girince odada neredeyse adım atacak yer kalmıyordu. Masasının arkasına geçen yazar bir süre pencereden dışarı bir baktıktan sonra sandalyesine oturup masaya biraz çeki düzen verdi ve dedektife döndü: "Evet bekliyorum, ne konuşmak istersiniz? Az önce söylediklerinizi açıklayarak başlamak ister misiniz? Çok cesurca bir varsayımda bulundunuz, hikayenizi dinlemek isterim.". Bir yandan da masadaki tekli kağıtları gruplayıp sıralıyor ve etrafa dağılmış kalemleri kalemliğine koyuyordu.
--Romanınızı yeni yakın okudum ve anlattığınız her şeyin sonunda birden olayı öldü bittiye getirmeniz garip geldi. Bunun üzerine romanı bana öneren arkadaşımla konuştum ve aslında olayın başka bir yüzü olduğu üzerine iddiaya girdik. İnanır mısın şu anda da hiç uğraşacak başka bir işim olmadığı için ben de bunu kanıtlamak istedim.
+Sonuna kadar açılan kapıdan odanın içini ilk defa gören dedektif, şöminenin yanındaki koltuklardan birine oturdu; zaten büyük olmayan odanın her duvarı kitaplıklarla kaplanmıştı. Yazarın savaş alanına dönmüş masasıyla, şöminenin yanındaki tekli koltuklar da işin içine girince odada neredeyse adım atacak yer kalmıyordu. Masasının arkasına geçen yazar bir süre pencereden dışarı baktıktan sonra sandalyesine oturup masaya biraz çeki düzen verdi ve çoktan koltuğuna sinmiş adama döndü: "Evet bekliyorum, ne konuşmak istersiniz? Az önce söylediklerinizi açıklayarak başlamak ister misiniz? Çok cesurca bir varsayımda bulundunuz, hikayenizi dinlemek isterim.". Bir yandan da masadaki tekli kağıtları gruplayıp sıralıyor ve etrafa dağılmış kalemleri kalemliğine koyuyordu.
+-Romanınızı yeni yakın okudum ve anlattığınız her şeyin sonunda birden olayı öldü bittiye getirmeniz garip geldi. Bunun üzerine romanı bana öneren arkadaşımla konuştum ve aslında olayın başka bir yüzü olduğu üzerine iddiaya girdik. Şu anda da hiç uğraşacak başka bir işim olmadığı için ben de bunu kanıtlamak istedim.
 Toparlanmayı bitiren yazar üst üste sıraladığı kağıtlarını çekmecesine koyduktan sonra hışırtılar kesilince etraf bir süre sessizliğe büründü.
 -İddiaya girip kanıtlamak için uğraşıyorsanız güçlü kanıtlar bulduğunuzu düşünüyor olmalısınız, teoriniz nelere dayanıyor tam olarak?
 -Öncelikle kitabın hikayesi üzerine konuşursak, eğer hastanelerde drama yapıp romanı daha etkili yapmak isteseydin yapabilirdin. Veya yalandan hızlıca mutlu bir son yazmak istesen "Yakında evleneceğiz özel hayatımız da bize kalsın" diye onu da yapardın bunu yapmadığına göre ilişkinizin bir sebepten bittiğini düşünüyorum. Ve anlattıklarının da doğru olduğunu varsayarsak...
 Söyledikleri üzerine tepkisini ölçmek için duraksayan dedektif karşı bir cevap alamayınca devam etti:
 -Varsayalım ki Zelda öldü ve günlüğü sana verdi.
--"Varsaymayalım, olan buydu" diye sözünü kesti yazar. "Devam edin lütfen."
+"Varsaymayalım, olan buydu" diye sözünü kesti yazar. "Devam edin lütfen."
 -Sizi üzersem kusura bakmayın lütfen, düşünce şeklimi tüm şeffaflığıyla anlatmak için kelimeleri süsleyip püslemeden kullanacağım. Elindeki bu üzgün olayı dramalarla abartmadan anlattığına göre sütünü sağmak istediğin bir durum değildi.
 -Evet, ne yazık ki bu tip durumları allayıp pullayan ve bunlardan yararlanmaya çalışan meslektaşlarım olsa da olayları abartmayı çok sevmem.
 -O zaman olay gerçekten oldu, Zelda öldü ve sen bunu olduğu gibi aktardın yani.
-Hala dedektifin nereye varmak istediğini anlamaya çalışan yazar onayladı ve dedektifin devam etmesini bekledi.
+Hala nereye varmak istediğini anlamaya çalışan yazar onayladı ve adamın devam etmesini bekledi.
 -O günün yerel gazetelerine baktım ancak anlattığın gibi bir kaza yoktu, o zaman ilk hipotezimi düzeltirsem gerçekte öyle bir kaza olmadı ve sen yalandan bir kaza uydurdun.
-Başını sallayan yazar "Gazetede her kaza haberini yayımlıyorlar yani, dayanağın bu mu?" diye araya girdi. "Hayır, dayanağım ölümle sonuçlanan bir kazanın yerel gazeteye çıkmaması. Özellikle de senin gibi ünlü bir yazarın da dahil olduğu bir kazaysa.", cevabının yazarı bir nevi de olsa tatmin ettiğini göre dedektif tekra koltuğa yaslanarak devam etti:
+Başını sallayan yazar araya girdi:
+-Gazetede her kaza haberini yayımlıyorlar yani, dayanağın bu mu?
+-Hayır, dayanağım ölümle sonuçlanan bir kazanın yerel gazeteye çıkmaması. Özellikle de senin gibi ünlü bir yazarın da dahil olduğu bir kazaysa.
+Cevabının yazarı bir nevi de olsa tatmin ettiğini göre dedektif tekra koltuğa yaslanarak devam etti:
 -Demek ki kaza yalandı, kaza yalansa aynı gün gazetelerde olan ve kitabın sonuna daha uygun olabilecek bir haber buldum ve neden bunu kullanmadığını merak etmeye başladım. Kayak yaparken kaybolan bir grup vardı ve kurtulan olmamıştı. Kitabı bitirmek için ve benim gibi sorgulayacaklar için çok güzel bir şekilde olayın üstünü örtebilirdin. Gerçek temeli olan ve arkada araştırılacak ipucu bırakmayan daha uygun bir olayı kullanmak yerine yalan bir kaza uydurdun.
 Hikayesinin sonuna yaklaşan dedektif hızlıca konuyu toparladı:
--Bak kıza ne olduğuyla ilgilenmiyorum, sana da yeni bi dert çıkarmak istemiyorum romanı baz aldığını söylediğin günlüğü görebilir miyim? Olayın sonunu öğrenip iddiayı kazanıp olayı kapatmak istiyorum. Kimsenin ölümünü sorgulamayı ben de istemiyorum. İstersen beni odaya kapat, akşama kadar okur işimi bitiririm ya da kopyasını hazırladığında haber ver gelip alayım. Sadece olayın sonuyla ilgileniyorum.
+-Bak kıza ne olduğuyla ilgilenmiyorum, sana da yeni bi dert çıkarmak istemiyorum romanı baz aldığını söylediğin günlüğü görebilir miyim? Olayın sonunu öğrenip iddiayı kazanıp her şeyi sonlandırmak istiyorum. Kimsenin ölümünü sorgulamayı ben de istemiyorum. İstersen beni odaya kapat, akşama kadar okur işimi bitiririm ya da kopyasını hazırladığında haber ver gelip alayım. Sadece olayın sonuyla ilgileniyorum.
 -Hayır, sevgilimin bana vasiyetini sana vermeyeceğim, eğer sağlam bir kanıtın olmadan bunu kanıtlayamayacaksan sadece teoriler üretiyorsun.
 Koltukta öne eğilen dedektif alnını kaşıdıktan sonra derin bir iç çekti ve ayağa kalktı:
 -Yavuz Bey, ben bir dedektifim, ve sizin şanssızlığınıza şehirde de hiç dedektiflik işi dönmüyor şu anda. Bu dava öylesine kendim devraldığım zaman geçirdiğin bir olay değil. Gerçekten işin içinde bir şeyler döndüğünü biliyorum. Eğer günlüğü alıp olayı öğrenirsem konuyu burada kapatırım ama diretmeye devam ederseniz karakoldaki arkadaşlarıma durumu anlatırım ve "kitabınızı pazarlamak için Zelda'yı bilerek öldürdüğünüzü kazayı kasten yaptığınızı" öne sürerim. 
@@ -331,75 +329,76 @@ Masasının üstüne eğilen yazar elini çenesine koyup direkt olarak dedektifi
 Koltuğunda daha da eğilen dedektif başını yana yatırıp yazara baktı.
 -Neden çok sakinsin? Günlüğü eninde sonunda alacağım ve kızın ölümünün sebebini kanıtlayacağım. Günlükteki kanıtları yok etmiş olsan bile bunları bulup kanıtlayabiliriz. 
 Umursamaz bir tavırla koltukta geriye yaslanan gerektif omzunu silkip biraz öyle bekledi:
--Gerçek ölümü söylemezsen ortadaki ana şüpheli sen oluyorsun umarım farkındasındır, dedi ve ellerini dizlerine vurup kalktı.
-Ayağa kalkan yazar masanın etrafını dolaşıp kapıyı açtı ve odadan çıktı. Onu takip eden dedektif önce merdivenlerden indi sonra da yazarın ardından mutfağa girdi.
--Günlüğü vermeyeceğim, hazır buraya kadar beni takip etmişken artık gidebilirsin hava da kararıyor çok geçe kalırsan buralarda toplu taşıma gece geçe kalmaz haberin olsun.
+-Gerçek ölümü söylemezsen ortadaki ana şüpheli sen oluyorsun umarım farkındasındır, dedi ve ellerini dizlerine vurup kalktı. "Polisi bu işe karıştırmak istemiyorum, günlüğü ver aramızda halledelim.".
+Dedektifin ardından ayağa kalkan yazar masanın etrafını dolaşıp kapıyı açtı ve odadan çıktı. Onu takip eden dedektif önce merdivenlerden indi sonra da yazarın ardından mutfağa girdi.
+-Günlüğü vermeyeceğim, hazır buraya kadar beni takip etmişken artık gidebilirsin hava da kararıyor çok geç kalırsan buralarda toplu taşıma geceye kalmaz haberin olsun.
 Ocağın altını açıp su ısıtmaya başlayan yazar bir kupa ve bir tutam kekik aldı. Suyun ısınmasını beklerken kapının eşiğinden kendisini izleyen dedektife aldırmadan ocağın başında beklemeye başladı. 
--"Şunu da vereyim sen gitmeden, zaten etraf kağıt dolu görüyorsun" diyip cebinden adresinin yazılı olduğu postiti çıkarıp dedektife uzattı.
+"Şunu da vereyim sen gitmeden, zaten etraf kağıt dolu görüyorsun. Bir de çöpüme çöp eklemeyeyim" diyip cebinden adresinin yazılı olduğu postiti çıkarıp dedektife uzattı.
 Çekinerek de olsa kağıdı alan dedektif bir sandalye çekip masaya oturdu:
--Bir şey var sende, daha çözemedim. Dedi ve bir süre sustu. Çok... Umursamazsın. Ne bana kızdın ne üzüldün ne başka bir şey.
--Umrumda değil açıkçası. Eskiden de insanları ve düşündüklerini çok kafaya takmazdım. Benim için önemli olan, kendi hislerim ve benim ne düşündüğümdü her zaman, belki de bu yüzden yazılarımda kendimi ifade etmekte bu kadar iyiyim bilmiyorum. Biraz göz önünde olmanın getirisi mi dersin bilemiyorum ama, kötü yorumlara ve söylentilere artık kulağımı tıkama ihtiyacı bile hissetmiyorum.
-Bir süre durup ocağın altını kapattı ve çayını hazırlayıp kapıya kadar yürüdü çayını dökmemeye çalışarak. Çayından bir yudum aldı ve kapı eşiğinde durdu, yüzünde hafif bir gülümsemeyle oturduğu yerden kendisini izlemeye devam eden dedektife döndü:
--İnsanlar konuşur, en nihayetinde, insanlar...
+"Bir şey var sende, daha çözemedim", dedi ve bir süre sustu. "Çok... Umursamazsın. Ne bana kızdın ne üzüldün ne başka bir şey."
+-Umrumda değil açıkçası. Eskiden de insanları ve düşündüklerini çok kafaya takmazdım. Benim için önemli olan her zaman, kendi hislerim ve benim ne düşündüğümdü, belki de bu yüzden yazılarımda kendimi ifade etmekte bu kadar iyiyim bilmiyorum. Biraz göz önünde olmanın getirisi mi dersin bilemiyorum ama, kötü yorumlara ve söylentilere artık kulağımı tıkama ihtiyacı bile hissetmiyorum.
+Bir süre durup ocağın altını kapattı ve çayını hazırlayıp kapıya kadar yürüdü çayını dökmemeye çalışarak. Bir yudum aldı ve kapı eşiğinde durdu, yüzünde hafif bir gülümsemeyle oturduğu yerden kendisini izlemeye devam eden dedektife döndü:
+-İnsanlar konuşur, en nihayetinde insanlar...
 -Kendine sıcak bir şeyler koymak istersen sana da yetecek kadar su kaynattım ocakta duruyor. Kurabiye meyve falan istersen dolaplardan birinde vardı arayıp bulursun.
 Dedektif masadan bir ayva alıp üstüne sildi ve beni mi deniyor diye yazara baktı.
--Ayvalar iyidir, afiyet olsun. Ancak kusura bakma şu aralar biraz sıkışığım o yüzden ofisime dönmem gerekiyor, çıkmadan önce ayvanın sapını bana getirebilir misin saksılarımın dibine koyuyorum da, dedi ve eşiğe dayanmayı bırakıp merdivenlere yöneldi. "Günlüğü unut ama, günlüğü vermeyeceğim."
+-Ayvalar iyidir, afiyet olsun. Ancak kusura bakma şu aralar biraz sıkışığım o yüzden ofisime dönmem gerekiyor.
+Kapı eşiğine yaslanmayı bırakan yazar elindeki bardakla ayvayı işaret etti, "çıkmadan önce ayvanın sapını bana getirebilir misin saksılarımın dibine koyuyorum da" ve merdivenlere yöneldi. "Günlüğü unut ama, günlüğü vermeyeceğim."
 
 Mutfakta bir süre ayva yiyen dedektif birkaç dakika sonra tekrar ofisin kapısının önündeydi. Kapıyı tıklatıp izin aldı ve içeri girdi:
--Dışarısı da soğukmuş mutfağa işliyor soğuğu. Şurada şömine dibinde biraz oturup ısınayım sonra giderim sana daha fazla rahatsızlık vermeyeyim. Dedi ve az önceki koltuğuna geçti.
+-Dışarısı da soğukmuş mutfağa işliyor soğuğu. Şurada şömine dibinde biraz oturup ısınayım sonra giderim sana daha fazla rahatsızlık vermeyeyim, dedi ve az önceki koltuğuna geçti.
 -Odunlardan ateşi harlayabilirsin, içerisi de ısınsın gece soğuğu bastırmadan önce.
 Göz ucuyla etrafına bakınan dedektifi görünce eliyle şöminenin öbür tarafında kapının arkasında kalan küçük dolabı gösterdi: "Odunlar dolabın içinde, üst çekmecesinde de şal var üstüne almak istersen."
 Şömineyi harlayıp geri koltuğuna oturan dedektif odanın içinde gözüyle bir şey aramaya başladı. Çekmecesinden çıkardığı kağıtları masanın üzerinde gruplara ayıran yazar dedektifteki hareketliliği farkedip ne aradığını sordu. Elindeki ince ayva sapını kaldıran dedektif:
 -Saksıları arıyorum da şunu atayım diye, etrafta göremedim hiç masanın o tarafına da gelmek istemedim meşgulsün diye.
-Elindeki son kağıtları da masaya dizdikten sonra sandalyesinden kalkıp pencereyi açtı ve dışarıdan küçük bir saksı alıp dedektife uzattı:
--Çiğden çiçeği, burası gibi yüksek soğuk yerlerde kışın çiçekleniyorlar, çiçeklerle ilgilenit misin?
+Yazar elindeki son kağıtları da masaya dizdikten sonra sandalyesinden kalkıp pencereyi açtı ve dışarıdan küçük bir saksı alıp dedektife uzattı:
+-Çiğden çiçeği, burası gibi yüksek soğuk yerlerde kışın çiçekleniyorlar, çiçeklerle ilgilenir misin?
 Dedektif ayva sapını saksıya bıraktıktan sonra çiçek açmaya yüz tutmuş tomurcuklara bakıp geri yerine oturdu.
--Bir aralar denemiştim, ama şehir dışına çıkmak zorunda kaldığım bir zamanda yavaşça solmuşlardı. Benim de hatam vardı olması gerekenden daha küçük bir saksıya koymuştum da çiçeklendiklerini görmüştüm en azından.
--Evet, ben de sadece uzun yazma maratonları yapacağımda bir şeyler ekiyorum yoksa kimseye ardımdan bakılacak çiçekle uğraş çıkarmak istemem, dedi saksıyı geri yerine koyan yazar. Pencereyi kapatıp dolaptan bir şal aldı ve sandalyeye geri oturdu.
+-Bir aralar denemiştim, ama şehir dışına çıkmak zorunda kaldığım bir zamanda yavaşça solmuşlardı. Benim de hatam ama vardı olması gerekenden daha küçük bir saksıya koymuştum.
+-Ben de sadece uzun yazma maratonları yapacağımda bir şeyler ekiyorum yoksa kimseye ardımdan bakılacak çiçekle uğraş çıkarmak istemem, dedi saksıyı geri yerine koyan yazar. Pencereyi kapatıp dolaptan bir şal aldı ve sandalyeye geri oturdu.
 -Eee, hayat nasıl gidiyor? Şehirde dedektiflik işi yok demiştin, boş zamanlarında ne yaparsın?
 -Ofiste oturup bir şeyler okurum, arkadaşlarım da ofisteyse onlarla konuşuruz, yemek ve tatlı falan yaparım. Sen?
--"Genelde bir sonraki eserim için seyehatlar yaparım etrafta gezip tanıştığım  kişilerin hikayelerini dinlerim. Şu anda da meşgul olmamın sebebi bu" diyip elini masadaki kağıtlar üzerinde gezdirdi. "Bunlar da 'Senden Bana Kalan'dan sonra topladığım hikayeler ilgimi çeken şeyler falan. Bir sonraki hikayem için neleri kullanabilirim diye bakıyorum.
+-Genelde bir sonraki eserim için seyehatlar yaparım etrafta gezip tanıştığım kişilerin hikayelerini dinlerim. Şu anda da meşgul olmamın sebebi bu, diyip elini masadaki kağıtlar üzerinde gezdirdi. "Bunlar da 'Senden Bana Kalan'dan sonra topladığım hikayeler, ilgimi çeken şeyler falan. Bir sonraki hikayem için neleri kullanabilirim diye bakıyorum."
 -İlham arıyorsun yani, anladım.
 -Öyle de diyebilirsin evet, etrafımda ilgimi çeken şeyleri toplamak olarak bakıyorum ben. Sonra kağıtları gruplara ayırıyorum insanlar, yerler, olaylar vesaire gibi. Yazmaya değecek bir konu geldiğinde zaten bir kıvılcım gibi birden her şey birbirine bağlanıyor. O kıvılcımı yakana kadar gezip tozup materyal topluyorum ben de.
 Kalemliğinden bir kalem alıp boş kağıtlardan birini önüne çekti ve üstüne bir şeyler karaladı.
 -Ben yavaştan kalkayım sen de meşgulsün zaten.
--Yo lütfen otur. Meşgulüm dediğim aslında kağıtlara bakıp hikayeleri düşünmek. Sen buradayken yapamayacağım bir şey değil, dedi ve önündeki kağıdı dedektife göstermek için havaya kaldırdı
+-Yo lütfen otur. Meşgulüm dediğim aslında kağıtlara bakıp hikayeleri düşünmek. Sen buradayken yapamayacağım bir şey değil, dedi ve önündeki kağıdı dedektife göstermek için havaya kaldırdı.
 Dedektif, kağıdın tepesindeki başlığı okumak için koltuğunda öne eğildi "Dedektif Tarık", ve gülümseyerek geri yaslandı.
 -İlgini mi çektim, hafızaya yeni bir insan daha mı ekleyeceksin?
--Evet, öyle oldu. İlk kez gerçek bir dedektif gibi dedektifle karşılaşıyorum, ve gayet de değişik bir kişiliğin var.
+-Evet, öyle oldu. İlk kez gerçek bir dedektif gibi dedektifle karşılaşıyorum, ve gayet de değişik bir kişiliği var.
 -Anladım, daha kötü yorumlar da almıştım kişiliğimle ilgili. Bir yazarın ilgisini çekmiş olmayı övgü olarak kabul ediyorum o zaman.
 Kağıdı masaya geri koyan yazar kalemi kulağına koyup sandalyesine yaslandı:
 -Anlat bakalım dedektif efendi. Bakalım ne kadar ilginçsin.
 -Önce bir şey sormama izin ver, neden bu kadar naziksin? Rastgele adamın biri gelip seni sevgilinin ölümünü yalanlamakla suçluyor ve tehditler ediyor. Umursamaz da olsan bir yerden sonra kim olsa 'Bu adam da benim ayvamı yemese olur aslında' diyip evden kovardı.
--Üzülmemi gerektirecek bir şey yok ortada. Senin kendince teorilerin vardı ve bunları doğrulamak için bana geldin, ben olaya böyle bakıyorum. Polis işi vesaire biraz aşırı olsa da polisi çağırmadığın sürece istediğin kadar tehdit et, sadece lafta kaldıktan sonra banane.
+-Üzülmemi gerektirecek bir şey yok ortada. Senin kendince teorilerin vardı ve bunları doğrulamak için bana geldin, ben olaya böyle bakıyorum. Polis işi vesaire biraz aşırı olsa da polisi çağırmadığın sürece istediğin kadar tehdit et, sadece lafta kaldıktan sonra banane açıkçası.
 Sandalyesinde geriye yaslanıp kollarını açtı "günlüğü de kendin arayıp bulamayacağına göre endişe etmemi veya üzülmemi gerektiren bir durum yok.
 -Ya sana saldırsaydım?
--Bu kadar insan gözlemledikten sonra yavaş yavaş anlamaya başlıyorsun, bana saldıracağını hiçbir zaman düşünmedim açıkçası.
+-Bu kadar insan gözlemledikten sonra yavaş yavaş anlamaya başlıyorsun, bana saldıracağını hiçbir zaman düşünmedim.
 -Anladım. Yine de kusura bakma polis işi falan abarttım biraz, günlüğün sonunu ne kadar merak etsem de tehdit etmek falan hoş değildi.
 Hafifçe gülümseyen yazar odaya hakim olan negatif ruh halini dağıtmak ister gibi elini sallayıp cevap verdi:
 -Takma kafana boşver, çok da umrumda olan bir şey değil. Hem herkesin dinlenmeye değer bir hikayesi olduğunu düşünüyorum. Anlat bakalım seni dinleyelim biraz da, belki bana çok iyi bir malzeme verirsen yaşananları unuturum, dedi gülerek.
 Bir süre tavanı izleyip anlatacak bir şeyler arayan dedektif koltukta oturuşunu değiştirdi:
 -Dediğim gibi son zamanlarda hiç heyecan veren şeyler olmuyor. Son birkaç gündür bu roman işlerine yoğunlaştım iddiaya girdiğim arkadaşım romanı bana önerdiğinden beri. Onun dışındaaaa... Geçen kendimi tabuta gömdüm, sanırım bunun gibi bir şeyler arıyorsun iyi malzeme derken.
--O olay gerçekten oldu yani. Gazetelerde görünce inanmamıştım kesin abarttılar diyordum. Ciddi ciddi kendini gömüp kuzgunlarla haber mi yolladın ayarlanmış bir oyun falan değil miydi? Dedi heyecandan kulağındaki kalemi unutup kalemliğinden yenisini alan yazar sandalyesinin ucunda otururken.
+-O olay gerçekten oldu yani. Gazetelerde görünce inanmamıştım kesin abarttılar diyordum. Ciddi ciddi kendini gömüp kuzgunlarla haber mi yolladın ayarlanmış bir oyun falan değil miydi, diye sordu heyecandan kulağındaki kalemi unutup kalemliğinden yenisini alan yazar sandalyesinin ucunda otururken.
 -Hayır, abartma yok.
-Yazar, dedektifi dinlerken bir yandan da önündeki kağıda bir şeyler yazmaya başladı.
+Yazar, dedektif konuşmaya devam ederken bir yandan da önündeki kağıda bir şeyler yazmaya başladı.
 -Tabii ki olayın aslını ve detaylarını soruşturma raporundaki gibi aktaramam gizlilikten dolayı ancak gazetede ne yazıyorsa üç aşağı beş yukarı öyle oldu her şey.
--inanılmaz, dedi hala şaşkınlıktan açtığı gözlerini kırpmadan not alan yazar. "Gazeteyi okuyup kenara fırlatmıştım iyice abarttılar rol kesiyorlar diye, yoksa çok iyi bir malzemeydi. Sadece ben olayları abartmayı sevmediğim için not almamıştım.". Bir süre yazmayı bırakıp kalemin ucunu ısırdıktan sonra ani bir hareketle sandalyesinde doğrulup dedektife döndü, "Peki her şey mi gerçek? Kuşlarla haber yollamayı nasıl yaptın?"
+-İnanılmaz, dedi hala şaşkınlıktan açtığı gözlerini kırpmadan not alan yazar. "Gazeteyi okuyup kenara fırlatmıştım iyice abarttılar rol kesiyorlar diye, yoksa çok iyi bir malzemeydi. Sadece ben olayları abartmayı sevmediğim için not almamıştım.". Bir süre yazmayı bırakıp kalemin ucunu ısırdıktan sonra ani bir hareketle sandalyesinde doğrulup dedektife döndü, "Peki her şey mi gerçek? Kuşlarla haber yollamayı nasıl yaptın?"
 -Aslında temelde basit, herhangi bir hayvanın hatta insanın koşullanmasından bir farkı yok sadece sabır gerektiriyor. Üstünkörü adımları şöyle anlatabilirim:
 Bir: kuzgunu komutla çağırmayı öğrenmelisin.
 İki: kuzguna kime gitmesi gerektiğini öğretmelisin.
 Üç: kuzguna komutunla gitmesi gerektiğini öğretmelisin.
 Komutla çağırmak için önce kuzgunların etrafında rahat davranması gerekir. Sonra çağırma komutunu verip gelen kuzguna yem verirsin, bunu öğrenene kadar mesafeyi artırarak tekrarlarsın. Kuzgun artık uzaktan da duysa yanına gelene kadar devam edersin.
--Peki bütün kuzgunlara öğrettin mi bunu? Veya yani sadece sana gelmelerini de öğrettin mi? Başkası taklit etse ne oluyor? Diye sordu masaya bir tomar daha kağıt çıkaran yazar kağıtlardan birini önüne alırken.
--Kuzgunlar akıllıdır, hatta kargalardan daha akıllılardır çoğu insan aradaki farkı bile bilmez ama. Birine bir şey öğretirsen diğer kuzgunlar ondan onu izleyerek o bilgiyi öğrenirler zaten. Ayrıca ıslık ve melodi tonunu da ayırt etmeyi bilirlen o yüzden sadece benim komutlarıma cevap veriyorlar.
--Islık mı? Komutların "gel" "uç" "getir" gibi kelimeler değil mi?
+-Peki bütün kuzgunlara öğrettin mi bunu? Veya yani sadece sana gelmelerini de öğrettin mi? Başkası taklit etse ne oluyor? Aklındaki soruları ardı ardına sıralayan yazar masaya bir tomar daha kağıt çıkardı.
+-Kuzgunlar akıllıdır, hatta kargalardan daha akıllılardır ama çoğu insan aradaki farkı bile bilmez. Birine bir şey öğretirsen diğer kuzgunlar onu izleyerek o bilgiyi öğrenirler zaten. Ayrıca ıslık ve melodi tonunu da ayırt etmeyi bilirlen o yüzden sadece benim komutlarıma cevap veriyorlar.
+-Islık mı? Komutların 'gel', 'uç', 'getir' gibi kelimeler değil mi?
 Başını sallayan dedektif 1 uzun 4 kısa ve tekrar 1 uzun ıslık çaldı.
--Bu çağırma komutu. Kelime yerine ıslık seçmemin sebebi daha anlaşılır ve daha uzun menzilli olması, dedi ve bu sefer de nefes alırken 2 kısa ıslık çalıp 3 kez dilini şaklattı. Bu da uçma komutu. Bunun diğeri kadar uzun menzilli olmasına gerek yok, zaten kuzgunu çağırdıktan sonra benden yem beklemeye başladığı için bana yakın duruyorlar.
+-Bu çağırma komutu. Kelime yerine ıslık seçmemin sebebi daha anlaşılır ve daha uzun menzilli olması, dedi ve bu sefer de nefes alarak 2 kısa ıslık çalıp 3 kez dilini şaklattı. "Bu da uçma komutu. Bunun diğeri kadar uzun menzilli olmasına gerek yok, zaten kuzgunu çağırdıktan sonra benden yem beklemeye başladığı için bana yakın duruyorlar."
 -Peki diğer şeyleri nasıl öğrettin?
--"Gitme komutu ve kime gitmesi gerektiği aynı anda öğreniliyor gibi. Şöyle anlatayım." diyen dedektif yumruğunu havaya kaldırıp parmaklarıyla saydı: Kuzgunları gitmesi için eğittim 3 kişi var: yardımcım, doktorum, sekreterim. Yardımcımı genelde bir konuda acil desteğe ihtiyacım olduğunda çağırıyorum, mesela bir kovalamacada hırsızın önünün kesilmesi gerekiyor veya ofiste ekmek bitmiş gelirken ekmek al diyorum, takdir edersin ki bunlar önemli şeyler. Doktoruma gitmelerini acil bir durumda ilk yardıma falan ihtiyaç olursa diye öğrettim aslında.
--Tekrar önüne yeni bir kağıt alan yazar kaleminin ucu köreldiği için dedektifin sözünü kesti, "Dur bekle şunu açayım öyle devam et." dedi ve masada kağıtlar arasında kalemtıraş aramaya başladı.
+-Gitme komutu ve kime gitmesi gerektiği aynı anda öğreniliyor gibi. Şöyle anlatayım, diyen dedektif yumruğunu havaya kaldırıp parmaklarıyla saydı: "Kuzgunları gitmeleri için eğittim 3 kişi var: yardımcım, doktorum, sekreterim. Yardımcımı genelde bir konuda acil desteğe ihtiyacım olduğunda çağırıyorum, mesela bir kovalamacada hırsızın önünün kesilmesi gerekiyor veya ofiste ekmek bitmiş gelirken ekmek al diyorum, takdir edersin ki bunlar önemli şeyler. Doktoruma gitmelerini acil bir durumda ilk yardıma falan ihtiyaç olursa diye öğrettim."
+-Tekrar önüne yeni bir kağıt alan yazar kaleminin ucu köreldiği için dedektifin sözünü kesti "Dur bekle şunu açayım öyle devam et.", ve masada kağıtlar arasında kalemtıraş aramaya başladı.
 -Kulağının arkasında bir tane daha kalem var, haberin var değil mi?
-Karıştırdığı kağıtları düzelten yazar bir anlığına dondu ve gülerek elini kulağına götürdü, gülerek dedektiften devam etmesini rica etti:
+Karıştırdığı kağıtları düzelten yazar bir anlığına dondu ve gülerek elini kulağına götürdü, dedektiften devam etmesini rica etti:
 -Peki kuzgunlar bunları hiç unutmuyor mu? Veya sadece bu 2 komut sana yetiyor mu yoksa her şeyi bir kere öğrettim gerisi rahat artık gibi mi?
 Dedektif havadaki elini tekrar koltuğa indirdi:
 -Tam da oraya geliyordum, önce komutları anlatayım. Yeni bir komuta ihtiyacım olmuyor çünkü üçüncü kişiyi, sekreterimi aracı olarak kullanıyorum. Ekstra bir şey isteyeceksem kuzgunları ona yolluyorum o da ofisten istediğim şeyi yapıyor, karakolu aramak, müşteriye bir şeyi haber vermek mesela.
@@ -407,13 +406,16 @@ Dedektif havadaki elini tekrar koltuğa indirdi:
 -Evet, sol bacağa mesaj bağlarsam doktora, sağ tarafa bağlarsam yardımcıma ikisine de birer tane bağlarsam sekreterime gidiyorlar.
 Yavaş yavaş sakinleşmiş olan yazar tekrar bir şaşkınlık şoku geçirdi:
 -Bekle, ne? Mesajın bağlanışına göre uçmayı mı öğrettin yani?
--Şimdi de ilk soruna bu öğrenimi nasıl pekiştirdiğime geldik. Eğitim şöyle oluyor: ıslıkla kuzgunu çağırıyorum, gelene yem veriyorum. Mesajı ayağına bağlıyorum, sonra tekrar ıslık çalıp dilimi şaklatınca mesajı bağladığım ayağa göre gitmesi gereken kişi elimdeki yemi açığa çıkarıyor. Kuzgun burada birkaç şeye koşullanıyor. Çağırma ıslığını öğreniyor, gitmesi gereken kişinin ıslıkla değil, mesajın bağlandığı ayakla belirlendiğini öğreniyor, dil şaklatmanın da git komutu olduğunu öğreniyor.
+-Şimdi de ilk soruna bu öğrenimi nasıl pekiştirdiğime geldik. Eğitim şöyle oluyor: ıslıkla kuzgunu çağırıyorum, gelene yem veriyorum. Mesajı ayağına bağlıyorum, sonra tekrar ıslık çalıp dilimi şaklatınca mesajı bağladığım ayağa göre gitmesi gereken kişi elindeki yemi açığa çıkarıyor. Kuzgun burada birkaç şeye koşullanıyor. Çağırma ıslığını öğreniyor, gitmesi gereken kişinin ıslıkla değil, mesajın bağlandığı ayakla belirlendiğini öğreniyor, dil şaklatmanın da ödülü ortaya çıkardığını, yani dil şaklatmadığım sürece gitmemesi gerektiğini, git komutunu öğreniyor.
 Dedektif koltukta biraz kayıp cebinden küçük bir poşet çıkardı ve yazarın masasına koyup geri koltuğuna oturdu.
 -Yanımda her zaman yem taşırım. Diğer üç kişiye de aynı yemlerden veririm. Arada sırada onlarla dışarı çıktığımızda bu eğitim dersini tekrarlarız ki kuzgunlar yem alacaklarını bilsinler. Veya ben bir kuzgunu çağırıp mesaj yolladıysam, mesajı alan kişi kuzguna yem vermesi gerektiğini bilir.
 Son cümlelerini karalayan yazar masadaki torbayı alıp inceledikten sonra dedektife geri verdi ve sandalyesinde geriye yaslanıp karalamalarına baktı.
 -Çok enteresan bir sistem.
 -Evet öyle, ama faydasını da çok gördüm. Müşterimi korumak için sekreterime mesaj yolladım karakolu arayıp koruma talep etmesini istedim. Başka bir zaman hırsızı kovalarken önünü kesmek için yardımcımı çağırdım. Gerçi o gelmeden adam karşı binaya atmayamayıp yere düştü ama neyse. Düşen adamı da kurtarmak için doktora mesaj yolladım gene. Şehir içi veya dışı her yerden istediğim herkese mesaj yollayabiliyorum yani.
 Dedektifin verdiği örnekleri, yazar kağıdın bir köşesine not aldı. Koltuğunda doğrulan dedektif yazara döndü:
+
+77777
+
 -Aslında bunun gibi enteresan olayları ve dedektiflik işlerini anlatmak için bir otobiyografi yazmamı öneriyor dergiden çalışan yardımcım, bir aralar giriştim ama bıraktım. Sende var mı hiç otobiyografi yazma isteği. Veya günlük falan yazıyor musun?
 Yazar, masanın alt gözünden kalın bir defter çıkardı ve dedektife göstermek için elinde biraz çevirdi:
 -Ben otobiyografi olarak değil de ölümümden sonra yayımlanmasını isteyeceğim bir şey yazıyorum. Aslında günlük gibi bir şeyden ziyade benim aklıma gelen fikirler ve duygular curcunası" dedi ve içinden, masadakiler gibi karalamalarla dolu ama daha düzenli yazılmış bi kağıt çıkarıp "bu fikirden daha emin değilim o yüzden daha günlüğe eklemedim. Şimdi de aslında bunun gibi fikirler arıyorum" diyip kağıdı masadakilerin arasına koydu. Defteri de dedektife uzattı
