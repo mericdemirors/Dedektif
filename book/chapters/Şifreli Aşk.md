@@ -469,48 +469,47 @@ Oturduğu yerden kalkan dedektif, bir ihtimal yazar günlüğü yakmışsa diye 
 Feneri ağzına alıp ilk sayfayı çevirdi ve yazılı tek kelimeyi okudu, "Zeldacığıma..." Ardından yazılmış bir kaç aşk şiirine hızlıca göz attıktan sonra defterin sonuna atladı.
 "Eveeet, şimdi gizemi çözme vakti, buralarda bir yerde yazıyordur herhalde. Bakalım en son hangi gün yazmışsııın" dedi son sayfaları çevirirken.
 Son sayfada okuduklarını anlamlandırmaya çalışan dedektif, sayfayı baştan sonra bir kez daha taradıktan sonra beklediğinden farklı bir şey bulmanın verdiği şaşkınlıkla bir an nasıl bir yol izleyeceğini çözemedi. Ayağa kalkıp yazarın masasına yürüdü ve çekmecede ne kadar boş kağıt olduğunu kontrol etti. Eline bir tomar kağıt almıştı ki pencereden yavaş yavaş aydınlanmaya başlayan dağın tepesini görüp kağıtları geri yerine koydu. Tekrar günlüğü açıp sondan kaç tane sayfaya yetecek vakti olduğunu düşünürken fenerin parlattığı deklanşör gözünü aldı. Makinesine bakarken yerine sallanan dedektif, düşüncelerini toparladı ve anlık bir can sıkıntısından sonra "Offf, sadece işimi uzatıyorsunuz. Ne gerek var işleri bu kadar şifreli halletmeye. Adam akıllı söyleseniz ya ne söyleyecekseniz" diye sitem ederek yere oturdu, günlüğü önüne koydu ve boynundaki makineyi çıkardı. "Neyseki yanımda her zaman yedek film taşırım.". Fenerdeki postiti çıkarıp makinesini hazırladı, ve her sayfayı iyici aydınlattığından emin olarak fotoğrafları çekmeye başladı.
-777
 * 1995-03-29 04:00
-Sayfa değiştirip fotoğraf çekmekten beli ağrıyan dedektif; günlüğü, onu aldığı yığının üstüne geri bıraktıktan sonra makinesini ve çantasını boynuna asıp koridoru dinliyor. "Beklediğimden uzun sürdü, ortalık aydınlanmadan gideyim artık", ofisin kapısını araladı ve her şeyi yerinde bıraktığından emin olduktan sonra geldiği gibi geri döndü, ayakkabılarını giyip yerdeki kar izini sildi ve patikanın sonunda bekleyen bisikletine atladı. Selenin soğukluğuyla irkilen dedektif ayağını pedallara atıp çantalarını kucağına aldı ve yola koyuldu.
-Boş apartman dairesine girdiğinde güneş hala ortalarda gözükmüyordu. Çantasını boşaltmadan alet askılarından birine astı, sadece içindeki filmlerini aldı ve koridorun sonundaki odaya koştu. Gözleri loş kırmızı odaya alışana kadar bir süre yerinde durdu ve etrafta asılmış ipleri, tür tür kapları görünce makinedi filmi de çıkardı. Birkaç saat süren uğraşlar sonucunda ipler sonuna kadar dolmuştu. Koridora çıkan dedektif antrede uçuşan tozlar üzerinde güneşin ilk hüzmelerini görünce ofise gitmesi için çok vaktinin kalmadığını anladı, bir nevi de olsa kendini toparlayabilmek için yatağına uzanıp alarmını kurdu ve yorgunluğunu alacak kadar bir süre uyudu
+Ardı ardına sayfa çevirip fotoğraflar çekmekten beli ağrıyan dedektif; günlüğü, onu aldığı yığının üstüne geri bıraktıktan sonra makinesini ve çantasını boynuna asıp koridoru dinledi. "Beklediğimden uzun sürdü, ortalık aydınlanmadan gideyim artık", ofisin kapısını araladı ve her şeyi yerinde bıraktığından emin olduktan sonra geldiği gibi geri döndü, ayakkabılarını giyip yerdeki kar izini sildikten sonra sabah soğuğuna çıkıp patikanın sonunda bekleyen bisikletine atladı. Selenin soğukluğuyla irkilen dedektif, ana yola indiğinde günün ilk ışıklarıyla ufuk çizgisi seçilebilmeye başlamıştı.
+Boş apartman dairesine girdiğinde güneş hala ortalarda gözükmüyordu. Çantasını boşaltmadan alet askılarından birine astı, sadece içindeki filmlerini aldı ve koridorun sonundaki odaya geçti. Gözleri loş kırmızı odaya alışana kadar bir süre yerinde durdu ve etrafta asılmış ipleri, tür tür kapları ayırt edebilince makinesindeki filmi çıkardı. Birkaç saat süren uğraşlar sonucunda bütün ipler sonuna kadar dolmuştu. Koridora çıkan dedektif antrede uçuşan tozlar üzerinde güneşin ilk hüzmelerini görünce ofise gitmesi için çok vaktinin kalmadığını anladı, bir nevi de olsa kendini toparlayabilmek için yatağına uzanıp alarmını kurdu.
 * 1995-03-30 10:00
-Betül ile selamlaştıktan sonra dedektifin ofisine giren Nail, masaya saçılmış tonla fotoğraf ve elinde büyüteçle bir fotoğraflara bir önündeki deftere bakan dedektifi görünce elindeki gazeteyle olduğu yerde kaldı:
+Betül ile selamlaştıktan sonra dedektifin ofisine giren Nail, masaya saçılmış tonla fotoğraf ve defteri arasında elinde büyüteçle mekik dokuyan dedektifi görünce gazeteyle olduğu yerde kaldı:
 -Ne bu, fotoğraf galerini mi açıyorsun?
 Elindeki fotoğrafı da masadakilerin yanına koyup kutudan yenisini alan dedektif büyüteci ve fotoğrafı defterin arasına koyup sandalyede arkasına yaslandı. Belini kütlettikten sonra koltuğa geçmiş gazeteyi açan yazara cevap verdi:
 -Uzun hikaye sonra anlatırım, sen niye uğradın? Yeni dergi sayısıyla meşgulsün sanıyordum.
 Gazetede aradığı sayfayı bulan yazar katlayıp dedektife uzattı:
--Benlik çok bir iş kalmadı şu anda. Öğlen gibi tekrar uğrarım dedim o zamana kadar boşum. Şu haberi getirdim sana. 
--Bakalım neymiş... "Amerika Kolları Sıvadı Araştırmalar Başladı", hmm... harbiden yapıyolar ha bu işi. Gene iyisin dergiye yazacak bir şey çıkmış, napıyorsun ediyorsun bir yerden uzay haberi buluyorsun çok acayip.
+-Benlik çok bir iş kalmadı şu anda. Öğlen gibi tekrar uğrarım o zamana kadar boşum. Gazetede şunu görünce sana uğrayayım dedim.
+-Bakalım neymiş... "Amerika Kolları Sıvadı Araştırmalar Başladı", hmm... demek harbiden yapıyolar ha o işi. Gene iyisin dergiye yazacak bir şey çıkmış, napıyorsun ediyorsun bir yerden uzay haberi buluyorsun çok acayip.
 -Gelecek uzayda çünkü, Amerika senin gibi vizyonsuz değil ki adamlar geleceğe yönelik para harcıyorlar.
-Derin bir iç çeken yazar gazeteyi geri aldıktan sonra devam etti, "Biz de yerimizde sayalım, en azından bilgisayarlar popülerleşiyor. Yavaştan biz de yakalarız umarım, bakacağız artık. Sen anlat bakalım senin şu uzun hikayeni, ney bu fotoğraflar?"
+Derin bir iç çeken yazar gazeteyi geri aldıktan sonra devam etti, "Biz de yerimizde sayalım, en azından bilgisayarlar popülerleşiyor. Yavaştan biz de yakalarız umarım, bakacağız artık. Sen anlat bakalım neymiş uzun hikayen, bu fotoğraflar?"
 -Bizim roman yazarı ölmüş sevgilisinin günlüğünü bana vermedi diye günlüğü kendim almaya gitmiştim de orada çektiklerim.
 Gözleri şaşkınlık ve kızgınlıktan açılan yazar koltukta öne eğildi:
 -Şaka mı yapıyorsun? Gece adamın evine mi girdin? İyice yoldan çıktın artık, hırsızlık da çok oluyor ama!
--Hırsızlık falan değil, günlüğün son sayfasında yazarın 'romanı istediğim gibi yazamadım' gibi bir itirafını bulup fotoğrafını çekip sana göstermek için gitmiştim.
--Eeee! Sonra ne oldu paşa? Birden bütün odayı çekme gereği mi hissettin? Ayıp be, bir de utanmadan elalemin evini çekmişsin!
+-Hırsızlık falan değil, günlüğün son sayfasında yazarın 'romanı istediğim şekilde yazamadım' gibi bir itirafını bulup fotoğrafını çekip sana göstermek için gitmiştim.
+-Eeee! Sonra ne oldu paşa? Milletin ofisine girip bi bakıp çıktın hiçbir şey almadın diye hırsızlık olmuyor mu yani? Birden bütün odayı çekesin mi geldi?
 -Yav yok, bi sakin ol otur oturduğun yerde. Günlüğü çalmadan sana kendimi nasıl ispatlayacaktım? O yüzden makineyle gitmiştim. Son sayfayı çekip gelecektim.
-Dedektif bir süre duraksadı arkadaşının sakinleştiğinden emin olmak için, "Ama son sayfada daha da değişik bir şey buldum, ve olay daha da karmaşıklaştı. Çözmek için günlüğün tamamına ihtiyacım vardı o yüzden hepsini çekip kopyalamaya başladım."
--Aferim, günlüğü çalmadığın için seni kutlayalım o zaman. Ne anlatıyorsun ya, ölü bi kızın günlüğünü kopyalamışsın hala konuşuyorsun.
--Ya orası öyle de, boş ver çok takılma şimdi.
+Dedektif parmağını masadaki fotoğraf yığınına vuran dedektif devam etti:
+-Ama son sayfada daha da değişik bir şey buldum, ve olay daha da karmaşıklaştı. Çözmek için günlüğün tamamına ihtiyacım vardı o yüzden hepsini çekip kopyalamaya başladım.
+-Aferim, günlüğü çalmadığın için seni kutlayalım o zaman. Ne anlatıyorsun ya, ölü bi kızın günlüğünü kopyalamışsın hala haklı çıkmaya çalışıyorsun.
+-Ya orası öyle de, boş ver çok takılma şimdi. Sen şuna bak asıl.
 Dedektif önündeki defteri aralayıp en sondaki sayfayı çevirip arkadaşına verdi:
 -Günlüğün son sayfası bu, özet geçecek olursam kız vasiyet olarak günlüğü bıraktığını ve sevgilisinin onun arkasından neler yapmasını istediğini yazmış.
-Sayfayı okuyan adamın anlattıklarına yetişmesi ve sayfayı okuması için bir süre susan dedektif devam etti:
+Sinirli sinirli elinden kaptığı defteri çatılmış kaşlarıyla okuyan adamın anlattıklarına yetişmesi ve sayfayı okuması için bir süre susan dedektif devam etti:
 -Ve 'sana şifreli olarak neler yazdıysam hepsi doğru, benim ardımdan çözeceğin şifreler de sana doğruyu söyleyecek' demiş.
-Okumayı bitiren yazar kafasını defterden kaldırmadan kendisinden bir yanıt bekleyen adama baktı:
--Sen de bunu görünce dedin ki "Ben milletin özeline burnumu sokmalıyım çünkü hakkım"? Hala anlamıyorum kendini nasıl haklı çıkartacaksın. Kız, sevgilisine 'kalbinin sesini dinle, seni seviyorum' falan demek yerine bunu yazdı diye günlüğü mü kopyaladın yani?
+Okumayı bitiren yazar, kafasını defterden kaldırmadan göz ucuyla kendisinden bir yanıt bekleyen adama baktı:
+-Sen de bunu görünce dedin ki "Ben milletin özeline burnumu sokmalıyım çünkü hakkım", bu mudur yani? Hala anlamıyorum kendini nasıl haklı çıkartacaksın. Kız, sevgilisine 'kalbinin sesini dinle, seni seviyorum' falan demek yerine bunu yazdı diye günlüğü mü kopyaladın yani?
 -Hayır, yani evet de... Şöyle bak. Kız 'çözeceğin şifreler' demiş. İnanıyorum ki günlüğün içinde bir yerlerde daha çözülecek bir şeyler var. Kız çözülmesi için bir şifre bırakmış ve o şifrenin doğruyu göstereceğini söylüyor. Kızın bunu mecazi olarak söylemediğine eminim.
-Siniri yatışsa da alaycı tavrı elden bırakmayan adam defteri geri dedektife uzattı:
+Siniri biraz da olsa yatışsa da alaycı tavrı elden bırakmayan adam defteri geri dedektifin kucağına attı:
 -Allah allah Tarık Efendi eminse o zaman o iş ayrı bak.
 Defterin ilk sayfalarını çeviren dedektif parmağıyla satırlarda gezdikten sonra aradığını buldu, açtığı defteri yazara tuttu:
 -Bir yerde sevgililerin şifreleşerek oynadıkları bi oyunu anlatıyor kız, dedi ve sayfaları biraz karıştırdıktan sonra defterin ilk sayfasına geri döndü:
 -Burada da, bu şiirde de el yazısı günlüğe uymuyor, bizim elemanı ziyarete gittiğimde yazdıklarına bakarak onun el yazısı olduğunu söyleyebilirim. Gece gittiğimde adamın da günlüğünü biraz incelemiş olabilirim tabi konumuz bu değil, dedi ve hızlıca elini havada salladı yazarın dikkatini dağıtmak için.
 Defteri geri uzatan dedektif arkasına yaslandı:
 -Şifreyi çözmeyi dene istersen, çözemezsen açıklayayım. Günlükte buna benzer başka şifreler de olmasını bekliyorum. Ve hepsini çözünce de...
-Bir an duraksadı dedektif, yazarla birbirlerine baktılar. Ve dedektif gülmeye başladı:
+Bir an duraksadı dedektif, yazarla birbirlerine baktılar. Dedektif gülmeye başladı:
 -O kadar derine girdim ki asıl amacımı unuttum, neyse. Çözünce de iddiayı kazanmış olacağım.
 Arkadaşının gülmesine siniri bozulan yazar da hafifçe güldü:
--Gerçekten yapacak bir şey olmayınca kafayı yedin herhalde, bir tanecik iddia için... Neyse bakalım neymiş senin şu şiir ve her şeyi çözecek şifre
-Defteri alıp ilk sayfasını açan yazar şiiri okumaya başladı:
+-Gerçekten yapacak bir şey olmayınca kafayı yedin herhalde, bir tanecik iddia için... Neyse bakalım neymiş senin şu şiir ve her şeyi çözecek şifre, dedi. Ardından şiiri okumaya başladı:
 
 Seni hatırlatır bir demet gül bir buket nergis
 Nefes nefes çekerim kokunu bin kere
@@ -531,15 +530,14 @@ Nolur bu sefer sonum oldur, o olsun sonum.
 
 -Edebi olarak beğenmedim. Bir dergide yazar olarak onayımı alamadı.
 -Ya adamın da öyle bir iddiası yok zaten, roman yazarı adam. Sen edebi yanını boşver şifreyi buldun mu onu söyle.
--Hmmm... Akrostiş gibi basit bir şey bekliyordum ama değilmiş. Çiçekçi abiyle, falcı ablayla ve kader dediği dostuyla alakalı bir şeydir kesin. Günlüğün başka yerlerinde yine böyle atıflar yapıyorsa oradan çözebilirim belki.
+-Hmmm... Akrostiş gibi basit bir şey bekliyordum ama, 'snçs ktf...' yok değilmiş. Çiçekçi abiyle, falcı ablayla ve kader dediği dostuyla alakalı bir şeydir kesin. Günlüğün başka yerlerinde yine böyle atıflar yapıyorsa oradan çözebilirim belki.
 -Hmmm, çiçekçi ve falcı diyorsun, anladım.
 Defteri kapatıp geri uzatan yazar koltuktan kalkıp kağıya doğru ilerledi:
 -Öğleni çok geçmeden ben yayımevine gidip geleyim, şifrelerinle sonra oynarız olur mu? Gazete de sende kalsın belki okuyup biraz kültürlenirsin, dedi ve şifreyi açıklayamadığı için hevesi kursağında kalan dedektifle vedalaşıp ayrıldı.
-
-Kutusundan bir fotoğraf daha çıkaran dedektif kendi kendine konuşarak günlüğü kopyalamaya devam etti, "O zamaaann, kopyalamaya devam edelim bakalım. Kesin ileride olayı aydınlatacak bir şifre bulabilirim. Bu fıs çıktı."
-Gün boyu boş kalan ofiste son fotoğrafı da kutudan alan dedektif günlüğü kopyalamayı bitirdi ve sandalyesine yaslanıp ağrıyan elini sıvazladı, "Şifre mifre uğraşamam, etrafı toplayıp uyumak istiyorum artık". Masasını düzenledikten sonra antrede, mesaisini çoktan bitiren sekreterin boş bıraktığı masanın çekmecesini açtı ve defteri alıp karıştırmaya başladı. "27... 28, 29, 30." Defteri geri yerine koydu, ve iç çekerek ofisten çıktı, "Offf, bomboş. Gerçekten de ilk 2 haftanın acısını çıkarıyoruz, Umarım çok sürmez."
+Sehpadaki gazeteyle başbaşa kalan dedektif kutusundan bir fotoğraf daha alıp kendi kendine konuşarak günlüğü kopyalamaya devam etti.
+Gün boyu boş kalan ofiste son kopyaladığı fotoğrafı masadakilerin üstüne koyan dedektif, sandalyesine yaslanıp ağrıyan elini sıvazladı, "Şifre mifre bugün uğraşamam, etrafı toplayıp uyumak istiyorum artık" ve masasını toparladı. Mesaisini çoktan bitiren sekreterin masasının çekmecesini açtı ve defteri alıp karıştırmaya başladı. "27... 28, 29, 30." Defteri geri yerine koydu, ve iç çekerek ofisten çıktı, "Offf, bomboş. Gerçekten de ilk 2 haftanın acısını çıkarıyoruz, Umarım çok sürmez."
 * 1995-03-31 09:00
-
+777
 -Eee nasıl gidiyor, çözdün mü bari şifreyi?
 -Daha yeni başladım, dün kopyalamayı bitirip bırakmıştım, dedi masadaki sayfaları dikkatli bir şekilde inceleyip önündeki iki yığından birine koyan dedektif.
 Dedektifi izleyen yazar her zamanki yerine geçmeden önce masanın yanına geçip kağıtları inceledi. "Bugün tamamen boş sayılırım, yardım edebilirim benlik bir şey varsa, ama bir şartım var.".
