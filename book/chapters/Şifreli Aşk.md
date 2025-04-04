@@ -616,57 +616,55 @@ Sehpadaki abur cuburdan bir lokma alan yazar bir süre aklında şiirin yorumunu
 Karalamaları silgiyle silen dedektif sonra sehpadaki kağıtları da istedi ve hepsini düzenledikten sonra fotoğraflarla birlikte kutularına koyup kenara kaldırdı.
 -Neyse, şimdi asıl şifrenin yorumu, ve şiirin yorumunun neden alakalı olduğunu düşündüğüme gelirsek: Şiir ölümden sonra ardında bıraktığı kişilere yaşamaya devam etmelerini söylüyor, ki bence konumuz olan ölen bir sevgiliyle gayet uyumlu. Ayrıca kızın şifreli söylediği şeye de bakarsak şunu çıkarabiliriz ki: Az önce de söylediğim gibi kız sevgilisine onu sevmediğini falan söylemiş, ama aslında sevgilisinin yaşamına devam etmesini istiyor, yani onu bir şeyden korumak istemiş. Ayrıca kızın da şiiri yazmak için kısıtlı vakti olduğunu düşünürsek, şiiri mükemmelleştirmeye vakti olmamış Betül'ün de söylediği gibi, ben buradan şunu anlıyorum...
 Bir süre duraksayan dedektif düşüncelerini toparladı, ve direkt olarak sonuca varmak yerine arkadaşları da düşüncelerini takip edebilsin diye adım adım ilerlemeye karar verdi:
-
-777
-
--Varsayalım ki sevgilisini çok seven bir kızım, ama ondan bir şey saklıyorum ve onu öğrenmemesi için ondan nefret ediyormuş numarası yapıyorum ama bir yandan da öğrenmesini umuyorum. 
-Dedektif bir an durup arkadaşlarına baktı takip edebiliyorlar mı diye, ve devam etti:
--Öğrenmesini umduğuma göre kızacağı bir şey değil aldatma vesaire gibi. Ve ondan nefret ediyormuş gibi davrandığıma göre onunla alakası olmasını istemediğim bir şey, veya bana kızacağı ama bilme hakkı olduğunu düşündüğüm bir şey. Belki de çok büyük bir borcum vardı ve tefecilerin ona bulaşmasını istemedim.
--Ama o zaman vasiyet olarak bu romanı yazmasını istemezdin yoksa tefeciler Yavuz'u bulup parayı ondan isteyebilirlerdi. Özellikle de roman bu kadar ünlü olmuşken. 
+-Varsayalım ki sevgilisini çok seven bir kızım, ama ondan bir şey saklıyorum ve öğrenmemesi için ondan nefret ediyormuş numarası yapıyorum ama bir yandan da içten içe öğrenmesini umuyorum. 
+Dedektif bir an durup arkadaşlarına baktı ne yapmak istediğini anlayabildiler mi diye anlamak için, ve devam etti:
+-Öğrenmesini umduğuma göre aldatma gibi kızacağı bir şey değil. Ve ondan nefret ediyormuş gibi davrandığıma göre onunla alakası olmasını istemediğim bir şey, veya bana kızacağı ama bilme hakkı olduğunu düşündüğüm bir şey. Belki de çok büyük bir borcum vardı ve tefecilerin ona bulaşmasını istemedim. Bu tip bir şey.
 Yavaş yavaş yazar ile sekreter de konunun içine çekiliyorlardı:
--Yani işin içinde üçüncü bir kişi yok. Senin kendine sakladığım bir sırrın bu şifreyle ve şiirle alakalı şey, dedi elindeki abur cuburla dedektife işaret eden Betül.
--Hmmm, peki benim gibi bir sevgili olsanız neyi bu şekilde sevgilinizden saklıyor olurdunuz. Sizce neden böyle yaptım, diye sordu ve sehpadaki son parçayı da eline aldıktan sonra "Ayrıca unutmayın, kısıtlı bir zamanınız var söylemek için." dedi ve ağzına atıp arkasına yaslandı.
+-Ama o zaman vasiyet olarak bu romanı yazmasını istemezdin yoksa tefeciler Yavuz'u bulup parayı ondan isteyebilirlerdi. Özellikle de roman bu kadar ünlü olmuşken. 
+-Yani işin içinde üçüncü bir kişi yok, dedi elindeki abur cuburla dedektife işaret eden Betül.
+-Hmmm, peki benim gibi bir sevgili olsanız neyi bu şekilde saklıyor olurdunuz. Sizce neden böyle yaptım, diye sordu ve sehpadaki son lokmayı da aldıktan sonra. "Ayrıca unutmayın, kısıtlı bir zamanınız var söylemek için."
 Düşünmek için koltuğuna yaslanan yazar, elini çenesine koyup seslice düşünmeye başladı:
 -Sadece kızla sevgilisi arasında bir şey, ve kız kısa bir sürede söylemek istiyor ama söyleyemiyor... Şehir dışına taşınacaklardır belki. Veya ne bileyim ailesi ilişkilerini bitirmeleri için kızı zorluyordur.
 -Ya da anne babası evlenmesi için kıza memur birini ayarlamışlardır, her şey çoktan ayarlanmıştır. Kızımız da söylemek istiyordur ama dili varmıyordur.
 -Çok dramatize düşünüyorsun Betül, Nail'in taşınma ilişkiyi bitirme tahmini iyi bir tahmin ama tam olayı çözmüyor sanki.
-Her ne kadar olayın en başındaki şifre çözme curcunasından itibaren umursamamış gibi gözükse de, fikrinin beğenilmemesi ile rekabetçiliği tetiklenen Betül, koltuğunda yaslandı ve karşısındaki yazara meydan okur gibi bakarak kollarını kavuşturdu.
+Her ne kadar olayın en başındaki şifre çözme curcunasından itibaren umursamamış gibi gözükse de, fikrinin beğenilmemesi ile rekabetçiliği kendisini gösteren Betül, koltuğunda yaslandı ve karşı koltuktaki adama meydan okur gibi bakarak kollarını kavuşturdu.
 -Belki erkeğimiz kızımızı aldatmıştır, kız da öğrenip ayrılmak istiyordur.
 Meydan okumayı kabul eden yazar yavaş yavaş olaydan keyif almaya başladı.
 -O zaman da günlüğünü verip roman yazmasını istemezdi. Hala çok dramatik şeyler arıyorsun. Belki de Tarık'ın da bahsettiği tefecilerin olduğu senaryo gibi bir şeydir? Eğer üçüncü şahsın roman yazarının peşine düşmesi için ortada bir sebep kalmazsa her şey yerine oturuyor değil mi?
--Buna uygun bir teorin varsa söyle, yine de duruma tam uyacağını düşünmüyorum, dedi masa başındaki adam.
+-Buna uygun bir teorin varsa söyle, yine de duruma tam uyacağını düşünmüyorum, dedi masa başındaki dedektif.
 -Belki de kızın bir sapığı vardı, onu rahatsız ediyordu. Ama sevgilisi öğrenirse sapığına kötü şeyler yapar diye söylemek istemiyordu, yine de bir yandan söylemesi gerektiğini biliyordu?
--Ama o zaman yazardan nefret etmesi için bir sebebi olmazdı yani bilemedin, diye atıldı adamın teorisini çürütmekten mutlu olan kız.
--Belki de bu sapık çocukluk arkadaşıydı, bizim kız da onunla birlikte olmak istiyordu. Belki de aldatan taraf Yavuz değil de kızdı? Çözüm bu mu, diye sordu arkadaşına dönen yazar.
-Sandalyesine yaslanmış dedektif başını salladı, ve kendi teorisini anlatmaya başladı:
--Benim de ilk düşüncem aldatmayla alakalıydı, şifreyi ilk çözdüğümde iki taraftan birinin aldattığı aklıma geldi. Şifrede nefret etmekten ve korumaktan bahsedildiğine göre ya erkek aldatıyordu, kız da erkeğin yazarlık kariyerini korumaktan bahsediyordu; ya da kız aldatıyordu ve erkeğe 'bunları seni korumak için sakladım' kolpasını sıkıyordu.
+-Ama o zaman yazardan nefret etmesi için bir sebebi olmazdı yani bilemedin, diye atıldı karşı teoriyi çürütmekten mutlu olan kız.
+-Belki de bu sapık çocukluk arkadaşıydı, bizim kız da onunla birlikte olmak istiyordu. Belki de aldatan taraf Yavuz değil de kızdı? Çözüm mu, çözüm bu mu?
+Dedektife dönen yazarın heyecanı sandalyesine yaslanmış dedektifin başını sallamasıyla söndü. Herkes sakinleştikten sonra dedektif kendi teorisini anlatmaya başladı:
+-Benim de ilk düşüncem aldatmayla alakalıydı, şifreyi ilk çözdüğümde iki taraftan birinin aldattığı aklıma geldi. Şifrede nefret etmekten ve korumaktan bahsedildiğine göre ya erkek aldatıyordu, kız da erkeğin yazarlık kariyerini korumaktan bahsediyordu; ya da kız aldatıyordu ve erkeğe 'bunları seni korumak için senden sakladım' kolpasını sıkıyordu.
 -Bence ikincisi daha muhtemel, kızlar sever öyle kolpaları.
 Kendilerini süzen Betül'ün bakışları altında konudan sapmamaya dikkat eden dedektif, yazarın yorumunu gözardı ederek devam etti:
--Biri veya diğeri, ikiside yanlış olduktan sonra bir önemi yok. Betül, şiirin özenildiğini ama yine de mükemmelleştirilmek için yaterli vakit verilmediğini söylediğinde aldatma senaryolarından vazgeçtim.
+-Biri veya diğeri, ikisi de yanlış olduktan sonra bir önemi yok. Betül, şiirin özenildiğini ama yine de mükemmelleştirilmek için yaterli vakit verilmediğini söylediğinde aldatma senaryolarından vazgeçtim.
 Dedektif sandalyesinden kalkıp ellerini arkasında kavuşturup pencereden dışarıyı seyretmeye başladı:
 -Bence kızın vaktinin sınırlı olmasının sebebi, yakında öleceğini biliyor olması.
 Arkadaşlarına dönüp bir tepki bekleyen dedektif istediği merağı uyandırdığını görünce çok beklemeden devam etti:
--Kız yakında ölecekti, ve bundan haberi vardı. Ama bunu sevgilisine söyleyip onu üzmek istemedi. Son anlarını mutlu yaşamak istedi. Ama sonu yaklaştıkça ölümünün sevgilisini çok üzeceğini farketti ve onu üzmemek için neler yapabileceğini düşünmeye başladı. Ve intihar etmeye karar verdi.
--Saçmaladın iyice, çok dramatik çok dramatik diye bize laf anlatıyordun az önce.
--Ben saçmalamadım, intihar eden kız saçmaladı bana göre. Sevgilisi onun arkasından üzülmesin diye ondan nefret ediyormuş gibi yapıp ayrıldı. Ardında da gerçekleri öğrenmesi için şifreler bıraktı. Bütün kriterlerimize uyuyor değil mi?
+-Kız yakında ölecekti, ve bundan haberi vardı. Ama bunu sevgilisine söyleyip onu üzmek istemedi. Son anlarını mutlu yaşamasını istedi. Ama sonu yaklaştıkça ölümünün sevgilisini çok üzeceğini farketti ve onu üzmemek için neler yapabileceğini düşünmeye başladı. Ve intihar etmeye karar verdi.
+-Saçmaladın iyice, çok dramatik çok dramatik diye bize laf anlatıyordun az önce. Üçüncü bir şahıs yok diye önerilerimizi reddediyordun. Şimdi de kız öldürülecekti diye hayatımda gördüğüm en dramatik intihar sebebini ortaya sürüyorsun.
+-Üçüncü bir şahıstan bahsetmedim ki. Kız en başından beri üçüncü bir şahıs tarafından tehdit altında değildi, kız öldürülmeyecekti. Ölecekti. Yine de bana göre saçmalayan kişi intihar eden kız. Sevgilisi onun arkasından üzülmesin diye ondan nefret ediyormuş gibi yapıp ayrıldı. Ardında da gerçekleri öğrenmesi için şifreler bıraktı. Bütün kriterlerimize uyuyor değil mi?
 Dedektifin senaryosunu bir süre sessizce düşünen ikili, bir çelişki göremiyordu.
 -Kısıtlı zamanı, erkeği korumak istemesini, şifrede geçen 'nefret', her şeyi açıklıyor.
 -Ama şu 'ikinci kez göz atma'kla alakalı kısmı açıklamıyor, dedi antitez bulmanın heyecanıyla arkadaşını haksız çıkarmak isteyen yazar.
--Ona çok takılma olur öyle şeyler, orasını boşver. Birazını da sonra çözelim olmaz mı?
+-Birazını da sonra çözelim olmaz mı?
 Tekrar pencereye dönen dedektif etrafta toparlanmaya başlayan kuzgunları görünce gülümsedi:
--Hem haklı olup olmadığımı yaklaşık birkaç dakika içinde göreceğiz. Bekleyelim bakalım.
+-Hem haklı olup olmadığımı yaklaşık birkaç dakika içinde göreceğiz. Bekleyelim bakalım. Eğer haklıysam 'ikinci kez göz atma' kısmını da açıklayacağım her şey sona erince. Öncesinde görüp emin olmam gereken bir şifre daha olacaktır ancak.
 Dedektifin tahmin ettiği gibi çok kısa bir süre sonra pencere pervazında bir kuzgun belirdi. Kuşun bacağındaki notu altıktan sonra elinde hazır beklettiği yemi kendisini bekleyen kuzgunlar için pencere pervazına serpti ve pencereyi kapatıp masasına döndü.
--Ne yazmış doktor abla, diye heyecanla atıldı daha az önce meydan okumasında iki tarafta kaybettiğin için hevesi kaçmış olan Betül.
+-Ne yazmış doktor abla, diye heyecanla atıldı daha az önce meydan okumasında iki tarafa da kaybettiği için hevesi kaçmış olan Betül.
 Kağıdı yavaşça açmaya başladı dedektif:
 -Eveeett, bakalım Banu gerçekleri aydınlattı mı yoksa düşündüğüm şeyi mi yazdı.
 -Düşündüğün şey mi? Zaten bu hastalık intihar şeyi ilk tek fikrin değil miydi, diye sordu arkadaşının birden fazla senaryosu olmasına şaşıran yazar.
 -Kağıdın küçüklüğüne bakarsak tahmin ettiğimi yazdı, dedi ve açtığı kağıdı ortaya koydu dedektif.
-"hasta mahremiyeti"
--Offfff, yani bir şey de diyemiyorum haklı ne de olsa. Mecbur yanına gidip konuşmak gerek şimdi.
-Hevesleri kursaklarında kalan ekip, gün boyunca şifrelerle uğraşmanın yorgunluğuyla vaktin ne kadar geçtiğinin farkında değildi. Her şeyin sakinleşmesi üzerine çoktan akşam olduğunu farkettiler ve ofisi el yordamıyla toplarlayıp mutfağı da temizledikten sonra yollarını ayırdılar. 
-Dedektif, yarın dağıtıma çıkacak dergileri kontrol etmek için basımevine giden yazarı ve artık evine dönmesi gereken Betül'ü uğurladı. Masasını toparladıktan sonra hastanenin yolunu tuttu, şansına mesai bitiminde Banu Doktor'u yakalayabilirdi belki.
+"Beklediğim gibi: 'hasta mahremiyeti' yazmış."
+Oturdukları yerlere çöken ikili bir masaya bakıyordu, bir yorgunluktan gözlerini sıvazlayan dedektife. Kendini en sonunda toparlayan dedektif masadaki kağıdı alıp cebine attı ve kalkıp kapıya ilerledi
+-Offfff, yani bir şey de diyemiyorum haklı ne de olsa. Mecbur yanına gidip konuşmak gerek şimdi. Geliyor musunuz?
+Hevesleri kursaklarında kalan yazar ve sekreter, gün boyunca şifrelerle uğraşmanın yorgunluğu üzerine her şey sakinleşince çoktan akşam olduğunu farkettiler ve dedektifin teklifini reddettiler. Dedektifi uğurladıktan sonra ofisi el yordamıyla toplarlayıp mutfağı da temizledikten sonra yollarını ayırdılar. Yarın dağıtıma çıkacak dergileri kontrol etmek için basımevine giden yazar ve artık geç olmadan evine dönmesi gereken Betül, akıllarında sorularla hala dedektifin teorisinde çürütecek noktalar aramaya çalışıyorlarken dedektif çoktan adımlarını hızlandırmış, mesai bitiminde Banu Doktor'u yakalamak için durağa yetişmeye çalışıyordu
 * 1995-03-31 17:00
-
+***
+777
 Danışmanın önünden hızla geçen dedektif; mesai sonu hengamesine yetişmeye çalışan, haftasonuna kalmak istemeyen insanların arasından sıyrılıp neredeyse bomboş olan bloğa girdi. Şansına o kadar koşuşturmacanın arasında kimse farketmemişti, ana binaya nazaran korkutucu derecede boş denilebilecek adli tıp ve morg bloğu içinde her zamanki ofisin yerini tuttu. Aradığı ofise geldi, "Banu Zeytindalı", kapıyı tıklattı, ses yok... Koşar adım laboratuvara indi ve kapıyı tıklattı. Bir topuklu sesi kapıya yaklaştı... Takıt, takıt, takıt, ve kapı açıldı. Mesai sonunda iş çıkmamasını uman doktor, karşısında dedektifi görünce başını uzatıp koridora baktı, kimseyi göremeyince mutsuz bir şekilde başını sallayıp dedektifi laboratuvara aldı ve kapıyı ardından kapattı:
 -Sana kaç kez kafana esince buraya sızma dedim, gerçekten bir gün başın belaya girecek ve o zaman ben yardım etmeyeceğim haberin olsun.
 -Bir şey olmaaaaz, yakalanmadığım sürece bi sıkıntı var mı? Bence yok.
