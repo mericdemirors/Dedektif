@@ -90,7 +90,7 @@ Sıktığı eli sallamaya başlayan yazar hafif bir kahkaha attıktan sonra sall
 -Sonra bana ağlama ama ikisinden birine geri çevirelim diye?
 -Jhoooooukkkkk ağlamam merak etme, sen yavaştan paranı biriktir alışveriş ağır gelmesin sonra, dedi dedektif gülerek kendini sandalyeye bırakırken.
 Dedektifin oturmasıyla pencereden kararan havayı izleyen adam yoğurdunu bitirip koltuktan kaltı, "ağlamam merak etme, ben de yavaştan kaçıyorum, yeni sayıya az kaldı diye işler yoğunlaşıyor gittikçe yarın sabah erken kalkmak gerek." Kapıdan çıkmadan kaşığıyla sehpanın üzerindeki kitabı gösterip "sende kalabilir, iddiana yardım eder belki" diyip ofisten çıktı.
-Antreye giderken arkasından ofisin kapısını duyan yazar "senin de mesain bugün bu kadar mı? Betül de çıkacağım diyordu o ad gitmiş, saat 17.30 kepenkler kapanır mı?" dedi arkasını dönmeden.
+Antreye giderken arkasından ofisin kapısını duyan yazar "senin de mesain bugün bu kadar mı? Betül de çıkacağım diyordu o da gitmiş, saat 17.30 kepenkler kapanır mı?" dedi arkasını dönmeden.
 -Dışarıda bi yürüyüp gelirim belki, dedi kendisine bırakılan kitabı geri arkadaşının çantasına koyan dedektif. "Milletin emanetini taşımayı sevmem. Kitabı da okudum bitirdim her şey aklımda iddia için ihtiyacım yok", dedi ve çantanın gözünü geri kapattı.
 -İyi bari, gel durağa kadar yürüyelim oradan devam edersin.
 Dışarı çıkan iki adamın ardından kapı kapandı, dedektifin merdivenlerden gelen sesi ofisin içinde cılız bir şekilde duyuldu: "bugün yeni bir iş çıkacak gibi hissediyorum demiştim değil mi... Bakalım ne kadar büyüyecek bu iddia..."
@@ -696,7 +696,9 @@ Bilgisayarına son kayıtları da giren doktor her şeyi kapattıktan sonra sand
 -Neyi tahmin etmiştin, gene ben zaten konudan uzağım diye hava mı atıyorsun?
 -İntihar olduğunu tahmin etmiştim. Kızın da çok cesaretli biri olmadığını ve olayların büyümediğini düşünerek uyku hapı veya ağrı kesici falan kullandığını düşünmüştüm. İntihar etme sebebi olarak da etrafındakilerden saklayabileceği, ancak yine de ölümcül seviyeye gelmiş hastalıkları düşününce ilk aklıma gelen kanserdi. Özellikle yumurtalık diye düşünmemiştim ama, yine de sanırım sana hava atabilecek kadar tutturmuşum ne diyorsun?
 -Etkileyici, yine de üzücü ama. Ölüyü hava atmak için kullanmazsan sevinirim. Kızın durumu için de gerçekten elden bir şey gelmezmiş. En azından yaşayacak çok bir vakti kalmamışken bunu yaptığını bilmek belki bir tık rahatlatıyordur ailesini. Hayatını dolu dolu yaşamıştım umarım.
-Raporu kapatıp doktora geri uzatan dedektif raporun tekrar yerine konmasını izledikten sonra bir an laboratuvarın soğuğundan irkildi, kendine geldi ve labaratuvarı kapatan doktora teşekkür edip laboratuvardan çıktı. Kendi kendine konuşarak hastaneden ayrıldı ve boş apartmanının yolunu tuttu, "Bakalım Yavuz bey bu olayların ne kadardın haberdar".
+Odadaki sessizliği bir süre durumun ağırlığıyla öylece kalan dedektifin laboratuvarın soğuğundan irkilmesi bozdu. Kendine gelen dedektif cebinden çıkardığı küçük torbayı masaya koydu:
+-Sendeki yem bitiyordur, tekrar ne zaman görüşürüz bilemem. Gelmişken şunu da vereyim.
+Raporu kapatıp torbayla birlikte doktora geri uzatan dedektif raporun tekrar yerine konmasını izledikten sonra labaratuvarı kapatan doktora teşekkür etti ve laboratuvardan çıktı. Kendi kendine konuşarak hastaneden ayrıldı ve boş apartmanının yolunu tuttu, "Bakalım Yavuz bey bu olayların ne kadardın haberdar".
 * 1995-04-01 09:00
 Dış kapının açılmasıyla kulübenin sıcağı dedektifin yüzüne vurdu, "Günaydınlar Hilal Hanım, yine ben geldim", diyip gülümseyerek içeri girdi.
 -Yavuz beyle görüşecektim de, müsait midir acaba?

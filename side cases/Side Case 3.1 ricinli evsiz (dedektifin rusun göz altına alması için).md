@@ -33,5 +33,5 @@ bu olay büyüyüp dedektifin kulağına gitmeyince rus ajan dedektife yakın ki
 # [[6 Sayfalar Gösteriyor#800|800]]
 dedektif diğer olayları çözüp rus ajanı yakalayınca evine gidip ricin yapma eşyalarını buluyor.
 # [[6 Sayfalar Gösteriyor#900|900]]
-dedektif doktora "böyle böyle ölen başkaları oldu mu" diye soruyor ve bu adamı buluyor. Testleri yaptıktan sonra Ricin'den öldüğünü anlıyorlar.
+dedektif doktora "böyle böyle ölen başkaları oldu mu" diye soruyor ve bu adamı buluyor. Testleri yaptıktan sonra Ricin'den öldüğünü anlıyorlar. Sonra dedektif "sana geçen bana rapor göstermen için vakalarda yardım etme sözü vermiştim, onlardan birini buna sayarsın artık" diyor.
 
