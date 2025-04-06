@@ -37,14 +37,12 @@
                 "id": "458355ae5e3b9884",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
+                  "type": "image",
                   "state": {
-                    "file": "characters/roman yazarının sevgilisi/Roman Yazarının sevgilisi.md",
-                    "mode": "source",
-                    "source": false
+                    "file": "characters/dedektif uşağı/Dedektif Uşağı.png"
                   },
-                  "icon": "lucide-file",
-                  "title": "Roman Yazarının sevgilisi"
+                  "icon": "lucide-image",
+                  "title": "Dedektif Uşağı"
                 }
               }
             ]
@@ -211,26 +209,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "458355ae5e3b9884",
+  "active": "6b8f2f7b0a989675",
   "lastOpenFiles": [
+    "characters/dedektif uşağı/Dedektif Uşağı.png",
+    "book/Rules.md",
     "book/chapters/Şifreli Aşk.md",
-    "side cases/Side Case 3.1 ricinli evsiz (dedektifin rusun göz altına alması için).md",
-    "book/arcs/6 Sayfalar Gösteriyor.md",
-    "side cases/Side Case 3.2 Botulinum'lu yazar (dedektifin şeker kokulu birinin insanları zehirlediğini anlaması için).md",
+    "characters/doktor/Doktor.png",
+    "characters/roman yazarı/Roman Yazarı.png",
+    "characters/dedektif yardımcısı/Dedektif Yardımcısı.png",
     "book/arcs/1 Şifreli Aşk.md",
+    "characters/dedektif/Dedektif (meriç).md",
+    "characters/dedektif/Dedektif.png",
+    "side cases/Side Case 3.3 antifrizli tamirci (dedektifin zehirlemeler için rus ajandan şüphelenmesi için).md",
+    "book/arcs/6 Sayfalar Gösteriyor.md",
+    "book/Parallel Timelines.canvas",
+    "book/Event Timeline.md",
     "characters/roman yazarının sevgilisi/Roman Yazarının sevgilisi.md",
+    "side cases/Side Case 3.1 ricinli evsiz (dedektifin rusun göz altına alması için).md",
+    "side cases/Side Case 3.2 Botulinum'lu yazar (dedektifin şeker kokulu birinin insanları zehirlediğini anlaması için).md",
     "book/arcs/5 Taziye Yemeği ve Hava Yastığı.md",
     "book/arcs/4 Tüplerin Peşinde.md",
     "book/arcs/3 Parktaki Ceset.md",
     "book/arcs/2 Kurabiye Hırsızı.md",
     "characters/doktor/Doktor (barış).md",
-    "characters/doktor/Doktor.png",
-    "characters/dedektif yardımcısı/Dedektif Yardımcısı.png",
-    "characters/dedektif uşağı/Dedektif Uşağı.png",
-    "characters/dedektif/Dedektif.png",
-    "characters/dedektif/Dedektif (meriç).md",
-    "book/Parallel Timelines.canvas",
-    "book/Event Timeline.md",
     "side cases/Side Case 2 dul kadın (dedektifin rus ajandan haberi olması için).md",
     "side cases/Side Case 3.4 zehirsiz dedektif (dedektifin rus ajanı tutuklamak için yeterli kanıtı bulması ve main story'yi öğrenmesi için).md",
     "Pasted image 20250315002241.png",
@@ -242,17 +243,13 @@
     "characters/dedektif uşağı/Dedektifin Uşağı (berat).md",
     "characters/komiser/Komiser (Doğukan abi).md",
     "characters/dedektif yardımcısı/Dedektif Yardımcısı (nazmi).md",
-    "book/Rules.md",
     "side cases/Side Case 1 şifreli günlük (karakterleri tanıtmak için).md",
     "book/chapters",
     "characters/Characters.canvas",
     "book/Arcs.canvas",
     "characters/rus ajan/Rus Ajan.png",
-    "characters/roman yazarı/Roman Yazarı.png",
     "characters/RBA/RBA.png",
     "characters/komiser yardımcısı/Komiser Yardımcısı.png",
-    "characters/rus ajan/Rus Ajan.md",
-    "book/arcs/8 Profesörün Peşinde.md",
     "images/study/video images",
     "images/study/videos",
     "images/study/vids",
