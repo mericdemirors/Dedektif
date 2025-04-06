@@ -37,14 +37,17 @@
                 "id": "458355ae5e3b9884",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
+                  "type": "canvas",
                   "state": {
-                    "file": "book/Rules.md",
-                    "mode": "source",
-                    "source": false
+                    "file": "book/Parallel Timelines.canvas",
+                    "viewState": {
+                      "x": -10382.662796959836,
+                      "y": -5864.988000360987,
+                      "zoom": -0.6971861680348721
+                    }
                   },
-                  "icon": "lucide-file",
-                  "title": "Rules"
+                  "icon": "lucide-layout-dashboard",
+                  "title": "Parallel Timelines"
                 }
               }
             ]
@@ -211,13 +214,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cb9ca6cc0e9845a4",
+  "active": "6b8f2f7b0a989675",
   "lastOpenFiles": [
-    "book/chapters/Şifreli Aşk.odt",
-    "book/chapters/lu180797kl41.tmp",
+    "book/Parallel Timelines.canvas",
+    "book/chapters/lu187947x2mx.tmp",
+    "book/chapters/lu187947x19j.tmp",
+    "book/chapters/Şifreli Aşk.pdf",
+    "book/chapters/lu187947x15q.tmp",
+    "book/chapters/lu187947x15j.tmp",
+    "book/chapters/lu187947x0pt.tmp",
+    "book/chapters/lu187947wxk3.tmp",
     "book/Rules.md",
-    "characters/dedektif uşağı/Dedektif Uşağı.png",
     "book/chapters/Şifreli Aşk.md",
+    "book/chapters/Şifreli Aşk.odt",
+    "book/chapters/lu187177w3y4.tmp",
+    "book/chapters/lu180797kl41.tmp",
+    "characters/dedektif uşağı/Dedektif Uşağı.png",
     "characters/doktor/Doktor.png",
     "characters/roman yazarı/Roman Yazarı.png",
     "characters/dedektif yardımcısı/Dedektif Yardımcısı.png",
@@ -226,7 +238,6 @@
     "characters/dedektif/Dedektif.png",
     "side cases/Side Case 3.3 antifrizli tamirci (dedektifin zehirlemeler için rus ajandan şüphelenmesi için).md",
     "book/arcs/6 Sayfalar Gösteriyor.md",
-    "book/Parallel Timelines.canvas",
     "book/Event Timeline.md",
     "characters/roman yazarının sevgilisi/Roman Yazarının sevgilisi.md",
     "side cases/Side Case 3.1 ricinli evsiz (dedektifin rusun göz altına alması için).md",
@@ -248,20 +259,11 @@
     "characters/komiser/Komiser (Doğukan abi).md",
     "characters/dedektif yardımcısı/Dedektif Yardımcısı (nazmi).md",
     "side cases/Side Case 1 şifreli günlük (karakterleri tanıtmak için).md",
-    "book/chapters",
     "characters/Characters.canvas",
     "book/Arcs.canvas",
     "characters/rus ajan/Rus Ajan.png",
     "characters/RBA/RBA.png",
     "characters/komiser yardımcısı/Komiser Yardımcısı.png",
-    "images/study/video images",
-    "images/study/videos",
-    "images/study/vids",
-    "images/study",
-    "book/arcs/yhyhtt",
-    "book/arcs/yhyh",
-    "book/arcs/1 Şifreli Aşk (copy)",
-    "book/arcs/1 Şifreli Aşk",
     "book/Parallel Time Lines.canvas",
     "book/events.canvas",
     "kitap/events.canvas",
