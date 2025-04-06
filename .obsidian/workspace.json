@@ -37,12 +37,14 @@
                 "id": "458355ae5e3b9884",
                 "type": "leaf",
                 "state": {
-                  "type": "image",
+                  "type": "markdown",
                   "state": {
-                    "file": "characters/dedektif uşağı/Dedektif Uşağı.png"
+                    "file": "book/Rules.md",
+                    "mode": "source",
+                    "source": false
                   },
-                  "icon": "lucide-image",
-                  "title": "Dedektif Uşağı"
+                  "icon": "lucide-file",
+                  "title": "Rules"
                 }
               }
             ]
@@ -209,10 +211,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6b8f2f7b0a989675",
+  "active": "cb9ca6cc0e9845a4",
   "lastOpenFiles": [
-    "characters/dedektif uşağı/Dedektif Uşağı.png",
+    "book/chapters/Şifreli Aşk.odt",
+    "book/chapters/lu180797kl41.tmp",
     "book/Rules.md",
+    "characters/dedektif uşağı/Dedektif Uşağı.png",
     "book/chapters/Şifreli Aşk.md",
     "characters/doktor/Doktor.png",
     "characters/roman yazarı/Roman Yazarı.png",
@@ -258,7 +262,6 @@
     "book/arcs/yhyh",
     "book/arcs/1 Şifreli Aşk (copy)",
     "book/arcs/1 Şifreli Aşk",
-    "book/arcs/2 Kurabiye Hırsızı",
     "book/Parallel Time Lines.canvas",
     "book/events.canvas",
     "kitap/events.canvas",
