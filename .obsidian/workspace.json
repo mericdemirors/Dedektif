@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "book/chapters/Şifreli Aşk.md",
+                "file": "book/arcs/2 Kurabiye Hırsızı.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Şifreli Aşk"
+              "title": "2 Kurabiye Hırsızı"
             }
           }
         ]
@@ -41,9 +41,9 @@
                   "state": {
                     "file": "book/Parallel Timelines.canvas",
                     "viewState": {
-                      "x": -10382.662796959836,
-                      "y": -5864.988000360987,
-                      "zoom": -0.6971861680348721
+                      "x": -8051.019868498599,
+                      "y": -5266.897669104398,
+                      "zoom": -0.11820692062377985
                     }
                   },
                   "icon": "lucide-layout-dashboard",
@@ -62,12 +62,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "book/arcs/1 Şifreli Aşk.md",
+                    "file": "side cases/Side Case 2 dul kadın (dedektifin rus ajandan haberi olması için).md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "1 Şifreli Aşk"
+                  "title": "Side Case 2 dul kadın (dedektifin rus ajandan haberi olması için)"
                 }
               }
             ]
@@ -216,24 +216,27 @@
   },
   "active": "6b8f2f7b0a989675",
   "lastOpenFiles": [
+    "side cases/Side Case 2 dul kadın (dedektifin rus ajandan haberi olması için).md",
+    "book/arcs/2 Kurabiye Hırsızı.md",
     "book/Parallel Timelines.canvas",
+    "book/chapters/Şifreli Aşk.pdf",
+    "book/chapters/Kurabiye Hırsızı.md",
+    "book/arcs/1 Şifreli Aşk.md",
+    "book/chapters/Şifreli Aşk.md",
+    "Untitled",
     "book/chapters/lu187947x2mx.tmp",
     "book/chapters/lu187947x19j.tmp",
-    "book/chapters/Şifreli Aşk.pdf",
     "book/chapters/lu187947x15q.tmp",
     "book/chapters/lu187947x15j.tmp",
     "book/chapters/lu187947x0pt.tmp",
     "book/chapters/lu187947wxk3.tmp",
     "book/Rules.md",
-    "book/chapters/Şifreli Aşk.md",
     "book/chapters/Şifreli Aşk.odt",
     "book/chapters/lu187177w3y4.tmp",
-    "book/chapters/lu180797kl41.tmp",
     "characters/dedektif uşağı/Dedektif Uşağı.png",
     "characters/doktor/Doktor.png",
     "characters/roman yazarı/Roman Yazarı.png",
     "characters/dedektif yardımcısı/Dedektif Yardımcısı.png",
-    "book/arcs/1 Şifreli Aşk.md",
     "characters/dedektif/Dedektif (meriç).md",
     "characters/dedektif/Dedektif.png",
     "side cases/Side Case 3.3 antifrizli tamirci (dedektifin zehirlemeler için rus ajandan şüphelenmesi için).md",
@@ -245,9 +248,7 @@
     "book/arcs/5 Taziye Yemeği ve Hava Yastığı.md",
     "book/arcs/4 Tüplerin Peşinde.md",
     "book/arcs/3 Parktaki Ceset.md",
-    "book/arcs/2 Kurabiye Hırsızı.md",
     "characters/doktor/Doktor (barış).md",
-    "side cases/Side Case 2 dul kadın (dedektifin rus ajandan haberi olması için).md",
     "side cases/Side Case 3.4 zehirsiz dedektif (dedektifin rus ajanı tutuklamak için yeterli kanıtı bulması ve main story'yi öğrenmesi için).md",
     "Pasted image 20250315002241.png",
     "characters/apartman tamircisi/Apartman Tamircisi.md",
@@ -258,7 +259,6 @@
     "characters/dedektif uşağı/Dedektifin Uşağı (berat).md",
     "characters/komiser/Komiser (Doğukan abi).md",
     "characters/dedektif yardımcısı/Dedektif Yardımcısı (nazmi).md",
-    "side cases/Side Case 1 şifreli günlük (karakterleri tanıtmak için).md",
     "characters/Characters.canvas",
     "book/Arcs.canvas",
     "characters/rus ajan/Rus Ajan.png",
