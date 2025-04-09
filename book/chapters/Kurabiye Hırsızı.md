@@ -72,11 +72,59 @@ Merdivenden inen Nuri, elinde kurabiyeyla babasına koşmaya başladı:
 -Dikkatli ol bakalım yola çıkma, dedi limonatasını alıp tekrar apartmana giren adam.
 Merdivenleri çıkıp aralık bırakılmış kapıdan girdi. Durdu Teyze kurabiye yaptığında kapı kapı dolaşıp vermeye derman bulamazdı o yüzden pencereyi ve kapıyı açardı koku merdiven boşluğundan apartmana yayılsın da canı çeken gelsin alsın diye. Yaşlanmıştı artık, kendine de iyi bakmamasının etkisiyle sağlığı kötüye gidiyordu, yine de oğlunu okutabilmek için elinden geleni yapıyor ve bundan mutlu oluyordu. Apartmandakiler onun için ne kadar endişelense de onu ikna edememişlerdi hala patates, pirinç, mercimek gibi ucuz yemekler yapar; kelimenin tam anlamıyla dişinden tırnağından artırarak oğluna para yollardı. Özellikle kocası öldükten sonra durumu daha da zorlaşmıştı, en azından komşular ona sohbet muhabbet dostluğu yapıyor dertlerini dinliyorlardı. Kurabiyeleri gerçekten de lezzetliydi ama. Belki komşunun malzemeleri yardımlaşa toparlamasından belki de el lezzetindendi, yine de yiyen ikinciyi almazsa aklında kalırdı.
 Kapının eşiğinde duran kapıcı, koltukta hırıltılı hırıltılı nefes alan kadını görüp sessiz adımlarla parke gıcırdatmadan mutfağa geçiyor. Fırından yeni çıkmış dumanı üstünde bir kurabiye alıyor ve tekrardan sessizce daireden ayrılıyor.
+Limonatası ve kurabiyesiyle sandalyesine geri dönen kapıcı, bahçe girişinde dedektif Tarık ile bir beyfendiyi çocuklar tarafından sarılmış şekilde gördü, hepsi bir ağızdan bir şeyler istiyorlardı:
+-Abi, abi o ünlü dedektif sen misin?
+-Annem diyor ki sende bir sürü silah varmış, silahlarınla oynayabilir miyiz abi?
+-Abi geçen gece bisikletle nereye gittin, kötü adamları mı kovalamaya gittin abi?
+-Çocuklar sakin olun bakalım izin verin de yürüyelim, dedi etrafı sarılmış dedektif bezmiş bir yüz ifadesiyle soruları görmezden gelerek.
+Aralarında tanıdığı tek oğlan olan Nuri öne atıldı:
+-Tarık abi, yeni kurabiyelerimiz var almak ister misin?
+"Oooo kurabiye demek ha, biz de kurabiye için geldik zaten ufaklık" dedi dedektifi arkasından takip eden yazar.
+Sonunda kalabalık ekip bahçeye girdi, selam vermek için kalkan kapıcı bardağını alet çantasının üstüne bırakıp elini uzattı:
+-Hoşgeldin Tarık efendi, buzdolaplarının bakımını bitirdim, senin dairene yine dokunmadım istediğin gibi. Bir sorun çıkarsa söyle oraya da el atarım.
+-Sağ olasın amca eline sağlık, dolabın fişi takılı değil seni yormayayım hiç. Eve yiyecek bir şeyler alınca bakarım artık dolap çalışıyor mu çalışmıyor mu.
+Tokalaşıp gülen göbekli adam, Nail'e de kendini tanıttıktan sonra etraftaki çocukları kışkışları:
+-Amma baş belası oldu bunlarda büyüyünce, hınzırlar. Durdu Teyze yine harika kurabiyeler yapmış gelmişken kaçırmayın, çoktan 3 tanesi gitti bile. Bir ara bizim velete de bir ders vermek lazım ikişer ikişer yiyor yaramaz. Aman siz birer tane yiyin, az önceki ordudan sonra apartmana kalmayacak yoksa.
+Bir yandan kendi benzetmesine gülerken bir yandan da apartmana akın eden çocuk sürüsüne baktı. Limonata bardağını alıp balkonun pervazına koydu, "Ben şu merdiveni indireyim artık, çocuklar onu görürse ellerinde kurabiyeyle merdivenden inmeye çalışırlar" dedi ve apartmanın yan tarafına geçti.
+-Tam da vaktinde gelmişiz gibi gözüküyor, dedi dedektif arkadaşına dönerek.
+Nail cevap veremeden apartmandan yüksek bir çığlık duyuldu. Ardından birkaç çocuk bağrışı daha duyulduktan sonra apartmandan korkmuş bir çocuk sürüsü koşarak çıktı. Ağlayan ve dehşete düşmüş çocukları görünce şok olan yazar, kendine geldiğinde dedektif çoktan öne atılmış apartmana girmişti. Merdivenleri çıkarken arkasından gelen arkadaşına emirler yağdırıyordu:
+-Merdiven boşluğunda durup kim dışarı çıkarsa çıksın kimseye bir şey söyleme. Çocuklar oyun oynuyor diye geçiştir herkesi sakinleştir.
+Merdivenlerde ona yetişmeye çalışan yazar dedektifin isteğini duyunca yavaşladı:
+-Tamamdır. Biliyor musun ne olduğunu?
+-Hayır, sadece dediğimi yap. Kimse panik olmasın.
+Açık kapıdan başını uzatıp içeriyi izleyen dedektif bir süre olduğu yerde bekledi. Nail'in alt komşuları sakinleştirmeye çalıştığını duyuyordu. Kapıcı Abdullah amca da kendi eşiyle konuşuyordu. Yukarıdan da ses gelmediğine göre Rosa büyük ihtimalle dışarıdaydı, veya böyle şeyleri çok takmayan soğuk biriydi. Kapıdan girip etrafı inceleyen dedektif yalnız olduğunu anlayınca antreden mutfağa geçiyordu ki birden arkasındaki kapı aralandı. Karşı komşu Selma abla birden eve dalıp mutfağa koştu.
+-Durdu Teyzeee! İyi misin teyze! Ahh hala sıcak! Doktoooor, doktor yok muuu!
+Mutfağa koşan dedektifin hemen ardından yardımcısı da içeriye girdi.
+Koltuğa yığılmış yaşlı kadın karnından bıçaklanmıştı. Karşısında yere çökmüş Selma, bir eliyle Durdu'nun koltuktan sarkan koluna destek olurken hala doktor çağırıyordu nefes nefese, diğer elinde de ucu kanlı bıçağı tutuyordu. Bir kaç kez daha doktor için bağırdıktan sonra yavaş yavaş kendine geldi ve elindeki bıçağı korkuyla odanın köşesine savurup kendini birkaç adım geride yere bırakıp ağlamaya başladı.
+Olayın şokundan çıkmış olan yazar merdivenlere koştu:
+-Katil hala yakınlardadır, onu aramaya çıkıyorum burası sana emanet.
+Merdivende kapıcıyla çarpışan yazar düşmekten son anda kurtulup kendini apartmanın dışına attı. Bahçede hala etrafa dağılmış, artık sessizce duran, çocukar arasından koşarak geçti ve ana sokak boyunca katili aramaya başladı.
+Mutfağa giren kapıcı Selma Hanımı yerden kaldırıp koluna girdi, ve karşı daireye taşıdı:
+-Burası sende evlat, Selma Abla'lara geçip polisi ve ambulansı arayıp geliyorum hemen.
+-Polis yeterli olacaktır, Durdu Teyze çoktan ölmüş, Selma Abla'yı sakinleştir kendine getir yeter.
+Etraf dindikten sonra dairenin kapısını kapatan dedektif artık suç mahalinde yalnız kalmıştı. Mutfakta kanlı bıçağı tutmak için bir şey ararken ayağının dibindeki fırın eldivenini gördü, kurabiye kokulu hala sıcak olan fırın eldiveniyle bıçağı alıp koltuğun yanındaki sehpaya koydu:
+-Kanlı aletimizi sağa sola atmayalım lütfen Selma hanım, diye içinden geçirdi.
+Mutfağın köşesinde bir eli çenesinde parmaklarıyla ritim tutarak olay mahalini inceleyen dedektif; koltuktaki yaşlı kadına, kanlı bıçağa ve açtığı yaraya, açık pencerenin önündeki kurabiye tepsisine, az önce aralıklı olan kapıya göz gezdirdi. Odanın farklı yerleri arasında bir oraya bir buraya bakıyordu hızlı hızlı. Mutfaktan çıkıp evin diğer tarafına baktı. Yatak odasındaki yatak dışında ev bomboştu. Durdu Teyze'yi tanımasa hırsızlık olduğunu düşünebilirdi ama oğluna destek olmak için bütün eşyalarını sattığını biliyordu. Evde kimse olmadığından emin olduktan sonra antreye geri dönüp tıklatılan kapıyı açtı. Nefes nefese kalmış Nail başını iki yana sallayarak antreye girdi, ardından karşı kapı açıldı ve beti benzi atmış Selma Hanım'la hala ona destek olan kapıcı gözüktü.
+-Selma Abla sen istersen evinde yat biraz kendine gel, polis gelsin biz Tarık'la hallederiz bunu. Biraz dinlen kendine olur mu?
+-Olmaz! Durdu Teyze'min yanında duracağım ben, ona göz kulak olacağım.
+-Peki gel bakalım, dedi onu da içeri alan kapıcı. "Polis geliyormuş, kimse eve girip çıkmasın dediler. Ne kadar şahit varsa herkes birbirine göz kulak olsun olayın başından beri kimler oradaysa orada kalsın dediler."
+-Tamammdır amca sağ olasın.
+-Bahçedeki çocukları geri buraya çağırmak onları korkutabilir ne yapalım? Bizim Nuri kurabiyeleri ilk yiyendi onu çağırayım belki polise yardım edecek bir şeyler söyleyebilir.
+Kapıdan koşarak çıkan kapıcıyı izleyen Nail, endişeli şekilde dedektife baktı:
+-Polis herkes orada kalsın demişti, kapıcıyı durdurmamız gerekmez miydi?
+-Gerek yok. kapıcının da, çocuğunun da ve hatta Selma Abla'nın da olayla bir alakası olduğunu sanmıyorum. Sanırsam ne olduğunu çözdüm, yine de polisi beklemem gerek bir kaç şeyi teyit etmek için.
+Olayın şokundan hala konuşulanları kavrayamayan Selma, bir süre sonra ayağa kalkıp açık pencereye gitti. Odadaki iki adam, Selma'nın duymakta bile zorlandığı bir şeyler konuşurken derin derin nefes alıp kendine gelmeye çalışıyordu:
+-Kim öldürdü Durdu Teyze'mi? Söyle kim öldürdü!
+Araya giren yazar kadını sakinleştirip koltuklardan birine oturttu:
+-Sakin ol Selma Abla, polisler gelene kadar bekleyelim açıklar. Hem bak kapıcı amca da gelir birazdan. Hep beraber polislere anlatırız bizim bir şey yapmadığımızı olur mu?
+Sesi çıkmayan kadın karşısında ölü duran komşusuna bakmaktan kendini alamıyordu.
+-Nail, Selma Abla'nın koluna girip buraya getir, olay mahalinde oturmayın.
+Hala şoktan mantıklı konuşamayan Selma'nın heyecanı yerini donukluğa bırakmıştı:
+-Tarık, kim öldürdü Durdu'yu? Durdu niye öldü Tarık söyle bana?
+-Gel şöyle önce bir oturalım Selma Abla, dedi pencerenin yanına sandalye çeken Nail.
+Sandalyenin karşısına geçip tezgaha yaslanan dedektif pencereden bahçeye baktı. Çocuklar yavaş yavaş evlerine dağılmışlardı. Polisten veya kapıcıdan hala bir iz yoktu.
+-Anlatayım Selma Abla gel, aynı şeyleri tekrar tekrar açıklamayı sevmem ama sen de ben konuşmadıkça kendine gelemeyeceksin gibi duruyor.
 
 
 
-Elinde limonatayla bahçeye koltuğuna dönerken bahçenin kapısında dedektifi görecek. Nuri, dedektifi kurabiye yemeye davet edecek, dedektif de tamam diyecek. Nuri ve arkadaşları dedektifin etrafına dolanacak "bize son davanı anlat" "hadi kuzgun çağır" diye. Dedektif de onlarla şakalaşacak. Kapıcı oğlunu ve arkadaşlarını kışkışlayacak, sonra da dedektife "kurabiyeler güzel olmuş gene, yanında arkadaşını da getirmişken bir tadına bakın" diyor, sonra "bizim oğlanı da haşlamak lazım ama, siz ikişer tane almayın herkese kalsın" diyor, sonra "Ben şu merdiveni indireyim artık da çocuklar Durdu Teyze'yi uyandırmasınlar pencereden gir çık yaparken" diyor.
-
-
-
-Dedektif apartman girişinde elinde buzlu bı limonatayla apartman kapıcısiyle karşılaşıyor "ustam buzdolaplarını tamir ettim az önce, senin dairene yine dokunmadım. Bir sorun çıkarsa söyle. Dul kadın yine harika kurabiyeler yapmış gelmişken kaçırma, çoktan 2 tanesi gitti bile" diyip tokalaşıyor dedektifle.
+ilk şüpheli kapıcınin oğlu, ama dedektif "kadını öldürmüş olsaydı kapıcı kurabiyeyi alırken farkedip söylerdi" diyor. "Ama odaya girdiğinde kadının hırıltılı nefes aldığını duymuş, kadın uyuyor sanmış"
