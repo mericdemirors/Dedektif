@@ -61,4 +61,22 @@ Yeni temizlenmiş ofiste koltuğuna yerleşen yazar etrafı izlemeye başladı s
 Son yudumunu aldıktan sonra bardağını tezgahta yazarınkinin yanına koyan dedektif, antrede Betül'ü selamlayıp yazar ve şifre olaylayını özetleyen arkadaşını duydu. İki arkadaş, Betül'e apartmana kadar gidip geleceklerini söyledikten sonra vedalaşıp yola koyuldular.
 
 * 1995-04-03 10:00
-kapıcı apartmandaki dolapları tamir etmeye başlıyor, dul kadının dolabını tamir ediyor, kurabiye hazırlıklarını görüp "işim bitince bi gelip alırım artık" diyor ve diğer dairelere gidiyor.
+-Sizin buzdolabı tamam Selma abla, sigortada herhangi bir sorun yaşayacağınızı sanmam artık. Yine de tekrar bir şey olursa bana servisi arayalım, sorun buzdolabında değilse tesisatta sıkıntı olabilir.
+-Tamamdır, eline sağlık Abdullah abi. Birazdan limonata hazırlayacağım, diğer daireleri de bitirince uğrarsan sana da bir bardak koyayım teşekkür niyetine.
+Terini silen kapıcı alet çantasını kaldırdı ve karşı kapıya yürüdü:
+-Sağ olasın vallahi çok iyi olur, şimdi Durdu Teyze'ye ondan sonra da Rosa kızımıza uğrayacağım, işim bitince gelirim limonataya, şimdiden ellerine sağlık.
+Kapıyı tıklatıp içeri buyur edilmesiyle fırından sızan kurabiye kokusu yüzüne vurdu. Bütün daireleri bitirdikten sonra gelip kurabiye alacağının şakasını yapan kapıcı hızlıca kalan dairelerin de buzdolabının bakımını yaptı. Tekrar 2. kata inip Selma Hanım'dan limonatasını aldıktan sonra bahçeye inip güneşin altında limonatasını içmeye başladı. Merdivenin en tepesine tırmanmış olan oğluna seslendi dikkatli olması için ve kendi kendine söylenmeye başladı:
+-Şu merdiveni de kaldırmak lazım artık limonata bitsin de halledeyim, dedi bardağı alet çantasının üstüne bırakırken.
+Merdivenden inen Nuri, elinde kurabiyeyla babasına koşmaya başladı:
+-Babaaaa, Durdu Nine'nin kurabiyeleri pişmiş hadi sen de al bir tane. Kapısını da açmış. Ben de birazdan arkadaşlarımı getireceğim bitmeden ye kendininkini.
+-Dikkatli ol bakalım yola çıkma, dedi limonatasını alıp tekrar apartmana giren adam.
+Merdivenleri çıkıp aralık bırakılmış kapıdan girdi. Durdu Teyze kurabiye yaptığında kapı kapı dolaşıp vermeye derman bulamazdı o yüzden pencereyi ve kapıyı açardı koku merdiven boşluğundan apartmana yayılsın da canı çeken gelsin alsın diye. Yaşlanmıştı artık, kendine de iyi bakmamasının etkisiyle sağlığı kötüye gidiyordu, yine de oğlunu okutabilmek için elinden geleni yapıyor ve bundan mutlu oluyordu. Apartmandakiler onun için ne kadar endişelense de onu ikna edememişlerdi hala patates, pirinç, mercimek gibi ucuz yemekler yapar; kelimenin tam anlamıyla dişinden tırnağından artırarak oğluna para yollardı. Özellikle kocası öldükten sonra durumu daha da zorlaşmıştı, en azından komşular ona sohbet muhabbet dostluğu yapıyor dertlerini dinliyorlardı. Kurabiyeleri gerçekten de lezzetliydi ama. Belki komşunun malzemeleri yardımlaşa toparlamasından belki de el lezzetindendi, yine de yiyen ikinciyi almazsa aklında kalırdı.
+Kapının eşiğinde duran kapıcı, koltukta hırıltılı hırıltılı nefes alan kadını görüp sessiz adımlarla parke gıcırdatmadan mutfağa geçiyor. Fırından yeni çıkmış dumanı üstünde bir kurabiye alıyor ve tekrardan sessizce daireden ayrılıyor.
+
+
+
+Elinde limonatayla bahçeye koltuğuna dönerken bahçenin kapısında dedektifi görecek. Nuri, dedektifi kurabiye yemeye davet edecek, dedektif de tamam diyecek. Nuri ve arkadaşları dedektifin etrafına dolanacak "bize son davanı anlat" "hadi kuzgun çağır" diye. Dedektif de onlarla şakalaşacak. Kapıcı oğlunu ve arkadaşlarını kışkışlayacak, sonra da dedektife "kurabiyeler güzel olmuş gene, yanında arkadaşını da getirmişken bir tadına bakın" diyor, sonra "bizim oğlanı da haşlamak lazım ama, siz ikişer tane almayın herkese kalsın" diyor, sonra "Ben şu merdiveni indireyim artık da çocuklar Durdu Teyze'yi uyandırmasınlar pencereden gir çık yaparken" diyor.
+
+
+
+Dedektif apartman girişinde elinde buzlu bı limonatayla apartman kapıcısiyle karşılaşıyor "ustam buzdolaplarını tamir ettim az önce, senin dairene yine dokunmadım. Bir sorun çıkarsa söyle. Dul kadın yine harika kurabiyeler yapmış gelmişken kaçırma, çoktan 2 tanesi gitti bile" diyip tokalaşıyor dedektifle.
