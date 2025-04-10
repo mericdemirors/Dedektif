@@ -2,7 +2,7 @@
 1 nisanda ofise dönen dedektif arkadaşını ofiste bulamayacak, cumartesi diye betül gelmemiş, derginin basımı başladı diye nail yayımevinde işi başından aşkın. Ofisi toparlayıp fotoğrafları ve günlüğün kopyasını çöpe atıyor. Dinleneyim bari, apartman da çok dağınıktı orayı toparlayayım diyor. Cumartesi öğlen apartmana gidip etrafı temizliyor, pazar sabah kalkıp apartman bahçesinde milletle sohbet ediyor.
 Kapıcının oğlunu gene pencereden kendi evlerine girerken görüyor, "sizin ufaklık kapının yerini unutmuş galiba" diyor, kapıcı da "hiç sorma, buna da yeni alıştı. Ama az kaldı o merdiveni kaldıracam oradan" diyor.
 * 1995-04-02 10:00
-Rus ajanı dul kadının dairesinden çıkarken görüyor (rus ajan aslında kadının oğluna para yollamış), ama dul kadın kurabiye tarifimi anlatıyordum diyor. Yarın kurabiye yapacaktım da diyor.
+Rus ajanı dul kadının dairesinden çıkarken görüyor (rus ajan aslında kadının oğluna para yollamış, eğer kadın öldürülmezse ama intihar ederse oğlunun suçluluk duyup ülkeye dönme ihtimali daha fazla diye düşünüyor), ama dul kadın kurabiye tarifimi anlatıyordum diyor. Yarın kurabiye yapacaktım da diyor.
 Pazar akşamı kapıcıyla apartmana yeni taşınmış olan rus ajanı konuşuyorlar.
 
 # [[Side Case 2 dul kadın (dedektifin rus ajandan haberi olması için)#100|100]]

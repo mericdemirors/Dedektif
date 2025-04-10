@@ -123,8 +123,53 @@ Hala şoktan mantıklı konuşamayan Selma'nın heyecanı yerini donukluğa bır
 -Tarık, kim öldürdü Durdu'yu? Durdu niye öldü Tarık söyle bana?
 -Gel şöyle önce bir oturalım Selma Abla, dedi pencerenin yanına sandalye çeken Nail.
 Sandalyenin karşısına geçip tezgaha yaslanan dedektif pencereden bahçeye baktı. Çocuklar yavaş yavaş evlerine dağılmışlardı. Polisten veya kapıcıdan hala bir iz yoktu.
--Anlatayım Selma Abla gel, aynı şeyleri tekrar tekrar açıklamayı sevmem ama sen de ben konuşmadıkça kendine gelemeyeceksin gibi duruyor.
+-Anlatayım Selma Abla gel, aynı şeyleri tekrar tekrar açıklamayı sevmem ama sen de ben konuşmadıkça kendine gelemeyeceksin gibi duruyor. Gelince bir de polislere ve Abdullah Amca'ya özet geçerim artık napalım.
+Başını kaldırıp tavana bakan dedektif anlatmaya başladı:
+-Durdu Teyze'nin ölmüş olabileceği ilk zamandan ileriye kronolojik olarak gidersek, geçen ben Rosa'yla kurabiye tarifini konuşurken gördüm. Abdullah amca dolabı tamir ettiyse bugün sabah gördü...
+-Ben de malzemeleri vermeye gelirken bu sabah gördüm evet, diye atladı sandalyedeki kadın.
+-O zaman en başta kapıcının oğlu Nuri'yle başlıyoruz. Kurabiye almaya geldiğinde kadının ölü olup olmadığını bilmiyoruz. Ama eğer o öldürmüş olsaydı Abdullah amca kurabiyesini almaya geldiğinde cinayeti farkederdi, veya hemen ardından girdiyse en azından can çekişen kadını falan bulurdu değil mi?
+-Doğru, o zaman bir sonraki şüpheli...
+-Evet, sonraki şüphelimiz oğlundan sonra odaya giren baba. Kurabiyeyi alıp kadını öldürmüş olabilir. Eve girer, dolabı tamir eder, kurabiyesini yer, kadını bıçaklar ve çıkar.
+-Tamir için de eldiven giymişse parmak izi bırakmaz hem, dedi heyecanlı yazar.
+-Adamı sabah gelirken gördük eldiveni yoktu, dedi tezgahtan uzaklaşıp mutfağın uzak köşesine yürüyen dedektif.
+Çöpü açıp içine baktı, "Eldiveni yoksa cinayet silahını tutmak için kullandığı mendil falan da ortalıkta gözükmüyor", kolunu oda boyunca açtı, "Etrafta ne bir el bezi ne bir dantel ne başka bir şey var."
+Odaya göz atıp bir el havlusu bile göremeyen yazar, teorisinden vazgeçmiş gibi yerine oturdu.
+-Herhangi bir boğuşma izi de yok. O zaman Abdullah Amca, Durdu Teyze'ye farkettirmeden bıçağını aldı, sürpriz bir saldırıyla onu öldürdü.
+-Adamı bahçede gördüğümüzde sakin ve normal davranıyordu, hem cinayeti işlemek için bir sebebi de yok. Yine de son süphelimize geçmeden önce aklınızda şüphe kalmasın diye Nuri'nin ve babasının birlikte bu işin içinde olduğunu düşünüyorsanız babası için söylediğim her şey onun için de geçerli. Bahçedeki ağlaması yalancı bir ağlama değildi, veya beni kurabiye yemeye davet etmesinden bir çıkarı yok.
+Sakin konuşma havası ortamı biraz daha yumuşatmıştı, artık Selma Hanım da ölümün şokundan kutluyordu yavaş yavaş.
+-Belki kadını öldürüp suçsuz gözükmek için seni çağırdılar, şimdi de ortalarda yoklar çoktan kaçtılar belki de?
+-Öyle olduğunu sanmıyorum abla. Beni çağırarak kendilerini ilk şüpheliler konumuna düşüreceklerini biliyorlar. Eğer kadını öldürüp orada öylece bıraksalardı kurabiye almaya gelecek olan bir sonraki kişi onu bulacaktı ki bu daha mantıklı bir çözüm olurdu.
+Hala gözünü yerdeki parkelerden kaldıramayan sandalyede kadını izleyen dedektif, az sonra söyleyeceklerini ölçüp biçti. Sonunda söylemenin herhangi bir kolay yolunu bulamayınca bir iç çekip söze girdi:
+-Üçüncü şüpheli de sensin Selma Abla. Özellikle de bıçağa direk dokunup parmak izini bırakmış biri olarak polisin gözünde en olası suçlu sen olarak gözükeceksin.
+Korkudan ve sinirden ne diyeceğini bilemeyen kadın yerinde duramıyordu. Kocaman açılmış gözlerle mutfak dolaplarını karıştıran dedektifi izlemeye başladı, hala sözünü bitirmemiş gibiydi. Sonunda aradığı torbayı bulan dedektif içinden bir tutam un alıp bıçağın sapına serpti. Fazlalık unu yumuşakça üfledikten sonra eğilip bükülerek her açıdan bıçağı inceledi.
+-Tahmin ettiğim gibi sadece bir sol elin parmak izleri var bıçağın üstünde. Parmak uçları Abdullah amca'ya göre küçük, parmak aralıkları da Nuri'ye göre büyük duruyor. Bıçağı çıkarırkenki senin izlerin bunlar.
+Tekrar doğrulup sandalyenin önüne gitti ve kadının göz seviyesine inmek için çömeldi:
+-Ama endişelenmeni gerektirecek bir durum yok, bıçağı tuttuğunu ve çıkardığını ben gördüm. Hem parmak izlerini bıçaktan silecek kadar zeki olan bir katil böyle düşüncesizce bir müdahalede bulunmaz, parmak izinden suçlu gözükeceğini bilir.
+Tekrar sehpanın üstünde duran unlanmış bıçağı gösterdi: "Suç aletini unlamak her ne kadar hoşuma gitmese de polislerin beni dinledikten sonra sorun edeceklerini sanmıyorum. Parmak izlerine bakarak da bıçağın sadece bir defa, yani çıkarılırken tutulduğunu görüyoruz zaten, yani temize çıktınız Selma Hanım, endişelenmenize gerek yok.
+Sohbetlerini çalınan kapı bölüyor. Konuşmanın en başından beri bahçeyi izleyen Nail yaslandığı duvardan doğruldu:
+-Suçlular her zaman olay mahaline döner diye duymuştum ancak bahçede bir hareketlilik olmadı. Polislerden ses yok, kapıcı az önce Nuri'yle konuşuyordu büyük ihtimalle onlar geldi.
+-Gene fazla okumaktan drama kaptırdın kendini, dediğim gibi ortada bir suçlu yok. Milletin ardından da böyle 'o suçlu bu suçsuz' diye atıp tutmaya gerek yok herkes toparlansın polisler de gelince, baştan sona anlatırım.
+Kapıdan giren Abdullah amca mutfağa girip üçlüye katıldı:
+-Bizim ufaklık annesinin yanına koşmuş evden çıkmayı reddediyor. Polisler gelince bir de onlar denesinler.
+-Sorun yok amca, senin oğlanın olayla ne kadar az alakası olursa o kadar iyi. Zorla buraya sürüklemediğin iyi olmuş. Bana sorarsan ölümle alakalı olabilecek kişiler bizle sınırlı, ve hiçbirimiz de suçlu olmadığımızı biliyoruz. Şüphelenen varsa Nuri'yi de çağıralım ama dediğim gibi olayla alakası olduğunu sanmıyorum. Buzdolabını tamir ettikten sonra eve girip çıkan senin gördüğün birileri var mıydı amca?
+Kapıcı onaylamayan şekilde başını sallarken sandalyedeki kadın konuştu:
+-Şu yeni kiracı var, hiç gözüm tutmuyor kadını. Kendini beğenmiş tavırları var. O kadar bağrış çağrış oldu ona bile gelip bakmadı, kesin o kadının bir parmağı var.
+-Ben aslında kendisiyle tanıştım efendi birine benziyor.
+-Yılan o kadın, tam bir yılan. Değişik değişik hareketleri var, geçen kasaptan çıkarken gördüm bir poşet bağırsak ve beyin almış. Artık ne yiyorsa miğdesiz karı.
+-Sakin ol Selma abla biz birazdan Tarık'la çıkar bakarız kadının olayla alakası var mıymış yok muymuş öğreniriz, dedi kadını sakinleştirmeye çalışan yazar.
+-Abdullah amca sen en son ne zaman Durdu Teyze'yi gördün?
+-Kurabiye almaya çıkmıştım, o sırada uyuyordu herhalde ben de kurabiyemi alıp ses yapmadan çıktım. Sonra bahçeye indim tam o sırada da siz bahçe kapısındaydınız işte.
+-Eve kimse girmediyse, Abdullah Amca'nın da masum olduğuna inanıyorsak belki çok hızlı etki eden bir zehirdir?
+-Hala bıçak yarasını açıklamıyor, dedi tepsideki dördüncü kurabiyeyi alıp ortadan bölen dedektif. Kurabiyeyi kokladı "Zehirlik bir şey olduğunu da sanmıyorum, Nuri'ye bir şey olmadı. Abdullah Amca'da burada", sonra geri yerine koydu.
+Tepsiye ilk kez dikkatini veren Nail dedektifin omzunu dürttü:
+-3 tane kurabiye eksik, bizden başka biri daha gelmiş olmalı, baksana 3 parçalık boşluk var tepside
+-Ben kurabiye aldığımda 2 tanesi yoktu zaten bizim oğlan yemiştir, dedi kapıcı.
+-O zaman kim öldürdü Durdu Teyze'yi, söyle artık Tarık!
+-Sakin ol Selma Hanım, hemen öyle şıp diye çözülmez bu işler. Polis gelsin Tarık evladımız onlarla konuşur öyle çözer değil mi Tarık?
+-Yok. Olayı çoktan çözdüm, sadece yüzde yüz emin olmadan anlatmak istemiyorum polisi bekliyorum o yüzden. Hem açıklamam Selma Abla'yı da sinirlendirebilir o yüzden işleri sakin tutmaya çalışıyorum. Yine de siz güvendesiniz, Durdu Teyze'yi siz öldürmediniz. Bu durumdan bir kazancınız olmazdı.
+-Abdullah, dul kadından nefret ederdi! Daha bu sabah benim dolabımı tamir ederken kirayı sırf onun hatrı için düşük tutmanın ileri zamanlarda ne kadar zorlayıcı olacağını anlattı.
+Artık tepesinin tası atan dedektif sakin kalmak için son çabalarını gösteriyordu:
+-Yeter artık Selma Abla, sabahtan beri car car car. Ne bu telaşın anlamıyorum ki. Olayı çözdüm diyorum, sen değilsin diyorum hala yok o öldürdü yok bu öldürdü. Çocuklar gibi davranmayı bırak.
+Dedektifin patlamasının ortasında tam kadının gözü yaşarırken içeri polisler girdi.
 
-
-
-ilk şüpheli kapıcınin oğlu, ama dedektif "kadını öldürmüş olsaydı kapıcı kurabiyeyi alırken farkedip söylerdi" diyor. "Ama odaya girdiğinde kadının hırıltılı nefes aldığını duymuş, kadın uyuyor sanmış"
+kapıcı de geldikten sonra dedektif, polisi alıp koridorun sonuna geçip durumu anlatıyor, siz kendi işinize bakın ben de olayı çözdüm neredeyse diyor. Dedektif dolaptan 2 tane patates alıp birini kapıcıye birini komşuya atıyor, "şunları bana soyun" diyip ikisine de bıçak veriyor. kapıcı sağ eliyle soyuyor, komşu da sol eliyle soyuyor. Dedektif kapıcıya "tamam senlik bir şüphem kalmadı, polislerle ifade vermeye gidebilirsin. Gitmeden önce şu boştaki koltuğa arkadan bir sarılsana" diyor, kapıcı de "bir şey anlamadım ama sen ne yaptığını biliyorsun kral" diyip koltuğa sarılıyor sonra da odadan çıkıyor. Tam çıkmadan dedektif "çocuğuna sorsana kaç tane kurabiye yemiş, gelip bana söylesin" diyor. Komşu da tam sinirlenip, "ne yani patates soyduk sadece ne bokum anladın ki" derken kapıda bekleyen çocuk başını uzatıp" sadece 1 tane yedim, ben geldiğimde zaten kurabiyelerden biri alınmıştı belki onu alan kişi böyle yaralamıştı teyzeyi. Teyze iyileşecek mi?" diyor hala şokun etkisi altında. Dedektif bir süre düşündükten sonra "neyse, aklımda bir fikir var da sonra kontrol etmem gerekecek şimdilik şu bıçak konusuna odaklanalım da komşu kadın daha fazla sinirlenmeden gönlüne su serpelim" diyor.
