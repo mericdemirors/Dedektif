@@ -170,6 +170,73 @@ Tepsiye ilk kez dikkatini veren Nail dedektifin omzunu dürttü:
 -Abdullah, dul kadından nefret ederdi! Daha bu sabah benim dolabımı tamir ederken kirayı sırf onun hatrı için düşük tutmanın ileri zamanlarda ne kadar zorlayıcı olacağını anlattı.
 Artık tepesinin tası atan dedektif sakin kalmak için son çabalarını gösteriyordu:
 -Yeter artık Selma Abla, sabahtan beri car car car. Ne bu telaşın anlamıyorum ki. Olayı çözdüm diyorum, sen değilsin diyorum hala yok o öldürdü yok bu öldürdü. Çocuklar gibi davranmayı bırak.
-Dedektifin patlamasının ortasında tam kadının gözü yaşarırken içeri polisler girdi.
+Dedektifin patlamasının ortasında tam kadının gözü yaşarırken içeri polisler girdi. Gerginlik daha da ateşlenmeden mutfağa biz sessizlik çöktü. Sonunda sessizliği bölenler öne çıkmış 2 komiser oldu. Eliyle arkasındaki ekibi içeriye yönlendirirken göz ucuyla da mutfaktakilere konuşuyordu:
+-Herkes yerinde kalsın. Mürtem! mutfağı sana bırakıyorum, ekipten bir memuru yanına al, oturup durumu açıklatın. Tarık, üzgünüm sen de bekleyeceksin eğer bize yardım edecek durumda değilsen.
+-Doruk komiserim, aslında yardım edebilirim. İnanıyorum ki çoktan olayı çözdüm, sadece sizin ekibinizden bir uzmanla konuşmak istiyorum. Müsaade ederseniz arkadaşlarım da açıklamam sırasında burada kalabilirlerse ifadeleri sonra alınırsa iyi olur.
+Adli tıp ekibi çoktan koltuktaki kadını ve yanındaki sehpada duran bıçağı incelemeye başlamıştı. Dairenin kapısı kapanmış, mutfakta kalan 2 komiser kapının eşiğinde durumu tartışıyorlardı fısıldaşarak. Uzun bir süren sessizlik sonrası Yapılı komiser tekrar söze girdi:
+-Tamam, ama elini hızlı tut lütfen. Adli ekip o tarafla ilgilenirken Mürtem'le ben de bir nevi ifadelerini alacağız.
+-Tamamdır, sağ olasınız. Öncelikle bana 2 tane patates ve bıçak lazım.
+Mutfağın içinde dolanmaya başlayıp bu sırada da bahçeye gelişinden itibaren olan her şeyi hızlıca biz özet geçti. Az önce karıştırdığı dolaplardan 2 patates, çekmeceden de 2 bıçak aldı.
+-Yani anlayacağınız gibi benden önce suç mahalinde bulunan kapıcı bey ve Selma Hanım burada şu anda, dedi ikisine de birer patates ve bıçak verirken. "Şunları soyar mısınız lütfen, ben de hikayeme devam edeyim o sırada.". Dedektifi uzun süredir tanıyan kapıcı sorgulamadan patatesi soymaya başladı, elinde soyulmayı bekleyen patatesle kapıcıyı izleyen Selma daha soymaya bile başlamamışken dedektif tekrar söze girdi:
+-Tamamdır Abdullah amca, sen Mürtem amirime ifade vermeye gidebilirsin. Ama odadan çıkmadan önce şu koltuğa arkadan bir sarılsana.
+Selma'nın şaşkın bakışları altında sanki olanlar çok normalmiş gibi kimsenin sorgulamaması, ve kapıcının koltuğa sarılması gerçekleşti. 
+-İfadeni verdikten sonra Nuri'yi de buraya yollasana kaç tane kurabiye yemiş onu söylesin bize, dedi elindeki bıçağı ve soyulmuş patatesi tezgaha koyarken.
+O sırada zayıf bir kapı tıklatılması duyuldu. Kapıcıyı koridorun sonundaki odaya götürülen Mürtem kapıyı açtıktan sonra başını uzatan Nuri koşarak babasının bacaklarına sarıldı ve ağlamaya başladı. Gürültüden işlerini yarım bırakan adli tıp, bir süre sonra çocuğun sakinleşmesi üzerine çalışmaya devam ettiler. Korkulacak bir durum olmadığı açıklanan çocuk, babasıyla birlikte ifade vermeye gitti. Hala elinde patatesle bekleyen Selma sonunda dedektifin ısrar etmesi üzerine kendi patatesini soymaya başladı. Bıçak birkaç tur kabuk soyduktan sonra dedektif, kadını durdurdu. Hala hiçbir şey anlamamış Selma hanım sonunda sessizliğini bozdu: "Komiserim ne oluyor ya, işinizi yapsanıza. Patates soyuyoruz küçücük çocuğun lokmasını sayıyoruz falan. Böyle mi katili bulacaksınız! Çocuk 1 kurabiye yemişse ne olmuş 2 tane yese ne olurdu yani, bir şey mi değişirdi!". Elindeki patatesi alıp lavaboya fırlatıp bağırmaya devam etti, "Havuç da soyayım mı? Elma da dilimleyeyim mi sana ne istersin sayın dedektif?"
+İstifini bozmayan dedektif, kadının ani patlaması geçince elinde bıçağı isteyip tezgaha koydu.
+-Umarım ne yaptığını biliyorsundur Tarık, bunlardan bir şey çıkmazsa çok fena alay konusu olurum karakolda haberin olsun.
+-Merak etme Doruk abi. İçerideki adli tıp uzmanlarından birini çağırırsan anlatmaya başlayayım.
+Bir süre sonra elinde eldivenlerle uzman, ifadesi alınan Kapıcı ve Mürtem'den sonra mutfağa girdi. Dedektif açıklamasına başlamadan önce Nuri'yi annesinin evine yollamıştı hem mutfaktaki kalabalığı azaltmak hem de çocuğu korkutmamak için.
+-Az önce özet geçtiğim soyut kanıtların üstüne bir de somut kanıt sunmak gerek tabii ki. Uzmanımız da beni yanlış olduğum yerde durdursun lütfen. Şimdi... Bıçağın saplandığı yere, karaciğer civarına saplanma şekline bakarak karşıdan solak birinin sapladığını düşünebiliriz. Veya arkadan sağlak biri saplamıştır ki, yara izinin kesilme şekline bakarak bıçağın tutuluşu ve saplanışı hakkında kesin bir bilgi elde edebiliriz değil mi?
+Sözün kendisine verildiğini anlayan adam, maskesini indirip incelediği yarayı kısaca anlattı, ve dedektife hak verdi:
+-Yaranın yönüne bakarak dedektifimizin de söylediği gibi bıçağın arkadan saplandığını, kesiğin şekline bakarak da saplayan kişinin sağlak olduğunu söyleyebiliriz. Ayrıca eğer işlem ayakta yapılıp kadın koltuğa sonradan oturtulmuş olsaydı, onu oturturken bıçak içeride daha çok yeri kesip kanayı genişletirdi etrafa da kan sıçrardı. Ancak böyle olmadığını söyleyebilirim. Bıçak tek bir hamleyle sokulmuş, ikinci bir hamle yapılmamış. Bıçak çıkarılırken de sırt tarafına doğru çekildiği için yeni kesikler açmaktansa kesiğin arka tarafını yıpratmıştır.
+-Bıçağın çıkarılışı Selma hanım tarafından bir panik halinde yapıldığı için işin iç yüzünü aydınlatmaya yardımcı olmayacaktır. Neyse devam edelim, az önceki patates soyma olayında da dikkat ettiyseniz Abdullah amca sağ eliyle, Selma abla da sol eliyle tutuyordu bıçağı.
+Mutfakta onaylayan bir mırıldanma yaşandıktan sonra dedektif boş koltuklardan birinin yanına yürüdü:
+-Bıçağın arkadan ve oturur haldeyken saplandığını doğruladığımıza göre biri koltuğun arkasından yaklaştı. Sağ elle sapladıysa, bu Selma Abla'yı temize çıkarır. Ayrıca koltuğun kalınlığından da gördüğümüz üzere, az önce Abdullah amca sarıldığında arkadan bunu yapmanın imkanı olmadığını anlamış olmalısınız. Yani kalan tek seçenek, sağlak birinin koltuğun sağ tarafından bıçağı saplamış olması değil mi?
+Komisere bakan uzman başıyla onayladı, ve bıçağın durduğu sehpanın yanına geçen dedektif tarafından yanına çağırıldı:
+-Peki kan lekelerine bakarak bize neler söyleyebilirisiniz?
+-Bıçağın yeterince derine girmemesi tek itmeli güçsüz bir saplama olduğunu söylüyor, öldürmek isteyen kişi arkadan yakaladığı kurbanına bu kadar güçsüz bir saldırı yapmaz normalde ki bu gücü ayarlayıp tutturmak tek elle yandan saldırılarda daha da zordur.
+-Kısa kes Tarık, detayları raporda yazarız, adli tıp ekibi toparlanmadan sadede gel hadi.
+-Peki, kadın koltukta otururken tek bir zayıf hamleyle sağ tarafından sağlak biri ile bıçaklanmış ve bıçakta parmak izi bırakılmamış.
+Fırın tepsisindeki alınmış kurabiyeleri gösteren dedektif devam etti:
+-Benim teorim üçüncü kurabiyeyi yiyen kişinin bıçağı sapladığı üzerine, dedi dedektif; ve dinleyicilerine baktı, kimse konuşmaya başlamadan tansiyonu artırmak için tekrar söze girdi:
+-Veeee, o kurabiyeyi yiyen kişi hala bu evde.
+Eli silahına giden komiserler, koşarak antreye çıktılar. Şişman olan silahını koridora doğrulturken, uzun boylu olan silahını yere tutarak mutfaktakileri izliyordu.
+-Odalar boş abi, tek tek kontrol ettim. Adli tıp da bizimle geldi. Tarık! Katil mutfakta mı yani? Uzatma da söyle!
+-Hayır, katil bizim aramızda değil, kendisi bütün bir süre boyunca sessizce koltuğunda oturuyordu. Kurabiyesini yiyip, koltuğuna geçmişti, tam bıçağı saplayacaktı ki pencereden giren çocuğu duydu, o yüzden elindeki eldivenle çocuk gidene kadar ses çıkarmadan oturduğu yerde bekledi.
+Dedektif adım adım evde dolaşırken namlular yavaşça üstüne kalktı.
+-Sonunda Nuri evden çıkmıştı, ama kurabiye kokusu çoktan apartmana yayılmıştı, ve eğer hemen şimdi yapmazsa birazdan ev kurabiye almaya gelenlerle dolacaktı. Hızlıca cesaretini topladıktan sonra bıçağı sapladı. Güçsüz bir saplamaydı ama bu yaşlı güçsüz vücudu öldürmeye yeterdi değil mi? Kanıtları yok etmesi gerekiyordu ancak bir ayak sesinin merdivenleri çıktığını duydu. Eldivenini hemen çıkarıp fırlattı, ancak kapıcı o an eve girdiği için hareket edemezdi, acı inlemeyi kapıcının duyacağını düşünüyordu. Yaşlı kadın hırıltılı hırıltılı nefes alırken kapıcı kurabiyesini alıp uyuduğunu düşündüğü kadını yalnız bıraktı.
+Durdu Teyze'nin oturduğu koltuğun yanına gelen dedektif kadının koltuktan sarkan kolunu gösterdi:
+-Artık takati kalmamıştı, kolunu bile kucağına çekemiyordu. Ve öldü.
+-Oyunları bırak Tarık, katil nerde!
+Kadının elini bırakan dedektif odanın diğer ucuna çekildim maskeli ekibe baktı, kendisini izleyen korkmuş Selma Hanım'ı ve onun yanında gergin ama bir o kadar da kafası karışmış şekilde izleyen adamları gördü. Hala kendisine doğrultulmuş namlulara dikkat etmeyerek yaşlı kadının oturuyor olduğu koltuğunun sırtına yaslandı:
+-İşte burada. Bakın sessiz sakin oturuyor. Nuri geldiğinde elinde bıçakla çıkmasını bekledi, sonra bıçağı kendine sapladı. Hemen eldivenini çıkarıp fırlattı, çünkü bıçağa parmak izini bırakması gerekiyordu. Ancak tam o sırada kapıcımız geldi, kurabiyesini alıp çıktı. Tekrardan elini kaldırıp bıçağı tutacak gücü kendinde bulamadı ve bu şekilde öldü.
+-Ama, ama niye? Durdu Teyze yapma böyle bir şey.
+-Niyesini sonra konuşalım Selma abla, ona da güzel bir açıklamam var.
+Tabancasını geri kılıfına koyan komiser herkese rahat olmasını söyledikten sonra, tuttuğu nefesini bıraktı ve şakaklarını ovdu:
+-Eldiven ne ayak peki, eldiveni nerede?
+Koltuğun sırtından kalkan dedektif sehpaya gidip fırın eldivenini gösterdi:
+-İşte burada, Selma Abla odaya ilk girdiğinde ne yaptığını hatırlıyor musun?
+-Koşup Durdu Teyze'nin önüne çöktüm, ve sonra bıçağı çıkardım.
+-Ve bıçağı çıkarırken de...
+-Hala sıcaktı...
+-Evet, Abdullah Amca kurabiye almaya geldiğinde eldiven neredeydi?
+-Masanın yanında yerde duruyordu. Durdu Teyze'yi uyandırmamak için gıcırdamayan parkelere basmak için adımıma dikkat ederken görmüştüm.
+-Ve son parçamızı da yerine oturtmak için, sayın adli tıp uzmanımız. Koltuğun yanından sarkan eli inceleyebilir misiniz? Bıçak yarasının yerine uygun mu, eldiveni fırlatmış olsa eldiven nereye düşerdi? Bize bunları söyler misiniz?
+Tekrardan koltuğun yanına giden adam çömeldi ve ekibine dönüp her şeyin fotoğraflandığını, olay yerine artık müdahale edilebileceğinin onayını alıp kolu kadının kucağına kaldırdı. Bir süre kadının omzunu ve dirseğini dinleyerek en rahat pozisyonu bulup kadının elini yaranın üzerine hizaladı. Sonra kadının kolunu kaldırıp koltuğun yanında ileri geri sallamaya başladı. Ayağa kalkıp sehpadaki fırın eldivenini aldı, elinde bir iki hoplatıp ağırlığını ölçtü.
+-Dediği her şey tutuyor. Bıçak yarası tam denk geliyor, güçsüz saplama derinliği de kadının gücüyle orantılı. Yaranın yerine bakarak da karın bölgesi yırtılmış diyebilirim. Karın kaslarını kullanmadan acısız şekilde eldiveni fırlatmak için kolunu sarkaç gibi sallayarak atmış olması en muhtemel yol... Ki bu da aşağı yukarı masanın ayağının oralara denk getiriyor.
+Gerginlik azaldıktan sonra odada biraz daha yayılan adli ekip arasında fısıldaşmalar başladı. Koltuğun yanında hala kaçırdığı bir şey olup olmadığını kontrol eden uzman, komisere dönüp başıyla dedektifin anlattıklarını doğruladı. Olaydan ilk sıyrılan antreye geçen Mürtem oldu, kalabalığı dağıtmak için kapıcıyı uğurladı ve ifadesini almak üzere Selma Hanım'a boş odaya kadar eşlik etti.
+-Vallahi az daha kafana mermiyi yiyordun evlat. Güzel iş eline sağlık, bir sonraki sefer kelimelerini biraz daha dikkatli seç, ya da alıştıra alıştıra anlat.
+-Öyle de zevkli olmuyor ama dayı, her şeyi böyle gözler önüne sererken insanın hava atası geliyor.
+-Yaa ne demezsin, diye sitem etti bütün her şeyi kenardan izleyen yazar. "Benim bile içimden geldi ağzına bir tane patlatmak."
+-Olur öyle olur, ama şimdi ayak altından çekilelim de komiserimizi rahat bırakalım değil mi? Hem daha bana soracağınız bir şey yoktur sanırım?
+-Var. Tonla var da, gerçekten evi bir boşaltın da kimse bize ayak bağı olmadan işimizi yapalım.
+Doruk komiser çoktan toparlanmaya başlayan adli ekibe döndü:
+-Kusura bakmayın gençler, bizim Tarık da böyle bir çocuk işte. Eğlencenizi elinizden aldı. Yine de hemen çıkmayın, Mürtem ifade almayı bitirince herkesle bir değerlendirme yapmak istiyorum.
+Mürtem de koridorun sonunda gözüküp elindeki not defterini salladı:
+-Sizinle sonra konuşalım Tarık efendi, Nail efendi. Ayakbağı olmayın ama bir ara da karakola uğrayın ifadelerinizi alalım.
+-Tamamdır amirim, dedi çoktan dedektifi kolundan sürükleyen yazar.
+Daireyi polislere bırakan dedektif kapıyı çekip merdivenleri çıkmaya başladı:
+-Gel Nail Rosa'ya gidelim bari. Hem kimmiş neymiş onu görmüş olursun hem de bir sorarız 'böyle böyle yaşlı kadın öldü haberin var mı' diye.
 
-kapıcı de geldikten sonra dedektif, polisi alıp koridorun sonuna geçip durumu anlatıyor, siz kendi işinize bakın ben de olayı çözdüm neredeyse diyor. Dedektif dolaptan 2 tane patates alıp birini kapıcıye birini komşuya atıyor, "şunları bana soyun" diyip ikisine de bıçak veriyor. kapıcı sağ eliyle soyuyor, komşu da sol eliyle soyuyor. Dedektif kapıcıya "tamam senlik bir şüphem kalmadı, polislerle ifade vermeye gidebilirsin. Gitmeden önce şu boştaki koltuğa arkadan bir sarılsana" diyor, kapıcı de "bir şey anlamadım ama sen ne yaptığını biliyorsun kral" diyip koltuğa sarılıyor sonra da odadan çıkıyor. Tam çıkmadan dedektif "çocuğuna sorsana kaç tane kurabiye yemiş, gelip bana söylesin" diyor. Komşu da tam sinirlenip, "ne yani patates soyduk sadece ne bokum anladın ki" derken kapıda bekleyen çocuk başını uzatıp" sadece 1 tane yedim, ben geldiğimde zaten kurabiyelerden biri alınmıştı belki onu alan kişi böyle yaralamıştı teyzeyi. Teyze iyileşecek mi?" diyor hala şokun etkisi altında. Dedektif bir süre düşündükten sonra "neyse, aklımda bir fikir var da sonra kontrol etmem gerekecek şimdilik şu bıçak konusuna odaklanalım da komşu kadın daha fazla sinirlenmeden gönlüne su serpelim" diyor.
+
+Dedektif tanışmaya diye eve giriyor birbirimizi tanıyalım diyor "arabalarla ilgilenir misiniz, bir sürü katalog almışsınız" falan diyor sonra kadın biraz ters davranınca olayı anlatıp taziyeye geldik diyor Rus kadın "Dul kadını ben öldürmedim, evimden bile çıkmadım bugün" diyor, kimse de karşı bir tez sunamıyor. Dedektif de "rahatsızlık için kusura bakmayın" diyip çıkıyor.
