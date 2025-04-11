@@ -39,12 +39,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "characters/komiser/Komiser (Doğukan abi).md",
+                    "file": "characters/dul kadının çocuğu/Dul Kadının Çocuğu.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Komiser (Doğukan abi)"
+                  "title": "Dul Kadının Çocuğu"
                 }
               }
             ]
@@ -102,7 +102,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "şeker",
+                "query": "torba",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -213,13 +213,18 @@
   },
   "active": "6b8f2f7b0a989675",
   "lastOpenFiles": [
-    "book/arcs/2 Kurabiye Hırsızı.md",
+    "characters/dul kadının çocuğu/Dul Kadının Çocuğu.md",
+    "characters/dul kadının çocuğu/Dul Kadının Çocuğu.png",
+    "book/chapters/Şifreli Aşk.md",
     "book/chapters/Kurabiye Hırsızı.md",
+    "book/Parallel Timelines.canvas",
+    "book/arcs/2 Kurabiye Hırsızı.md",
+    "characters/RBA/RBA (ismail).md",
+    "characters/dedektif/Dedektif (meriç).md",
+    "characters/dul kadın/Dul Kadın.md",
     "characters/komiser/Komiser (Doğukan abi).md",
     "characters/komiser yardımcısı/Komiser Yardımcısı (Münür).md",
-    "characters/dul kadın/Dul Kadın.md",
     "characters/rus ajan/Rus Ajan.md",
-    "book/chapters/Şifreli Aşk.md",
     "book/chapters/lu1623794otj.tmp",
     "side cases/Side Case 3.3 antifrizli tamirci (dedektifin zehirlemeler için rus ajandan şüphelenmesi için).md",
     "characters/rus ajan/Rus Ajan.png",
@@ -233,11 +238,8 @@
     "book/arcs/9 Kanlı Sahil.md",
     "book/arcs/8 Profesörün Peşinde.md",
     "book/arcs/7 Vadideki Tuzak.md",
-    "characters/dul kadının çocuğu/Dul Kadının Çocuğu.md",
     "side cases/Side Case 1 şifreli günlük (karakterleri tanıtmak için).md",
-    "book/Parallel Timelines.canvas",
     "book/Event Timeline.md",
-    "characters/RBA/RBA (ismail).md",
     "characters/RBA/RBA.png",
     "book/chapters/Şifreli Aşk.pdf",
     "Untitled",
@@ -253,15 +255,12 @@
     "characters/doktor/Doktor.png",
     "characters/roman yazarı/Roman Yazarı.png",
     "characters/dedektif yardımcısı/Dedektif Yardımcısı.png",
-    "characters/dedektif/Dedektif (meriç).md",
     "characters/dedektif/Dedektif.png",
     "characters/roman yazarının sevgilisi/Roman Yazarının sevgilisi.md",
-    "side cases/Side Case 3.1 ricinli evsiz (dedektifin rusun göz altına alması için).md",
     "Pasted image 20250315002241.png",
     "confidential documents/drawing/video1_image1.png",
     "characters/Characters.canvas",
     "book/Arcs.canvas",
-    "characters/komiser yardımcısı/Komiser Yardımcısı.png",
     "book/Parallel Time Lines.canvas",
     "book/events.canvas",
     "kitap/events.canvas",

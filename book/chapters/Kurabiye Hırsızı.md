@@ -238,5 +238,110 @@ Mürtem de koridorun sonunda gözüküp elindeki not defterini salladı:
 Daireyi polislere bırakan dedektif kapıyı çekip merdivenleri çıkmaya başladı:
 -Gel Nail Rosa'ya gidelim bari. Hem kimmiş neymiş onu görmüş olursun hem de bir sorarız 'böyle böyle yaşlı kadın öldü haberin var mı' diye.
 
+Üst kata çıkan ikili kapıyı tıklattılar, kapı deliğinin tıkırtısı ardından şık giyimli hanımfendi kapıyı açıp iyi günler diledi. Elini arkadaşının omzuna koyan dedektif lafa girdi:
+-Merhabalar Rosa, dün konuşmuştuk bir tanışalım diye geldim ben de. Bu yanımdaki da arkadaşım Nail, sizden bahsedince Türkçe'nizin bu kadar güzel olduğuna inanmadı kendi gözleriyle görsün dedim.
+-Tanıştığımıza memnun oldum Nail Bey, ben Rosa.
+Uzatılan eli sıkan yazar da kendini tanıttıktan sonra içeri buyur edildiler. Oturma odasının ortasındaki sehpanın çevresinde herkes koltuğunu seçip oturdu. Sehpadaki dergileri inceleyen dedektif sohbet olsun diye konuşmaya başladı:
+-Arabalarla ilgilenir misiniz? En son ne zaman bu kadar fazla araba tamiri kataloğunu bir arada gördüm hatırlamıyorum.
+-En son seninle bisikletini tamir ederken bir sürü dergi almıştın hatırlıyorum, diye güldü yazar.
+Hafifçe gülümseyen kadın dağınıklık için özür dileyip dergileri topladı ve sehpanın altına attı ve ayağa kalkıp mutfağa ilerledi:
+-Ne içersiniz? Kahve, çay, su?
+-Sağ olasınız Rosa hanım biz zahmet vermeyelim. Aslında çok da vaktinizi almak istemiyoruz. Yaklaşık yarım saat önce bir çığlık duyup duymadığınızı sormak istiyorduk.
+Mutfaktan gelen kadın getirdiği bir tabak lokumu sehpaya koyup yerine oturdu:
+-Çocuklar oyun oynuyorlar sanmıştım, niye sormuştunuz?
+-Hmmm, maalesef alt kattaki Durdu Teyze hayatını kaybetti de. Onu bulan çocuklar bağırıyorlardı. Şimdi polislerde geldi de olayı çözmek için biz de size gelip durumu izah edelim demiştik. Dün kurabiye tarifi hakkında konuştuğunuzu gördükten sonra size haber vermek aklıma geldi, bu vesileyle de konuşmuş oluruz hem. Sizce neden ölmüş olabilir, dün çok sağlıklı gözükmüyor muydu?
+-Gerçekten mi çok üzüldüm, dedi yüzü düşen kadın. "Başımız sağ olsun. Çok da dinç duruyordu dün değil mi? Umarım acısız bir şekilde geçirmiştir son anlarını"
+-Umarız... Bakalım polisler ne diyecek. Herhalde kalp krizidir.
+Bir süre aklında cümleleri toparlıyor sehpaya bakakalan kadın:
+-Keşke sabah tarifi almaya gitseydim, evden de çıkmadım bugün hiç. Son kez görmüş olurdum en azından.
+Atmosfer iyice ağırlaşınca artık izin isteyen yazar ve dedektif kadınla vedalaşıp tekrar bir alt kata inip araştırmadaki son durumu öğrenmeye gittiler.
+Etrafı biraz daha toparlanmış görünce yazar dedektifi yanına çağırıyor:
+-Olayı çözerken işin mantık tarafını en sona bırakacağım demiştin, Selma Hanım gittiğine göre artık rahat rahat konuşabiliriz.
+-Nedir aklına takılan kısım?
+Pencereden bahçede taşınan torbayı gören yazar tekrar kendini toparlayıp kendine geldi:
+-Kadının kendini öldürmesinin tek seçenek olduğunun farkındayım, ancak neden yaptığını hala açıklamadın.
+-Aklıma ilk gelen sebep sigorta parası. Kadının oğlu Asım Samet'i sana anlatmıştım hatırlıyor musun?
+-Şu Amerika'da okuyan çocuk mu?
+-Evet o. Durdu Teyze oğluna para yollamak için kesebildiği her yerden kesip tasarruf yapmaya çalışıyordu. Yakın zamanda da kocası öldü, eşyalarını vesaire satmaya başladı para yetiştirebilmek için. Şimdi de intihar edip sigorta parasını oğluna yollatmayı düşünüyor büyük ihtimalle.
+-Sigortalar intiharı kapsıyor mu ki?
+-Evet kapsıyor, dedi uzaktan onları dinleyen Mürtem hala not defterine bir şeyler karalarken. Birkaç ay önce de yine buna benzer bir olay vardı, ama bu sefer anne babasını öldüren çocuklar işi çifte intihar gibi gösterip parayı almaya çalışmışlardı. İşin rapor kısmına falan da ben baktığım için bu konuda biraz bilgim var.
+Başını not defterinden kaldırıp pencereye kadar gelip yorgun bir sesle sohbete katıldı:
+-Tarık'ın dediği olay TTK'nın 1328. maddesinde açıkladığı gibi yazıyor. Bir kaç ek detay var ancak, genel hatlarıyla anlattığı şey doğru. İnsan ister ki bunu ezbere bilmeyelim ama ne yazık ki hayat güllük gülistanlık değil.
+-Anlıyorum, peki bu intihar olayına siz ne diyorsunuz amirim? Aklınıza tamamen yatıyor mu?
+-Genel hatlarıyla anlayabiliyorum. Belki de bir sürü pis iş gördüğümüz için artık böyle şeylere şaşırmıyoruz ve bir kez o şaşırmama çizgisini geçtikten sonra hepsi inanılabilri geliyor. Sizin aklınıza takılan bir şey mi var yoksa?
+Başını kaşıyan yazar hala net olmayan şeyleri kafasında toparlamak için pencereden bahçeyi izlemeye başladı:
+-Üçüncü kurabiyeyi kadının yediğini nasıl anladığını hala bilmiyorum mesela. Tamamen şanslı bir tahmin miydi?
+Kahkahasını son anda tutmayı başaran dedektif burnundan güldü ve cevap verdi:
+-Hayır, işin en kolay kısmı oydu asıl. Mürtem ve sen cesedi yakından inceleme fırsatı bulamadınız sanırım ama dudakları arasında hala kırıtılar vardı.
+-ihtihar hala çok imkansız gözüküyor bana, veya daha doğrusu çok uç bir gerçeklik gibi. İnanamıyorum.
+-Benim de aklıma takılan aslında birkaç konu var, mesela herkes ortaklaşa bu işin içindeyse, Nuri, Abdullah Amca ve Selma Abla kadıncağızı öldürüp üstünü örtmüş de olabilir. Sonuçta bütün teoriler ve ispatlar sözlere dayanarak inşa edildi. Hepimizi kandırıyor olabilirler olamazlar mı? Ona da şu safha da yapacak bir şey yok. Ancak polis raporunu gördükten sonra bir şey diyebilirim. Salonda detaylı bir arama yapıp bir arbede yaşanmış mı, yaşanmışsa kimler bulunmuş vesaire söylecekler.
+-Orası da bana kalıyor, en kısa zamanda raporu tamamlayıp tekrar size uğrayacağız Tarık. Bilirkişi raporu ve onayı falan bir kılıf uydururuz yine. Kusura bakma senin çözdüğün vakaya biraz konmuş gibi oluyoruz da maalesef bu polisin işi olduğu için raporun da polis tarafından yazılmış olması lazım.
+-Sıkıntı yok hem ne güzel işte biraz da siz iş yapmış oluyorsunuz, dedi komiserin omzuna elini koyan dedektif. "Biz artık kaçalım, daha yapmam gereken bir arama var. Buralarda da daha fazla dolanmanın bir anlamı yok zaten."
+Doruk komiserle de görüştükten sonra vedalaşan adamlar dışarıda bir süre dolaşıp kafa toparladıktan sonra akşama doğru dedektifin ofisine geçtiler.
 
-Dedektif tanışmaya diye eve giriyor birbirimizi tanıyalım diyor "arabalarla ilgilenir misiniz, bir sürü katalog almışsınız" falan diyor sonra kadın biraz ters davranınca olayı anlatıp taziyeye geldik diyor Rus kadın "Dul kadını ben öldürmedim, evimden bile çıkmadım bugün" diyor, kimse de karşı bir tez sunamıyor. Dedektif de "rahatsızlık için kusura bakmayın" diyip çıkıyor.
+* 1995-04-03 19:00
+-Ne koşuşturmacaydı ama değil mi? Rus kadının birine aşık oldun diye yaşamadığımız şey kalmadı.
+-Şaka maka kadın harbi çok güzel ama, dedi koltuğa uzanan dedektif. "Bugün de hiç müşteri gelmemiş zaten. Kurabiye yemeye diye gitmesek çok fena sıkılacaktım"
+Antreden gelen telefon sesiyle koltuktan kalkan dedektif hızlı adımlarla ahizeyi kaldırıp Betül'ün masasına oturdu:
+-Dedektif Tarık Çelik, buyrun.
+-İyi akşamlar Tarık, Mürtem ben. Bugün sabahki olay hakkında aramıştım.
+-İfadelerimize veya rapora eklenecek bir şey varsa gelelim hemen halledelim hazır kağıtlar ortalıktayken.
+-Yok yok, adli tıp ekibinin ve Banu doktorun ortak otopsi raporunu da aldık şimdi. İntihar olduğunu kesinleştirmişler. Size de haber vermek istedim.
+Masadan kalkan dedektif ofisteki arkadaşını eliyle yanına çağırırken telefondaki polise teşekkür edip iyi akşamlar diledi:
+-Nail gel, Mürtem komiser aradı intihar olduğunu doğrulamışlar. Soracağın bir şey var mı?
+Elinde boş bardaklarla gelen Nail başını salladıktan sonra mutfağa geçti. Doruk komisere selamlarını ileten dedektif vedalaşıp telefonu kapattı ve çekmeceden telefon defterini aldı.
+-Raporla falan ilgili bir şeyler mi istiyorlarmış, diye sordu geri gelen yazar.
+-Yok ya, en son seninle konuştuklarımız aklında kalmış, ondan arayıp haber vermek istemiş herhalde her şey kesinleşince. Şimdi de son bir arama yapmam gerekiyor.
+Defterde aradığı sayfayı bulan dedektif saate bakıp ahizeyi tekrar kaldırdı "Tam da saati geldi aslında, şu anda mesai yeni başlamıştır." ve numarayı girdi:
+-Merhabalar iyi akşamlar, kusura bakmayın çok geç saatte arıyorum ancak bir nevi acil bir durum.
+Masanın üstüne eğine yazar çok kesik kesik de olsa dedektifin yaşlıca bir erkekle konuştuğunu duydu:
+-İyi akşamlar, Ankara Amerika Konsolosluğu. Size nasıl yardımcı olabiliriz?
+-Müslüm Bey ofisindeyse beni bağlayabilir misiniz rica etsem? Dedektif Tarık deseniz o tanır beni.
+Çok kısa süren bir beklemenin ardından, tekrar başka bir yaşlı ses duyuldu karşı taraftan.
+-Oooo Tarık, sonunda sana olan borcumu ödeme vakti geldi mi yoksa? Artık pençelerini şu yaşlı adamdan çek de rahat rahat ölebilelim evlat.
+Hala hiçbir şey anlamamış olan yazar 'acil' olan durumu beklerken böyle şakalaşmalar karşısında şaşırmıştı, ancak karşısındaki dedektif sohbet eder gibi gülerek konuşuyordu.
+-İyi akşamlar Müslüm amca, kusuruma bakma bana bir süre daha borçlu kalacaksın. Bu sefer üzücü bir haberle arıyorum. Bir büyüğüm bu sabah vefat etti de, oğlu da Amerika'da okuyor. Çocukcağıza ben haber veririm dedim, senden bir fax numarası isteyecektim.
+-Hmmm, başınız sağ olsun. Kusura bakma ben de öyle akşam akşam arayınca herhalde dedim... Yersiz bir şaka oldu o zaman.
+-Ne demek efendim, olur böyle yanlış anlaşılmalar, dedi çekmeceden rastgele bir kalem alıp yazara veren dedektif.
+Sessiz birkaç saniyenin ardından yaşlı adam tekrar konuşmaya başladı:
+-İstersen nereye mesaj atacağını söyle ben halledeyim? Yada kurumu söyle numarasını vereyim daha cenaze saati falan kesinleşmediyse?
+-Sağ olasın amca seni akşam akşam çok tutmayalım numarayı alsak yeter. 'University of California, Berkeley', buraya fax atacağız, departman departman fax numaraları farklı mı bilmiyorum öğrenci işleri falan en uygun olanını bulup sen söyleyebilir misin?
+Sayfaları karıştıran yaşlı adam birkaç kitabı altüst eder gibi sesler çıkardıktan sonra seslendi:
+-Fakülte numaralarını buldum, hangi fakülteyi istiyorsunuz?
+-Mühendislik fakültesi. Eğer tek tek numaraları varsa "Materials Science & Engineering Department" diye geçiyor. Sekreterliğinin numarasını alsam yeterli.
+Müslüm Bey'in söylediği numarayı dedektif tekrarlarken Nail'de bulduğu bir kağıda not aldı. Bir kez daha baş sağlığı dilendikten sonra karşılıklı iyi akşamlar denilip telefon kapandı.
+-Kalk Nail, yayımevine gidiyoruz. Gördüğün gibi mütevazi ofisimizde daha fax makinemiz yok.
+-Hayhay, peki çocuk cenazeye yetişebilecek mi?
+-Bilmiyorum, en azından erteletebildiğimiz kadar erteletelim de çocuk yetişsin. Hem kadıncağızın başka kimsesi de yok, bekletmeyi sorun edeceklerini sanmam.
+Geç saatte bile hala ışıkları tek tük yanan yayımevine giren ikili, lobideki fax makinesini açtılar. O sırada elinde kağıt kalemle masalardan birine geçen yazar mesajı yazmaya başladı.
+
+Berkeley Üniversitesine,
+Materyal bölümünüzde okumakta olan Asım Samet Öğren adlı öğrencinizin annesi Durdu Öğren, 3 Nisan sabah 10:00 sularında vefat etmiştir. Sayın Asım Samet Öğren'e en kısa zamanda haber verilmesini ve cenaze saati şu anda kesin olmasa da kendisi gelene kadar defnetme işini ertelemeye gayret edeceğimizi iletmenizi arz ederiz.
+
+-Bu oldu gibi, ekleyecek başka bir şey var mı?
+-Salak mısın Nail, koskoca Amerikan üniversitesine Türkçe fax mı yazdın, kim okuyacak onu orada. Zaten yanlış yazmışsın fakülte ismini falan, neyse ve düzeltelim.
+-Amaaan ne bileyim farkında olmadan yazmışım işte, dedi masadan yeni bir kağıt önüne çeken yazar. "İngilizcesini çevir de tekrar yazayım senin el yazın bok gibidir okunmaz şimdi."
+İngilizce'ye çevrilmiş kağıdı hazneye yerleştirip, vızıltıları ve tıkırtıları dinleyen dedektif "Umalım da çocuk yetişebilsin cenazeye" diye iç çekti. Belgenin başarıyla iletildiğini gördükten sonra masaya yaslandı:
+-Bu da bitti, yarından itibaren sıkılmaya devam o zaman. Fax ücreti falan neyse söylersin Süleyman abinin kulağına gitmeden halledelim.
+-Merak etme, yurt dışı fax haklarımız vardı biraz. Sana geçen bahsettiğim dergiye bilgisayar alma işleri için Amerika'ya fax satın almıştık, bu bitmez diyorduk oradan harcadık sorun yok yani. Buraya gelmek de iyi denk geldi, ben bir ofise uğrayıp bakayım işler güçler nasıl gidiyor. Kimse beni çağırmadığına göre işler güzel ilerliyor.
+-İyi bakalım, ben kaçıyorum o zaman. Sana da iyi çalışmalar, sonra haberleşiriz.
+
+* 1995-04-06 12:00
+Sıcak öğle güneşinin altında birkaç kuzgun kanat çırparak uçtu, ağaçlar arasından gelen hafif şeker tadı rüzgara karışıyordu. Çevrede ziyarete gelen birkaç aile ve yalnız başına dua eden kişiler dışında ortam sessizdi. Siyahlara bürünmüş 3 adamdan şişman ve yaşlı olan diğer ikisinin elini sıkıp mezarın başından uzaklaştı. Biraz daha durduktan sonra adamlardan kısa olanı da ayrıldı, ve tek başına kalana adam mezarı görebileceği bir banka oturup cebinden bir torba çıkardı. Yanına uçuşan kuzgunları yemleyerek bir saate yakın süre geçirdi mezarın başında tekrar yeni bir oğlan görünce. Son kalan yemleri cebine atarak çocuğun yanına gitti ve kendini tanıttı:
+-Merhaba Asım, ben Tarık. Sana fax atan bendim. Başın sağ olsun.
+Uzatılan eli sıkan oğlan mezar taşının yanına gitti ve başında bekleyen adama döndü:
+-Polisler en iyi açıklamayı sizin bana yapacağınızı söylediler, sizinle burada denk gelmemiz iyi oldu. Cenaze falan her şeyle ilgilendiğiniz için teşekkürler, daha fazla vaktinizi almadan hızlıca açıklayabilir misiniz?
+-Ne demek, Durdu Teyze hepimizin tanıdığıydı. İstersen ben seni biraz yalnız bırakayım. Hazır olduğunda şu ötedeki bankta seni bekliyor olacağım.
+Çocuğun omzunu sıkıp tekrar torbasıyla banka oturup toparlanan kuzgunları etrafına çekmeye başladı. Elinde kalan son yemini de attıktan sonra yanına gelen oğlana durumu hızlıca, çok detaya inmeden anlattı. Sessizce dinleyen çocuk, dedektifin sözü bittikten sonra öne eğilip gözünü mezarlıkta gezdirdi.
+-Saat geç oluyor evlat, öğle arası bitmeden ben işe döneyim artık. Polisler seni bana yönlendirdiğine göre adresimi aldın varsayıyorum. Tekrar başın sağ olsun, cenaze gününe yetişebilmene sevindim.
+-Teşekkürler, ben biraz daha burada oturacağım size iyi günler.
+Boş yem torbasını çöpe atan dedektif mezarlıktan çıktı. Siyahlara bürünmüş, ağaçların altında diğer kabirler arasında dolanan bir kadın yavaş yavaş banka yürümeye başladı.
+-İyi günler, oturabilir miyim?
+-Tabi buyrun, dedi banka yer açan çocuk ceketini kucağına alırken.
+-Teşekkürler, burası en sevdiğim banktır da o yüzden rahatsız ediyorum kusuruma bakmayın. Çok kısa durup geri kalkacağım.
+Kimsenin konuşmadığı dakikaların ardından kadın tekrar söze girdi:
+-Sizden bir şey rica etsem çok aşırıya kaçmış olmam değil mi?
+-
+
+
+öğle namazında cenazeyi gömüyorlar. Rus ajan cenazede dul kadının oğlunu görmeyi bekliyor. Cenazenin sonuna yetişiyor dul kadının çocuğu. Dedektif de dul kadının oğluyla konuşuyor fax'ı atan bendim iyi misin vs diye. Rus ajan da diyor ki "bu dedektif de işin içinde mi acaba, zeki bir adama benziyor, bence programdan da haberi var" diğer ölümleri de yapmak için zehir hazırlamaya başlıyor, malzemeleri sipariş ediyor falan.
