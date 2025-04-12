@@ -6,7 +6,7 @@
       {
         "id": "1bab70dc64e14404",
         "type": "tabs",
-        "dimension": 50.31133250311333,
+        "dimension": 50.249066002490665,
         "children": [
           {
             "id": "6b8f2f7b0a989675",
@@ -27,7 +27,7 @@
       {
         "id": "37959c60c1b40def",
         "type": "split",
-        "dimension": 49.68866749688667,
+        "dimension": 49.750933997509335,
         "children": [
           {
             "id": "ec354eb55c65eef4",
@@ -37,14 +37,17 @@
                 "id": "458355ae5e3b9884",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
+                  "type": "canvas",
                   "state": {
-                    "file": "characters/dul kadının çocuğu/Dul Kadının Çocuğu.md",
-                    "mode": "source",
-                    "source": false
+                    "file": "book/Parallel Timelines.canvas",
+                    "viewState": {
+                      "x": -5113.377661617357,
+                      "y": -4398.931740025327,
+                      "zoom": 0.1625103418032343
+                    }
                   },
-                  "icon": "lucide-file",
-                  "title": "Dul Kadının Çocuğu"
+                  "icon": "lucide-layout-dashboard",
+                  "title": "Parallel Timelines"
                 }
               }
             ]
@@ -213,12 +216,12 @@
   },
   "active": "6b8f2f7b0a989675",
   "lastOpenFiles": [
+    "book/Parallel Timelines.canvas",
     "characters/dul kadının çocuğu/Dul Kadının Çocuğu.md",
+    "book/arcs/2 Kurabiye Hırsızı.md",
+    "book/chapters/Kurabiye Hırsızı.md",
     "characters/dul kadının çocuğu/Dul Kadının Çocuğu.png",
     "book/chapters/Şifreli Aşk.md",
-    "book/chapters/Kurabiye Hırsızı.md",
-    "book/Parallel Timelines.canvas",
-    "book/arcs/2 Kurabiye Hırsızı.md",
     "characters/RBA/RBA (ismail).md",
     "characters/dedektif/Dedektif (meriç).md",
     "characters/dul kadın/Dul Kadın.md",

@@ -1,77 +1,79 @@
 * 1995-04-01 13:00
-Ofise gelen dedektif sessiz atmosferle karşılaşınca şifrelerin ve araştırmacaların koşuştırmacasından sıyrıldı, "Ahhh doğru, haftasonları iş yoksa Betül gelmez. Ayın ilk günü diye Nail de basımevinde meşguldür şimdi. Biraz kafa dinleyeyim bari kimse yokken.". Mutfağa geçip ocağa su koydu, ve ofisine geçip etrafı toparlamaya başladı. Hızlıca biten bir temizliğin ardından duvar kenarına koyduğu kutuyu alıp mutfağa geçti ve kutuyu çöpe attı. Kendine bir bitki çayı koyup ofiste biraz kafasını dinledi, ikindine doğru ofisten çıkıp apartmana yola koyuldu. Hala karanlık odada ki dağınıklığı toparlaması gerekiyordu, ayrıca etrafın da bir tozuun alsa fena olmazdı, en son ki işinden dolayı zaten yeterince boşlamıştı apartmanı, üstüne bir de şifre işlerine sarınca artık bir temizlik şart olmuştu.
+Ofise gelen dedektif, sessiz atmosfere girer girmez şifre ve araştırma koşuştırmacasından sıyrıldı, "Ahhh doğru, haftasonları müşteri yoksa Betül gelmez. Ayın ilk günü diye Nail de basımevinde meşguldür şimdi. Biraz kafa dinleyeyim bari kimse yokken.". Mutfağa geçip ocağa su koydu, ve ofisine geçip etrafı toparlamaya başladı. Hızlıca biten bir temizliğin ardından duvar kenarına koyduğu kutuyu alıp mutfağa geçti ve kutuyu çöpe attı. Kendine bir bitki çayı koyup ofiste kafasını dinledi, ikindine doğru ofisten çıkıp apartmana yola koyuldu. Hala karanlık odadaki dağınıklığı toparlaması gerekiyordu, ayrıca etrafın da bir tozunu alsa fena olmazdı, en sonki işinden dolayı zaten yeterince boşlamıştı apartmanı, üstüne bir de şifre ve günlük işlerine sarınca artık bir temizlik şart olmuştu. Ama önce güzel bir uyku iyi giderdi.
 
 * 1995-04-02 10:00
 Bahçede sandalyesine kurulmuş kapıcı, bir yandan oğlunu takip ederken bir yandan da dedektifle sohbet ediyordu:
 -Betin benzin atmış evlat, son zamanlarda iş güç çok mu yormaya başladı?
--Yok be Abdullah amca, son 2-3 gün tam uyuyamadım sadece. Dünden itibaren sonunda rahatlayacak vakti buldum ama, bugün de şöyle güzel bir uyku çeksem kendime gelirim. Sen de işler güçler nasıl, apartmanda bir hareketlilik var mı?
-"Eski topraklarla dolu şu apartmandan nasıl bir hareket bekliyorsun oğlum, her şey aynı yuvarlanıp gidiyoruz işte" dedi çayından bir yudum alıp bahçede top koşturan oğlunu gösteren kapıcı, "Bizim Nuri biraz hareketlendi havaların ısınmasıyla, bize de iyi oluyor evden çıkıyor da kafa dinliyoruz biraz. Okuldan sonra hala nereden buluyorlar bu enerjiyi bilmiyorum."
+-Yok be Abdullah amca, son 2-3 gün tam uyuyamadım sadece. Dünden itibaren sonunda rahatlayacak vakti buldum, bugün de şöyle güzel bir uyku daha çeksem kendime gelirim. Sen de işler güçler nasıl, apartmanda bir hareketlilik var mı?
+"Eski topraklarla dolu şu apartmandan nasıl bir hareket bekliyorsun oğlum, her şey aynı yuvarlanıp gidiyoruz işte" dedi çayından bir yudum alıp bahçede top koşturan oğlunu gösteren kapıcı, "Bizim Nuri biraz hareketlendi havaların ısınmasıyla, bize de iyi oluyor evden çıkıyor da hanım dinlenmiş oluyor. Hem okul hem ödevler ve üstüne bir de bu enerjiyi  nereden buluyorlar hiç bilmiyorum."
 -Hiç sorma amca, çocuk mocuk işlerini ben hiç anlamam, soracağın en son kişiyimdir.
 -Apartmanın yanında bir merdiven dayalı bildin mi onu?
--Durdu Teyze'nin penceresine dayalı olan demi?
+-Durdu Teyze'nin penceresine dayalı olan mı?
 -He he o, geçen ona çıkmış pencereden sohbet ediyordu Durdu Hanımla.
--Yapma ya, düşüp falan başına bir de dert olmasın sonra?
+-Yapma ya, düşüp falan başına bir de dert olmasın sonra? Şuna baksana senin çocuk düz zeminde top oynarken bir yerinde duramıyor, bir de merdivende olsa düşünemiyorum bile.
 Saatine bakan kapıcı, bir hesap yapar gibi başını kaldırıp bulutlara baktı:
--Yok ya bir şey olmaz, tarzan gibi bizim oğlan. Diğer çocuklar için korkuyorum ben, birisi çarpacak başına düşürecek diye. Yarın kaldıracam ama o merdiveni de, sabahtan buzdolaplarına bakım yapıp elim kirliyken onu da alırım yerine koyarım.
+-Yok ya bir şey olmaz, tarzan gibi bizim oğlan. Havada sağa sola bir yere tutunur düşerken bir şekilde kendini kurtarır. Diğer çocuklar için korkuyorum ben asıl, birisi çarpacak başına düşürecek diye. Yarın kaldıracam ama o merdiveni de, sabahtan buzdolaplarına bakım yapıp elim kirliyken onu da alırım yerine koyarım.
 -Benim daireyi biliyorsun onu..., cümlesi yarıda kesilen dedektifin ne diyeceği çoktan tahmin etmiş olan kapıcı beklemeden söze girdi:
--Biliyorum biliyorum sorun yok. Bir şey olursa söylersin ben hallederim... Nuuuuriii! hadi eve geç de çamaşırlara yardım et, makine bitmiştir şimdiye.
-Çayından da son yudumu alan kapıcı, kalkıp dedektifle vedalaşacakken bahçe boyunca yürüyen bir kadını takip eden dedektifi gördü.
+-Biliyorum biliyorum sorun yok. Bir şey olursa söylersin ben hallederim. Nuuuuriii! hadi eve geç de çamaşırlara anana yardım et, makine bitmiştir şimdiye.
+Çayından son yudumu alan kapıcı, kalkıp dedektifle vedalaşacakken bahçe boyunca yürüyen bir kadına gözü takılan dedektifi gördü.
 -Haaa, demek ondan sözün kesildi. Sana geçen bahsettiğim yeni yabancı kiracımız. Roza bilmembişey diye sakin kendi işinde biri. Allah var güzel kadın, bir ara git bir tanış ha ne dersin?
 Kalkıp kapıcının havada kalan elini sıkan dedektif gözlerini kadından çevirdi:
--Ben o işleri bırakalı çok oluyor, hem benimkisi gibi sağı solu belli olmayan meslekleri çok sevmezler kızlar. Yine de gerçekten güzelmiş, insan soruyor bizim kapıcı Abdullah Amca nereden bulup da getiriyor böyle yabancı kiracıları?
--O da meslek sırrı işte, diye bir kahkaha patlattı kapıcı. "Ben artık kaçayım da hanım keyif yapıyorum diye gene beni haşlamasın. Evde bir sürü iş birikmiştir şimdi.", dedi ve apartmana yürürken ekledi: "Sen de hadi bakalım önüne kadar gelmiş güzel bir hanım var kendini tanıt bir"
-Kapıcının bu çöpçatanlık işini unutmasını umarak arkasından takip eden dedektif, giriş katta kapıcıyla vedalaştıktan sonra kendine dairesine çıkmaya başladı. 2. katta Durdu teyzenin kapısının önünde durmuş kadınla tekrar göz göze geldi. Neredeyse kendisi kadar uzun boylu, duruşundan yol yordan bilen biri olduğu anlaşılan asaletli bir kadındı. Görgü kurallarını ezbere biliyormuşçasına hafifçe başıyla selam verip dedektife elini uzattı ve kısaca kendini tanıttı:
-"Merhabalar, ben Roza Prachetska. Karşı dairenize taşındım, umarım iyi geçinebiliriz." sonra Durdu Teyzeye döndü, "Kurabiye tarifinizi almak için yarın müsaitsinizdir umarım, o zamana kadar görüşmek üzere." dedi ve tekrardan dedektife döndü.
-"Ben de Tarık Çelik, herhangi bir sorununuz olursa lütfen çekinmeyin. Her zaman kapımı tıklatabilirsiniz", hafifçe güldükten sonra devam etti, "Gerçi çoğu zaman dairem boş olur ancak yine bir şansınızı deneyin bir ara tanışalım" dedi ve alımlı kadında vedalaşıp merdivenlerden çıkmasını izledi.
+-Ben o işleri bırakalı çok oluyor amca, hem benimkisi gibi sağı solu belli olmayan meslekleri çok sevmezler kızlar. Ama gerçekten güzelmiş, insan soruyor 'bizim kapıcı Abdullah Amca nereden bulup da getiriyor böyle yabancı kiracıları' diye
+-O da meslek sırrı işte, diye bir kahkaha patlattı kapıcı. "Ben artık kaçayım da hanım keyif yapıyorum diye gene beni haşlamasın. Evde bir sürü iş birikmiştir şimdi.", dedi ve apartmana yürürken ekledi: "Sen de hadi bakalım önüne kadar gelmiş güzel bir hanım var kendini tanıt bir."
+Kapıcının bu çöpçatanlık işini unutmasını umarak arkasından takip eden dedektif, giriş katta kapıcıyla tekrar vedalaştıktan sonra kendine dairesine çıkmaya başladı. 2. katta Durdu Teyze'nin kapı eşiğinde durmuş yabancı kadınla tekrar göz göze geldi. Neredeyse kendisi kadar uzun boylu, duruşundan yol yordam bilen biri olduğu anlaşılan asaletli bir kadındı. Görgü kurallarını ezbere biliyormuşçasına hafifçe başıyla selam verip dedektife elini uzattı ve kısaca kendini tanıttı:
+"Merhabalar, ben Roza Prachetska. Karşı dairenize taşındım, umarım iyi geçinebiliriz." sonra Durdu Teyzeye döndü, "Kurabiye tarifinizi almak için yarın müsaitsinizdir umarım, o zamana kadar görüşmek üzere." dedi ve tekrar dedektife döndü. Durdu Teyze'nin yanına geçen dedektif kendini tanıttı:
+"Ben de Tarık Çelik, herhangi bir sorununuz olursa lütfen çekinmeyin. Her zaman kapımı tıklatabilirsiniz", hafifçe güldükten sonra devam etti, "Gerçi çoğu zaman dairem boş olur ancak yine bir şansınızı deneyin bir ara tanışalım" dedi ve iyi günler dilediği alımlı kadının merdivenlerden çıkmasını izledi.
 İki genci izleyen yaşlı kadın, kapısını tutup yavaşça döndü:
 -Ben de içeri geçeyim artık Tarık oğlum, buranın soğuğu bana iyi gelmiyor. Hadi sana iyi işler güçler bakalım.
--İyi günler Durdu Teyze, şu kurabiyelerinden bir yap da yiyelim ağzımın tatlansın.
-Karşılıklı gülüştükten sonra yarın kurabiye yapması için yaşlı kadını ikna eden dedektif, evin kapısı kapandıktan sonra eskimiş tahta ve toz kokan merdiven boşluğundan kendi dairesine çıktı. Kapalı karşı kapıya göz ucuyla baktıktan sonra anahtarını çıkartıp yeni temizlenmiş dairesine girdi.
+-İyi günler Durdu Teyze, şu kurabiyelerinden bir yap da yiyelim ağzımın tatlansın. Rosa Hanım'la iyi denk geldik de aklıma geldi.
+Karşılıklı gülüşüp yarın kurabiye yapması için yaşlı kadını ikna eden dedektif, evin kapısı kapandıktan sonra eskimiş tahta ve toz kokan merdiven boşluğundan kendi dairesine çıktı. Kapalı karşı kapıya göz ucuyla baktıktan sonra anahtarını çıkartıp dünden temizlenmiş dairesine girdi. İş olmadan geçen bir pazar gününü daha dairesinde harcadı.
 
 * 1995-04-03 08:00
-Ofisin kapısını tıklatan yazar, kapının her zamankinden geç açılmasından Betül'ün derste sabah dersinde olduğunu hatırladı ve tam ofis boştur diye arkasını dönmüştü ki kapı açıldı:
+Ofisin kapısını tıklatan yazar, kapının her zamankinden geç açılmasından Betül'ün sabah dersinde olduğunu hatırladı ve tam ofis boştur diye arkasını dönmüştü ki kapı açıldı:
 -Oooo köylü gelmiş, hoşgeldin. Derginin yeni sayısını bastınız mı noldu?
 -Bastık bastık, yeni sayının bütün basım işleri sorunsuz tamamlandı, bugün bana iş çıkmaz. Ne bu neşe hele bi anlat bakalım.
--Enayinin birine alışverişimi kitledim de ondan mutluyum biraz, diyen dedektif arkadaşını içeri buyur etti ve ofise geçtiler.
-Mutfağa geçip kahvaltılık bir şeyler alıp masayı dizmeye başladılar. Bu sırada da doktor raporunu, nefret notunu ve yazarla konuşmalarını hızlıca özet geçti dedektif. Sonunda çayları da koyup masaya oturdular.
--Vay ve, koca yazar Yavuz efendi demek zorla istemediği bir roman yazmış onunla da ünlü olmuş ha.
+-Enayinin birine alışverişimi kitledim de ondan mutluyum biraz, diyen dedektif arkadaşını içeri buyur etti ve içeri geçtiler.
+Mutfakta kahvaltılık bir şeyler alıp masayı dizmeye başladılar. Bu sırada da doktor raporunu, nefret notunu ve yazarla konuşmalarını hızlıca özet geçti dedektif. Sonunda çayları da koyup masaya oturdular.
+-Vay be, koca yazar Yavuz efendi demek zorla istemediği bir roman yazmış onunla da ünlü olmuş ha.
 -Yani bana kendi ağzından 'evet benim yazmak istediğim son böyle değildi' demedi ama, benim anladığım kadarıyla bütün bu hengame onun da içine sinmeyen bir olaylar silsilesiymiş.
-Zaten yayımevinde bir şeyler atıştıran yazar, sandalyesine yaslanmış dedektifi dinlerken çayından içiyordu:
+Yazar sandalyesine yaslanmış dedektifi dinlerken çayından içiyordu:
 -Haa o zaman işler değişir işte, yazarın ağzından onay almadıysan iddiamız hala bitmedi. Senin ne hissettiğine göre iddia sonuçlanmaz.
 -Yav tamam öyle olsun, paran yoksa param yok de iddiayı unutalım. Kendisini davet ettim Yavuz da bir ara bizim ofise gelecek o zaman kendin sorarsın adama.
--İyi bakalım, senin şu market alışverişi biraz daha bekleyecek o zaman. Bugün napıyorsun, bu şifreleme işini de bitirdin?
+-İyi bakalım, senin şu market alışverişi biraz daha bekleyecek o zaman. Bugün napıyorsun, bu şifreleme işini de bitirdin artık komple boş musun?
 Son simit parçasını da ağzına atan dedektif masayı yavaştan toparlamaya başladı:
--Hiç sorma, bugün de boş geçmese bari. Betül gelene 1 saat falan daha ofisteyim yapacak bir şeyim yok. Betül geldikten sonra da apartmana giderim belki, yeni bir kiracı gelmiş karşı daireme onunla tanışırız falan.
+-Hiç sorma, gene sıkılmaya başlayacağım sanırım. Betül gelene kadar 1 saat falan daha ofisteyim yapacak bir şeyim yok. Betül geldikten sonra da apartmana giderim belki, yeni bir kiracı gelmiş karşı daireme onunla tanışırız falan.
 -Vay be sonunda o rezil daireye kiracı buldu mu ev sahibi? diye sordu masayı silen yazar.
--Ben de aşırı şaşırdım. Rusya'dan falan oralardan çok güzel bir kiracı bulmuş bizim Abdullah. Aklım almıyor bu adam nasıl bu kadar uluslararası bir şey ayarladı.
+-Ben de aşırı şaşırdım. Rusya'dan falan çok güzel bir kiracı bulmuş bizim Abdullah. Aklım almıyor bu adam nasıl bu kadar uluslararası bir şey ayarladı.
 Dedektifin doldurduğu çayları alıp ofise geçen yazar arkasına seslendi:
 -Bir anlat bakalım kimmiş yengemiz. Bizi de tanıştırırsın bugün herhalde?
 -Yav yok ne yengesi, kadın inanılmaz güzel 10 üzerinden 10 olsa da sevgili mevgili işlerini bıraktım ben işim olmaz. Ona vakit mi harcayacağım bir de?
 Yeni temizlenmiş ofiste koltuğuna yerleşen yazar etrafı izlemeye başladı sanki bir şey arar gibi. Odaya göz atan yazarı gören dedektif pencereyi açıp masasına geçti:
--Fotoğrafları ve günlüğü arıyorsan çoktan çöpe attım merak etme. Milletin özelini saklamaya meraklı değilim. Her söz verdiğim gibi adamdan özür falan da diledim eğer merak ediyorsan.
+-Fotoğrafları ve günlüğü arıyorsan çoktan çöpe attım merak etme. Milletin özelini saklamaya meraklı değilim. Hem söz verdiğim gibi adamdan özür falan da diledim eğer merak ediyorsan.
 -İyi yapmışsın, konuyu değiştirme ama şimdi. Şu Rus'u anlat sen, nasıl biriymiş napıyormuş?
-"Adı Roza, oturup kalkma edebini bilen ahlaklı biri gibi duruyordu. Davranışları falan sanki saray ailesinden geliyor gibiydi." Çayından bir yudum alıp başını eğdi ve tavana bakarak düşünmeye başladı.
--Mesleğini bilmiyorum ama şunları söyleyebilirim: böyle kötü durumdaki bir daireyi kiraladıysa maaşı çok yüksek değildir veya iş yerine yakın olan ve içinde zaten çok vakit geçirmeyeceği bir yer arıyordu. Giyim kuşamının yerinde olması ve pazar sabahı da dışarıdan dönmesi ikinicinin daha olası olduğunu düşündürüyor. Yani ya yakın çevrede hafta sonları da dahil vakit alan bir işte çalışıyor ya da çalışmıyorsa öğrencidir. Ayrıca bugün bizim apartmadaki dul teyzeyle görüşecek olması da yaptığı işin hafta içleri boş olabileceğini gösteriyor ki öğrenci teorisini daha da çürütüyor. Abdullah amcanın söylediklerine de dayanarak yalnız yaşadığını çıkarıyorum. Tavırlarına ve davranışlarına bakarak iyi bir ahlaki eğitim aldığını düşünüyorum, elitist duruyordu. Eğer Rusya gibi bir ülkeden bu kadar elit davranışlara sahip biri bu yaşam stiline kadar düştüyse bu yapmak zorunda olduğu bir şeydir diye düşünüyorum.
+-Adı Roza, oturup kalkma edebini bilen ahlaklı biri gibi duruyordu. Davranışları falan sanki saray ailesinden geliyor gibiydi.
+-Hiç sormadın mı neymiş neciymiş, çalışıyor mu öğrenci mi?
+Dedektif çayından bir yudum alıp başını eğdi ve tavana bakarak düşünmeye başladı.
+-Mesleğini bilmiyorum ama şunları söyleyebilirim: böyle kötü durumdaki bir daireyi kiraladıysa maaşı çok yüksek değildir veya iş yerine yakın olan ve içinde zaten çok vakit geçirmeyeceği bir yer arıyordur. Giyim kuşamının yerinde olması ve pazar sabahı da dışarıdan dönmesi ikinicinin daha olası olduğunu düşündürüyor. Yani ya yakın çevrede hafta sonları da dahil vakit alan bir işte çalışıyor ya da çalışmıyorsa öğrencidir okuyordur. Ayrıca bugün bizim apartmadaki dul teyzeyle görüşecek olması da yaptığı işin hafta içleri boş olabileceğini gösteriyor ki bu öğrenci teorisini daha da çürütüyor. Abdullah amcanın söylediklerine de dayanarak yalnız yaşadığını çıkarıyorum. Tavırlarına ve davranışlarına bakarak iyi bir ahlaki eğitim aldığını düşünüyorum, elitist duruyordu. Eğer Rusya gibi bir ülkeden bu kadar elit davranışlara sahip biri bu yaşam stiline kadar düştüyse bu yapmak zorunda olduğu bir şeydir.
 Çayından bir yudum daha alan dedektif bir süre bekledi:
--Son tahminim şöyle: Çocukluğundan beri iyi bir ailede yaşamış bir kadın bir sebepten ötürü Türkiye'ye gelmek zorunda kalıyor. Ancak bu öyle ülkeden yaka paça kovulmak gibi bir şey değil de atanmak gibi bir zorunluk. Yani önceden buradaki işini ve dairesini ayarlayabileceği kadar bir vakti ve bilgisi varmış. Pazar günleri de işe gitmesini ve resmi giyinmesini gerektirecek evin yakınlarında bir iş olanağını da düşününce: bence burada yapacağı bir araştırma için geçici öğretim üyesi olarak üniversitede çalışmaya başlamıştır.
--Yaaani, söylediklerinin yarısı mantıklı geliyor en azından.
--Başka teorin varsa söyle ama bence Türkçe'yle ilgili bir araştırma yapmak için buraya geldi, istersen sen de benimle apartmana gel soralım ne yapıyormuş diye. Hem Durdu Teyze de bugün kurabiye gel birlikte gidelim kurabiye de yeriz olur mu?
+-Toparlarsak son tahminim şöyle: Çocukluğundan beri iyi bir ailede yaşamış bir kadın bir sebepten ötürü Türkiye'ye gelmek zorunda kalıyor. Ancak bu öyle ülkeden yaka paça kovulmak gibi bir şey değil de atanmak gibi bir zorunluk. Yani önceden buradaki işini ve dairesini ayarlayabileceği kadar bir vakti ve bilgisi varmış. Pazar günleri de işe gitmesini ve resmi giyinmesini gerektirecek evin yakınlarında bir iş olanağını da düşününce: bence burada yapacağı bir araştırma için geçici öğretim üyesi olarak üniversitede çalışmaya başlamıştır.
+-Yaaani. Olabilir herhalade, söylediklerinin yarısı mantıklı geliyor en azından.
+-Başka teorin varsa söyle ama bence Türkçe'yle ilgili bir araştırma yapmak için buraya geldi. Türkçe'si çok iyi, edebiyatla falan bir şeylerle ilgileniyor olabilir diye düşünüyorum. İstersen sen de benimle apartmana gel soralım ne yapıyormuş diye. Hem Durdu Teyze de bugün kurabiye yapacaktı kurabiye de yeriz olur mu?
 Çayını bitiren yazar cevap veremeden açılan kapı duyuldu.
--Betül de geldi, ben mutfağa şunu bırakayım sen de dik kafaya gel kurabiye yemeye çıkalım.
-Son yudumunu aldıktan sonra bardağını tezgahta yazarınkinin yanına koyan dedektif, antrede Betül'ü selamlayıp yazar ve şifre olaylayını özetleyen arkadaşını duydu. İki arkadaş, Betül'e apartmana kadar gidip geleceklerini söyledikten sonra vedalaşıp yola koyuldular.
+-Betül de geldi, ben mutfağa şunları bırakayım sen de toparlan gel kurabiye yemeye çıkalım.
+Son yudumunu aldıktan sonra bardağını tezgaha koyan dedektif, antrede Betül'ü selamlayıp şifre ve günlük olaylayını özetleyen arkadaşını duydu. İki arkadaş, Betül'e apartmana kadar gidip geleceklerini söyledikten sonra ofisi emanet edip yola koyuldular.
 
 * 1995-04-03 10:00
--Sizin buzdolabı tamam Selma abla, sigortada herhangi bir sorun yaşayacağınızı sanmam artık. Yine de tekrar bir şey olursa bana servisi arayalım, sorun buzdolabında değilse tesisatta sıkıntı olabilir.
+-Sizin buzdolabı tamam Selma abla, sigortada herhangi bir sorun yaşayacağınızı sanmam artık. Yine de tekrar bir şey olursa bana söyleyin servisi arayalım, sorun buzdolabında değilse tesisatta sıkıntı olabilir.
 -Tamamdır, eline sağlık Abdullah abi. Birazdan limonata hazırlayacağım, diğer daireleri de bitirince uğrarsan sana da bir bardak koyayım teşekkür niyetine.
 Terini silen kapıcı alet çantasını kaldırdı ve karşı kapıya yürüdü:
 -Sağ olasın vallahi çok iyi olur, şimdi Durdu Teyze'ye ondan sonra da Rosa kızımıza uğrayacağım, işim bitince gelirim limonataya, şimdiden ellerine sağlık.
-Kapıyı tıklatıp içeri buyur edilmesiyle fırından sızan kurabiye kokusu yüzüne vurdu. Bütün daireleri bitirdikten sonra gelip kurabiye alacağının şakasını yapan kapıcı hızlıca kalan dairelerin de buzdolabının bakımını yaptı. Tekrar 2. kata inip Selma Hanım'dan limonatasını aldıktan sonra bahçeye inip güneşin altında limonatasını içmeye başladı. Merdivenin en tepesine tırmanmış olan oğluna seslendi dikkatli olması için ve kendi kendine söylenmeye başladı:
--Şu merdiveni de kaldırmak lazım artık limonata bitsin de halledeyim, dedi bardağı alet çantasının üstüne bırakırken.
-Merdivenden inen Nuri, elinde kurabiyeyla babasına koşmaya başladı:
+Kapıyı tıklatıp içeri buyur edilmesiyle fırından sızan kurabiye kokusu kapıcının yüzüne vurdu. Bütün daireleri hemen halledip kurabiye almaya geleceğinin şakasını yapan kapıcı, Durdu Teyze'nin dolabının bakımından sonra üst katta Rosa'nın da bakımını hızlıca yaptı ve tekrar 2. kata indi. Selma Hanım'dan limonatasını aldıktan sonra bahçeye çıkıp güneşin altında keyif limonatasını içmeye başladı. Merdivenin en tepesine tırmanmış olan oğluna dikkatli olması için seslendi ve kendi kendine söylendi:
+-Şu merdiveni de kaldırmak lazım artık limonata bitsin de halledeyim.
+Bir süre pencereden girip hemen geri çıkan Nuri, öerdivenden inip, elinde kurabiyeyle babasına koştu:
 -Babaaaa, Durdu Nine'nin kurabiyeleri pişmiş hadi sen de al bir tane. Kapısını da açmış. Ben de birazdan arkadaşlarımı getireceğim bitmeden ye kendininkini.
 -Dikkatli ol bakalım yola çıkma, dedi limonatasını alıp tekrar apartmana giren adam.
 Merdivenleri çıkıp aralık bırakılmış kapıdan girdi. Durdu Teyze kurabiye yaptığında kapı kapı dolaşıp vermeye derman bulamazdı o yüzden pencereyi ve kapıyı açardı koku merdiven boşluğundan apartmana yayılsın da canı çeken gelsin alsın diye. Yaşlanmıştı artık, kendine de iyi bakmamasının etkisiyle sağlığı kötüye gidiyordu, yine de oğlunu okutabilmek için elinden geleni yapıyor ve bundan mutlu oluyordu. Apartmandakiler onun için ne kadar endişelense de onu ikna edememişlerdi hala patates, pirinç, mercimek gibi ucuz yemekler yapar; kelimenin tam anlamıyla dişinden tırnağından artırarak oğluna para yollardı. Özellikle kocası öldükten sonra durumu daha da zorlaşmıştı, en azından komşular ona sohbet muhabbet dostluğu yapıyor dertlerini dinliyorlardı. Kurabiyeleri gerçekten de lezzetliydi ama. Belki komşunun malzemeleri yardımlaşa toparlamasından belki de el lezzetindendi, yine de yiyen ikinciyi almazsa aklında kalırdı.
-Kapının eşiğinde duran kapıcı, koltukta hırıltılı hırıltılı nefes alan kadını görüp sessiz adımlarla parke gıcırdatmadan mutfağa geçiyor. Fırından yeni çıkmış dumanı üstünde bir kurabiye alıyor ve tekrardan sessizce daireden ayrılıyor.
+Kapının eşiğinde duran kapıcı, koltuğun sırtının üstünden hırıltılı hırıltılı uyuyan kadını görüp sessiz adımlarla parke gıcırdatmadan mutfağa geçiyor. Fırından yeni çıkmış dumanı üstünde bir kurabiye alıyor ve tekrardan sessizce daireden ayrılıyor.
 Limonatası ve kurabiyesiyle sandalyesine geri dönen kapıcı, bahçe girişinde dedektif Tarık ile bir beyfendiyi çocuklar tarafından sarılmış şekilde gördü, hepsi bir ağızdan bir şeyler istiyorlardı:
 -Abi, abi o ünlü dedektif sen misin?
 -Annem diyor ki sende bir sürü silah varmış, silahlarınla oynayabilir miyiz abi?
@@ -80,28 +82,29 @@ Limonatası ve kurabiyesiyle sandalyesine geri dönen kapıcı, bahçe girişind
 Aralarında tanıdığı tek oğlan olan Nuri öne atıldı:
 -Tarık abi, yeni kurabiyelerimiz var almak ister misin?
 "Oooo kurabiye demek ha, biz de kurabiye için geldik zaten ufaklık" dedi dedektifi arkasından takip eden yazar.
-Sonunda kalabalık ekip bahçeye girdi, selam vermek için kalkan kapıcı bardağını alet çantasının üstüne bırakıp elini uzattı:
--Hoşgeldin Tarık efendi, buzdolaplarının bakımını bitirdim, senin dairene yine dokunmadım istediğin gibi. Bir sorun çıkarsa söyle oraya da el atarım.
+Sonunda gürültülü kalabalık bahçeye girdi, selam vermek için kalkan kapıcı bardağını alet çantasının üstüne bırakıp elini uzattı:
+-Hoşgeldin Tarık efendi, buzdolaplarının bakımını bitirdim, senin dairene yine dokunmadım anlaştığımız gibi. Bir sorun çıkarsa söyle oraya da el atarım.
 -Sağ olasın amca eline sağlık, dolabın fişi takılı değil seni yormayayım hiç. Eve yiyecek bir şeyler alınca bakarım artık dolap çalışıyor mu çalışmıyor mu.
 Tokalaşıp gülen göbekli adam, Nail'e de kendini tanıttıktan sonra etraftaki çocukları kışkışları:
--Amma baş belası oldu bunlarda büyüyünce, hınzırlar. Durdu Teyze yine harika kurabiyeler yapmış gelmişken kaçırmayın, çoktan 3 tanesi gitti bile. Bir ara bizim velete de bir ders vermek lazım ikişer ikişer yiyor yaramaz. Aman siz birer tane yiyin, az önceki ordudan sonra apartmana kalmayacak yoksa.
-Bir yandan kendi benzetmesine gülerken bir yandan da apartmana akın eden çocuk sürüsüne baktı. Limonata bardağını alıp balkonun pervazına koydu, "Ben şu merdiveni indireyim artık, çocuklar onu görürse ellerinde kurabiyeyle merdivenden inmeye çalışırlar" dedi ve apartmanın yan tarafına geçti.
+-Amma baş belası oldu bunlar da büyüyünce, hınzırlar. Durdu Teyze yine harika kurabiyeler yapmış gelmişken kaçırmayın, çoktan 3 tanesi gitti bile. Bir ara bizim velete de bir ders vermek lazım ikişer ikişer yiyor yaramaz. Aman siz birer tane yiyin, az önceki ordudan sonra apartmana kalmayacak yoksa.
+Bir yandan apartmana akın eden çocuk sürüsüne baktı bir yandan da kendi benzetmesine güldü kapıcı. "Ben şu merdiveni indireyim artık, çocuklar onu görürse ellerinde kurabiyeyle merdivenden inmeye çalışırlar şimdi" dedi ve apartmanın yan tarafına geçti.
 -Tam da vaktinde gelmişiz gibi gözüküyor, dedi dedektif arkadaşına dönerek.
-Nail cevap veremeden apartmandan yüksek bir çığlık duyuldu. Ardından birkaç çocuk bağrışı daha duyulduktan sonra apartmandan korkmuş bir çocuk sürüsü koşarak çıktı. Ağlayan ve dehşete düşmüş çocukları görünce şok olan yazar, kendine geldiğinde dedektif çoktan öne atılmış apartmana girmişti. Merdivenleri çıkarken arkasından gelen arkadaşına emirler yağdırıyordu:
--Merdiven boşluğunda durup kim dışarı çıkarsa çıksın kimseye bir şey söyleme. Çocuklar oyun oynuyor diye geçiştir herkesi sakinleştir.
+Nail cevap veremeden apartmandan yüksek bir çığlık duyuldu. Ardından birkaç çocuk bağrışı daha, ve sonra apartmandan korkmuş bir çocuk sürüsü koşarak çıktı. Ağlayan ve dehşete düşmüş çocukları görünce şok olan yazar, kendine geldiğinde dedektif çoktan öne atılmış apartmana girmişti. Diğer çocukları çok tanımıyor olsa da bizim hınzır Nuri böyle bağırıp ağlıyorsa kesin anormal bir şeyler vardı. Bir şey mi tutuşmuştu? Yanık kokmuyordu içerisi. Fare veya yılan falan görmüşlerdi belki, öyleyse olabildiğince hızlı yukarı çıkıp en azından hayvanın nereye gittiğini görse iyi olurdu. Merdivenleri çıkarken arkasından gelen arkadaşına emirler yağdırıyordu:
+-Merdiven boşluğunda durup kim dışarı çıkarsa çıksın kimseye bir şey söyleme. Çocuklar oyun oynuyor diye geçiştir herkesi sakinleştir. Üstüne bir de bir avuç paniklemiş yaşlıyla uğraşmayalım.
 Merdivenlerde ona yetişmeye çalışan yazar dedektifin isteğini duyunca yavaşladı:
--Tamamdır. Biliyor musun ne olduğunu?
+-Tamamdır. Olay ne biliyor musun?
 -Hayır, sadece dediğimi yap. Kimse panik olmasın.
-Açık kapıdan başını uzatıp içeriyi izleyen dedektif bir süre olduğu yerde bekledi. Nail'in alt komşuları sakinleştirmeye çalıştığını duyuyordu. Kapıcı Abdullah amca da kendi eşiyle konuşuyordu. Yukarıdan da ses gelmediğine göre Rosa büyük ihtimalle dışarıdaydı, veya böyle şeyleri çok takmayan soğuk biriydi. Kapıdan girip etrafı inceleyen dedektif yalnız olduğunu anlayınca antreden mutfağa geçiyordu ki birden arkasındaki kapı aralandı. Karşı komşu Selma abla birden eve dalıp mutfağa koştu.
--Durdu Teyzeee! İyi misin teyze! Ahh hala sıcak! Doktoooor, doktor yok muuu!
+Açık kapıdan başını uzatıp içeriyi izleyen dedektif bir süre olduğu yerde bekledi herhangi bir hayvan sesi duymaya çalışarak. Nail'in alt komşuları sakinleştirmeye çalıştığını duyuyordu. Kapıcı Abdullah amca da kendi eşiyle konuşuyordu. Yukarıdan da ses gelmediğine göre Rosa büyük ihtimalle dışarıdaydı. Kapıdan girip etrafı inceleyen dedektif Durdu Teyze'den cevap alamayınca yalnız olduğunu anladı, tam antreden mutfağa geçiyordu ki birden arkasındaki kapı aralandı. Karşı komşu Selma abla birden eve dalıp mutfağa koştu.
+-Durdu Teyzeee! İyi misin teyze! ... Ahh hala sıcak! Doktoooor, doktor yok muuu!
 Mutfağa koşan dedektifin hemen ardından yardımcısı da içeriye girdi.
-Koltuğa yığılmış yaşlı kadın karnından bıçaklanmıştı. Karşısında yere çökmüş Selma, bir eliyle Durdu'nun koltuktan sarkan koluna destek olurken hala doktor çağırıyordu nefes nefese, diğer elinde de ucu kanlı bıçağı tutuyordu. Bir kaç kez daha doktor için bağırdıktan sonra yavaş yavaş kendine geldi ve elindeki bıçağı korkuyla odanın köşesine savurup kendini birkaç adım geride yere bırakıp ağlamaya başladı.
+Koltuğa yığılmış yaşlı kadın karnından bıçaklanmıştı, kıyafetleri ve koltuk hala akan kanı emmeye devam ediyordu. Karşısında yere çökmüş Selma, bir eliyle Durdu Teyze'nin koltuktan sarkan koluna destek olurken hala doktor çağırıyordu nefes nefese, diğer elinde de ucu kanlı bıçağı tutuyordu. Bir kaç kez daha doktor için bağırdıktan sonra yavaş yavaş kendine geldi ve elindeki bıçağı korkuyla odanın köşesine savurup kendini birkaç adım geride yere bırakıp ağlamaya başladı.
 Olayın şokundan çıkmış olan yazar merdivenlere koştu:
 -Katil hala yakınlardadır, onu aramaya çıkıyorum burası sana emanet.
-Merdivende kapıcıyla çarpışan yazar düşmekten son anda kurtulup kendini apartmanın dışına attı. Bahçede hala etrafa dağılmış, artık sessizce duran, çocukar arasından koşarak geçti ve ana sokak boyunca katili aramaya başladı.
-Mutfağa giren kapıcı Selma Hanımı yerden kaldırıp koluna girdi, ve karşı daireye taşıdı:
+Merdivende kapıcıyla çarpışıp düşmekten son anda kurtuldu, hızlıca kendini apartmanın dışına attı. Bahçede hala etrafa dağılmış, çoğu artık sessizce duran çocukar arasından koşarak geçti ve ana sokak boyunca yakın zamanda koşarak geçen birini soruşturmaya başladı esnaflara.
+O sırada mutfağa giren kapıcı Selma Hanım'ı yerden kaldırıp koluna girmiş, ve karşı daireye taşımıştı:
 -Burası sende evlat, Selma Abla'lara geçip polisi ve ambulansı arayıp geliyorum hemen.
--Polis yeterli olacaktır, Durdu Teyze çoktan ölmüş, Selma Abla'yı sakinleştir kendine getir yeter.
+-Önce polisi ara, Durdu Teyze çoktan ölmüş, Selma Abla kendine gelirse ambulansa gerek bile olmayabilir. Sen onu sakinleştirip kendisine getir yeter.
+777
 Etraf dindikten sonra dairenin kapısını kapatan dedektif artık suç mahalinde yalnız kalmıştı. Mutfakta kanlı bıçağı tutmak için bir şey ararken ayağının dibindeki fırın eldivenini gördü, kurabiye kokulu hala sıcak olan fırın eldiveniyle bıçağı alıp koltuğun yanındaki sehpaya koydu:
 -Kanlı aletimizi sağa sola atmayalım lütfen Selma hanım, diye içinden geçirdi.
 Mutfağın köşesinde bir eli çenesinde parmaklarıyla ritim tutarak olay mahalini inceleyen dedektif; koltuktaki yaşlı kadına, kanlı bıçağa ve açtığı yaraya, açık pencerenin önündeki kurabiye tepsisine, az önce aralıklı olan kapıya göz gezdirdi. Odanın farklı yerleri arasında bir oraya bir buraya bakıyordu hızlı hızlı. Mutfaktan çıkıp evin diğer tarafına baktı. Yatak odasındaki yatak dışında ev bomboştu. Durdu Teyze'yi tanımasa hırsızlık olduğunu düşünebilirdi ama oğluna destek olmak için bütün eşyalarını sattığını biliyordu. Evde kimse olmadığından emin olduktan sonra antreye geri dönüp tıklatılan kapıyı açtı. Nefes nefese kalmış Nail başını iki yana sallayarak antreye girdi, ardından karşı kapı açıldı ve beti benzi atmış Selma Hanım'la hala ona destek olan kapıcı gözüktü.
@@ -327,21 +330,26 @@ Materyal bölümünüzde okumakta olan Asım Samet Öğren adlı öğrencinizin 
 -İyi bakalım, ben kaçıyorum o zaman. Sana da iyi çalışmalar, sonra haberleşiriz.
 
 * 1995-04-06 12:00
-Sıcak öğle güneşinin altında birkaç kuzgun kanat çırparak uçtu, ağaçlar arasından gelen hafif şeker tadı rüzgara karışıyordu. Çevrede ziyarete gelen birkaç aile ve yalnız başına dua eden kişiler dışında ortam sessizdi. Siyahlara bürünmüş 3 adamdan şişman ve yaşlı olan diğer ikisinin elini sıkıp mezarın başından uzaklaştı. Biraz daha durduktan sonra adamlardan kısa olanı da ayrıldı, ve tek başına kalana adam mezarı görebileceği bir banka oturup cebinden bir torba çıkardı. Yanına uçuşan kuzgunları yemleyerek bir saate yakın süre geçirdi mezarın başında tekrar yeni bir oğlan görünce. Son kalan yemleri cebine atarak çocuğun yanına gitti ve kendini tanıttı:
+Sıcak öğle güneşinin altında birkaç kuzgun kanat çırparak uçtu, ağaçlar arasından gelen hafif şeker tadı rüzgara karışıyordu. Çevrede ziyarete gelen birkaç aile ve yalnız başına dua eden kişiler dışında ortam sessizdi. Siyahlara bürünmüş 3 adamdan şişman ve yaşlı olan diğer ikisinin elini sıkıp mezarın başından uzaklaştı. Biraz daha durduktan sonra adamlardan kısa olanı da ayrıldı, ve tek başına kalana adam mezarı görebileceği bir banka oturup cebinden bir torba çıkardı. Yanına uçuşan kuzgunları yemleyerek bir saate yakın süre geçirdi mezarın başında Asım'ı görene kadar. Hala aynı boydaydı, biraz daha esmerlesmiş ve üzerindeki cılızlığı atmıştı sadece. Son kalan yemleri cebine atarak, gencin yanına gitti ve kendini tanıttı:
 -Merhaba Asım, ben Tarık. Sana fax atan bendim. Başın sağ olsun.
 Uzatılan eli sıkan oğlan mezar taşının yanına gitti ve başında bekleyen adama döndü:
--Polisler en iyi açıklamayı sizin bana yapacağınızı söylediler, sizinle burada denk gelmemiz iyi oldu. Cenaze falan her şeyle ilgilendiğiniz için teşekkürler, daha fazla vaktinizi almadan hızlıca açıklayabilir misiniz?
--Ne demek, Durdu Teyze hepimizin tanıdığıydı. İstersen ben seni biraz yalnız bırakayım. Hazır olduğunda şu ötedeki bankta seni bekliyor olacağım.
-Çocuğun omzunu sıkıp tekrar torbasıyla banka oturup toparlanan kuzgunları etrafına çekmeye başladı. Elinde kalan son yemini de attıktan sonra yanına gelen oğlana durumu hızlıca, çok detaya inmeden anlattı. Sessizce dinleyen çocuk, dedektifin sözü bittikten sonra öne eğilip gözünü mezarlıkta gezdirdi.
+-Polisler en iyi açıklamayı sizin bana yapacağınızı söylediler, sizinle burada denk gelmemiz iyi oldu. Cenazeyle ve diğer her şeyle ilgilendiğiniz için teşekkür ederim. Sizi daha fazla yormak istemem ancak olanları hızlıca açıklayabilir misiniz lütfen?
+-Ne demek, Durdu Teyze hepimizin yakınıydı sonuçta. İstersen ben seni biraz yalnız bırakayım. Hazır olduğunda şu ötedeki bankta seni bekliyor olacağım.
+Gencin omzunu sıkıp tekrar torbasıyla banka oturdu, kuzgunlar tekrar dedektifin etrafına üşüştüler. Elinde kalan son yemini de attıktan sonra yanına gelen oğlana durumu hızlıca, çok detaya inmeden anlattı. Sessizce dinleyen genç, dedektifin sözü bittikten sonra öne eğilip gözünü mezarlıkta gezdirdi.
 -Saat geç oluyor evlat, öğle arası bitmeden ben işe döneyim artık. Polisler seni bana yönlendirdiğine göre adresimi aldın varsayıyorum. Tekrar başın sağ olsun, cenaze gününe yetişebilmene sevindim.
 -Teşekkürler, ben biraz daha burada oturacağım size iyi günler.
 Boş yem torbasını çöpe atan dedektif mezarlıktan çıktı. Siyahlara bürünmüş, ağaçların altında diğer kabirler arasında dolanan bir kadın yavaş yavaş banka yürümeye başladı.
 -İyi günler, oturabilir miyim?
--Tabi buyrun, dedi banka yer açan çocuk ceketini kucağına alırken.
+-Tabi buyrun, dedi banka yer açan genç çantasını kucağına alırken.
 -Teşekkürler, burası en sevdiğim banktır da o yüzden rahatsız ediyorum kusuruma bakmayın. Çok kısa durup geri kalkacağım.
 Kimsenin konuşmadığı dakikaların ardından kadın tekrar söze girdi:
--Sizden bir şey rica etsem çok aşırıya kaçmış olmam değil mi?
--
-
-
-öğle namazında cenazeyi gömüyorlar. Rus ajan cenazede dul kadının oğlunu görmeyi bekliyor. Cenazenin sonuna yetişiyor dul kadının çocuğu. Dedektif de dul kadının oğluyla konuşuyor fax'ı atan bendim iyi misin vs diye. Rus ajan da diyor ki "bu dedektif de işin içinde mi acaba, zeki bir adama benziyor, bence programdan da haberi var" diğer ölümleri de yapmak için zehir hazırlamaya başlıyor, malzemeleri sipariş ediyor falan.
+-Sizden bir şey rica etsem çok aşırıya kaçmış olmam değil mi, diye sordu hala gözleri önünde ellerine bakan kadın.
+-Yapabileceğim bir şey varsa yardım etmeye çalışırım.
+Düşüncelerini toparlayan kadın uzun bir duraksamanın ardından çekingen bir ses tonuyla konuştu:
+-Kocamın toprağına ekmek istediğim birkaç çiçeğim var da, yardımcı olabilir misiniz eğer size yük olmayacaksa?
+-Olur tabii ki birazcık ellerim kirlense sorun etmem, diye gülümsedi kadını biraz da olsa rahatlatmak isteyen oğlan. Banktan kalkıp kadına da kalkması için yardım etti ve kocasının kabrine ilerleyen kadını takip etti.
+Öğlenin en sıcak saatlerine yaklaşırken gölgelerden yürümesine rağmen sıcak basmıştı kısa boylu genci. Hala sırtında olan çantası ağır gelmeye başlıyordu, yardım etmeye gönüllü olmakla hata yapıp yapmadığını sorgulamaya başlamıştı. Önden giden kadın ağaçları geçip, mezaklığın kapısına doğru ilerledi. Mezarlıktan çıkıp arkasındaki oğlana döndü:
+-Saksılar odamda duruyorlar da, tek başıma taşıyamadım, evime kadar gelsen kapının önünden saksıları alsak olur mu? Zahmet veriyorum kusura bakma.
+Alnını kaşıyan genç de kapıdan çıkıp tek tük insanların yürüdüğü ana caddeye yaklaştı, çantasının kayışlarını oynayıp terini sildi zaman kazanmaya çalışarak.
+-Kusura bakmayın hanfendi, ben mezarın yanında fide dikeceğiz sanmıştım ancak git gel yapabilecek kadar vaktim de yok, uçağa yetişmem gerekiyor. Hemen şimdi yola koyulmazsam geç bile kalabilirim.
+Ana caddede gözünü gezdiren kadın başını düşürüp çantasını önüne aldıktan sonra göz ucuyla karşısındaki mahçup oğlana baktı. Bir süre sessizce orada durduktan sonra kapıdan başka bir ailenin çıkmasıyla oğlan artık gitmesi gerektiğini söyleyip baş sağlığı diledi. Kapıda yalnız kalan kadın üzgün ve biraz da sinirli halde yakınlarda başka birileri var mı diye bakındıktan sonra kimseyi göremeyince evine doğru yola çıktı.
