@@ -4,33 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1bab70dc64e14404",
-        "type": "tabs",
-        "dimension": 50.249066002490665,
-        "children": [
-          {
-            "id": "6b8f2f7b0a989675",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "book/chapters/Kurabiye Hırsızı.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Kurabiye Hırsızı"
-            }
-          }
-        ]
-      },
-      {
-        "id": "37959c60c1b40def",
+        "id": "d025e5d911eee54b",
         "type": "split",
-        "dimension": 49.750933997509335,
         "children": [
           {
-            "id": "ec354eb55c65eef4",
+            "id": "0e3fb70d1c583ba1",
             "type": "tabs",
             "children": [
               {
@@ -50,27 +28,54 @@
             ]
           },
           {
-            "id": "517ebbb0457867ad",
-            "type": "tabs",
+            "id": "3eef8406644b79eb",
+            "type": "split",
             "children": [
               {
-                "id": "6d744d4550596adc",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "book/arcs/2 Kurabiye Hırsızı.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "2 Kurabiye Hırsızı"
-                }
+                "id": "000b1d99cdaf9234",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "37468076fddeb4f6",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "book/chapters/Kurabiye Hırsızı.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "Kurabiye Hırsızı"
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "d6c7400e3ad433f2",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "9b20cf873cd9dd37",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "book/arcs/2 Kurabiye Hırsızı.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "2 Kurabiye Hırsızı"
+                    }
+                  }
+                ]
               }
-            ]
+            ],
+            "direction": "horizontal"
           }
         ],
-        "direction": "horizontal"
+        "direction": "vertical"
       }
     ],
     "direction": "vertical"
@@ -211,14 +216,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6b8f2f7b0a989675",
+  "active": "458355ae5e3b9884",
   "lastOpenFiles": [
-    "book/chapters/Şifreli Aşk.md",
+    "book/chapters/lu149495rp2a.tmp",
+    "book/chapters/lu149495rp1z.tmp",
     "book/chapters/Kurabiye Hırsızı.md",
+    "book/chapters/Şifreli Aşk.md",
+    "book/arcs/2 Kurabiye Hırsızı.md",
+    "side cases/Side Case 3.1 ricinli evsiz (dedektifin rusun göz altına alması için).md",
+    "book/arcs/3 Parktaki Ceset.md",
     "book/chapters/Şifreli Aşk.pdf",
     "book/Parallel Timelines.canvas",
     "characters/dul kadının çocuğu/Dul Kadının Çocuğu.md",
-    "book/arcs/2 Kurabiye Hırsızı.md",
     "characters/dul kadının çocuğu/Dul Kadının Çocuğu.png",
     "characters/RBA/RBA (ismail).md",
     "characters/dedektif/Dedektif (meriç).md",
@@ -234,7 +243,6 @@
     "book/arcs/6 Sayfalar Gösteriyor.md",
     "book/arcs/5 Taziye Yemeği ve Hava Yastığı.md",
     "book/arcs/4 Tüplerin Peşinde.md",
-    "book/arcs/3 Parktaki Ceset.md",
     "book/arcs/10 Beklenmedik ve Bilinmedik 2 Yüz.md",
     "book/arcs/9 Kanlı Sahil.md",
     "book/arcs/8 Profesörün Peşinde.md",
@@ -250,13 +258,11 @@
     "book/chapters/lu187947x0pt.tmp",
     "book/chapters/lu187947wxk3.tmp",
     "book/Rules.md",
-    "book/chapters/Şifreli Aşk.odt",
     "characters/dedektif uşağı/Dedektif Uşağı.png",
     "characters/doktor/Doktor.png",
     "characters/roman yazarı/Roman Yazarı.png",
     "characters/dedektif yardımcısı/Dedektif Yardımcısı.png",
     "characters/dedektif/Dedektif.png",
-    "characters/roman yazarının sevgilisi/Roman Yazarının sevgilisi.md",
     "Pasted image 20250315002241.png",
     "confidential documents/drawing/video1_image1.png",
     "characters/Characters.canvas",

@@ -15,7 +15,7 @@ Ricin:
 
 # [[3 Parktaki Ceset#0|0]]
 Olayın okuyucuya parkta rastgele bir ölünün bulunmasıyla okuyucuya tanıtılıyor.
-
+Mezarlıktaki kadın Asım'a zehir veremeyince "dedektif de bu işle içli dışlıydı, onu öldüreyim"
 # [[3 Parktaki Ceset#100|100]]
 Rus ajan evinde castor been'lerden zehir üretmiş
 # [[3 Parktaki Ceset#200|200]]
