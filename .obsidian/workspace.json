@@ -37,17 +37,14 @@
                 "id": "458355ae5e3b9884",
                 "type": "leaf",
                 "state": {
-                  "type": "canvas",
+                  "type": "markdown",
                   "state": {
-                    "file": "book/Parallel Timelines.canvas",
-                    "viewState": {
-                      "x": -5113.377661617357,
-                      "y": -4398.931740025327,
-                      "zoom": 0.1625103418032343
-                    }
+                    "file": "book/chapters/Şifreli Aşk.md",
+                    "mode": "source",
+                    "source": false
                   },
-                  "icon": "lucide-layout-dashboard",
-                  "title": "Parallel Timelines"
+                  "icon": "lucide-file",
+                  "title": "Şifreli Aşk"
                 }
               }
             ]
@@ -216,12 +213,13 @@
   },
   "active": "6b8f2f7b0a989675",
   "lastOpenFiles": [
+    "book/chapters/Şifreli Aşk.md",
+    "book/chapters/Şifreli Aşk.pdf",
     "book/Parallel Timelines.canvas",
+    "book/chapters/Kurabiye Hırsızı.md",
     "characters/dul kadının çocuğu/Dul Kadının Çocuğu.md",
     "book/arcs/2 Kurabiye Hırsızı.md",
-    "book/chapters/Kurabiye Hırsızı.md",
     "characters/dul kadının çocuğu/Dul Kadının Çocuğu.png",
-    "book/chapters/Şifreli Aşk.md",
     "characters/RBA/RBA (ismail).md",
     "characters/dedektif/Dedektif (meriç).md",
     "characters/dul kadın/Dul Kadın.md",
@@ -244,7 +242,6 @@
     "side cases/Side Case 1 şifreli günlük (karakterleri tanıtmak için).md",
     "book/Event Timeline.md",
     "characters/RBA/RBA.png",
-    "book/chapters/Şifreli Aşk.pdf",
     "Untitled",
     "book/chapters/lu187947x2mx.tmp",
     "book/chapters/lu187947x19j.tmp",
