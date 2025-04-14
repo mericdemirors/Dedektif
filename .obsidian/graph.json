@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "şifre",
+  "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -17,6 +17,6 @@
   "repelStrength": 1.04166666666667,
   "linkStrength": 0.104166666666667,
   "linkDistance": 500,
-  "scale": 0.4444444444444444,
+  "scale": 0.901229915208177,
   "close": true
 }
