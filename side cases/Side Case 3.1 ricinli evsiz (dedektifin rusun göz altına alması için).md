@@ -27,11 +27,11 @@ gece kusmaya falan başlamış, parkın bi yerine sızıp ölmüş
 # [[3 Parktaki Ceset#500|500]]
 bekçi bunu ölü bulmuş polise ve ambulansa haber vermiş
 # [[3 Parktaki Ceset#600|600]]
-doktor da lavuğun karaciğier iflas, ondan ölmüş diye morga atmış
+doktor da lavuğun iç organlar iflas, ondan ölmüş diye morga atmış
 # [[3 Parktaki Ceset#700|700]]
 bu olay büyüyüp dedektifin kulağına gitmeyince rus ajan dedektife yakın kişileri öldürme planları yapıyor
 # [[6 Sayfalar Gösteriyor#800|800]]
 dedektif diğer olayları çözüp rus ajanı yakalayınca evine gidip ricin yapma eşyalarını buluyor.
 # [[6 Sayfalar Gösteriyor#900|900]]
-dedektif doktora "böyle böyle ölen başkaları oldu mu" diye soruyor ve bu adamı buluyor. Testleri yaptıktan sonra Ricin'den öldüğünü anlıyorlar. Sonra dedektif "sana geçen bana rapor göstermen için vakalarda yardım etme sözü vermiştim, onlardan birini buna sayarsın artık" diyor.
+dedektif banu doktora "böyle böyle ölen başkaları oldu mu, iğne yarası olan son 2-3 gün içinde ölenlere bak" diye soruyor ve bu adamı buluyor. Testleri yaptıktan sonra Ricin'den öldüğünü anlıyorlar. Sonra dedektif "sana geçen bana rapor göstermen için vakalarda yardım etme sözü vermiştim, onlardan birini buna sayarsın artık" diyor.
 
