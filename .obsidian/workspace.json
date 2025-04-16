@@ -39,9 +39,9 @@
                   "state": {
                     "file": "book/Parallel Timelines.canvas",
                     "viewState": {
-                      "x": -5109.061674253414,
-                      "y": -4396.838689817595,
-                      "zoom": -0.2848275872071565
+                      "x": -3732.346618584236,
+                      "y": -4364.039050099033,
+                      "zoom": -1.3287999447186771
                     }
                   },
                   "icon": "lucide-layout-dashboard",
@@ -60,12 +60,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "book/arcs/3 Parktaki Ceset.md",
+                    "file": "side cases/Side Case 3.2 Botulinum'lu yazar (dedektifin şeker kokulu birinin insanları zehirlediğini anlaması için).md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "3 Parktaki Ceset"
+                  "title": "Side Case 3.2 Botulinum'lu yazar (dedektifin şeker kokulu birinin insanları zehirlediğini anlaması için)"
                 }
               }
             ]
@@ -214,11 +214,13 @@
   },
   "active": "458355ae5e3b9884",
   "lastOpenFiles": [
+    "side cases/Side Case 3.2 Botulinum'lu yazar (dedektifin şeker kokulu birinin insanları zehirlediğini anlaması için).md",
     "book/arcs/3 Parktaki Ceset.md",
-    "book/chapters/Kurabiye Hırsızı.md",
     "book/chapters/Parktaki Ceset.md",
     "book/Parallel Timelines.canvas",
-    "side cases/Side Case 3.2 Botulinum'lu yazar (dedektifin şeker kokulu birinin insanları zehirlediğini anlaması için).md",
+    "characters/russian team/Russian Team.md",
+    "book/chapters/Şifreli Aşk.md",
+    "book/chapters/Kurabiye Hırsızı.md",
     "book/arcs/2 Kurabiye Hırsızı.md",
     "side cases/Side Case 3.1 ricinli evsiz (dedektifin rusun göz altına alması için).md",
     "side cases/Side Case 3.3 antifrizli tamirci (dedektifin zehirlemeler için rus ajandan şüphelenmesi için).md",
@@ -228,7 +230,6 @@
     "book/Rules.md",
     "book/chapters/lu33593j4t4m.tmp",
     "book/chapters/lu33593j4t4g.tmp",
-    "book/chapters/Şifreli Aşk.md",
     "book/Arcs.canvas",
     "side cases/Side Case 1 şifreli günlük (karakterleri tanıtmak için).md",
     "characters/roman yazarı/Roman Yazarı.png",
@@ -258,7 +259,6 @@
     "characters/dul kadının çocuğu/Dul Kadının Çocuğu.md",
     "characters/dul kadının çocuğu/Dul Kadının Çocuğu.png",
     "characters/dul kadın/Dul Kadın.md",
-    "characters/rus ajan/Rus Ajan.md",
     "book/chapters/lu1623794otj.tmp",
     "characters/rus ajan/Rus Ajan.png",
     "characters/Characters.canvas",
