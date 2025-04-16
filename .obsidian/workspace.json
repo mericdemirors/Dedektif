@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "book/chapters/Parktaki Ceset.md",
+                "file": "book/arcs/4 Tüplerin Peşinde.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Parktaki Ceset"
+              "title": "4 Tüplerin Peşinde"
             }
           }
         ]
@@ -39,9 +39,9 @@
                   "state": {
                     "file": "book/Parallel Timelines.canvas",
                     "viewState": {
-                      "x": -3732.346618584236,
-                      "y": -4364.039050099033,
-                      "zoom": -1.3287999447186771
+                      "x": -2537.128452295194,
+                      "y": -4440.329578238483,
+                      "zoom": -3.377158575057982
                     }
                   },
                   "icon": "lucide-layout-dashboard",
@@ -60,12 +60,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "side cases/Side Case 3.2 Botulinum'lu yazar (dedektifin şeker kokulu birinin insanları zehirlediğini anlaması için).md",
+                    "file": "characters/dul kadının çocuğu/Dul Kadının Çocuğu.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Side Case 3.2 Botulinum'lu yazar (dedektifin şeker kokulu birinin insanları zehirlediğini anlaması için)"
+                  "title": "Dul Kadının Çocuğu"
                 }
               }
             ]
@@ -212,12 +212,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "458355ae5e3b9884",
+  "active": "cb9ca6cc0e9845a4",
   "lastOpenFiles": [
+    "characters/dul kadının çocuğu/Dul Kadının Çocuğu.md",
+    "book/arcs/4 Tüplerin Peşinde.md",
     "side cases/Side Case 3.2 Botulinum'lu yazar (dedektifin şeker kokulu birinin insanları zehirlediğini anlaması için).md",
-    "book/arcs/3 Parktaki Ceset.md",
+    "characters/dul kadının çocuğu/Dul Kadının Çocuğu.png",
     "book/chapters/Parktaki Ceset.md",
     "book/Parallel Timelines.canvas",
+    "book/chapters/lu90114arbm.tmp",
+    "book/chapters/lu90114ar8c.tmp",
+    "book/chapters/Parktaki Ceset.odt",
+    "book/chapters/Kurabiye Hırsızı (copy).odt",
+    "book/arcs/3 Parktaki Ceset.md",
     "characters/russian team/Russian Team.md",
     "book/chapters/Şifreli Aşk.md",
     "book/chapters/Kurabiye Hırsızı.md",
@@ -253,13 +260,7 @@
     "book/chapters/lu22342a0e7u.tmp",
     "book/chapters/lu22342a0e7p.tmp",
     "book/chapters/lu22342a0e7i.tmp",
-    "book/chapters/lu149495rp2a.tmp",
-    "book/chapters/lu149495rp1z.tmp",
-    "book/chapters/Şifreli Aşk.pdf",
-    "characters/dul kadının çocuğu/Dul Kadının Çocuğu.md",
-    "characters/dul kadının çocuğu/Dul Kadının Çocuğu.png",
     "characters/dul kadın/Dul Kadın.md",
-    "book/chapters/lu1623794otj.tmp",
     "characters/rus ajan/Rus Ajan.png",
     "characters/Characters.canvas",
     "book/Parallel Time Lines.canvas",
