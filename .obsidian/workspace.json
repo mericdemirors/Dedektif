@@ -4,54 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "fbfe1e09dea65f4d",
-        "type": "split",
+        "id": "0e3fb70d1c583ba1",
+        "type": "tabs",
         "children": [
           {
-            "id": "0e3fb70d1c583ba1",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "458355ae5e3b9884",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "book/arcs/3 Parktaki Ceset.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "3 Parktaki Ceset"
-                }
-              }
-            ]
-          },
-          {
-            "id": "0d2d4140d6c7b539",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "45a03755f574acea",
-                "type": "leaf",
-                "state": {
-                  "type": "canvas",
-                  "state": {
-                    "file": "book/Parallel Timelines.canvas",
-                    "viewState": {
-                      "x": 286.7027182597392,
-                      "y": -3479.383614744843,
-                      "zoom": -0.6357792993386582
-                    }
-                  },
-                  "icon": "lucide-layout-dashboard",
-                  "title": "Parallel Timelines"
-                }
-              }
-            ]
+            "id": "458355ae5e3b9884",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "book/chapters/Parktaki Ceset.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Parktaki Ceset"
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       },
       {
         "id": "f4eea69979d31a5d",
@@ -62,17 +32,20 @@
             "type": "tabs",
             "children": [
               {
-                "id": "95a0456c05e02565",
+                "id": "45a03755f574acea",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
+                  "type": "canvas",
                   "state": {
-                    "file": "book/Event Timeline.md",
-                    "mode": "source",
-                    "source": false
+                    "file": "book/Parallel Timelines.canvas",
+                    "viewState": {
+                      "x": -5109.061674253414,
+                      "y": -4396.838689817595,
+                      "zoom": -0.2848275872071565
+                    }
                   },
-                  "icon": "lucide-file",
-                  "title": "Event Timeline"
+                  "icon": "lucide-layout-dashboard",
+                  "title": "Parallel Timelines"
                 }
               }
             ]
@@ -87,12 +60,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "side cases/Side Case 3.1 ricinli evsiz (dedektifin rusun göz altına alması için).md",
+                    "file": "book/arcs/3 Parktaki Ceset.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Side Case 3.1 ricinli evsiz (dedektifin rusun göz altına alması için)"
+                  "title": "3 Parktaki Ceset"
                 }
               }
             ]
@@ -241,13 +214,16 @@
   },
   "active": "458355ae5e3b9884",
   "lastOpenFiles": [
-    "book/Event Timeline.md",
-    "book/Parallel Timelines.canvas",
     "book/arcs/3 Parktaki Ceset.md",
-    "side cases/Side Case 3.1 ricinli evsiz (dedektifin rusun göz altına alması için).md",
     "book/chapters/Kurabiye Hırsızı.md",
-    "characters/dedektif/Dedektif (meriç).md",
     "book/chapters/Parktaki Ceset.md",
+    "book/Parallel Timelines.canvas",
+    "side cases/Side Case 3.2 Botulinum'lu yazar (dedektifin şeker kokulu birinin insanları zehirlediğini anlaması için).md",
+    "book/arcs/2 Kurabiye Hırsızı.md",
+    "side cases/Side Case 3.1 ricinli evsiz (dedektifin rusun göz altına alması için).md",
+    "side cases/Side Case 3.3 antifrizli tamirci (dedektifin zehirlemeler için rus ajandan şüphelenmesi için).md",
+    "book/Event Timeline.md",
+    "characters/dedektif/Dedektif (meriç).md",
     "characters/roman yazarı/Roman Yazarı.md",
     "book/Rules.md",
     "book/chapters/lu33593j4t4m.tmp",
@@ -271,7 +247,6 @@
     "characters/dedektif uşağı/Dedektif Uşağı.png",
     "book/arcs/1 Şifreli Aşk.md",
     "side cases/Side Case 2 dul kadın (dedektifin rus ajandan haberi olması için).md",
-    "book/arcs/2 Kurabiye Hırsızı.md",
     "main story/Main Story.md",
     "book/chapters/lu22342a0e82.tmp",
     "book/chapters/lu22342a0e7u.tmp",
@@ -285,9 +260,7 @@
     "characters/dul kadın/Dul Kadın.md",
     "characters/rus ajan/Rus Ajan.md",
     "book/chapters/lu1623794otj.tmp",
-    "side cases/Side Case 3.3 antifrizli tamirci (dedektifin zehirlemeler için rus ajandan şüphelenmesi için).md",
     "characters/rus ajan/Rus Ajan.png",
-    "book/arcs/6 Sayfalar Gösteriyor.md",
     "characters/Characters.canvas",
     "book/Parallel Time Lines.canvas",
     "book/events.canvas",
