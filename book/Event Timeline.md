@@ -47,7 +47,7 @@ Bölümler, içerikleri ve kitaptaki yerleri:
 - [1995-04-14T08:00~1995-04-15T08:00] {Dul kadının çocuğu} Motorla Erta Ale'ye gidiyor ve orada geceliyor
 - [1995-04-15T12:00~1995-04-17T08:00] {Dul kadının çocuğu} Sinanbung tüpü mesajı geliyor, uçuş gününü bekliyor
 - [1995-04-17T11:00~1995-04-17T20:00] {Dul kadının çocuğu} Bandara LANUD SOEWONDO Medan Polonia'ya uçuyor
-- [1995-04-18T08:00~1995-04-19T08:00] {Dul kadının çocuğu} Sinanburg'a gidip orada geceliyor
+- [1995-04-18T08:00~1995-04-19T08:00] {Dul kadının çocuğu} Sinanbung'a gidip orada geceliyor
 - [1995-04-19T08:00~1995-04-21T08:00] {Dul kadının çocuğu} Bir sonraki tüpe kadar etrafta oyalanıyor
 - [1995-04-21T08:00~1995-04-22T08:00] {Dul kadının çocuğu} Merapi tüpü geliyor, boşuna vakit kaybettiğini anlıyor. Ruslar da oda arkadaşından tüpü görüp araştırmaya başlıyorlar
 - [1995-04-22T14:00~1995-04-22T20:00] {Dul kadının çocuğu} Adisucipto havaalanına iniyor, direkt Merapi'ye gidiyor orada geceliyor.

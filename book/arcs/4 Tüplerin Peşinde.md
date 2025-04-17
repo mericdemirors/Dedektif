@@ -10,6 +10,6 @@ Sabah da Erta Ale'yi gezip oraya çadır kurarken oda arkadaşı "yeni bi tüp g
 
 # [[Dul Kadının Çocuğu#200|200]]
 Sonra Bandara LANUD SOEWONDO Medan Polonia'a bilet alıyor aynı gün.
-Airport'a inip Sinanburg'a gidiyor orayı araştırıyor ve RBA'yı orada da yakalayamayınca "yeni bilgi gelene kadar oyalanayım. Kargo sürelerine göre 4 günde bir yer değiştiriyor. Her tüpü 4 gün geriden takip ediyorsam önden tahmin etmem gerek ona göre hareket etmeliyim" diyor.
+Airport'a inip Sinanbung'a gidiyor orayı araştırıyor ve RBA'yı orada da yakalayamayınca "yeni bilgi gelene kadar oyalanayım. Kargo sürelerine göre 4 günde bir yer değiştiriyor. Her tüpü 4 gün geriden takip ediyorsam önden tahmin etmem gerek ona göre hareket etmeliyim" diyor.
 "Eğer şimdi 2-3 gün daha beklersem en son nerede olduğunu çözüp daha tutarlı bir tahmin yapabilirim" diyip beklemeye başlıyor
 
