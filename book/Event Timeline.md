@@ -20,8 +20,8 @@ Bölümler, içerikleri ve kitaptaki yerleri:
 - [1995-03-31T06:00~1995-04-03T00:00] {Main Story} Dalol'da 66 saat
 - [1995-04-03T00:00~1995-04-04T00:00] {Main Story} Erta Ale'ye git
 - [1995-04-04T06:00~1995-04-07T00:00] {Main Story} Erta Ale'de 66 saat
-- [1995-04-07T00:00~1995-04-09T00:00] {Main Story} Üniversiteye tüp yolla ve Sinanbung'a git
-- [1995-04-09T06:00~1995-04-12T00:00] {Main Story} Sinanbung'da 66 saat
+- [1995-04-07T00:00~1995-04-09T00:00] {Main Story} Üniversiteye tüp yolla ve Sinabung'a git
+- [1995-04-09T06:00~1995-04-12T00:00] {Main Story} Sinabung'da 66 saat
 - [1995-04-12T00:00~1995-04-14T00:00] {Main Story} Üniversiteye tüp yolla ve Merapi'ye git
 - [1995-04-14T06:00~1995-04-17T00:00] {Main Story} Merapi'de 66 saat
 - [1995-04-17T00:00~1995-04-19T00:00] {Main Story} Üniversiteye tüp yolla ve Ulawun'a git
@@ -45,9 +45,9 @@ Bölümler, içerikleri ve kitaptaki yerleri:
 - [1995-04-11T15:00~1995-04-12T11:00] {Dul kadının çocuğu} Asmaraya uçuş
 - [1995-04-13T08:00~1995-04-14T08:00] {Dul kadının çocuğu} Motorla Dalol'a gidiyor ve orada geceliyor
 - [1995-04-14T08:00~1995-04-15T08:00] {Dul kadının çocuğu} Motorla Erta Ale'ye gidiyor ve orada geceliyor
-- [1995-04-15T12:00~1995-04-17T08:00] {Dul kadının çocuğu} Sinanbung tüpü mesajı geliyor, uçuş gününü bekliyor
+- [1995-04-15T12:00~1995-04-17T08:00] {Dul kadının çocuğu} Sinabung tüpü mesajı geliyor, uçuş gününü bekliyor
 - [1995-04-17T11:00~1995-04-17T20:00] {Dul kadının çocuğu} Bandara LANUD SOEWONDO Medan Polonia'ya uçuyor
-- [1995-04-18T08:00~1995-04-19T08:00] {Dul kadının çocuğu} Sinanbung'a gidip orada geceliyor
+- [1995-04-18T08:00~1995-04-19T08:00] {Dul kadının çocuğu} Sinabung'a gidip orada geceliyor
 - [1995-04-19T08:00~1995-04-21T08:00] {Dul kadının çocuğu} Bir sonraki tüpe kadar etrafta oyalanıyor
 - [1995-04-21T08:00~1995-04-22T08:00] {Dul kadının çocuğu} Merapi tüpü geliyor, boşuna vakit kaybettiğini anlıyor. Ruslar da oda arkadaşından tüpü görüp araştırmaya başlıyorlar
 - [1995-04-22T14:00~1995-04-22T20:00] {Dul kadının çocuğu} Adisucipto havaalanına iniyor, direkt Merapi'ye gidiyor orada geceliyor.
