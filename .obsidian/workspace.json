@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "book/chapters/Tüplerin Peşinde.md",
+                "file": "book/arcs/5 Taziye Yemeği ve Hava Yastığı.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tüplerin Peşinde"
+              "title": "5 Taziye Yemeği ve Hava Yastığı"
             }
           }
         ]
@@ -60,12 +60,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "characters/dul kadının çocuğu/Dul Kadının Çocuğu.md",
+                    "file": "side cases/Side Case 3.2 Botulinum'lu yazar (dedektifin şeker kokulu birinin insanları zehirlediğini anlaması için).md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Dul Kadının Çocuğu"
+                  "title": "Side Case 3.2 Botulinum'lu yazar (dedektifin şeker kokulu birinin insanları zehirlediğini anlaması için)"
                 }
               },
               {
@@ -138,8 +138,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -227,12 +226,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "458355ae5e3b9884",
+  "active": "14eb42b9c6f206ca",
   "lastOpenFiles": [
-    "book/Parallel Timelines.canvas",
-    "book/chapters/Tüplerin Peşinde.md",
-    "book/arcs/4 Tüplerin Peşinde.md",
+    "book/arcs/5 Taziye Yemeği ve Hava Yastığı.md",
     "characters/dul kadının çocuğu/Dul Kadının Çocuğu.md",
+    "book/chapters/Tüplerin Peşinde.md",
+    "book/chapters/Kapsüllerin Peşinde.odt",
+    "book/chapters/lu28869dvu63.tmp",
+    "book/chapters/lu28869dvu4a.tmp",
+    "book/chapters/Tüplerin Peşinde.odt",
+    "book/chapters/Parktaki Ceset (copy).odt",
+    "book/Parallel Timelines.canvas",
+    "book/arcs/4 Tüplerin Peşinde.md",
     "book/Event Timeline.md",
     "book/Arcs.canvas",
     "main story/66 Hours In Hell.md",
@@ -241,7 +246,6 @@
     "characters/RBA/RBA (ismail).md",
     "characters/ruCoRO russian cosmos research organization/RuCoRO Russian Cosmos Research Organization.md",
     "book/arcs/1 Şifreli Aşk.md",
-    "book/arcs/5 Taziye Yemeği ve Hava Yastığı.md",
     "book/arcs/8 Profesörün Peşinde.md",
     "side cases/Side Case 3.2 Botulinum'lu yazar (dedektifin şeker kokulu birinin insanları zehirlediğini anlaması için).md",
     "characters/dul kadının çocuğu/Dul Kadının Çocuğu.png",
@@ -260,7 +264,6 @@
     "characters/roman yazarı/Roman Yazarı.md",
     "book/Rules.md",
     "book/chapters/lu33593j4t4m.tmp",
-    "book/chapters/lu33593j4t4g.tmp",
     "side cases/Side Case 1 şifreli günlük (karakterleri tanıtmak için).md",
     "characters/roman yazarı/Roman Yazarı.png",
     "characters/RBA/RBA.png",
@@ -271,10 +274,6 @@
     "characters/komiser/Komiser.png",
     "characters/dedektif yardımcısı/Dedektif Yardımcısı.png",
     "characters/dedektif uşağı/Dedektif Uşağı.png",
-    "book/chapters/lu22342a0e82.tmp",
-    "book/chapters/lu22342a0e7u.tmp",
-    "book/chapters/lu22342a0e7p.tmp",
-    "book/chapters/lu22342a0e7i.tmp",
     "characters/rus ajan/Rus Ajan.png",
     "characters/Characters.canvas",
     "book/Parallel Time Lines.canvas",
