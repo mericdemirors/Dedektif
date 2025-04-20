@@ -24,7 +24,7 @@ Uyanınca konuşamadığını ve kolları dışında vücudunu hareket ettiremed
 # 600
 Kendini yataktan kaldırmaya çalışırken düşer, elleriyle kendini çekebildiği kadar yazı masasına çeker. Yazı masasına ulaşamayınca geri kendini komodine doğru iteler.(geri kendini oraya itelediğini dedektif şöyle anlar: "adam yerde sürünürken yerdeki sayfaları da sürüklemiş ama yataktan masaya giden izin başlangıç tarafı sayfalarla kapanmış. kendini masadan sonra başka bir yere sürüklerken eline bulduğu sayfaları sağa sola saçarken o yolun üstünü kapatmış. Masadan sonra bir yere daha uğramış olmalı ama neden?")
 # 700
-Komodinden kalemini alıp(önceden bu kalemle ilgili bi detayı side case 1'de verebilirim dedektifin olayı kavraması için) bi yere olanları yazar: "ZEHİR! SEVGİLİMİN ARKADAŞI, UZUN BOYLU! KUMRAL SAÇ, YEŞİL GÖZ!, MAVİ GÖZLÜK, ŞEKERL" dedektif dış görünüş özelliklerini dikkate almıyor herkes bunları fake'leyebilir diye. en sonda yazan "şekerl" yazısını "ŞEKER!" yazmış sanıyorlar ama dedektif kalem hareketlerine ve yönlerine bakarken "ŞEKERL..." yazarken öldüğünü anlıyor.
+Komodinden kalemini alıp(önceden bu kalemle ilgili bi detayı side case 1'de verebilirim dedektifin olayı kavraması için) bi yere olanları yazar: "ZEHİR! UZUN BOYLU! KUMRAL SAÇ, YEŞİL GÖZ!, MAVİ GÖZLÜK, ŞEKERL" dedektif dış görünüş özelliklerini dikkate almıyor herkes bunları fake'leyebilir diye. en sonda yazan "şekerl" yazısını "ŞEKER!" yazmış sanıyorlar ama dedektif kalem hareketlerine ve yönlerine bakarken "ŞEKERL..." yazarken öldüğünü anlıyor.
 # [[6 Sayfalar Gösteriyor#800|800]]
 Öğlen temizlikçi kadın ölüsünü buluyor, dedektife gidip bu adam öldü diyor.
 # [[6 Sayfalar Gösteriyor#900|900]]
