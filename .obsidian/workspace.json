@@ -60,12 +60,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "book/arcs/5 Taziye Yemeği ve Hava Yastığı.md",
+                    "file": "side cases/Side Case 3.2 Botulinum'lu yazar (dedektifin şeker kokulu birinin insanları zehirlediğini anlaması için).md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "5 Taziye Yemeği ve Hava Yastığı"
+                  "title": "Side Case 3.2 Botulinum'lu yazar (dedektifin şeker kokulu birinin insanları zehirlediğini anlaması için)"
                 }
               },
               {
@@ -226,16 +226,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "45a03755f574acea",
+  "active": "458355ae5e3b9884",
   "lastOpenFiles": [
-    "book/chapters/Taziye Yemeği ve Hava Yastığı.md",
+    "book/chapters/lu74734aeiu.tmp",
+    "book/chapters/İmza ve Hava Yastığı.odt",
+    "book/chapters/Taziye Yemeği ve Hava Yastığı.odt",
+    "book/chapters/Kapsüllerin Peşinde (copy).odt",
+    "side cases/Side Case 3.2 Botulinum'lu yazar (dedektifin şeker kokulu birinin insanları zehirlediğini anlaması için).md",
     "book/arcs/5 Taziye Yemeği ve Hava Yastığı.md",
+    "book/chapters/Taziye Yemeği ve Hava Yastığı.md",
+    "book/Parallel Timelines.canvas",
     "book/chapters/Şifreli Aşk.md",
     "book/chapters/Parktaki Ceset.md",
     "book/chapters/Kurabiye Hırsızı.md",
-    "side cases/Side Case 3.2 Botulinum'lu yazar (dedektifin şeker kokulu birinin insanları zehirlediğini anlaması için).md",
     "side cases/Side Case 3.3 antifrizli tamirci (dedektifin zehirlemeler için rus ajandan şüphelenmesi için).md",
-    "book/Parallel Timelines.canvas",
     "characters/dul kadının çocuğu/Dul Kadının Çocuğu.md",
     "book/chapters/Tüplerin Peşinde.md",
     "book/chapters/Kapsüllerin Peşinde.odt",
@@ -255,8 +259,6 @@
     "characters/dul kadının çocuğu/Dul Kadının Çocuğu.png",
     "book/chapters/lu90114arbm.tmp",
     "book/chapters/lu90114ar8c.tmp",
-    "book/chapters/Parktaki Ceset.odt",
-    "book/chapters/Kurabiye Hırsızı (copy).odt",
     "book/arcs/3 Parktaki Ceset.md",
     "characters/russian team/Russian Team.md",
     "book/arcs/2 Kurabiye Hırsızı.md",
@@ -264,13 +266,11 @@
     "characters/dedektif/Dedektif (meriç).md",
     "characters/roman yazarı/Roman Yazarı.md",
     "book/Rules.md",
-    "book/chapters/lu33593j4t4m.tmp",
     "side cases/Side Case 1 şifreli günlük (karakterleri tanıtmak için).md",
     "characters/roman yazarı/Roman Yazarı.png",
     "characters/RBA/RBA.png",
     "characters/doktor/Doktor.png",
     "characters/doktor/Doktor (barış).md",
-    "characters/komiser yardımcısı/Komiser Yardımcısı (Münür).md",
     "characters/dedektif/Dedektif.png",
     "characters/komiser/Komiser.png",
     "characters/dedektif yardımcısı/Dedektif Yardımcısı.png",
