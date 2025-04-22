@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "book/chapters/Tüplerin Peşinde.md",
+                "file": "book/arcs/6 Sayfalar Gösteriyor.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tüplerin Peşinde"
+              "title": "6 Sayfalar Gösteriyor"
             }
           }
         ]
@@ -60,12 +60,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "side cases/Side Case 3.2 Botulinum'lu yazar (dedektifin şeker kokulu birinin insanları zehirlediğini anlaması için).md",
+                    "file": "side cases/Side Case 3.4 zehirsiz dedektif (dedektifin rus ajanı tutuklamak için yeterli kanıtı bulması ve main story'yi öğrenmesi için).md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Side Case 3.2 Botulinum'lu yazar (dedektifin şeker kokulu birinin insanları zehirlediğini anlaması için)"
+                  "title": "Side Case 3.4 zehirsiz dedektif (dedektifin rus ajanı tutuklamak için yeterli kanıtı bulması ve main story'yi öğrenmesi için)"
                 }
               },
               {
@@ -228,21 +228,24 @@
   },
   "active": "458355ae5e3b9884",
   "lastOpenFiles": [
+    "side cases/Side Case 3.4 zehirsiz dedektif (dedektifin rus ajanı tutuklamak için yeterli kanıtı bulması ve main story'yi öğrenmesi için).md",
+    "book/arcs/6 Sayfalar Gösteriyor.md",
+    "side cases/Side Case 3.1 ricinli evsiz (dedektifin rusun göz altına alması için).md",
+    "side cases/Side Case 3.3 antifrizli tamirci (dedektifin zehirlemeler için rus ajandan şüphelenmesi için).md",
+    "side cases/Side Case 3.2 Botulinum'lu yazar (dedektifin şeker kokulu birinin insanları zehirlediğini anlaması için).md",
+    "book/chapters/Tüplerin Peşinde.md",
     "book/arcs/4 Tüplerin Peşinde.md",
     "book/chapters/Taziye Yemeği ve Hava Yastığı.md",
     "book/chapters/lu74734aeiu.tmp",
     "book/chapters/İmza ve Hava Yastığı.odt",
     "book/chapters/Taziye Yemeği ve Hava Yastığı.odt",
     "book/chapters/Kapsüllerin Peşinde (copy).odt",
-    "side cases/Side Case 3.2 Botulinum'lu yazar (dedektifin şeker kokulu birinin insanları zehirlediğini anlaması için).md",
     "book/arcs/5 Taziye Yemeği ve Hava Yastığı.md",
     "book/Parallel Timelines.canvas",
     "book/chapters/Şifreli Aşk.md",
     "book/chapters/Parktaki Ceset.md",
     "book/chapters/Kurabiye Hırsızı.md",
-    "side cases/Side Case 3.3 antifrizli tamirci (dedektifin zehirlemeler için rus ajandan şüphelenmesi için).md",
     "characters/dul kadının çocuğu/Dul Kadının Çocuğu.md",
-    "book/chapters/Tüplerin Peşinde.md",
     "book/chapters/Kapsüllerin Peşinde.odt",
     "book/chapters/lu28869dvu63.tmp",
     "book/chapters/lu28869dvu4a.tmp",
@@ -261,7 +264,6 @@
     "book/arcs/3 Parktaki Ceset.md",
     "characters/russian team/Russian Team.md",
     "book/arcs/2 Kurabiye Hırsızı.md",
-    "side cases/Side Case 3.1 ricinli evsiz (dedektifin rusun göz altına alması için).md",
     "characters/dedektif/Dedektif (meriç).md",
     "characters/roman yazarı/Roman Yazarı.md",
     "book/Rules.md",
@@ -269,7 +271,6 @@
     "characters/roman yazarı/Roman Yazarı.png",
     "characters/RBA/RBA.png",
     "characters/doktor/Doktor.png",
-    "characters/doktor/Doktor (barış).md",
     "characters/dedektif/Dedektif.png",
     "characters/komiser/Komiser.png",
     "characters/dedektif yardımcısı/Dedektif Yardımcısı.png",
