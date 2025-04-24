@@ -1,0 +1,47 @@
+* 1995-04-18 10:00
+Betül ders notlarını kenara kaldırıp çalan kapıyı açtı, içeri giren iki polis kısa bir merhabalaşmadan sonra koridoru geçip dedektifin ofisine girdi.
+-Müsait misin Tarık? Sana işimiz düşecek gibi gözüküyor gene.
+-Ooo beyler gelin gelin müsaitim. Zaten bana çoktan işiniz düşmüş gibi gözüküyor yoksa gelmezdiniz, anlatın bakalım noluyor?
+Koltuklara geçen komiserlerden yapılı olanı, kapıdaki kızdan varsa bir bardak çay rica edip anlatmaya başladı:
+-Kapıcı Abdullah vefat etmiş, parkın birinde bekçiler bulup bize haber verdi. Herhangi bir kavga dövüş veya hastalık izi bulunmadı merak etme. İlk bakışta otopside bir şey söyleyemedi doktorlar şimdi de detaylı raporu bekliyoruz. Aslında ortada yardımını isteyecek bir şey yok daha, sadece hem senin de tanıdığın biri hem de belki olayın bilmediğimiz bir tarafı hakkında bir şeyler biliyorsundur o apartmanın sakinlerinden biri olarak diye geldik.
+Masasına eğilip elini çenesine dayayan dedektif, çayları getiren Betül'ün çıkmasını bekledikten sonra komisere devam etmesini söyledi.
+-Bizim de etraftan duyduklarımız şöyle: karısı diyor ki içmeye gidip sarhoş olmuş, karısıyla 'güpegündüz içki mi içilir, küçücük çocuğu da yanına almışsın bu yaştan alıştırmaya mı çalışıyorsun, bari çocuğun önünde yapma' falan diye kavga etmişler. Kendini kötü hisseden çocuğu odasına götürüp yatırdıktan sonra Abdullah'ı evden kovmuş. Bundan yaklaşık 1 saat sonra falan şehir merkezindeki barlardan birine girmiş. Barmenle konuştuk, o da 'adam zaten çoktan yarı ölü durduğu için istese de içki vermezdim böyle şeyler hep kavgayla biter, kahve yapıp soğuk su ikram edip çıkardık dükkandan.' dedi. O bara en yakın olan parkın bekçilerinden biri de eli yüzü düzgün yaşlı bir adamı bankta tek başına görünce bi derdi mi var diye yanına yaklaşmış, öldüğünü anlayınca bize haber verdi. Evden dün ikindin gibi kovulmuş, bekçi de dün gece 23.00 gibi haber verdi bize. 
+Her şeyi dinleyen dedektif olay örgüsünü sindirmek ve aklına yazmak için bir süre sessizlik içinde bekledikten sonra sandalyesinde yaslanıp söze girdi:
+-Tamam, belki alerji falandır. Veya ne bileyim boğazına bir şey kaçmıştır, kalp krizi geçirmiştir vesaire. Aklıma başka bir şey gelmiyor, bildiğim kadarıyla ne onu dövecek kin güten bir hasmı ne de bir kronik hastalığı vardı.
+-Evet apartmandaki herkes de aynısını söyledi zaten, dedi elinde not defteriyle oturan uzun memur. "Belki sen ekstra bir şeyler biliyorsan söylersin demiştik ama elimiz boş döneceğiz galiba. Seni rahatsız etmeyelim gene boş boş oturuyorsun galiba."
+-Eeee ne yapalım Mürtem Efendi, piyasa duygun bize de iş düşmüyor. Senin hatrına şu işe bir de ben bakayım, hem siz kesin bir şeyleri kaçırıyorsunuzdur hem de bana uğraş olur.
+-Ooooh biz bütün işi sorgulamalarım yapalım sonra dedektif efendi gelsin üstüne konsun olaya bak, dedi çayını çoktan yarılamış olan yaşlı komiser. "Ulan son yok musun sen, yatıp yatıp davaya konuyorsun sonra da ben çözdüm diye ünleniyorsun haa."
+-Ben mi dedim kardeşim gelin bana olayın bütün detaylarını anlatın diye, sağda solda gezip herkese böyle raporları davaları göstermeyin sizde Allah Allah.
+Not defterini cebine atan komiser ayağa kalkıp şakayla karışık meslektaşını da dürttü, "Boşver Doruk abi çocukla çocuk olma, kalk biz bundan önce çözeriz davayı. Doktorlara da söyleyelim bizden başkasına rapor vermesinler."
+Son yudumuyla çayını bitiren komiser kalkıp dedektifin omzunu sıvazladı, "Hadi gene iyisin, Mürtem olmasa elimde kalırdın evlat. Biz işimize dönelim, sen de kendine iyi bak ortalığı çok karıştırma."
+
+Polisi uğurlayan dedektif sandalyesindeki kravatı ve ceketini alıp apartmana doğru yola çıktı. Zemin katın kapısını çalıp kapıcının karısına baş sağlığı diledi ve durumu anlatıp içeri girmek için izin istedi.
+-Şimdi içerde konuşmayalım Tarık'ım, Nuri uyuyor dünden beridir. Gel bahçeye geçelim, polise anlattıklarımı sana da anlatıvereyim.
+Dedektifle birlikte kamelyaya oturan kadın, kafasında olayları sıraya dizer gibi sessizce bekledikten sonra dedektifin isteği üzerine en başından itibaren anlatmaya başladı.
+-Abdullah pazartesi sabahı diye gazeteleri dağıtmaya çıkmıştı. Nuri de evdeydi öğlenci olduğu için. Gazete ve çöp işlerini hallettikten sonra eve geldi, Nuri'yle biraz Gençliğe Hitabe çalıştılar. Bizim oğlanı seçmişler pazar günü okuması için, babasıyla onu ezberliyordu. Sonra öğle yemeği yedik, Abdullah biraz yatmaya gitti. Ben de Nuri'nin üniformasını hazırlayacaktım ama okula gitmeyecekmiş, ezber yapması için evde kalabilir bu hafta gösteriler için ders işlenmeyecekmiş zaten. Sonra Nuri odasına gitti, ben de mutfakta televizyona bakıyordum. Birkaç saat sonra Abdullah uyanıp balkona geçti, orada yeni kiracıyla biraz konuştular sonra da garajda biraz işim var diyip Nuri'yi yanına çağırdı yardım etmesi için.
+-Öğlen falan mı oluyor bu garaj işi?
+-Evet, öğlenciler okula gitmeden önceki saatler işte. Sonra ben de içeri geçip biraz uzandım bey garajdayken. Çok da uzun sürmedi geri döndüler, üstlerini değiştirip tekrar dışarı çıktılar.
+-Abdullah amca ve Nuri mi? Nereye gittiklerini söylediler mi?
+-Hayır söylemediler, bahçe işi falan yapmışlardır. Ben de sormadım. Akşam da geri geldiler. Hayırsız adam gene içmişti, başım ağrıyor başım dönüyor diyip duruyordu, içeri girer girmez de tuvalete kusmaya gitti. Bizim oğlan da kötüydü onu hemen yatırdım ateşine falan baktım. Allah'tan onda çok bir şey yoktu yoksa bizim herifi affetmezdim. Sonra da işte evden kovdum.
+Anlatmaya başladığından beri kendini zor tutan kadın son cümlesini de söyledikten sonra ağlamaya başladı ve kocasına küfürler ederken onu kovduğu için de kendisine kızıyordu. Ne yapacağını bilemeyen dedektif, kadın sakinleşene kadar yanında bir şey söylemeden oturdu. Sonunda kendine gelen kadın dedektife döndü:
+-Böyle işte oğlum, polisler sana söyledi mi peki? Ölüm sebebini bulmuşlar mı? İçkiymiş değil mi, karaciğeri sonuda solmuş çökmüştür kesin, bıraktıramadım şu mereti.
+Dedektif, kadın tekrar kendini kaybetmeden hemen araya girdi.
+-Yok ablam polisler de daha bulamamış. Doktorlar bakıyormuş ama, ben de bir şey öğrendiğim an sana söylerim tamam mı? Sen şimdi içeri geç biraz uzanıp dinlen kendine gel.
+Kadının koluna girerek kapısına kadar yardımcı olan dedektif vedalaştıktan sonra üçüncü kata çıkıp karşı komşusunun kapısını çaldı. Kapıyı açan kadın dedektifi görünce gülümseyip içeri buyur etti:
+-Merhabalar Tarık Bey, buyurmaz mısınız?
+Antreden geçen dedektif evin tatlı kokusuna adım atıp ev sahibini selamladı, birlikte salona kadar geçtiler ve karşılıklı oturdular. Bir şeyler hazırlamak için mutfağa yönelen kadını dedektif durdurdu:
+-Çok kısa kalacağım zahmete girmeyin lütfen. Sizin de vaktinizi almak istemem, direkt konuya gireceğim. Kapıcımız Abdullah amca dün gece bir parkta ölü bulunmuş. Görünen o ki herhangi bir kuvvet uygulanmamış veya bildiğimiz bir hastalığı da yoktu. Acaba sizin fark ettiğiniz bir şey var mıydı diye size de sormak istedim.
+Dönüp dedektife bakakalan kadın, şoku atlatınca geri salona gelip oturdu. Şaşkınlıktan ne söyleyeceğini bilemeden bir süre sehpaya baktıktan sonra konuştu:
+-Ben... Bilmiyorum. Yani bana her zamanki gibi gözükmüştü, arabamın sigorta falan bir şeyi bozukmuş hemen eliyle koymuş gibi bulup onu tamir etti yanında en fazla 5-10 dakika kalmışımdır ama hep normaldi. Nuri'ye ve bana arabayı gösterip anlattı.
+-Anlıyorum, peki araba tamirinden sonra ne yaptığını biliyor musunuz? Bara içmeye gittiğini söyleyenler var ama neden bara gittiğini bilmiyoruz, sizce üzgün veya dertli duruyor muydu?
+-Hmmm, aslında şimdi siz söyleyince olabilir belki de. İlk konuştuğumuzda oğluyla ilgili bir şeye canı sıkkın gibiydi. Okuluyla alakalı bir şeylere söyleniyordu.
+-Anlıyorum, dedi bakışlarını karşısındaki güzel kadının üzgün yüzünden sehpaya indiren dedektif. Sessiz geçen birkaç dakikanın ardından koltuğundan kalkan dedektif kapıya kadar yürüdü. "Yeni bir şeyler hatırlarsanız bana haber verin lütfen, ben artık sizi yalnız bırakayım. Böyle ansızın söyleyince şey olmuş olabilir."
+Kapıya kendisini uğurlamaya gelen kadınla vedalaştıktan sonra tekrar zemin kata inen dedektif kapıyı çaldı. Nuri'nin kapıyı açması üzerine izin isteyip içeri girdi ve salona oturdu. Kendisine su getiren Nuri'ye yanına oturmasını söyleyip çocukla konuşmaya başladı, halini hatrını sorup 23 Nisan kutlamaları nasıl gidiyor diye konuştular. Görünüşe göre babasının ölümünü daha bilmiyordu, annesi güzel bir kılıf bulmuş ve her şey açıklığa kavuştuktan sonra söylemeyi düşünüyorlardı sanırım.
+
+
+
+
+
+
+Sonra kapıcının karısının evine gidip "sizin çocuk uyandıysa onunla konuşalım" diyorlar, çocuk limonata ve şeker olayını öğreniyor bir de "araba tamirinde antifriz ile hiçbir işimiz olmadı" diye öğreniyor. Çocuk "babam bana şeker kabuğuyla nasıl zurna çalınacağını göstermek için elimden almıştı" gibi bir şeyler zırvalıyor.
+

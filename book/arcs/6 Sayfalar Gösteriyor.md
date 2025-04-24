@@ -1,6 +1,6 @@
 # [[Side Case 3.3 antifrizli tamirci (dedektifin zehirlemeler için rus ajandan şüphelenmesi için)#800|Side Case 3.3 - 800]]
 Burada artık bahar olduğu için dedektif artık palto değil takım giymeye başlamış.
-Polisler kapıcının ölümünü çözemeyince dedektifin ofisine gelip olayı anlatıyorlar. 400-500-600 burada polisler tarafından anlatılacak.
+Polisler kapıcının ölümünü çözemeyince dedektifin ofisine gelip olayı anlatıyorlar. 400-500-600-700 burada polisler tarafından anlatılacak.
 Polisler olayı çözemeyince, doktor da ölüm sebebine bakarak mantıklı bir ölüm senaryosu yazamayınca ertesi sabah dedektife gidiyorlar. Dedektif de apartmana gidip sorgulamaya başlıyor. Tamircinin evine gidiyorlar ve tamircinin karısıyla konuşuyor ve kocasının bi araba tamiri vs yaptığını duyuyor. "En son gören kişi rus kadınsa ona bir soralım belki bir şeyler biliyordur, hasta olduğunu falan görmüşse söylesin" diyor dedektif.
 
 # [[Side Case 3.3 antifrizli tamirci (dedektifin zehirlemeler için rus ajandan şüphelenmesi için)#900|Side Case 3.3 - 900]]
@@ -12,7 +12,7 @@ Dedektif de "rus kadın bize neden bunları anlatmadı kesin işin içinde bir �
 Dedektif merdiveni dayayıp pencereden kadının o odasında neler olduğuna falan bakıyor ama kadının bahsettiği masa ve yatağı falan göremiyor, sadece kavanozlar ve kimya istasyonu görüyor. Sonra polislere "ben araştırmaya devam edeceğim, siz gözünüzü bu kadından ayırmayın bir şeyler uyuşmuyor ama tutuklayacak kadar da bir kanıt yok elimizde. Eğer gözaltına alırsanız elimize yeni bir kanıt ta geçmez, birileri bunu takip edip yağtığı şeyleri not alsın" diyip ofisine dönüyor.
 
 # [[Side Case 3.2 Botulinum'lu yazar (dedektifin şeker kokulu birinin insanları zehirlediğini anlaması için)#800|Side Case 3.2 - 800]]
-Öğlen temizlikçi kadın yazarın ölüsünü buluyor, dedektife gidip bu adam öldü diyor. Dedektif de ofiste dul kadının oğlunun yolladığı kartpostalı okurken kalkıp yazarın evine gidiyor. Dul kadının çocuğu dedektife kartpostal yollamış "ruslardan şöyle şöyle bir burs aldım, sigorta parası da yattı. Bu işle bu kadar ilgilenip vakit harcayan biri olduğunuz için bilmeye hakkınız olduğunu düşünüyorum o yüzden size bu parayı profesörümle birlikte araştırma yapmak için saha gezilerine harcıyorum" diye yazmış.
+Öğlen temizlikçi kadın yazarın ölüsünü buluyor, dedektife gidip bu adam öldü diyor. Dedektif de ofiste dul kadının oğlunun yolladığı kartpostalı okurken kalkıp yazarın evine gidiyor. Dul kadının çocuğu dedektife kartpostal yollamış "rusyadan falan bi yerden şöyle şöyle bir burs aldım, sigorta parası da yattı. Bu işle bu kadar ilgilenip vakit harcayan biri olduğunuz için bilmeye hakkınız olduğunu düşünüyorum o yüzden size bu parayı profesörümle birlikte araştırma yapmak için saha gezilerine harcıyorum" diye yazmış.
 
 # [[Side Case 3.2 Botulinum'lu yazar (dedektifin şeker kokulu birinin insanları zehirlediğini anlaması için)#900|Side Case 3.2 - 900]]
 Dedektif yazarın yazdığı şeyi bulup "hmm demek böyle böyle biri yazarı zehirlemiş" desin. Otopside zehir testleri yaptırıyor ve Botulinum'u buluyorlar.

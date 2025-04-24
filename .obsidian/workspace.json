@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "book/arcs/6 Sayfalar Gösteriyor.md",
+                "file": "book/chapters/Sayfalar Gösteriyor.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "6 Sayfalar Gösteriyor"
+              "title": "Sayfalar Gösteriyor"
             }
           }
         ]
@@ -39,9 +39,9 @@
                   "state": {
                     "file": "book/Parallel Timelines.canvas",
                     "viewState": {
-                      "x": 438.8309719993317,
-                      "y": -3681.4752625901942,
-                      "zoom": -1.6489930423100736
+                      "x": 714.1806055304922,
+                      "y": -4381.181405870858,
+                      "zoom": -3.0657379066944124
                     }
                   },
                   "icon": "lucide-layout-dashboard",
@@ -60,26 +60,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "book/chapters/Taziye Yemeği ve Hava Yastığı.md",
+                    "file": "book/arcs/6 Sayfalar Gösteriyor.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Taziye Yemeği ve Hava Yastığı"
-                }
-              },
-              {
-                "id": "83ed1b5f42d37cc6",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "characters/RBA/RBA (ismail).md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "RBA (ismail)"
+                  "title": "6 Sayfalar Gösteriyor"
                 }
               }
             ]
@@ -228,14 +214,20 @@
   },
   "active": "458355ae5e3b9884",
   "lastOpenFiles": [
-    "book/chapters/lu126995ih4s.tmp",
+    "book/arcs/6 Sayfalar Gösteriyor.md",
+    "book/chapters/Sayfalar Gösteriyor.md",
+    "book/arcs/5 Taziye Yemeği ve Hava Yastığı.md",
     "book/chapters/Taziye Yemeği ve Hava Yastığı.md",
     "book/chapters/Tüplerin Peşinde.md",
     "book/chapters/Kurabiye Hırsızı.md",
-    "book/arcs/6 Sayfalar Gösteriyor.md",
-    "side cases/Side Case 3.4 zehirsiz dedektif (dedektifin rus ajanı tutuklamak için yeterli kanıtı bulması ve main story'yi öğrenmesi için).md",
     "side cases/Side Case 3.3 antifrizli tamirci (dedektifin zehirlemeler için rus ajandan şüphelenmesi için).md",
+    "book/chapters/Şifreli Aşk.md",
+    "book/chapters/lu7403gu4s.tmp",
+    "book/chapters/lu7403gu4m.tmp",
     "book/Parallel Timelines.canvas",
+    "book/Event Timeline.md",
+    "book/chapters/lu126995ih4s.tmp",
+    "side cases/Side Case 3.4 zehirsiz dedektif (dedektifin rus ajanı tutuklamak için yeterli kanıtı bulması ve main story'yi öğrenmesi için).md",
     "side cases/Side Case 3.1 ricinli evsiz (dedektifin rusun göz altına alması için).md",
     "side cases/Side Case 3.2 Botulinum'lu yazar (dedektifin şeker kokulu birinin insanları zehirlediğini anlaması için).md",
     "book/arcs/4 Tüplerin Peşinde.md",
@@ -243,16 +235,11 @@
     "book/chapters/İmza ve Hava Yastığı.odt",
     "book/chapters/Taziye Yemeği ve Hava Yastığı.odt",
     "book/chapters/Kapsüllerin Peşinde (copy).odt",
-    "book/arcs/5 Taziye Yemeği ve Hava Yastığı.md",
-    "book/chapters/Şifreli Aşk.md",
     "book/chapters/Parktaki Ceset.md",
     "characters/dul kadının çocuğu/Dul Kadının Çocuğu.md",
     "book/chapters/Kapsüllerin Peşinde.odt",
     "book/chapters/lu28869dvu63.tmp",
     "book/chapters/lu28869dvu4a.tmp",
-    "book/chapters/Tüplerin Peşinde.odt",
-    "book/chapters/Parktaki Ceset (copy).odt",
-    "book/Event Timeline.md",
     "book/Arcs.canvas",
     "main story/66 Hours In Hell.md",
     "characters/komiser yardımcısı/Komiser Yardımcısı.png",
@@ -261,13 +248,11 @@
     "book/arcs/1 Şifreli Aşk.md",
     "book/arcs/8 Profesörün Peşinde.md",
     "characters/dul kadının çocuğu/Dul Kadının Çocuğu.png",
-    "book/chapters/lu90114arbm.tmp",
     "book/arcs/3 Parktaki Ceset.md",
     "characters/russian team/Russian Team.md",
     "book/arcs/2 Kurabiye Hırsızı.md",
     "characters/dedektif/Dedektif (meriç).md",
     "characters/roman yazarı/Roman Yazarı.md",
-    "book/Rules.md",
     "characters/roman yazarı/Roman Yazarı.png",
     "characters/RBA/RBA.png",
     "characters/doktor/Doktor.png",
