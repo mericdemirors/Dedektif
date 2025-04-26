@@ -21,13 +21,13 @@ Dedektif yazarın yazdığı şeyi bulup "hmm demek böyle böyle biri yazarı z
 Şekerli parfümü de bağdaştırınca "eğer insanları zehirleyen kişi oysa gidip şu şeker kabuğuna ve tamircinin cesedine ve çocuğuna da zehir testi yapın, eğer cesette antifiriz, şekerde de Fomepizole veya Ethanol bulunursa her şey tamamdır." diyor. Testleri yapıyorlar, zehir ve panzehir maddelerini buluyorlar. antifriz olayını çözüyor dedektif. "Artık kadını gözaltına alabiliriz gidip onu tutuklayın" diyor.
 
 # [[Side Case 3.3 antifrizli tamirci (dedektifin zehirlemeler için rus ajandan şüphelenmesi için)#1200|Side Case 3.3 - 1200]]
-Rus ajanın evine gidiyorlar, "bakın Botulinum(çöpteki kavanoz), bir yerlerde de antifriz bulabilmemiz lazım adli tıp ekibi burayı arasın(içki şişesindeki sıvı)" diye her şeyi çözüyor. Kapalı odada da "castor beans" bulunca banu doktora "böyle böyle ölen başkaları oldu mu, iğne yarası olan son 2-3 gün içinde ölenlere bak" diye soruyor ve bu adamı buluyor. Testleri yaptıktan sonra Ricin'den öldüğünü anlıyorlar. Sonra dedektif "sana geçen bana rapor göstermen için vakalarda yardım etme sözü vermiştim, onlardan birini buna sayarsın artık" diyor.
+Rus ajanın evine gidiyorlar, "bakın Botulinum(çöpteki kavanoz), bir yerlerde de antifriz bulabilmemiz lazım adli tıp ekibi burayı arasın(içki şişesindeki sıvı)" diye her şeyi çözüyor. Kapıcı öldüğü için çöpü çıkarma işi aksamış ve apartmanın çöpü birikmiş, o çöpün içinde aradığı şişeyi ve kavanozu buluyor dedektif. Kapalı odada da "castor beans" bulunca banu doktora "böyle böyle ölen başkaları oldu mu, iğne yarası olan son 2-3 gün içinde ölenlere bak" diye soruyor ve bu adamı buluyor. Testleri yaptıktan sonra Ricin'den öldüğünü anlıyorlar. Sonra dedektif "sana geçen bana rapor göstermen için vakalarda yardım etme sözü vermiştim, onlardan birini buna sayarsın artık" diyor.
 
 # [[Side Case 3.3 antifrizli tamirci (dedektifin zehirlemeler için rus ajandan şüphelenmesi için)#1300|Side Case 3.3 - 1300]]
 rus ajan göz altına alınıyor, cinayetleri onun işlediğinin net kanıtı yok ama sorguda da bir şey çıkmıyor
 
 # [[Side Case 3.3 antifrizli tamirci (dedektifin zehirlemeler için rus ajandan şüphelenmesi için)#1400|Side Case 3.3 - 1400]]
-dedektif evdeki diğer şeyleri araştırıyor ve kadını takip eden polis memurunun dediğine göre airbagleri buluyor. Airbag'i açmak vs için gerekli aletleri de görüyor, bunlardan Sodium Azide üreteceğini anlıyor.
+dedektif evdeki diğer şeyleri araştırıyor ve komodinde airbagleri buluyor. Airbag'i açmak vs için gerekli aletleri de görüyor, bunlardan Sodium Azide üreteceğini anlıyor.
 
 Dedektif ve polisler:
 side case 3.1, 3.2 ve 3.3'ü kadının yaptığını biliyorlar. 3.4 için bi zehir hazırladığını biliyorlar ama kimi hedef aldığını bilmiyorlar.
