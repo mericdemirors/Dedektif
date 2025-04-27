@@ -6,6 +6,7 @@
       {
         "id": "0e3fb70d1c583ba1",
         "type": "tabs",
+        "dimension": 46.76214196762142,
         "children": [
           {
             "id": "458355ae5e3b9884",
@@ -26,10 +27,12 @@
       {
         "id": "f4eea69979d31a5d",
         "type": "split",
+        "dimension": 53.23785803237858,
         "children": [
           {
             "id": "a1f6952f56f4d680",
             "type": "tabs",
+            "dimension": 58.68945868945868,
             "children": [
               {
                 "id": "45a03755f574acea",
@@ -39,9 +42,9 @@
                   "state": {
                     "file": "book/Parallel Timelines.canvas",
                     "viewState": {
-                      "x": 714.1806055304922,
-                      "y": -4381.181405870858,
-                      "zoom": -3.0657379066944124
+                      "x": -630.3041957812911,
+                      "y": -4097.181436461299,
+                      "zoom": -3.956137932141622
                     }
                   },
                   "icon": "lucide-layout-dashboard",
@@ -53,6 +56,7 @@
           {
             "id": "d55ead4b43c1bd69",
             "type": "tabs",
+            "dimension": 41.31054131054131,
             "children": [
               {
                 "id": "14eb42b9c6f206ca",
@@ -212,54 +216,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "45a03755f574acea",
+  "active": "458355ae5e3b9884",
   "lastOpenFiles": [
-    "book/chapters/Sayfalar Gösteriyor.md",
     "book/arcs/6 Sayfalar Gösteriyor.md",
+    "side cases/Side Case 3.2 Botulinum'lu yazar (dedektifin şeker kokulu birinin insanları zehirlediğini anlaması için).md",
+    "book/chapters/Sayfalar Gösteriyor.md",
+    "book/Parallel Timelines.canvas",
+    "characters/dedektif/Dedektif (meriç).md",
+    "book/chapters/Kurabiye Hırsızı.pdf",
+    "book/chapters/lu5801kf98.tmp",
+    "book/chapters/Şifreli Aşk.pdf",
+    "book/chapters/lu5688k3a9.tmp",
+    "characters/dedektif uşağı/Dedektifin Uşağı (berat).md",
+    "characters/dedektif yardımcısı/Dedektif Yardımcısı (nazmi).md",
+    "characters/dedektif yardımcısı/Dedektif Yardımcısı.png",
+    "characters/dedektif uşağı/Dedektif Uşağı.png",
+    "characters/dedektif/Dedektif.png",
+    "book/chapters/Şifreli Aşk.md",
+    "book/arcs/1 Şifreli Aşk.md",
     "book/chapters/lu152179snim.tmp",
     "book/arcs/5 Taziye Yemeği ve Hava Yastığı.md",
     "book/chapters/Taziye Yemeği ve Hava Yastığı.md",
     "book/chapters/Tüplerin Peşinde.md",
     "book/chapters/Kurabiye Hırsızı.md",
     "side cases/Side Case 3.3 antifrizli tamirci (dedektifin zehirlemeler için rus ajandan şüphelenmesi için).md",
-    "book/chapters/Şifreli Aşk.md",
     "book/chapters/lu7403gu4s.tmp",
     "book/chapters/lu7403gu4m.tmp",
-    "book/Parallel Timelines.canvas",
     "book/Event Timeline.md",
     "book/chapters/lu126995ih4s.tmp",
     "side cases/Side Case 3.4 zehirsiz dedektif (dedektifin rus ajanı tutuklamak için yeterli kanıtı bulması ve main story'yi öğrenmesi için).md",
     "side cases/Side Case 3.1 ricinli evsiz (dedektifin rusun göz altına alması için).md",
-    "side cases/Side Case 3.2 Botulinum'lu yazar (dedektifin şeker kokulu birinin insanları zehirlediğini anlaması için).md",
     "book/arcs/4 Tüplerin Peşinde.md",
     "book/chapters/lu74734aeiu.tmp",
     "book/chapters/İmza ve Hava Yastığı.odt",
-    "book/chapters/Taziye Yemeği ve Hava Yastığı.odt",
-    "book/chapters/Kapsüllerin Peşinde (copy).odt",
     "book/chapters/Parktaki Ceset.md",
     "characters/dul kadının çocuğu/Dul Kadının Çocuğu.md",
-    "book/chapters/Kapsüllerin Peşinde.odt",
-    "book/chapters/lu28869dvu63.tmp",
     "book/Arcs.canvas",
     "main story/66 Hours In Hell.md",
     "characters/komiser yardımcısı/Komiser Yardımcısı.png",
     "characters/RBA/RBA (ismail).md",
     "characters/ruCoRO russian cosmos research organization/RuCoRO Russian Cosmos Research Organization.md",
-    "book/arcs/1 Şifreli Aşk.md",
     "book/arcs/8 Profesörün Peşinde.md",
     "characters/dul kadının çocuğu/Dul Kadının Çocuğu.png",
     "book/arcs/3 Parktaki Ceset.md",
     "characters/russian team/Russian Team.md",
-    "book/arcs/2 Kurabiye Hırsızı.md",
-    "characters/dedektif/Dedektif (meriç).md",
-    "characters/roman yazarı/Roman Yazarı.md",
     "characters/roman yazarı/Roman Yazarı.png",
     "characters/RBA/RBA.png",
     "characters/doktor/Doktor.png",
-    "characters/dedektif/Dedektif.png",
     "characters/komiser/Komiser.png",
-    "characters/dedektif yardımcısı/Dedektif Yardımcısı.png",
-    "characters/dedektif uşağı/Dedektif Uşağı.png",
     "characters/rus ajan/Rus Ajan.png",
     "characters/Characters.canvas",
     "book/Parallel Time Lines.canvas",
