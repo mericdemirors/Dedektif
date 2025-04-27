@@ -42,9 +42,9 @@
                   "state": {
                     "file": "book/Parallel Timelines.canvas",
                     "viewState": {
-                      "x": -630.3041957812911,
-                      "y": -4097.181436461299,
-                      "zoom": -3.956137932141622
+                      "x": 924.4249176850591,
+                      "y": -3484.017743786503,
+                      "zoom": -0.05679997404416469
                     }
                   },
                   "icon": "lucide-layout-dashboard",
@@ -219,9 +219,10 @@
   "active": "458355ae5e3b9884",
   "lastOpenFiles": [
     "book/arcs/6 Sayfalar Gösteriyor.md",
-    "side cases/Side Case 3.2 Botulinum'lu yazar (dedektifin şeker kokulu birinin insanları zehirlediğini anlaması için).md",
     "book/chapters/Sayfalar Gösteriyor.md",
     "book/Parallel Timelines.canvas",
+    "side cases/Side Case 3.3 antifrizli tamirci (dedektifin zehirlemeler için rus ajandan şüphelenmesi için).md",
+    "side cases/Side Case 3.2 Botulinum'lu yazar (dedektifin şeker kokulu birinin insanları zehirlediğini anlaması için).md",
     "characters/dedektif/Dedektif (meriç).md",
     "book/chapters/Kurabiye Hırsızı.pdf",
     "book/chapters/lu5801kf98.tmp",
@@ -239,7 +240,6 @@
     "book/chapters/Taziye Yemeği ve Hava Yastığı.md",
     "book/chapters/Tüplerin Peşinde.md",
     "book/chapters/Kurabiye Hırsızı.md",
-    "side cases/Side Case 3.3 antifrizli tamirci (dedektifin zehirlemeler için rus ajandan şüphelenmesi için).md",
     "book/chapters/lu7403gu4s.tmp",
     "book/chapters/lu7403gu4m.tmp",
     "book/Event Timeline.md",
