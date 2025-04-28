@@ -103,7 +103,7 @@ Deftere dalan dedektif, kelimeler arasında bağlantılar kurmaya çalışmaktan
 2 komiser ve adli tıp ekibinden de birkaç görevliyle birlikte üst kata çıkan dedektif odanın kapısını açıp dar odayı incelemeleri için tıp ekibine bıraktı. Cebinden çıkardığı defteri uzattı ve olayı anlatmaya başladı. Uzun olan komiser de defteri okuduktan sonra içeri girip kanıtı adli tıp ekibine teslim etti ve olay yerini incelemeye başladı. Kısa bir süre sonra dedektif ile yaşça büyük olan komiser de kapının eşiğinden olay mahaline bakıyordu.
 -Zehir raporunu en kısa sürede ne zaman çıkarabilirsiniz?
 -Doktorlara bağlı, gene o iş bilmez kıl herif çalışıyorsa öğle arası kemküm salak salak konuşacak işi aksatacak. Ama eğer Banu varsa gün bitmeden elimizde olur. Ne oldu niye sordun?
--Hiç öyle merak ettim. Defteri size uzatırken yazıda bir şey farkettim de eski anılarım canlandı. Acaba sizden önce olayı çözmeye vaktim olacak mı diye merak ediyordum.
+-Hiç öyle merak ettim. Defteri size uzatırken yazıda bir şey farkettim de. Acaba sizden önce olayı çözmeye vaktim olacak mı diye merak ediyordum.
 Elindeki defteri açıp tekrar okuyan uzun komiser sayfayı amirine uzattı, "Ben bir şey göremiyorum, eğer bu tanımdan birini çıkarabiliyorsan söyle biz de koca Kayseri'de uzun boylu kilolu kişi aramayalım."
 Dedektif defteri alıp tekrar okudu:
 -Ne yazık ki kilolu uzun biri bilmiyorum, etrafımda bir tane kilolu kişi bir tane de uzun kişi var ama o kadar, hem kilolu hem uzun yok. Siz bu araba tamir işini ne yaptınız, bir şey çıktı mı oradan?
@@ -114,20 +114,36 @@ Dedektif defteri alıp tekrar okudu:
 Teklifi kabul eden dedektif, gerekli örnekleri toplayıp yazarın bedenini arabaya yükleyen adli tıp ekibinin ardından araca bindi. Ofiste aldığı telefon aramasından itibaren defteri teslim edene kadarki her şeyi anlatmayı bitirdiğinde çoktan hastaneye varmışlardı. Cesedi de alıp laboratuvara inen ekip; doktoru, dedektifi ve 2 komiseri yalnız bırakıp karakola geçti. Sessiz laboratuvarda işe koyulan doktor, 3 çift göz eşliğinde numuneleri alıp testleri gerçekleştirdi, "En hızlı birkaç saat sürer, söyleyecek bir şeyiniz yoksa çıkabilirsiniz karakolu arayıp sonuçları haber veririm.". Kısa bir hareketlilikten sonra laboratuvarın kapısı açıldı ve yavaş yavaş kapanmaya bırakıldı. Cesedin başından masasına geçen doktor zehir testleri ve raporları için sisteme giriş yapmaya başladı.
 -Eeee, sen neden hala burdasın? Söyleyecek bir şeyin yoksa git demiştim.
 -Söyleyecek bir şeyim varsa peki, diye sordu masanın yanında dikilen dedektif.
--O zaman önce onu söyle, sonra gidersin. Test sonuçları gelene kadar bekleyeceksen bahçede bekle başımda durma.
+-O zaman önce onu söyle, sonra gidersin. Test sonuçları gelene kadar bekleyeceksen bahçede bekle, başımda durma.
 -Sadece bazı zehirlere maruz kaldıktan sonra kişinin kurtulup kurtulamayacağını merak ediyorum.
 Gözünü bilgisayardan ayırıp sandalyesinde yaslanan kadın bir yandan düşünürken bir yandan da elindeki kalemi çevirmeye başladı:
 -Yani zehrine göre değişir. Zehre maruz kalma şekline göre de değişir. Mesela fosfor ve cıva zehirlenmelerinde hasar belli bir hızda müdahale yapılmazsa kalıcıdır. Veya atıyorum bir zehri yemek yoluyla vücuduna aldıysan olabildiğinde kısa tutmak için kusarsan maruz kalma süresini kısaltmış olursun. Elinde zehrin panzehiri varsa damar yoluyla alabilirsin falan ancak bunların hepsi zehirden zehire değişir. Cevap aradığın özel bir zehir var mı, niye soruyorsun?
--Aklımda bir şey var, tam emin değilim ama tek olası sonuç bu gibi gözüküyor. Senden 4 tane test yapmanı istesen yapar mısın? Hatta eğer şanslıysak 2 tane.
-"Peki yapayım bakalım, bu sefer karşılığında elimde çözülemeyen bir ölüm var onu çözmeni isteyeceğim ama" dedi masadan kalkıp koridora çıkan doktor morga doğru yürürken.
--Peki, önce testleri halledelim. Bugün sabah gelmiş olması gereken yaşlı bir adama etilen glikol ve metanol tesleri yapmanı istiyorum.
+-Aklımda bir şey var, tam emin değilim ama tek olası sonuç bu gibi gözüküyor. Senden 4 tane test yapmanı istesen yapar mısın? Hatta eğer sen şanslıysan ben şanssızsam 2 tane.
+"Peki yapayım bakalım, bu sefer karşılığında elimde çözülemeyen bir ölüm var onu çözmeni isteyeceğim ama" dedi masadan kalkıp koridora çıkan doktor morga doğru yürürken. Koridorda doktoru takip eden dedektif, geçmiş 24 saat içinde gelen ölümlerle ilgili tahminlerini anlattıktan sonra doktordan istediği testleri geri döndü:
+-Peki, önce testleri halledelim. Dün gece gelmiş olması gereken yaşlı bir adama etilen glikol ve metanol tesleri yapmanı istiyorum.
 -Şu yaşlı adam sakallı ve kilolu mu? Ben de onun için yardımını isteyecektim zaten, iyi denk geldi. Dökül bakalım neler biliyorsun, neden yapıyoruz bu testleri?
--Adam benim kapıcımdı, ve neden öldüğünü çözemiyorlarmış. Kalp krizi falan diyorlar ama bir de bu testleri yapmak lazım emin olmam için. Bir de eğer adamın öldüğünde üstünde bulunan kıyafetleri yanındaysa cebinden bir ambalaj çıkarsa ona da fomepizol ve etanol testi yapar mısın?
--Elimden ne geliyor bir bakarım, şimdilik sen de bilmiyorsan bir şey söylemene gerek yok ancak testler sonuçlandıktan sonra bunların nedenini anlatman gerekecek. Raporun içine testin gerekli görülme sebebi olarak bir şeyler yazmamız gerekiyor sonuçta. Adamın kıyafetlerini de bulabileceğimi düşünüyorum ancak o testlere söz veremem.
+-Adam benim kapıcımdı, ve polisler neden öldüğünü çözemiyorlarmış. Kalp krizi falan diyorlar ama bir de bu testleri yapmak lazım emin olmam için, neden ve nasıl olduğunu bilmiyorum ama ölmesine sebep olabilecek sadece bir senaryo var aklımda ve sebep olacak kişi veya motivasyonu hakkında bir fikrim yok. Bir de eğer adamın öldüğünde üstünde bulunan kıyafetleri yanındaysa cebinden bir ambalaj çıkarsa ona da fomepizol ve etanol testi yapar mısın? Her şey tahmin ettiğim gibi giderse taşlar az biraz yerine oturacak.
+-Elimden ne geliyor bir bakarım, şimdilik sen de bilmiyorsan bir şey söylemene gerek yok ancak testler sonuçlandıktan sonra bunların nedenini anlatman gerekecek. Raporun içine testin gerekli görülme sebebi olarak bir şeyler yazmamız gerekiyor sonuçta. Adamın kıyafetlerini de bulabileceğimi düşünüyorum ancak o ambalaj testlerine söz veremem.
 Morgun kapısına gelen doktor arkasından takip eden dedektife dönüp buradan ilerisinde takip edemeyeceğini söyleyip kapıyı açtı, "Bir şey çıkarsa ofisini arayacağım o yüzden telefon başında bekle. Eğer bugün aradığımda açmazsan yarın gel raporları göstereyim.". 
 Doktora teşekkür edip kolaylıklar diledikten sonra hastaneden ayrılan dedektif, hem olanları Hilal Hanım'a haber vermek hem de bisikletini geri almak için kulübeye doğru yola çıktı.
 
+* 1995-04-18 21:00
+Öğlen laboratuvarda bulunan dörtlü, test sonuçlarının çıkması üzerine tekrar soğuk laboratuvarda toplanmıştı. Banu Doktor elindeki 2 klasörü masanın ucuna oturan beylere verip bilgisayarından sonuçları açtı ve açıklamaya başladı:
+-Öncelikle öğlen getirdiğiniz adamın sonuçlarına bakalım, yüzü morarmış boğularak ölmüş olan. Zehrin adı Botulinum, maruz kalındığında ilk başta hastalık hali gibi yorgunluk, halsizlik, baş dönmesi ve kuru ağız semptomları görülür. Sonradan görme, yutkunma ve konuşma bozukluklarından kas felçlerine kadar ilerler. Kas felçleri en sonra nefes sistemini etkileyince de boğulma sonucu ölüm gerçekleşir. Eğer maktul zehirlendiğini bilmiyorsa gerçekten tanrısal bir cezalandırma gibi hissettiren korkutucu bir ölüm şekli. Protein bazlı yapısı vücut içinde zamanla bozulsa da kanda, midede ve dokularda kalan miktara bakarak zehirlenmenin dün öğlen saatlerinde yüksek dozda yeme yoluyla yapıldığını söyleyebilirim. Soracağınız bir şey var mıdır? Testten ancak bu kadar şey çıkarabilirim.
+Önlerindeki rapora son kez baktıktan sonra başlarını sallayan adamlar klasörü kapatıp doktora geri uzattılar ve ikinci rapora geçmesini beklediler. Bilgisayarından yeni bir sekme açıp ekranı komiserlere döndüren doktor, ikinci rapora uzandı:
+-Kontrol etmemi istediğiniz şekerden de bir şey çıkmadı, şimdi ikinci rapora geçelim. Şu gece getirdiğiniz adam. Onun raporuna gelirsek...
+"Dur. Biz onun için zehir testi istemedik, zehirden şüphelenmemizi gerektiren bir durum yok ortada" diye araya girdi yapılı komiser.
+Dedektif elini kaldırıp masadaki klasörü önüne çekti:
+-Ben istedim. Baktım siz işinizi yapmıyorsunuz kalp krizi diyip geçeceksiniz, ben de ipleri elime aldım.
+-Allah Allah öyle miymiş Tarık Bey? Peki siz neyi farklı yaptınız tam olarak? Yoksa rüyanda ak sakallı dede mi sana fısıldadı bu zehir testlerini yapmanı?
+-Size araba tamiri işini haber vermiştim ancak üstüne çok gitmemişsiniz açıkçası, ben de 'sırf bir şeyler ters' diye size rahatsız etmeyeyim diyip kendim çözmeye karar verdim. Defterdeki son kelimeyi hatırlıyor musunuz? Veya daha geriye gidersek araba tamiri dediğim şeyi araştırdıysanız neler olduğunu hatırlıyor musunuz?
+-Evet; Abdullah ve oğlu araba tamiri yapmaya gitmiş,
 
-Akşama doğru test raporları çıkacak, yazarın otopsisinde Botulinum'u bulunuyor. Polis evde hiç Botulinum bulamadığı için hizmetli de betimlemelere uymadığı için suçsuz oluyor. Diğer cesetten ve şekerden de antifriz ve panzehri bulununca dedektif polisleri arayıp rusu tutuklayın hemen geliyorum diyor. Tutuklamaya kadının evine gidiyorlar, kapıyı açınca dedektif şekerli parfümü kokluyor. "Ya hay ananı sikeyim bunu diyorum işte. Şeker şeker, parfümü diyormuş bizim yazar. Ben de nereden bir şeyler hatırlıyorum diyorum" desin
+
+
+BURADA DEDEKTİF ARABA TAMİRİNİN "ŞEKER" KELİMESİYLE NASIL BAĞDAŞTIRDIĞINI VE ÇOCUĞUN DA SEMPTOMLARININ YAZARINKİLERE BENZEDİĞİNİ SÖYLESİN. ARADA BİR BAĞLANTI OLMASA DA YAKIN ZAMANLARDA BENZER ÖLÜMLER OLDUĞU İÇİN ACABA BU DA ZEHİR OLABİLİR Mİ DESİN. O ORTAMA UYGUN ZEHİR TESTLERİ DE ANTİRİZ VE WİNDOW FLUİD
+
+
+Diğer cesetten ve şekerden de antifriz ve panzehri bulununca dedektif polisleri arayıp rusu tutuklayın hemen geliyorum diyor. Tutuklamaya kadının evine gidiyorlar, kapıyı açınca dedektif şekerli parfümü kokluyor. "Ya hay ananı sikeyim bunu diyorum işte. Şeker şeker, parfümü diyormuş bizim yazar. Ben de nereden bir şeyler hatırlıyorum diyorum" desin
 
 Şekerli parfümü de bağdaştırınca "eğer insanları zehirleyen kişi oysa gidip şu şeker kabuğuna ve tamircinin cesedine ve çocuğuna da zehir testi yapın, eğer cesette antifiriz, şekerde de Fomepizole veya Ethanol bulunursa her şey tamamdır." diyor. Testleri yapıyorlar, zehir ve panzehir maddelerini buluyorlar. antifriz olayını çözüyor dedektif. "Artık kadını gözaltına alabiliriz gidip onu tutuklayın" diyor.
