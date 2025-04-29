@@ -137,9 +137,15 @@ Dedektif elini kaldırıp masadaki klasörü önüne çekti:
 -Ben istedim. Baktım siz işinizi yapmıyorsunuz kalp krizi diyip geçeceksiniz, ben de ipleri elime aldım.
 -Allah Allah öyle miymiş Tarık Bey? Peki siz neyi farklı yaptınız tam olarak? Yoksa rüyanda ak sakallı dede mi sana fısıldadı bu zehir testlerini yapmanı?
 -Size araba tamiri işini haber vermiştim ancak üstüne çok gitmemişsiniz açıkçası, ben de 'sırf bir şeyler ters' diye size rahatsız etmeyeyim diyip kendim çözmeye karar verdim. Defterdeki son kelimeyi hatırlıyor musunuz? Veya daha geriye gidersek araba tamiri dediğim şeyi araştırdıysanız neler olduğunu hatırlıyor musunuz?
--Evet; Abdullah ve oğlu araba tamiri yapmaya gitmiş,
+-Evet; Abdullah ve oğlu araba tamiri yapmaya gitmiş. O söylediğin kadın da bunu söyledi ama önceden Mürtem'in de dediği gibi üstüne gidecek, gözaltına veya takibe alabilecek kadar bir şey yok ortada.
+-Evet yok ben de o şeyi bulalım diye testleri yaptırdım zaten, diye sitem etti dedektif ve laboratuvar bir anlık sessizleşti. Şakaklarını sıvazlayıp klasörü geri masanın ortasına itti. "Testler çoktan yapıldı, etikliğini tartışacaksak sonra tartışalım. Banu anlatır mısın test sonuçlarını."
+Dikkatleri tekrardan bilgisayar ekranına çeken doktor anlatmaya başladı:
+-Klasördeki ilk test cesette yapılan etilen glikol ve metanol teslerinden sadece etilen glikol pozitif sonuç verdi. Ayrıca söylediğin gibi adamın kıyafetlerinin cebinden de ambalaj çıktı, fomepizol ve etanol testlerinden de fomepizol testi pozitif geldi etanol testi de çok düşük seviyede alkol içmiş birinin sonuçlarına benzer geldi. Yine de pozitifti ama eğer aradığın şey yarım bardak bira gibi bir şey değilse göz ardı edilebilecek bir seviyedeydi.
+-Tamamdır, dedi eli çenesinde masadaki rapora bakan dedektif. Sayfaları çevirip etanol düzeylerine göz attıktan sonra raporu karşısında oturan komiserlerin önüne itti, "Hala elimde her şeyi tamamen kanıtlayacak kadar bir bilgim yok, ancak eğer bu adam normal bir sebepten dolayı ölmediyse rutini dışında yaptığı tek şey araba tamir etmek ve akşam bara gitmekti. Karısının dediklerine göre daha bara gitmeden önce kusup kendini kötü hissediyorsa ilk bakmamız gereken şey araba tamiri sırasında neler olduğu. Ben de yazarın ölümüyle karşılaştıktan sonra 'neden bu olay da zehir olmasın ki' diye düşündüm kendi kendime. Eğer bu araba tamiri işi de bir kılıfsa, suçlunun garajda bulmayı umacağı şeylerden birini kullanacağını düşündüm. Kapıcının karısının anlattığına göre limonata, zehri sunmak için çok güzel bir kamuflaj olurdu, şekeriyle zehrin tadını bastırırdı, o yüzden sıvı formda veya çözünen şeyleri kullanabileceğini düşündüm. Nuri'nin de kendini kötü hissetmesi ama sonra iyileşmesi üzerine demek ki panzehiri olan bir şey kullanıldı."
+-Panzehir şeker mi oluyor burada, diye sordu raporu incelemeyi bitirip doktora uzatan yaşlı komiser.
+-Evet, panzehir çocuğa verdiği şeker. Eğer garajın içinde sıvı halde verilebilecek ve panzehiri olan zehirleri düşünürsek sadece 2 tane var: Antifriz ve cam sıvısı. Yaptırdığım testlerden ikisi bunlar için, ikisi de bunların panzehirleri içindi.
 
-
+WİNDOW FLUİD'İN PANZEHİRİ NE ONA BAK
 
 BURADA DEDEKTİF ARABA TAMİRİNİN "ŞEKER" KELİMESİYLE NASIL BAĞDAŞTIRDIĞINI VE ÇOCUĞUN DA SEMPTOMLARININ YAZARINKİLERE BENZEDİĞİNİ SÖYLESİN. ARADA BİR BAĞLANTI OLMASA DA YAKIN ZAMANLARDA BENZER ÖLÜMLER OLDUĞU İÇİN ACABA BU DA ZEHİR OLABİLİR Mİ DESİN. O ORTAMA UYGUN ZEHİR TESTLERİ DE ANTİRİZ VE WİNDOW FLUİD
 
