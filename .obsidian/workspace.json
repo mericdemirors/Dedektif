@@ -42,9 +42,9 @@
                   "state": {
                     "file": "book/Parallel Timelines.canvas",
                     "viewState": {
-                      "x": 924.4249176850591,
-                      "y": -3465.1499562843724,
-                      "zoom": -0.05679997404416469
+                      "x": -2212,
+                      "y": -4475.5,
+                      "zoom": -4
                     }
                   },
                   "icon": "lucide-layout-dashboard",
@@ -107,7 +107,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "banu doktor",
+                "query": "roza",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -219,9 +219,11 @@
   "active": "458355ae5e3b9884",
   "lastOpenFiles": [
     "side cases/Side Case 3.3 antifrizli tamirci (dedektifin zehirlemeler için rus ajandan şüphelenmesi için).md",
-    "side cases/Side Case 3.2 Botulinum'lu yazar (dedektifin şeker kokulu birinin insanları zehirlediğini anlaması için).md",
     "book/chapters/Sayfalar Gösteriyor.md",
     "book/Parallel Timelines.canvas",
+    "characters/doktor/Doktor.png",
+    "book/chapters/Şifreli Aşk.md",
+    "side cases/Side Case 3.2 Botulinum'lu yazar (dedektifin şeker kokulu birinin insanları zehirlediğini anlaması için).md",
     "book/arcs/6 Sayfalar Gösteriyor.md",
     "book/chapters/lu82231fmso.tmp",
     "book/chapters/Taziye Yemeği ve Hava Yastığı.md",
@@ -235,7 +237,6 @@
     "characters/dedektif yardımcısı/Dedektif Yardımcısı.png",
     "characters/dedektif uşağı/Dedektif Uşağı.png",
     "characters/dedektif/Dedektif.png",
-    "book/chapters/Şifreli Aşk.md",
     "book/arcs/1 Şifreli Aşk.md",
     "book/chapters/lu152179snim.tmp",
     "book/arcs/5 Taziye Yemeği ve Hava Yastığı.md",
@@ -262,7 +263,6 @@
     "characters/russian team/Russian Team.md",
     "characters/roman yazarı/Roman Yazarı.png",
     "characters/RBA/RBA.png",
-    "characters/doktor/Doktor.png",
     "characters/komiser/Komiser.png",
     "characters/rus ajan/Rus Ajan.png",
     "characters/Characters.canvas",
