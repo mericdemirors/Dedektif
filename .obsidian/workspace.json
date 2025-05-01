@@ -42,7 +42,7 @@
                   "state": {
                     "file": "book/Parallel Timelines.canvas",
                     "viewState": {
-                      "x": -2212,
+                      "x": -5344.804387931822,
                       "y": -4475.5,
                       "zoom": -4
                     }
@@ -107,7 +107,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "roza",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -216,7 +216,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "458355ae5e3b9884",
+  "active": "cb9ca6cc0e9845a4",
   "lastOpenFiles": [
     "side cases/Side Case 3.3 antifrizli tamirci (dedektifin zehirlemeler için rus ajandan şüphelenmesi için).md",
     "book/chapters/Sayfalar Gösteriyor.md",
