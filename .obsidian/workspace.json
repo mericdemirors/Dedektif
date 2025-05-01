@@ -64,12 +64,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "side cases/Side Case 3.3 antifrizli tamirci (dedektifin zehirlemeler için rus ajandan şüphelenmesi için).md",
+                    "file": "book/arcs/6 Sayfalar Gösteriyor.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Side Case 3.3 antifrizli tamirci (dedektifin zehirlemeler için rus ajandan şüphelenmesi için)"
+                  "title": "6 Sayfalar Gösteriyor"
                 }
               }
             ]
@@ -216,15 +216,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cb9ca6cc0e9845a4",
+  "active": "14eb42b9c6f206ca",
   "lastOpenFiles": [
-    "side cases/Side Case 3.3 antifrizli tamirci (dedektifin zehirlemeler için rus ajandan şüphelenmesi için).md",
     "book/chapters/Sayfalar Gösteriyor.md",
+    "book/arcs/6 Sayfalar Gösteriyor.md",
+    "side cases/Side Case 3.3 antifrizli tamirci (dedektifin zehirlemeler için rus ajandan şüphelenmesi için).md",
     "book/Parallel Timelines.canvas",
     "characters/doktor/Doktor.png",
     "book/chapters/Şifreli Aşk.md",
     "side cases/Side Case 3.2 Botulinum'lu yazar (dedektifin şeker kokulu birinin insanları zehirlediğini anlaması için).md",
-    "book/arcs/6 Sayfalar Gösteriyor.md",
     "book/chapters/lu82231fmso.tmp",
     "book/chapters/Taziye Yemeği ve Hava Yastığı.md",
     "characters/dedektif/Dedektif (meriç).md",
