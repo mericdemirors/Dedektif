@@ -188,15 +188,30 @@ Dedektif daha ikinci seçeneğe geçmeden evde telaşla telefon aramaya başlaya
 -Ambulansı aramaya gerek yok, ikinci seçeneğin doğru cevap olduğuna neredeyse eminim. Hatta hazırladığı zehri nerede bulabileceğimi de sanırım biliyorum. Salonda kaçabilmek için kurduğu, tetikleyebileceği bir mekanizma bulamadım.
 Köşedeki odaya gidip kapısını açan dedektif içerideki komodini kaldırıp salona getirdi. Çekmecelerini açıp içindeki kimyasalları yere koyarken devam etti:
 -Odayla ilgili garip bir şey farkettiiniz mi? Botulinum'u aramak için girdiğimde ışığı çoktan açıktı, etraf tamir alet edevatlarıyla doluydu. Hava yastıkları masanın üstünde bırakıp kapı açmaya gideceğin sonra milletle flörtleşeceğin şeyler değil, ki bu da beni ikinci sorunun cevabına getiriyor.
-Elindeki küçük bir kavanozla dönen dedektif, kavanozu kaldırıp içindeki tozu komiserlere gösterdi, "Hedefin bendim.". Kadından cevap gelmeyince omuz silkip çekmeceleri boşaltmaya devam eden dedektif, bütün kavanozları boşaltıp boş komodinin üstüne oturdu, dirsekleri dizlerinde kadının yüzüne eğildi, "O zaman üçüncü sorumuza geçelim, neden?"
+Elindeki küçük bir kavanozla dönen dedektif, kavanozu kaldırıp içindeki tozu komiserlere gösterdi, "Hedefin kimdi?". Kadından cevap gelmeyince omuz silkip çekmeceleri boşaltmaya devam eden dedektif, bütün kavanozları boşaltıp boş komodinin üstüne oturdu, dirsekleri dizlerinde kadının yüzüne eğildi, "O zaman üçüncü sorumuza geçelim, neden... ben?"
+Salondaki sessizlik bozulmayınca büyük komiser dedektifi omzundan tutup mutfağa çekti:
+-Bak, ben de sana inanıyorum. Ne düşünüyorsan ardındayım ama kızı somut bir şey olmadan daha fazla alıkoyamayız. Eğer bir fikrin varsa şimdi söylesen iyi olur yoksa bu söylediklerin somut bir 'cinayet girişimi veya zehirleme' kanıtı değil. Kapıcıyı veya yazarı öldüren zehri bulamadık, hava yastıklarını açması için başka bir kılıf bulabilir. İşleri yasal yoldan yapmak istiyorsak bir şey bulman lazım Tarık.
+Başını sallayan dedektif mutfakta birkaç tür volta attıktan sonra salona geçip kadınla başbaşa kalmış komiserin önüne dikildi:
+-Sayın komiserim, bu kadın bana cinsel tacizde bulundu. Rızam olmadan benimle yakınlaşmaya çalıştı. Hemen karşıdaki dairede yalnız başıma yaşayan biri olarak korkuyorum ve bu kadını hapishaneye götürmenizi istiyorum.
+Elini beline atan komiser kadının karşısına geçip söyleyecek bir şeyi olup olmadığını sordu. Sessiz kalmaya devam eden kadının kollarını arkasında birleştirip ayağa kaldırdı.
+"O taciz maciz işleri çok öyle olmuyor da neyse. Sanırım kabul edilebilir bir bahane olacaktır. Kadınlardan korkman falan da rapora ekleriz, nasıl korktuğunu çığlıklar attığını yazarsak inandırıcı olur sanırım." gülümseyerek dedektifin omzunu tuttuktan sonra devam etti, "Doruk komiserim, buradaki travma geçirmiş vatandaşı size bırakıyorum. Ben hanımefendiye araca kadar eşlik edeceğim. Siz de bu kadınlardan korkan küçük oğlanla ilgilenin lütfen.".
+Dedektifle kalan komiser koltuklardan birine oturduktan sonra eliyle etrafı gösterdi:
+-Neyi alman gerekiyorsa al, zehir kanıt manıt bir şeylere ihtiyacın olacaktır şu kalan kavanozları alabilirsin işine yarayacaksa. Şimdilik taciz işini kullanarak onu gözaltında tutabiliriz ama vakti geldiğinde zehir şeylerini kanıtlayamazsan geri bırakmak zorunda kalırız. Hatta o da bunu biliyor, neden konuşmuyor sanıyorsun, ben de zehir işlerinin onun elinin altından çıktığını düşünüyorum yaptığı her şey o yönde olduğu için ancak elimizde bir şey olmadığını o da biliyor. 
+Koltuktan kalkan komiser, ceketini giyen dedektifi önüne kattı ve binadan çıktılar. "Ben de araca geçiyorum, 5-10 dakika içinde buluşalım. Karakol gece sakindir etrafta kimse yokken kendi aramızda halledelim bugün tamam mı? 10 dakika, bekliyorum."
+Bahçede komiserle yolunu ayırdan dedektif elinde bir poşetle, saçı başı dağılmış şekilde çöp gibi kokarak araca bindi.
+-Siz karakola geçin, benim hastaneye gitmem gerek. Mürtem! gel ifade işini halledelim siz beni hastaneye bırakana kadar, gerisini karakolda siz halledersiniz.
+-Hay Allahım ya, bu çocuk da iyice taksi yaptı bizi. Vallaha bir şeyleri çözmüş olduğunu bilmesem sırf bugün ağzını yüzünü dağıtacak kadar yumruğu yediydin ama neyse. Poşet moşet bu halin ne artık sorgulamıyorum bile. Anlat bakalım sayın mağdur, tacize nasıl uğradınız ve kadınlardan neden bu kadar çok korkuyorsunuz?
 
 
+1995-04-19 03:00
+Karakol otoparkına bisikletiyle uykulu ve çöp kokusu üstüne bir de ter kokarak giren dedektif, boş lobiye girdiğinde Mürtem tarafından karşılandı ve sorgu odasına götürüldü.
+-Tahmin edebileceğin gibi taciz iddialarını tamamen reddediyor, ve o beyaz tozun da sodyum azid olduğunu kabul ediyor ama her şey bu kadar. Sessizliğini bozmasına bile şaşırdık açıkçası.
+-Sorun yok ben almam gereken şeyi Banu doktordan aldım, dedi elindeki raporu gösteren dedektif. Sorgu odasının aynasının ardındaki cüsseli komisere katılıp elindeki raporu uzattı, "Roza'nın çöp poşetinden çıkan içki şişesinin içinden antifriz bulundu. Ayrıca kavanozlardan birinin içinden de Botulinum üretimi tespit edildi. Bunlar onaylı doktor raporu. Ve hatta elinde daha raporu olmasa da başka bir ölümü daha ispat edebileceğimi düşünüyorum. Çöp poşetinde bulduğum hint yağı üretiminde kullanılan bitkiyi buldum. Banu Doktor'un söylediğine göre risin denen bir zehirle bağlantılı olabilirmiş. Ve geçtiğimiz günlerde morga gelen ölümlerden birinin sebebini tam çözemiyorlarmış ona test yapıyor şu anda. Birkaç saate raporu elimizde olurmuş. Şimdilik Botulinum ve antifriz kanıtlarını kullanarak kadını gözaltında tutun. Rapor gelince risini de işin içine ekleriz."
+Raporu alıp inceleyen komiser hızlıca sayfaları çevirip kapattı:
+-Kafam bilimsel bir şey almaz şu anda, dediğim gibi bugünlük taciz kılıfı ile kadını nezarethane'de tutabiliriz. Yarın sabaha senin şu rapor yetişse iyi olur. Şu anda yapacak bir şey yok. Sorgulamayı izlemek istiyorsan yarın öğlen gel, şimdilik hadi yallah evine gece gece yordun milleti bu kadar.
 
-komiserler neden işaret verdin peki nasıl anladın bu kadar şeyi diye soracak dedektif de "ceketi şekerli parfüm kokuyordu, yazıdan yukarıya doğru çıkan çizgi şekerli demek diye düşündüm. Her ne kadar emin olmasam da kadın da sınırları zorluyordu bir şeyler yapmam gerekiyordu artık."
-
-çöpten içki şişesini falan bulacaklar
-
-
+1995-04-19 11:00
+Elinde gazeteyle(***Gazetede yazan araştırmanın 2/3'ü bitti haberini görüyorlar, dedektifle yardımcısı bunun üzerine konuşuyor.***) karakola giren dedektif,
 
 
 [[6 Sayfalar Gösteriyor]] bundaki her şeyi kapsayan bir çözüm yazdın mı diye bak
