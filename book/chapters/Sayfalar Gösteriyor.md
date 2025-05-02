@@ -176,8 +176,27 @@ Afallamış kadın daha oturduğu yerden bile inemeden, yanında beliren polisle
 -Yazarın "ŞEKER" derken kastettiği şey buydu. Yazıda anormal bir şeyler var ama görünce çözemiyorum demiştim hatırlıyor musunuz? En sondaki ünlem işaretini koyarken ölen yazar aslında ünlem işareti koymuyordu, yoksa eli kaydığında çizgi aşağı doğru çekilirdi. Ama eğer son çizgiye bakarsanız yukarı doğru gittiğini görürsünüz. Yazar bize aslında "ŞEKERLİ PARFÜM" yazmaya çalışıyordu.
 -Sadece bir parfüm yüzünden kadını gözaltına alamayız Tarık bize somut bir şeyler vermen gerek, dedi hala şaşkın kadını yanında tutan uzun komiser.
 Salonda kalkıp hızlı hızlı volta atmaya başladı dedektif, sonra birden aklına bir fikir gelmiş gibi salonun köşesindeki odaya koşup kapıyı açtı:
--Burada bir şeyler saklıyordun değil mi! Botulinumu nerede yaptın, bu kavanozlardan birinde mi hazırladın yoksa?
+-Burada bir şeyler saklıyordun değil mi! Botulinumu nerede yaptın, bu aletleri onu hazırlarken mi kullandın yoksa? Dur bi dakika... Bunlar ne?
+İki elinde yumruk büyüklüğünde metal parçalarla salona giren dedektif parçalardan birini yavaşça sehpaya koyup elindekini incelemeye başladı. Parçayı evirip çevirdikten sonra salonun içinde etrafı kurcalamaya başladı. Sehpadaki parçanın ne olduğunu anlamaya çalışan komiserlerin dikkati çekmeceleri karıştırıp komodinleri boşaltan dedektife kaymıştı. Artık yüzündeki şok kaybolmuş, ifadesiz bir şekilde gözünü sehpadan ayırmayan kadın metalik parça hakkında sorular sorulara da yanıt vermeyince yapacak tek şey dedektifin işini bitirmesini beklemekti.
+-Bir şey mi arıyorsun Tarık, Mürtem kadını tutarken ben de yardım edeyim mi?
+-Hayır! Siz bir şey yapmayın olduğunuz yerde kalın. Ayrıca Roza'nın hareket etmesine de izin vermeyin.
+-Evlat eğer bir şey yapılacaksa hızlıca bitirmek isterim, ne aradığını anlatacak mısın?
+Komisere dönen dedektif, elindeki parçayı verdikten sonra sehpadakini aldı ve metalin arkasındaki diski gösterdi.
+"Garajda bulunan zehirleri araştırırken sodyum azid denen bir zehire denk geldim. Beyaz toz şeklinde bir şey ve benim bulabildiğim zehirlerden en etkilisiydi. Garajda da bu tozu hava yastıklarında bulabilirsin. Maruz kaldıktan sonra hemen baş dönmesi, kusma, karın ağrısı vesaire başlar" Komiserin elindeki parçayı alıp eksik olan diski gösterdi. "Ve bizim Roza hanım endüstriyel bir hava yastığını söküp içindeki kimyasalı çıkarmış." Elindeki parçaları bırakmadan koltukta oturan kadına döndü "Ama bu seferki hedefin kim bilmiyoruz, hızlı öldürmen gereken biri olduğunu varsayıyorum. Diğer zehirlerin aksine sodyum azid hemen etki eder, en geç birkaç saat içinde arkasında fiziksel veya dokusal bir zedelenme bırakmadan öldürür ki sen de bunu biliyorsun. Asıl soru ise, ilk cinayetler yavaş zehirlerle yapıldıysa neden şu anda hızlı zehire geçtin?" Ayağa kalkıp dolapları aramaya devam eden dedektif, bir yandan komiserlere ve sessizce dinleyen kadına açıklamalar yapıyordu.
+-Benim tahminim bunun sonuncu işin olduğu ve kurbanına çoktan yaklaştığın, haksız mıyım? Sonuçta ikinci hava yastığını açmaya vakit bulamamışsın. Bununsa sadece 2 açıklaması var: Bir, ya çoktan işini bitirdin ve ikinciyi açmaya gerek yok; ya da iki, ikinciyi açacağın sırada birileri işini böldü.
+Dedektif daha ikinci seçeneğe geçmeden evde telaşla telefon aramaya başlayan komiser, dedektifin kendisini durdurmasıyla sakinleşti.
+-Ambulansı aramaya gerek yok, ikinci seçeneğin doğru cevap olduğuna neredeyse eminim. Hatta hazırladığı zehri nerede bulabileceğimi de sanırım biliyorum. Salonda kaçabilmek için kurduğu, tetikleyebileceği bir mekanizma bulamadım.
+Köşedeki odaya gidip kapısını açan dedektif içerideki komodini kaldırıp salona getirdi. Çekmecelerini açıp içindeki kimyasalları yere koyarken devam etti:
+-Odayla ilgili garip bir şey farkettiiniz mi? Botulinum'u aramak için girdiğimde ışığı çoktan açıktı, etraf tamir alet edevatlarıyla doluydu. Hava yastıkları masanın üstünde bırakıp kapı açmaya gideceğin sonra milletle flörtleşeceğin şeyler değil, ki bu da beni ikinci sorunun cevabına getiriyor.
+Elindeki küçük bir kavanozla dönen dedektif, kavanozu kaldırıp içindeki tozu komiserlere gösterdi, "Hedefin bendim.". Kadından cevap gelmeyince omuz silkip çekmeceleri boşaltmaya devam eden dedektif, bütün kavanozları boşaltıp boş komodinin üstüne oturdu, dirsekleri dizlerinde kadının yüzüne eğildi, "O zaman üçüncü sorumuza geçelim, neden?"
 
 
 
-zehirleri kadınla bağdaştırsın, airbagleri ve airbag açma aletlerini bulsun
+komiserler neden işaret verdin peki nasıl anladın bu kadar şeyi diye soracak dedektif de "ceketi şekerli parfüm kokuyordu, yazıdan yukarıya doğru çıkan çizgi şekerli demek diye düşündüm. Her ne kadar emin olmasam da kadın da sınırları zorluyordu bir şeyler yapmam gerekiyordu artık."
+
+çöpten içki şişesini falan bulacaklar
+
+
+
+
+[[6 Sayfalar Gösteriyor]] bundaki her şeyi kapsayan bir çözüm yazdın mı diye bak
