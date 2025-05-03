@@ -56,7 +56,7 @@
           {
             "id": "d55ead4b43c1bd69",
             "type": "tabs",
-            "dimension": 48.148148148148145,
+            "dimension": 48.14814814814815,
             "children": [
               {
                 "id": "14eb42b9c6f206ca",
@@ -218,9 +218,9 @@
   },
   "active": "458355ae5e3b9884",
   "lastOpenFiles": [
-    "book/Parallel Timelines.canvas",
-    "book/chapters/Sayfalar Gösteriyor.md",
     "book/arcs/6 Sayfalar Gösteriyor.md",
+    "book/chapters/Sayfalar Gösteriyor.md",
+    "book/Parallel Timelines.canvas",
     "side cases/Side Case 3.4 zehirsiz dedektif (dedektifin rus ajanı tutuklamak için yeterli kanıtı bulması ve main story'yi öğrenmesi için).md",
     "side cases/Side Case 3.3 antifrizli tamirci (dedektifin zehirlemeler için rus ajandan şüphelenmesi için).md",
     "characters/doktor/Doktor.png",
