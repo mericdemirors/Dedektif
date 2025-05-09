@@ -203,14 +203,14 @@ Bahçede komiserle yolunu ayırdan dedektif elinde bir poşetle, saçı başı d
 -Hay Allahım ya, bu çocuk da iyice taksi yaptı bizi. Vallaha bir şeyleri çözmüş olduğunu bilmesem sırf bugün ağzını yüzünü dağıtacak kadar yumruğu yediydin ama neyse. Poşet moşet bu halin ne artık sorgulamıyorum bile. Anlat bakalım sayın mağdur, tacize nasıl uğradınız ve kadınlardan neden bu kadar çok korkuyorsunuz?
 
 
-1995-04-19 03:00
+* 1995-04-19 03:00
 Karakol otoparkına bisikletiyle uykulu ve çöp kokusu üstüne bir de ter kokarak giren dedektif, boş lobiye girdiğinde Mürtem tarafından karşılandı ve sorgu odasına götürüldü.
 -Tahmin edebileceğin gibi taciz iddialarını tamamen reddediyor, ve o beyaz tozun da sodyum azid olduğunu kabul ediyor ama her şey bu kadar. Sessizliğini bozmasına bile şaşırdık açıkçası.
 -Sorun yok ben almam gereken şeyi Banu doktordan aldım, dedi elindeki raporu gösteren dedektif. Sorgu odasının aynasının ardındaki cüsseli komisere katılıp elindeki raporu uzattı, "Roza'nın çöp poşetinden çıkan içki şişesinin içinden antifriz bulundu. Ayrıca kavanozlardan birinin içinden de Botulinum üretimi tespit edildi. Bunlar onaylı doktor raporu. Ve hatta elinde daha raporu olmasa da başka bir ölümü daha ispat edebileceğimi düşünüyorum. Çöp poşetinde bulduğum hint yağı üretiminde kullanılan bitkiyi buldum. Banu Doktor'un söylediğine göre risin denen bir zehirle bağlantılı olabilirmiş. Ve geçtiğimiz günlerde morga gelen ölümlerden birinin sebebini tam çözemiyorlarmış ona test yapıyor şu anda. Birkaç saate raporu elimizde olurmuş. Şimdilik Botulinum ve antifriz kanıtlarını kullanarak kadını gözaltında tutun. Rapor gelince risini de işin içine ekleriz."
 Raporu alıp inceleyen komiser hızlıca sayfaları çevirip kapattı:
 -Kafam bilimsel bir şey almaz şu anda, dediğim gibi bugünlük taciz kılıfı ile kadını nezarethane'de tutabiliriz. Yarın sabaha senin şu raporu yetiştirip gel bütün zehir işlerini aynı anda masaya yatıralım. Onun dışında şu anda yapacak bir şey yok. Sorgulamayı izlemek istiyorsan da yarın öğlen gel. Şimdilik hadi yallah evine, gece gece yordun milleti bu kadar.
 
-1995-04-19 11:00
+* 1995-04-19 11:00
 Elinde raporla karakola giren dedektif, lobideki gazetelerden birini alıp komiseri beklemeye başladı.
 -Nail gene senlik bir şey var bak ne demiş Amerika, "Amerika: 'Sona Yaklaştık, Tekrar Tarih Yazmaya Hazırlanıyoruz!". Gene atıp tutuyorlar mı sence ne diyorsun bu işe?
 -Beni hiç karıştırma zaten canım sıkkın, bilgisayar siparişimiz gümrüğe takılmış şimdi de diyorlarki yok bilmem sınırın üstünde altında şunu yapın bunu imzalayın. Kendi kargomu alamıyorum şaçmalığa bakar mısın?
@@ -280,10 +280,15 @@ Kadının sözünü kesen dedektif sandalyesinden biraz daha geriye yaslanıp ba
 -Bu kadar olayı yaptıktan sonra hala şu limonata olayıyla övünmen garip. Çocuğu öldürmek yerine azıcık zehirlediğin için bir de tebrik mi edelim?
 -Bir şey etmeyin istemiyorum. Nuri'yi öldürmeme sebebim çocukları sevmem onların yaşamaya hakkı olduğunu düşünmem falan değil. Prensip gereği planda yazılı olmayan hiçbir şeyi yapmam, ekstra ölümlerden ve gereksiz adımlardan kaçınırım yoksa sadece üstüme fazladan dikkat çekmiş olurum.
 -O gün gece dairene geldiğimde beni hava yastığından çıkardığın zehirle mi zehirleyecektin? Plan bu muydu?
+-Planım aslında biraz tehdit edip çocuğu ülkeye geri çağırmanı sağlamaktı, zehri sadece seni korkutmak için hazırlamıştım. Sen çocuğu çağıracaktık ben de onu diğer zehri kullanarak sorguya çekecektim falan filan aklımda net bir şey yoktu.
+-Ve başarısız oldun, şimdiki adımınız ne olacak. Ruslar senin başarısız olduğunu anlayınca ne yapacaklar?
+-Hiçbir fikrim yok, aklıma olası iki seçenek geliyor. Biri profesörün peşine düşmek, ki bunu yapamayacaklarını düşünüyorum. Yapabiliyor olsalardı ben buralara kadar gelmezdim. İkinci seçenek ise Amerika'da profesörün dönüşünü bekleyecek veya Asım Samet'ten bilgi alacak adamlar yerleştirmek.
+-O zaman birinci seçeneğe geri mi döndünüz yani?
+-Hayır, diye başını salladı kadın masadaki piramiti gösterip. "Bu adamlar yapabiliyor olsalardı zaten onu yapmışlardı, dediğim gibi benim burada olmam araştırmayı yürütememelerinin somut sebebi zaten. Profesörün izini kaybetmelerinin sebebi uluslar arası uçuşların kayıtlarının üçüncü dünya ülkelerinde yeterince iyi tutulmamasıdır diye tahmin ederdim."
+-Yani Amerika'ya adam mı yollayacaklar sence?
+-Evet, ama görevi verebilecekleri kadar güvendikleri ve Amerika'dan ban yememiş biri var mıdır bilmiyorum. Bizim bölümdeki herkes Sovyet'den kalma yaşlılar veya benim gibi eskiden beri sistemin içinde olan 3-5 kişi.
+Masadaki kağıdı alıp köşesine bir numara, isim ve adres yazan dedektif, masadan kalkıp cama yürüdü ve kağıdı cama dayadı. "Şu numarayı arayın, Müslüm Bey'i isteyip benim adımı verin. Asım Samet'e gidip olayı anlatsınlar, çocuğu korumak için yanına polis molis bir şeyler versinler."  Kağıdı cebine atıp kapıya kadar yürüdü ve açılmasını bekleyip sorgu odasından çıktı. Biraz sonra komiserin ofisinde gelecek adımları konuşan dörtlü, en mantıklı şeyin kadını MİT'e teslim edip olayın peşini bırakmak olduğuna kanaat getirdiler.
 
-
-DEDEKTİFİ ZEHİRLEMEK ÇOCUĞU NASIL ÜLKEYE GERİ DÖNDÜRECEKMİŞ
-
-MERAPİ'DEN NASIL HABERLERİ OLACAK
-
-Rus ajan biraz düşündükten sonra side case 3.4 için airbag olayını anlatıyor, sonra da "bu para yollama olayını nasıl biliyorsunuz" diyince dedektif odaya girip kendisindeki telsizi komiserlerden birine veriyor "öyle herkes yalandan dolandan burs kazanmıyor çünkü, kadın intihar etsin diye oğluna para yollamak garipmiş ama" diyor. Dedektif de "Bu polis beyi kandırabilirsin, 'dul kadını öldürdüm' dersin polis amcalar da işin peşini bırakır, ama ben o kadar kolay bırakmam, bundan başka neler bulabileceğimi merak ediyor musun, deneyelim mi?, o yüzden dikkatli ol bakalım. İyice düşün neyi anlatmadın? Ben her şeyi görüp duyarım." diyor. Rus ajan da dul kadınla ilgili her şeyi anlatıyor sonra dedektif açık kapıdan elini uzatıp yardımcısının tuttuğu çevirmeli telefonu ortaya çıkarıp sorgu masasını üstüne koyuyor: "ahh sayın elçilikte çalışan kişi sizi aradığımı unutmuşum" diyor ve ahizeyi masaya koyuyor, karşı taraftan da "hiç sorun değil, sonuçta size ödeyecek bir borcumuz var" diyorlar. Dedektif "lütfen çekinmeyin siz işlerinize devam edin, sizden sadece 10 dakika daha telefonu açık tutmanızı istiyorum burada güzel bir bayan var da onunla konuştuktan sonra size geri döneceğim. Bayanın bana diğer hikayeyi de anlatıp anlatmamasına göre sizin biraz daha vaktinizi alabilirim ancak" diyor.
+Raporlar arşive gönderilip formaliteyi beklerken sorgunun yorgunluğunu çayla üstlerinden attılar. Dedektif ve Yazar, neredeyse batmaya başlayacak güneşle birlikte karakoldan ayrılırken komiserlerle vedalaştılar.
+-Eee şimdi ne olacak? O kadar iş güç uğraştın bir şeyler çözdün paranı kim verecek?
+"Valla bu seferlik benden oldu gibi. Yavaştan da paramız bitiyor yakında millet tekrar ölmeye başlara işime de gelir. Ama önce gidip bugünün işini halledeyim. Hem hastanede de ödeyecek bir borcum var" dedi arkadaşını durağa bırakıp bisikletine yürümeden önce.

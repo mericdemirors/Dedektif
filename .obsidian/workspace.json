@@ -6,7 +6,7 @@
       {
         "id": "0e3fb70d1c583ba1",
         "type": "tabs",
-        "dimension": 50.43586550435866,
+        "dimension": 51.369863013698634,
         "children": [
           {
             "id": "458355ae5e3b9884",
@@ -27,12 +27,12 @@
       {
         "id": "f4eea69979d31a5d",
         "type": "split",
-        "dimension": 49.56413449564134,
+        "dimension": 48.63013698630137,
         "children": [
           {
             "id": "a1f6952f56f4d680",
             "type": "tabs",
-            "dimension": 32.098765432098766,
+            "dimension": 48.148148148148145,
             "children": [
               {
                 "id": "45a03755f574acea",
@@ -42,9 +42,9 @@
                   "state": {
                     "file": "book/Parallel Timelines.canvas",
                     "viewState": {
-                      "x": -8558.184451596873,
-                      "y": -5337.4720110647495,
-                      "zoom": -0.5698759094874066
+                      "x": 1490.4206532025069,
+                      "y": -3647.376380935005,
+                      "zoom": -1.6752001333236708
                     }
                   },
                   "icon": "lucide-layout-dashboard",
@@ -56,7 +56,7 @@
           {
             "id": "d55ead4b43c1bd69",
             "type": "tabs",
-            "dimension": 67.90123456790124,
+            "dimension": 51.85185185185185,
             "children": [
               {
                 "id": "14eb42b9c6f206ca",
@@ -64,12 +64,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "book/arcs/6 Sayfalar Gösteriyor.md",
+                    "file": "main story/Main Story.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "6 Sayfalar Gösteriyor"
+                  "title": "Main Story"
                 }
               }
             ]
@@ -107,7 +107,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "hastahane",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -128,7 +128,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -218,19 +219,23 @@
   },
   "active": "458355ae5e3b9884",
   "lastOpenFiles": [
-    "book/arcs/6 Sayfalar Gösteriyor.md",
+    "book/Parallel Timelines.canvas",
     "book/chapters/Sayfalar Gösteriyor.md",
+    "main story/Main Story.md",
+    "book/arcs/9 Kanlı Sahil.md",
+    "book/arcs/8 Profesörün Peşinde.md",
+    "characters/dul kadının çocuğu/Dul Kadının Çocuğu.md",
+    "book/arcs/7 Vadideki Tuzak.md",
+    "book/arcs/6 Sayfalar Gösteriyor.md",
+    "book/chapters/Kurabiye Hırsızı.md",
     "book/chapters/Parktaki Ceset.md",
     "book/chapters/Taziye Yemeği ve Hava Yastığı.md",
-    "characters/dul kadının çocuğu/Dul Kadının Çocuğu.md",
     "characters/RBA/RBA (ismail).md",
     "book/chapters/Şifreli Aşk.md",
     "book/arcs/1 Şifreli Aşk.md",
     "characters/ruCoRO russian cosmos research organization/RuCoRO Russian Cosmos Research Organization.md",
-    "book/Parallel Timelines.canvas",
     "characters/russian team/Russian Team.md",
     "side cases/Side Case 3.2 Botulinum'lu yazar (dedektifin şeker kokulu birinin insanları zehirlediğini anlaması için).md",
-    "book/chapters/Kurabiye Hırsızı.md",
     "characters/roman yazarı/Roman Yazarı.md",
     "side cases/Side Case 3.4 zehirsiz dedektif (dedektifin rus ajanı tutuklamak için yeterli kanıtı bulması ve main story'yi öğrenmesi için).md",
     "side cases/Side Case 3.3 antifrizli tamirci (dedektifin zehirlemeler için rus ajandan şüphelenmesi için).md",
@@ -253,13 +258,9 @@
     "book/chapters/lu7403gu4m.tmp",
     "book/Event Timeline.md",
     "book/chapters/lu126995ih4s.tmp",
-    "side cases/Side Case 3.1 ricinli evsiz (dedektifin rusun göz altına alması için).md",
-    "book/arcs/4 Tüplerin Peşinde.md",
     "book/chapters/lu74734aeiu.tmp",
     "book/Arcs.canvas",
-    "main story/66 Hours In Hell.md",
     "characters/komiser yardımcısı/Komiser Yardımcısı.png",
-    "book/arcs/8 Profesörün Peşinde.md",
     "characters/dul kadının çocuğu/Dul Kadının Çocuğu.png",
     "characters/roman yazarı/Roman Yazarı.png",
     "characters/RBA/RBA.png",
