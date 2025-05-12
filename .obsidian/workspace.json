@@ -95,7 +95,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -219,9 +219,9 @@
   "active": "458355ae5e3b9884",
   "lastOpenFiles": [
     "book/arcs/6 Sayfalar Gösteriyor.md",
+    "book/Parallel Timelines.canvas",
     "book/chapters/Sayfalar Gösteriyor.md",
     "main story/Main Story.md",
-    "book/Parallel Timelines.canvas",
     "book/arcs/9 Kanlı Sahil.md",
     "book/arcs/8 Profesörün Peşinde.md",
     "characters/dul kadının çocuğu/Dul Kadının Çocuğu.md",
