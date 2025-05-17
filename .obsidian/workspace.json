@@ -6,7 +6,7 @@
       {
         "id": "0e3fb70d1c583ba1",
         "type": "tabs",
-        "dimension": 51.36986301369862,
+        "dimension": 51.120797011207976,
         "children": [
           {
             "id": "458355ae5e3b9884",
@@ -27,12 +27,12 @@
       {
         "id": "f4eea69979d31a5d",
         "type": "split",
-        "dimension": 48.63013698630138,
+        "dimension": 48.87920298879203,
         "children": [
           {
             "id": "a1f6952f56f4d680",
             "type": "tabs",
-            "dimension": 48.14814814814816,
+            "dimension": 49.477682811016145,
             "children": [
               {
                 "id": "45a03755f574acea",
@@ -42,9 +42,9 @@
                   "state": {
                     "file": "book/Parallel Timelines.canvas",
                     "viewState": {
-                      "x": 1490.4206532025069,
-                      "y": -3647.376380935005,
-                      "zoom": -1.6752001333236708
+                      "x": 1320.7555401131478,
+                      "y": -4099.990174767547,
+                      "zoom": -2.6752553033828734
                     }
                   },
                   "icon": "lucide-layout-dashboard",
@@ -56,7 +56,7 @@
           {
             "id": "d55ead4b43c1bd69",
             "type": "tabs",
-            "dimension": 51.85185185185184,
+            "dimension": 50.522317188983855,
             "children": [
               {
                 "id": "14eb42b9c6f206ca",
@@ -107,7 +107,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Yayın evinde",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -128,7 +128,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -216,11 +217,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "458355ae5e3b9884",
+  "active": "13ff93db1a1aa25f",
   "lastOpenFiles": [
-    "book/arcs/6 Sayfalar Gösteriyor.md",
     "book/Parallel Timelines.canvas",
     "book/chapters/Sayfalar Gösteriyor.md",
+    "book/arcs/6 Sayfalar Gösteriyor.md",
     "main story/Main Story.md",
     "book/arcs/9 Kanlı Sahil.md",
     "book/arcs/8 Profesörün Peşinde.md",
