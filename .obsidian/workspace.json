@@ -42,8 +42,8 @@
                   "state": {
                     "file": "book/Parallel Timelines.canvas",
                     "viewState": {
-                      "x": 1320.7555401131478,
-                      "y": -4099.990174767547,
+                      "x": -10967.15235456785,
+                      "y": -5358.484559180892,
                       "zoom": -2.6752553033828734
                     }
                   },
@@ -107,7 +107,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Yayın evinde",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -128,8 +128,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -217,7 +216,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "13ff93db1a1aa25f",
+  "active": "458355ae5e3b9884",
   "lastOpenFiles": [
     "book/Parallel Timelines.canvas",
     "book/chapters/Sayfalar Gösteriyor.md",
