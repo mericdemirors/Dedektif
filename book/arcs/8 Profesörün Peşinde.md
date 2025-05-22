@@ -20,4 +20,6 @@ Dedektif: Asistanı gördüğüne şaşırmış, ona olanları anlatıyor. "Her 
 
 burada her şey çözüldükten sonra çatışma seslerinin kesildiğini farketsinler ve "kim kazandı bilmiyoruz, ama bizi çağıran sesler gelmediğine göre ya ruslar kazandı ya da iki taraf da hala tamamen ölmedi, gece olunca kalacak bir yer bulalım. Yarın da saklanmaya devam ederiz" diyor dedektif. Saklanacak bir yer buluyorlar ve chapter burada bitiyor.
 
+dedektif bu adada toplam 66 saat kalsın
+
 Bir sonraki chapter "araştırmayı nasıl yayınlayalım, hangi tarafın hayatta kaldığını nasıl öğrenelim" diye konuşmalarıyla başlayıp, biraz aksiyon yaşanıp dedektif de ne kadar zeki olduğunu falan gösterip sonunda kurtulacaklar.
