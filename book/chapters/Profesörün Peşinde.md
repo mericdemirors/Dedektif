@@ -24,8 +24,12 @@ Bir süre sessizce haritayı ve defterini izleyen Asım Samet, ne kadar erken yo
 -Selamlar genç, ben geminin köprü üstü yardımcı telsiz görevlisi. Bizim genç gelip "birileri gemiyi gösterip İngilizce bir şeyler söyledi" diyince gelip görmek istedim.
 -Selamlar, iyi akşamlar. Ben Amerika'dan geliyorum, volkanlar ile ilgili bir araştırma yapıyorum ve bir sonraki durağım Moresby Limanı olacak. Acaba seyahat boyunca gemide çalışmam karşılığında o tarafa gidiyorsanız geminize binebilir miyim?
 -Hmmm, Moresby demek... Kaptanla bir konuşmak lazım aslında ama uyuyorlardır. Sen burada biraz bekle, birazdan geri dönerim ben olup olmayacağına bir bakayım.
+Yanındaki oğlana dönen telsiz görevlisi, hızlıca birkaç cümle emir verip kendisi de yakındaki küçük kulübeye geçti. Karanlık limanda bankta tek kalan genç, iskeledeki hengamenin yavaş yavaş dindiğini ve etraftaki kafa lambalarının sönmüş olduğunu farketti. Yanındaki çantası açıp uykusunu açmak için son enerji içeceğini kafaya dikti. Uzakta belli belirsiz gördüğü az önceki oğlan, kulübenin ışığının altında telsizciyle konuştuktan sonra gemiye geri döndüp karanlıkta kayboldu. Biraz sonra yanına gelen adam, banktaki oğlanı kaldırıp gemiye yürütmeye başladı:
+-Bizim oğlan bakmış, yeterince erzak ve kalacak yerimiz varmış. Ben de uyanık olan en rütbeli kaptanla görüştüm 'gelsin, gemide illaki iş çıkar fazladan bir elin yardımı dokunur' dedi. Çantanı boşaltabildiğin kadar boşalt, büyük gemilerde ne kadar az yer kaplarsan o kadar rahat hareket edersin.
+İskelenin kenarına gelen adam, en yakındaki çöpü işaret edip rampayı tırmanmaya başladı:
+-Yukarıda seni bekliyorum gece yarısı yola çıkıyoruz çantanı boşaltıp beni bul, diyip omzunun üstünden karanlıktaki oğlana seslendi, "Hem anlatacak bir hikayen varsa dinlemek güzel olur sonuçta bu yol çekilmez"
+"Niye ki! Ne kadar sürüyor yol?" diye bağırdı çantasını çıkarıp çöpe yürüyen oğlan, rampanın tepesindeki adama.
+-Nereden baksan bir haftaya yakın! Hadi hızlı, daha odanı ve ranzanı göstereceğim!
+Çantasını hızlı hızlı karıştırıp atacak bir şeyler arayan Asım Samet, sonunda ancak birkaç kıyafet ve kamp malzemesini gözden çıkarıp kalanları çantasını olabildiğince sıkıştırdı. Koşarak rampaya çıkan genç, sallanan gemiye yaklaştıkça uykusunu kaçıran heyecandan yerinde duramamaya başladı. Bir yandan kafa lambasıyla aydınlatılan rampayı kaymadan çıkarken bir yandan da haritaya attığı işaretleri hatırlamaya çalışıyordu. Lamington Dağı'na düşündüğünden daha geç gidecek olması profesörü tamamen kaçıracağı anlamına geliyordu, Yine de en yakın ikinci dağ Tavurvur yine aynı bölgede bulunuyordu. Her halükarda Moresby Limanı'na gitmesi gerekiyordu. Eğer adamın söylediği gibi 7 gün bile sürecek olsa orada yakalayabilme şansı vardı.
 
-
-
-
-Yanındaki ingilizce konuşamayan çocuğa bir şeyler söyleyip onu erzak kontrol etmesi için yollayacak kendisi de kaptan köşküne çıkıp uyanık bir yetkili var mı diye bakacak. Sonra Asım Samet'e "olur gel bin gemiye, hem anlatacak bir hikayen varsa dinlemek güzel olur sonuçta bu yol çekilmez" diyor. Asım da "ne kadar sürüyor ki" diyor bizim eleman "nerden baksan 7 günümüz var" diyince Asım üzülüyor, "neyse, ikinci dağ Tavurvur'da o taraftaydı 5 günde bir yeni dağa geçiyorsak ona yetişirim" diyor.
+Burada adamla gezerken gemiyi tanıyalım, bizim oğlandan da o sırada hikayesini ve ne yaptığını açıklasın
