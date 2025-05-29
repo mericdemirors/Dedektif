@@ -48,9 +48,35 @@ Yemekhaneye önden ilerleyen telsizciye duvarlardan destek alarak yetişmeye ça
 
 * 1995-04-29 08:00
 Uzaktan sisler içinde görünen küçük adayı geçip kıyıya daha da sokulunca, etrafı cılız dürekler üstünde duran yüzlerce belki de binlerce küçük kulübe gibi evlerle çevrilmiş sahil şeriti kendini gösterdi. Birkaç dakika sonra sis de yavaş yavaş ortadan kalkarken, geminin sağ tarafında geride bıraktığı yarımadanın karayla bağlandığı uzun sahil boyunca demir atmış tonla gemi gözüktü. Sabah avına çıkacak olan balıkçılardan beşik gibi sallanan teknesindeki uykusundan uyanan her gemici kıyıya yanaşan koca kargo gemisine selam veriyordu. Güverte korkuluğuna yaslanmış, ıslıkları dinleyen Asım Samet sonunda güverte temizleme işinden emekli olacağı için seviniyordu, ancak bir yandan da tayfayla ve kaptanla yaptığı yarı İngilizce yarı beden dili sohbetlerini özleyeceği için hüzünleniyordu. Geçmiş bir hafta boyunca neredeyse her günü sabah güverteyi silmekle başlayıp, öğle yemeğinden sonra gece uyuyana kadar bulaşık yıkamakla geçmişti. Gemiye ilk adım attığında "fazladan bir elin yardımı dokunur" dediklerinde gerçekten de şaka yapmadıklarını anladı, koca gemide yapacak o kadar çok iş vardı ki görevli sayısı ikiye katlansa bile kimsenin iş yükü azalacak gibi durmuyordu. Kendisine yaklaşan adımları duyması üzerine sırtını korkuluğa dayayıp güverteye dönünce oda arkadaşını gördü. İlk günkü karşılaşmaları her ne kadar komik bir ilk izlenim bırakmış olsa da ömürlük bir dostmuşçasına yakınlardı artık. Daha önce adını bile duymadığı Solomon Adaları diye bir yerden geliyordu, kendisinden birkaç yaş küçük olmasına rağmen tam bir abi edasıyla her konuda yardımına yetişiyordu. Birlikte bulaşık yıkarken İngilizce sohbet edebileceği birini bulduğu için kendisi şanslı hissetmişti, üstüne bir de dinlediği hikayeler merak uyandırıcıydı, sonuçta daha önce hiç kimseden ülkesinin bağımsızlık kazanma anısını dinlememişti. Çocukluğundan başlayarak balıkçılık ile evinden nasıl ayrıldığını ve gemi gemi iş aradıktan sonra koca kargo gemisinde çalışmaya başlamasına kadar hayatının detaylı bir özetini dinlemişti hep. Şimdi ise tatlı ayrılık vakti gelmiş, bu sabah silinmemiş güvertenin kargo teslimi için hazırlanmasını izliyorlardı sessizce. Etraftaki bağırışların artması ve gittikçe hızlanıp bir anda yavaşlamaya başlayan ritmik bir metalik sesten demir atıldığını anladılar. Derin bir iç çekerek son günün acımasız yüküne mental olarak hazırlanan genç, kendisine Amerika'yı ve daha bir çok bilmediği şeyi anlatan bir haftalık arkadaşına dönüp elini uzattı. Ağır aksanlı bir İngilizce'yle ona aramasında bol şans diledikten sonra olmayan şapkasıyla sert bir gemici selamı verdi yüzünde buruk bir gülümsemeyle güvertede çalışan tayfaya katıldı.
+Güvertede ayak altında dolanmamak için odasına geri dönen genç, geceden topladığı çantasını sırtına alıp odasına son bir kez daha baktı ve kaptan köşküne doğru yola çıktı. Bir süre kaptan ve telsizcinin demirleme sürecini yönetmelerini izledikten sonra dikkatlerin kendisine yönelmesini bekledi ve söze girdi:
+-Müsait olduğunuzda sizden son bir iyilik isteyebilir miyim?
+-Ooo Kebab, tabii tabii ne demek. Seni çok az daha bekleteceğiz kusura bakma.
+Liman trafik kontrolünden son onayları aldıktan sonra iskele ekibiyle konuştular ve gemiyi sağlama alınmasını beklediler. Prosedürleri hızlıca halleden telsizci, komutayı kaptana devredip genci yanına çağırdı ve güverteye çıktılar.
+-Söyle bakalım Kebab, neymiş bu son istek? Haftalık yevmiye falan mı isteyeceksin?
+Cebinden çıkardığı haritadan Yeni Britanya Adası'nın en doğu kısmını gösterdi.
+-Size de anlattığım gibi takip ettiğim profesörüme ulaşabilmem için şuradaki bir dağa gitmem gerekiyor. Acaba limanda bir telsiz anonsu geçip o yöne giden biri var mı sorabilirseniz gerçekten çok iyi olur.
+Haritayı gencin elinden alıp inceleyen adam korkuluğa yaklaşıp limana doğru bir göz attı. Harita ve liman arasında gözleriyle birkaç kez git gel yaptıktan sonra haritayı katlayıp geri verdi, gencin omzunu sıvazlayıp kendisini takip etmesini söyledi. Telsiz odasına girip birkaç düğme çevirip şalter kaldırdıktan sonra eline aldığı telsizden birkaç cümle tekrar edip cevap bekledi. Anlaşılması imkansız cızırtılı bir cevabın ardından tekrar telsizi ağzına götürüp, gencin içinden sadece "New Britain" dendiğini seçebildiği hızlı bir soru sordu. Az önceki cızırtı, hızlı net bir cevap verdi ve telsiz odasını bir sessizlik sardı. Telsizi elinde havaya atıp tutan adam, dirseklerini sandalyesinin sırtına yaslayıp önündeki masaya eğildi ve bir kağıt kalem çekti önüne. Telsizi birkaç kez hoplattıktan sonra sonunda kısa bir cızırtıyla irkilen adam telsizi masaya koyup not alırken dinlemeye başladı. Anlaşılmaz cızırtı ve konuşmaya yeni dahil olmuş tiz bir ses, karşılıklı konuşurken bir yandan not alan telsizci önündeki kağıda hızlıca bir kaç satır yazdı. Kısa bir süre daha devam eden bu anlaşılmaz soru cevap bitince telsizini eline alan adam iki tarafa da teşekkür edip kağıdı gence uzattı.
 
-Kaygan rampadan iskeleye inen genç, kıyı şeridinden içeri doğru koşar adım şehre ilerleyip en yakın araç kiralama acentesini sorup soruşturdu. Yeni açılan büroda vezne arkasındaki uykulu adamın, ingilizce bilen bir meslektaşını çağırmasını beklerken çantasından cüzdanını aldı ve haftalık yevmiyesini saymaya başladı. En azından birkaç günlük işini görebilsin diye kaptan ve telsizci tayfa herkes gönlünden kopanı birleştirmişti. Dil bariyerinden kaynaklı gerekenden daha uzun süren bir kiralama prosedüründen sonra anahtarları alan genç, eski ama güvenilir görünümlü cipine bindi. Konuşulanları çok anlamamıştı ama kazıklandığından oldukça emindi, sigortasıydı deposuydu tartışacak vakti olmadığından parayı verip çıkmıştı. Kontağı çevirip depo ibresinin kalkmasını görmesiyle rahatlayıp, torpido gözündeki haritayı direksiyonun üstüne açtı. Zaten eğitiminde gittiği saha gezilerinden haritaları okuma konusunda iyiydi, üstüne bir de gemideki koridor labirentindeki eğitimlerinden sonra artık tam bir uzman olmuştu. Saniyeler içinde haritayı ve rotayı hafızasına kopyalayıp yola çıktı.
 
-gemiden inip mount lamingtonu kontrol ediyor kimseyi göremiyor tekrar limana iniyor.
+
+
+
+
+202-ASX&RBA
+
+
+
+
+
+
+
+-Liman trafikle konuştum, bugün o tarafa giden biri varmış. Birkaç saat içinde de çapa çekecekmiş. İskele numarasını ve botun adını yazdım sana. Şansına da kaptan ingilizce konuşuyormuş, eee o zaman yolun açık olsun Kebab. Tekrar başka başka limanlarda görüşmek üzere diyelim.
+Kağıdı alıp cebine atan genç, adamın uzattığı elini sıkıp kuvvetlice salladı. Telsizciye tekrar teşekkür edip vedalaştı ve çantasını sırtına vurup 202 numaralı iskeleyi aramak üzere limana indi.
+
+
+
+
+Burada dağa tırmanacak, profesörün arkasında bıraktığı izlere benzer bir şey bulamayınca geri inecek. sonra arabayı teslim edip limana dönecek.
 Gemiye çıkıp kaptana gidiyor "usta bi sorsana burada tavurvur'a gidecek biri var mıymış" diyor sonra ranza arkadaşına yükleme de yardım ediyor.
 Biraz sonra kaptan ve telsizci geri gelip "böyle böyle bir gemi varmış, öğlen yola çıkıyormuş haberin olsun koş onu yakala" diyorlar.
+O adamla buluşup öğle yemeği yiyor.
