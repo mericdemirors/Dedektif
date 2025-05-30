@@ -75,11 +75,17 @@ Kağıdı alıp cebine atan genç, adamın uzattığı elini sıkıp kuvvetlice 
 
 -İyi günler, siz Bay Gerrard mısınız?
 -Evet buyrun, dedi kutuları gemiye taşımayı bitiren adam.
--Ben Asım Samet, az önce telsizde Yeni Britanya'nın doğusuna gitmek için konuşmuştuk.
--Asım Samet mi, diye sordu tekneye çıkmış kutuları boşaltan adam. Şişe şişe suyu koltukların altına stokladıktan sonra arka cebinden bir kağıt çıkarıp iskelede bekleyen gence döndü. "Bana başka bir isim verdiler ama, senden başka gelecek biri daha mı var, veya göbekadın falan mı?"
+-Ben Asım Samet, az önce telsizde konuşmuştuk.
+-Asım Samet mi, diye sordu tekneye çıkmış kutuları boşaltan adam. Şişe şişe suyu koltukların altına stokladıktan sonra arka cebinden bir kağıt çıkarıp iskelede bekleyen gence döndü. "Bana başka bir isim verdiler ama, senden başka gelecek biri daha var mı?"
 Duyduklarına inanamayan genç, çantasını indirip dar göğüs cebinden pasaportunu çıkartmaya çalıştı:
--Nası yani, az önce konuştuk ya. 10 dakika ya oldu ya olmadı. Tekrar bir kontrol etseniz ismimi?
+-Nası yani, az önce konuştuk ya. 10 dakika ya oldu ya olmadı. Lütfen tekrar bir kontrol etseniz ismimi?
 Teknede yer açmak için boş kutuları iskeleye indiren adam, pasaportunu uzatan çocuğun yanına geldi. Başını sallayıp genci uzattığı elini nazikçe indirip omzuna elini koydu:
--Üzgünüm evlat, bana başka bir isim verdiler. Çok yakında da yola çıkacağım, eğer beklediğim kişi gelmezse o zaman senle yola çıkarım olur mu?
+-Üzgünüm evlat, ben başka biriyle anlaştım. Çok yakında da yola çıkacağım, eğer beklediğim kişi gelmezse o zaman senle yola çıkarım olur mu?
 -Çok iyi olur teşekkürler, diyen genç teknenin yanına gidip boş kutulardan birine oturdu ve gelen var mı diye iskeleyi taradı. Etraf boş gözüküyordu. "Bir el atayım mı, taşınacak daha kutu var mı?"
 "Yok sağ olasın, bununla birlikte her şey tamam", elindeki kutuyu da diğerlerinin yanına koyan adam saatini kontrol edip ellerini gözüne siper ederek etrafı tarafı. Kutuları düzenleyip tekleye geri döndü ve motoru çalıştırıp kokpitten iskelede oturmuş çocuğa gelmesini işaret etti.
+-Elin köylü balıkçısını bekleyemem kusura bakmasın, en azından eli yüzü düzgün bir çocuğa benziyorsun atla. Nereye gidiyordun bu arada hiç de konuşmadık ama.
+-Yeni Britanya'nın doğusuna gidiyorum, siz de öyle değil mi?
+-Evet evet doğru geldin o zaman. Şansına şu eleman da gelmedi yer sana kaldı. Gözüm tutmamıştı zaten, sağdan soldan bağlantısını kullanıp öyle bedavaya seyahat etmek olur mu hiç. Cebinden çıkardığı kağıdı kırıştırıp denize sallayan adam son kez sağı solu kontrol ettikten sonra gaza bastı, "Amına koduğumun kebabı seni, ortaya çıkmazsan böyle yerini kaparlar, seni mi bekleyecem ben amcık."
+Oturduğu koltukta kaptanın sözlerini duymamış gibi etrafını izleyen çocuk, çantasını çıkarıp ayak ucuna koydu ve defterini açtı. Kargo gemisinde geçirdiği bir hafta boyunca ne kadar mesafe ne kadar sürede katedilir az biraz tahmin edebilmeye başlamıştı. Bu tekne de koca gemiden az biraz daha hızlı hissettiriyordu, bugün gece civarı varırlardı sanırım. Tabii eğer yolda bir yerlerde duracaklarsa veya başka bir limana demir atacaklarsa dağa varması yarın öğleni bulabilirdi. Şimdilik üstüne düşünecek bir şey yoktu, birazdan açık sulara çıkınca kaptana sorardı. Kafasındaki mental yükten kurtulmuş genç, arkasına yaslandı ve geminin dalgalarla inip kalkan burnunun ritminde sallanarak ufka daldı.
+
+Burada kaptanla biraz konuşsun, kaptan "olmaz, yaptığım görev çok gizli, sana bir şey söyleyemem" desin. Bizim eleman da kaptanın belindeki tabancayı görüp biraz kıllansın. Sonra da su ve kumanyalar nerde diye sorsun, adam "sağdaki koltukların altında" diyince gidip orayı açsın, orada tüfek bulsun, kaptan "buldun mu" diye sorunca diğer tarafı açsın "buldum buldum" desin. Bizim kaptan da "soldaki koltukları açma, orada pasaportum ve belgelerim falan var bu rüzgarda dağılırlarsa koca okyanustan geri toplamak imkansız" desin ve direksiyonu bırakıp yerdeki kumanya kutusunu soldaki koltuğun üstüne koysun. "Hah oldu işte" desin. Asım Samet de sol koltukta gördüğü tüfektek iyice kıllanıp ne yapacağını bilemesin.
