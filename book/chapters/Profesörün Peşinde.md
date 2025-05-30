@@ -73,10 +73,13 @@ Haritayı gencin elinden alıp inceleyen adam korkuluğa yaklaşıp limana doğr
 -Liman trafikle konuştum, bugün o tarafa giden biri varmış. Birkaç saat içinde de çapa çekecekmiş. İskele numarasını ve botun adını yazdım sana. Şansına da kaptan ingilizce konuşuyormuş, eee o zaman yolun açık olsun Kebab. Tekrar başka başka limanlarda görüşmek üzere diyelim.
 Kağıdı alıp cebine atan genç, adamın uzattığı elini sıkıp kuvvetlice salladı. Telsizciye tekrar teşekkür edip vedalaştı ve çantasını sırtına vurup 202 numaralı iskeleyi aramak üzere limana indi.
 
-
-
-
-Burada dağa tırmanacak, profesörün arkasında bıraktığı izlere benzer bir şey bulamayınca geri inecek. sonra arabayı teslim edip limana dönecek.
-Gemiye çıkıp kaptana gidiyor "usta bi sorsana burada tavurvur'a gidecek biri var mıymış" diyor sonra ranza arkadaşına yükleme de yardım ediyor.
-Biraz sonra kaptan ve telsizci geri gelip "böyle böyle bir gemi varmış, öğlen yola çıkıyormuş haberin olsun koş onu yakala" diyorlar.
-O adamla buluşup öğle yemeği yiyor.
+-İyi günler, siz Bay Gerrard mısınız?
+-Evet buyrun, dedi kutuları gemiye taşımayı bitiren adam.
+-Ben Asım Samet, az önce telsizde Yeni Britanya'nın doğusuna gitmek için konuşmuştuk.
+-Asım Samet mi, diye sordu tekneye çıkmış kutuları boşaltan adam. Şişe şişe suyu koltukların altına stokladıktan sonra arka cebinden bir kağıt çıkarıp iskelede bekleyen gence döndü. "Bana başka bir isim verdiler ama, senden başka gelecek biri daha mı var, veya göbekadın falan mı?"
+Duyduklarına inanamayan genç, çantasını indirip dar göğüs cebinden pasaportunu çıkartmaya çalıştı:
+-Nası yani, az önce konuştuk ya. 10 dakika ya oldu ya olmadı. Tekrar bir kontrol etseniz ismimi?
+Teknede yer açmak için boş kutuları iskeleye indiren adam, pasaportunu uzatan çocuğun yanına geldi. Başını sallayıp genci uzattığı elini nazikçe indirip omzuna elini koydu:
+-Üzgünüm evlat, bana başka bir isim verdiler. Çok yakında da yola çıkacağım, eğer beklediğim kişi gelmezse o zaman senle yola çıkarım olur mu?
+-Çok iyi olur teşekkürler, diyen genç teknenin yanına gidip boş kutulardan birine oturdu ve gelen var mı diye iskeleyi taradı. Etraf boş gözüküyordu. "Bir el atayım mı, taşınacak daha kutu var mı?"
+"Yok sağ olasın, bununla birlikte her şey tamam", elindeki kutuyu da diğerlerinin yanına koyan adam saatini kontrol edip ellerini gözüne siper ederek etrafı tarafı. Kutuları düzenleyip tekleye geri döndü ve motoru çalıştırıp kokpitten iskelede oturmuş çocuğa gelmesini işaret etti.
