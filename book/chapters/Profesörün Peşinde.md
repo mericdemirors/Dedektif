@@ -1,3 +1,8 @@
+KARGO GEMİSİNE GEMİ DE, KÜÇÜK TEKNEYE TEKNE DE
+KARGO GEMİSİNE GEMİ DE, KÜÇÜK TEKNEYE TEKNE DE
+KARGO GEMİSİNE GEMİ DE, KÜÇÜK TEKNEYE TEKNE DE
+KARGO GEMİSİNE GEMİ DE, KÜÇÜK TEKNEYE TEKNE DE
+KARGO GEMİSİNE GEMİ DE, KÜÇÜK TEKNEYE TEKNE DE
 * 1995-04-21 23:00
 Şehir dışında pansiyonvari odasında yatağa uzanmış Asım Samet, telefonu çaldığında daldığı derin düşüncelerden sıyrıldı. Geçmiş birkaç gün boyunca ekonomi modunda yaşamış olmak olayın ciddiyetini tekrar ortaya çıkarmış ve aklını başına getirmişti. Belki de hesabında bir hata vardı ve gelecek kargoyu sonsuza kadar küflü bir pansiyonda beklemektense artık geri dönmek daha gerçekçi gözüküyordu. Bu tip düşünceler aklında dolanırkın gelen telefon bildirimini ve gönderen numarayı okumasıyla yatakta doğrulması bir oldu.
 Yanı başındaki komodinden defterini ve Dünya haritasını çıkarıp mesajı açtı, mesajdaki şakaları ve günlük olayları atladı; kargoyu teslim eden yeni genç çalışanla ilgili birkaç şakayı okuduktan sonra kapsül fotoğrafındaki etikete yakınlaştırıp haritada aramaya başladı.
@@ -55,7 +60,7 @@ Haritayı gencin elinden alıp inceleyen adam korkuluğa yaklaşıp limana doğr
 Kağıdı alıp cebine atan genç, adamın uzattığı elini sıkıp kuvvetlice salladı. Telsizciye tekrar teşekkür edip vedalaştı ve çantasını sırtına vurup 202 numaralı iskeleyi aramak üzere limana indi.
 
 -İyi günler, siz Bay Gerrard mısınız?
--Evet buyrun, dedi kutuları gemiye taşımayı bitiren adam.
+-Evet buyrun, dedi kutuları tekneye taşımayı bitiren adam.
 -Ben Asım Samet, az önce telsizde konuşmuştuk.
 -Asım Samet mi, diye sordu tekneye çıkmış kutuları boşaltan adam. Şişe şişe suyu koltukların altına stokladıktan sonra arka cebinden bir kağıt çıkarıp iskelede bekleyen gence döndü. "Bana başka bir isim verdiler ama, senden başka gelecek biri daha var mı?"
 Duyduklarına inanamayan genç, çantasını indirip dar göğüs cebinden pasaportunu çıkartmaya çalıştı:
@@ -67,7 +72,7 @@ Teknede yer açmak için boş kutuları iskeleye indiren adam, pasaportunu uzata
 -Elin köylü balıkçısını bekleyemem kusura bakmasın, en azından eli yüzü düzgün bir çocuğa benziyorsun atla. Nereye gidiyordun bu arada hiç de konuşmadık ama.
 -Yeni Britanya'nın doğusuna gidiyorum gezmek ve kamp yapmak için, siz?
 -İyi bakalım doğru geldin o zaman ben de o tarafa gidiyorum. Şansına şu eleman da gelmedi yer sana kaldı. Gözüm tutmamıştı zaten, sağdan soldan bağlantısını kullanıp öyle bedavaya seyahat etmek olur mu hiç. Cebinden çıkardığı kağıdı kırıştırıp denize sallayan adam son kez sağı solu kontrol ettikten sonra gaza bastı, "Amına koduğumun kebabı seni, ortaya çıkmazsan böyle yerini kaparlar, seni mi bekleyecem ben amcık."
-Oturduğu koltukta kaptanın sözlerini duymamış gibi etrafını izleyen çocuk, çantasını çıkarıp ayak ucuna koydu ve defterini açtı. Kargo gemisinde geçirdiği bir hafta boyunca ne kadar mesafe ne kadar sürede katedilir az biraz tahmin edebilmeye başlamıştı. Bu tekne de koca gemiden az biraz daha hızlı hissettiriyordu, bugün gece civarı varırlardı sanırım. Tabii eğer yolda bir yerlerde duracaklarsa veya başka bir limana demir atacaklarsa dağa varması yarın öğleni bulabilirdi. Şimdilik üstüne düşünecek bir şey yoktu, birazdan açık sulara çıkınca kaptana sorardı. Kafasındaki mental yükten kurtulmuş genç, arkasına yaslandı ve geminin dalgalarla inip kalkan burnunun ritminde sallanarak sahile vurup çekilen dalgaları izlemeye daldı.
+Oturduğu koltukta kaptanın sözlerini duymamış gibi etrafını izleyen çocuk, çantasını çıkarıp ayak ucuna koydu ve defterini açtı. Kargo teknesinde geçirdiği bir hafta boyunca ne kadar mesafe ne kadar sürede katedilir az biraz tahmin edebilmeye başlamıştı. Bu tekne de koca tekneden az biraz daha hızlı hissettiriyordu, bugün gece civarı varırlardı sanırım. Tabii eğer yolda bir yerlerde duracaklarsa veya başka bir limana demir atacaklarsa dağa varması yarın öğleni bulabilirdi. Şimdilik üstüne düşünecek bir şey yoktu, birazdan açık sulara çıkınca kaptana sorardı. Kafasındaki mental yükten kurtulmuş genç, arkasına yaslandı ve teknenin dalgalarla inip kalkan burnunun ritminde sallanarak sahile vurup çekilen dalgaları izlemeye daldı.
 
 Yaklaşık birkaç saattir takip ettikleri kıyı şeridinin sonuna gelmişlerdi, artık ufukta göz alabildiğince iki mavinin buluşması sarıyordu. Şimdiye kadar sessiz sakin bir yolculuk olmuştu, adamın kemeri altından gözüken tabanca kabzası gözüne takıldığından beri dikkatini okyanustan tarafa veren Asım Samet; bir an önce Tavurvur'a gidip bu adamla yollarını ayırmak istiyordu gözü tutmamıştı. Ama yolculuk sırasında da yemek yiyebilmeyi umuyordu, belki biraz sohbet edip yakınlaşmalıydı kutu kutu yemeklerden bir lokma isteyebilmek için. Gencin aklında bu düşünceler dolanırken kaptan koltuğundan kalkıp kokpite geçti, göstergeleri ve rotayı kontrol ettikten sonra dümeni yavaş yavaş sola çevirmeye başladı:
 -Soldaki koltukların altından birkaç konserve çıkarsana, rotayı tekrar sabitledikten sonra yolumuz uzun. Dümdüz giderken yemeğimizi yiyelim.
@@ -82,4 +87,21 @@ Gencin teşekkürüne başıyla karşılık veren kaptan, kendi konservesini de 
 
 
 * 1995-04-29 21:00
-adaya yaklaşıyorlar, adam hazırlanıyor ve oğlana bir tane daha konserve ile su veriyor bende fazladan var en azından yarın öğle yemeğin olur diye bunlar lagüne demir atınca da bir terslik var diyorlar ve vuruluyorlar
+"Birazdan varmış oluruz, eşyalarını kontrol et teknede bir şeyin kalmasın." dedi başını uzatan kaptan.
+Teknenin kokpitinden sızan loş ışığın altındaki genç, etrafı kolaçan edip çantasındakileri kontrol etti. Her şeyi tamdı, ancak hala okyanusu gömmüş karanlıkta adayı göremiyordu. Teknenin önünü görebilmek için kokpite geçip dümendeki kaptanın yanında durdu.
+-Ada ne tarafta, karanlıkta gözükmüyorsa nasıl bulacaksın?
+Boştaki eliyle karşı tarafı gösterip anlatmaya başladı:
+-Güneş battıktan sonra gemicilerin nasıl yollarını bulduklarını biliyor musun? Ay varsa Ay'a, yıldız varsa yıldızlara bakarlar diye anlatılan çok hikayeler vardır ancak bu yöntemler her zaman kullanılamaz. Her zaman kullanılabilen bir yöntem var, ay ışığı yıldız ışığı daha da yardımcı olur ancak sadece küçük bir ışık bile işini görür. Önümüzdeki sularda ne görüyorsun?
+-Dalgalar var sadece, başka bir şey yok.
+teknenin iki yanını gösterip devam etti:
+-Solda ve sağda ne görüyorsun? Zifiri karanlık değil mi? Uzaklarda dalgalar bile gözükmüyor değil mi? Yansımaları göremediğin yerlerde adalar var çünkü. Haritalarla aran nasıl bilmiyorum, şu anda sol tarafımızda Yeni Britanya, sağ tarafımızda da Yeni İrlanda var şu anda.
+-O zaman soldaki kıyıya yaklaşmamız gerekmez mi, niye hala devam ediyoruz?
+-İki ada arasındaki boğaza gireli biraz oldu, birazdan da karşımıza "Duke of York Islands" adaları çıkmalı. Onları görür görmez sol tarafa yanaşmaya başlarsak tam lagünün olması gerektiği yerine varacağız.
+Etrafı daha dikkatli izlemeye başlayan genç, ön taraftaki ufuk tekneye yaklaşmaya başlayınca kaptan dömeni sola kırdı.
+-Az sonra demir atmış oluruz, şu dolaptan bir su al, bir de konserve at çantana yanında bulunsun ihtiyacın olursa diye. Sabahlamak istersen teknede de kalabilirsin sorun etmem ben de zaten demir atıp uyuyacağım.
+Yavaşlayan tekneden gelen motor sesi, dalgaların vurduğu sessiz kıyıda yankılanıyordu. Ara sıra esen rüzgarla hışırdayan çalılar dalgalara zıt sallanıyorlardı. Karşı kıyıdaki kumlu sahilin üzerinde cılız cılız parıldayıp sönen ışıklar, lagünde demir atmış teknenin gövdesinden sekiyordu. Toprak kıyıya atlayan genç teknenin lambası sönmeden çadırını açıp kurdu, eşyalarını çadırın yanına yerleştirip tekrar tekneye döndü. Kaptanın da son kontrolleri yapmasını bekleyip elini uzatıp teşekkür etti. Teşekkür faslı bittikten sonra teknenin lambası kapandı ve el fenerini yakan genç tekneden iniyordu ki... Uzaktan bir ıslık duyuldu, ve teknenin içinde bir şeyler yere düştü. Fenerini kokpite tutan genç etrafta kaptanı göremeyince tekrar tekneye çıkıp kaptana seslendi. Ses gelmeyince kokpite girdi.
+Yerde şekilsiz bir biçimde uzanmış, kaptanı görür görmez etraf birbirine girmeye başladı. Camlar patladı, sular şıpırdadı, çok kısa süren bu kaosun içinde kendini kaptanın yanına atıveren genç; fenerin ışığında yanına uzanmış kendisini izleyen kaptanın yüzünü gördü. Daha doğrusu yüzünün alt yarısını... Sağ şakağındaki derin siyah delikten damlayan kan zeminde ritim tutuyordu. Teknenin yavaştan yana yatmasıyla üzerine yuvarlanan kaptanı fırlatan genç; neler olduğunu hiç anlamadan, devam eden vızıltılar eşliğinde tekneden atlayıp çadırına koştu. Önce arkasından havaya kalkan su, sonra da kıyıda onu takip eden topraktan uzaklaşmak için son sürat koşarak çantasını kaptı ve ormana daldı.
+
+
+
+ertesi gün birden etrafı amerikan askerleri basıyor ve tekrar bir çatışma oluyor. Asistan, o çatışma arasında profesörün kaçtığını görüyor ve onu bulmaya gidiyor. Aslında dedektif de oraya gelmiş bu üçü buluşuyorlar.
