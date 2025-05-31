@@ -1,15 +1,3 @@
-21 nisan gece
-Bronzlaşmış çocuk odasında yatarken arkadaşından mesaj geliyor (amerika'da saat sabahın 9'u, endonezya'da saat gece 23.) Bizim eleman düşünmeye başlıyor, "buraları buraları gezdiyse bir sonraki dağlar şunlardan biri olabilir" diyor. Biletlere bakıyor, "buradan sonrasında artık param kalmadı sayılır" diyip limana gidiyor büyük kargo gemilerine soruyor port moesby'ye gidecek var mı diye biriyle anlaşıyor
-
-22 nisan sabah yola çıkıyorlar
-
-29 nisan sabah varıyor, mount lamingtonu kontrol ediyor kimseyi göremiyor tekrar limana iniyor. limanda tavurvur'a gidecek birini ararken lokallerden biri "geçen bi gemi geldi ona bir git istersen o da senin gideceğin yerden geliyordu, geri dönecekse onunla gidersin belki" diyor.
-
-29 nisan öğlen asistan tavurvur'a yola çıkıyor
-
-29 nisan gece gibi sahile varıyorlar
-
-
 * 1995-04-21 23:00
 Şehir dışında pansiyonvari odasında yatağa uzanmış Asım Samet, telefonu çaldığında daldığı derin düşüncelerden sıyrıldı. Geçmiş birkaç gün boyunca ekonomi modunda yaşamış olmak olayın ciddiyetini tekrar ortaya çıkarmış ve aklını başına getirmişti. Belki de hesabında bir hata vardı ve gelecek kargoyu sonsuza kadar küflü bir pansiyonda beklemektense artık geri dönmek daha gerçekçi gözüküyordu. Bu tip düşünceler aklında dolanırkın gelen telefon bildirimini ve gönderen numarayı okumasıyla yatakta doğrulması bir oldu.
 Yanı başındaki komodinden defterini ve Dünya haritasını çıkarıp mesajı açtı, mesajdaki şakaları ve günlük olayları atladı; kargoyu teslim eden yeni genç çalışanla ilgili birkaç şakayı okuduktan sonra kapsül fotoğrafındaki etikete yakınlaştırıp haritada aramaya başladı.
@@ -59,14 +47,7 @@ Haritayı gencin elinden alıp inceleyen adam korkuluğa yaklaşıp limana doğr
 
 
 
-
-
-
 202-ASX&RBA
-
-
-
-
 
 
 
@@ -84,8 +65,21 @@ Teknede yer açmak için boş kutuları iskeleye indiren adam, pasaportunu uzata
 -Çok iyi olur teşekkürler, diyen genç teknenin yanına gidip boş kutulardan birine oturdu ve gelen var mı diye iskeleyi taradı. Etraf boş gözüküyordu. "Bir el atayım mı, taşınacak daha kutu var mı?"
 "Yok sağ olasın, bununla birlikte her şey tamam", elindeki kutuyu da diğerlerinin yanına koyan adam saatini kontrol edip ellerini gözüne siper ederek etrafı tarafı. Kutuları düzenleyip tekleye geri döndü ve motoru çalıştırıp kokpitten iskelede oturmuş çocuğa gelmesini işaret etti.
 -Elin köylü balıkçısını bekleyemem kusura bakmasın, en azından eli yüzü düzgün bir çocuğa benziyorsun atla. Nereye gidiyordun bu arada hiç de konuşmadık ama.
--Yeni Britanya'nın doğusuna gidiyorum, siz de öyle değil mi?
--Evet evet doğru geldin o zaman. Şansına şu eleman da gelmedi yer sana kaldı. Gözüm tutmamıştı zaten, sağdan soldan bağlantısını kullanıp öyle bedavaya seyahat etmek olur mu hiç. Cebinden çıkardığı kağıdı kırıştırıp denize sallayan adam son kez sağı solu kontrol ettikten sonra gaza bastı, "Amına koduğumun kebabı seni, ortaya çıkmazsan böyle yerini kaparlar, seni mi bekleyecem ben amcık."
-Oturduğu koltukta kaptanın sözlerini duymamış gibi etrafını izleyen çocuk, çantasını çıkarıp ayak ucuna koydu ve defterini açtı. Kargo gemisinde geçirdiği bir hafta boyunca ne kadar mesafe ne kadar sürede katedilir az biraz tahmin edebilmeye başlamıştı. Bu tekne de koca gemiden az biraz daha hızlı hissettiriyordu, bugün gece civarı varırlardı sanırım. Tabii eğer yolda bir yerlerde duracaklarsa veya başka bir limana demir atacaklarsa dağa varması yarın öğleni bulabilirdi. Şimdilik üstüne düşünecek bir şey yoktu, birazdan açık sulara çıkınca kaptana sorardı. Kafasındaki mental yükten kurtulmuş genç, arkasına yaslandı ve geminin dalgalarla inip kalkan burnunun ritminde sallanarak ufka daldı.
+-Yeni Britanya'nın doğusuna gidiyorum gezmek ve kamp yapmak için, siz?
+-İyi bakalım doğru geldin o zaman ben de o tarafa gidiyorum. Şansına şu eleman da gelmedi yer sana kaldı. Gözüm tutmamıştı zaten, sağdan soldan bağlantısını kullanıp öyle bedavaya seyahat etmek olur mu hiç. Cebinden çıkardığı kağıdı kırıştırıp denize sallayan adam son kez sağı solu kontrol ettikten sonra gaza bastı, "Amına koduğumun kebabı seni, ortaya çıkmazsan böyle yerini kaparlar, seni mi bekleyecem ben amcık."
+Oturduğu koltukta kaptanın sözlerini duymamış gibi etrafını izleyen çocuk, çantasını çıkarıp ayak ucuna koydu ve defterini açtı. Kargo gemisinde geçirdiği bir hafta boyunca ne kadar mesafe ne kadar sürede katedilir az biraz tahmin edebilmeye başlamıştı. Bu tekne de koca gemiden az biraz daha hızlı hissettiriyordu, bugün gece civarı varırlardı sanırım. Tabii eğer yolda bir yerlerde duracaklarsa veya başka bir limana demir atacaklarsa dağa varması yarın öğleni bulabilirdi. Şimdilik üstüne düşünecek bir şey yoktu, birazdan açık sulara çıkınca kaptana sorardı. Kafasındaki mental yükten kurtulmuş genç, arkasına yaslandı ve geminin dalgalarla inip kalkan burnunun ritminde sallanarak sahile vurup çekilen dalgaları izlemeye daldı.
 
-Burada kaptanla biraz konuşsun, kaptan "olmaz, yaptığım görev çok gizli, sana bir şey söyleyemem" desin. Bizim eleman da kaptanın belindeki tabancayı görüp biraz kıllansın. Sonra da su ve kumanyalar nerde diye sorsun, adam "sağdaki koltukların altında" diyince gidip orayı açsın, orada tüfek bulsun, kaptan "buldun mu" diye sorunca diğer tarafı açsın "buldum buldum" desin. Bizim kaptan da "soldaki koltukları açma, orada pasaportum ve belgelerim falan var bu rüzgarda dağılırlarsa koca okyanustan geri toplamak imkansız" desin ve direksiyonu bırakıp yerdeki kumanya kutusunu soldaki koltuğun üstüne koysun. "Hah oldu işte" desin. Asım Samet de sol koltukta gördüğü tüfektek iyice kıllanıp ne yapacağını bilemesin.
+Yaklaşık birkaç saattir takip ettikleri kıyı şeridinin sonuna gelmişlerdi, artık ufukta göz alabildiğince iki mavinin buluşması sarıyordu. Şimdiye kadar sessiz sakin bir yolculuk olmuştu, adamın kemeri altından gözüken tabanca kabzası gözüne takıldığından beri dikkatini okyanustan tarafa veren Asım Samet; bir an önce Tavurvur'a gidip bu adamla yollarını ayırmak istiyordu gözü tutmamıştı. Ama yolculuk sırasında da yemek yiyebilmeyi umuyordu, belki biraz sohbet edip yakınlaşmalıydı kutu kutu yemeklerden bir lokma isteyebilmek için. Gencin aklında bu düşünceler dolanırken kaptan koltuğundan kalkıp kokpite geçti, göstergeleri ve rotayı kontrol ettikten sonra dümeni yavaş yavaş sola çevirmeye başladı:
+-Soldaki koltukların altından birkaç konserve çıkarsana, rotayı tekrar sabitledikten sonra yolumuz uzun. Dümdüz giderken yemeğimizi yiyelim.
+Oturduğu koltuktan teknenin zeminine oturan genç yastıkları kaldırıp aralıktan yemekleri aramaya başladı. Görünürde sadece büyük bir tahta kutu ve yanına dizilmiş daha küçük kutular vardı. Konserveleri görmek için yastığı tamamen kaldırınca küçük kutulardan birinin üstündeki etiket aydınlandı. Mühimmat kutusuydu bunlar, o zaman bu büyük kutu da... Evet, korktuğu gibi hafif araladığı tahta kapağın altından parıldayan metali ve etrafını sarmış odun talaşını ve yününü gördü. Panikleyen genç hızlıca kapağı yerine koyup yastıkları eskisi gibi dizdikten sonra omzunun üstünden kaptanı süzdü, görmüş gibi gözükmüyordu.
+-Ha bu arada, bana göre solda kalan koltuğu diyorum sakın diğerini açma. Orada pasaportum ve belgelerim var, rüzgarla bir dağıldı mı imkanı yok toparlayamam.
+Karşı taraftaki koltuğu kaldırıp altından iki konserve fasulye aldıktan sonra kokpite giren genç, kaptanı teknenin hızını azaltmış pürdikkat önlerindeki küçük küçük bir sürü ada arasından sorunsuz sıyrılmaya çalışırken buldu. Tekneyi bir gram bile sallamadan gerçekten de bir usta gibi sürüyordu, bu kadar manevra yaptıklarını hissetmemişti bile; veya az önceki şokun üstüne farketmemişti. Sesini kontrol etmek için boğazını temizleyip kaptanın dikkatini çekti ve konservelerden birini masaya bırakıp başıyla selam verdi ve tekrar koltuğuna geçip kendi konservesini açtı. Biraz sonra teknenin yavaş yavaş hızlandığını hissetmesiyle artık tamamen solda arkalarında kalmış koca adayı izledi. Haritaya göre artık önleri bomboş okyanustu, gece çok geç olmadan varmış olurlardı herhalde. Hızlıca konservesini bitirip ezdi ve bir poşete koyup çöpünü çantasına atıverdi. O sırada kokpitten elinde konservesiyle çıkan adam karşısına oturup, saatini kontrol etti ve elindeki su şişelerinden birini çocuğa verdi:
+-Tahminimce gece yarısından önce varmış oluruz, biraz dinlenmek istersen içeride küçük bir yatak var kıvrılıp yatabilirsin.
+-Teşekkürler böyle iyiyim ben, bu arada siz nereye gidiyorsunuz hiç sorma fırsatım olmadı da. Umarım yolunuzdan çok şaşmıyorsunuzdur benim için.
+-Adanın kuzeyindeki bir lagüne gidiyorum ben de zaten. Çalıştığım şirket için bir araştırma yapmam gerek, gizlilik anlaşmasından da daha fazlasını söyleyemem kusura bakma.
+-Anlıyorum... Yine de teşekkürler, gerçekten çok işime geldi limanda size denk gelmek.
+Gencin teşekkürüne başıyla karşılık veren kaptan, kendi konservesini de bitirip boş tenekeyi omzunu üstünen fırlattı. Koltuğa yarım yamalak uzanıp şapkasını yüzüne indirdi, "Sıkıcı uzun bir yolculuk olacak genç, dümdüz ilerliyoruz artık. Kendine yapacak bir şeyler bulsan iyi olur."
+
+
+* 1995-04-29 21:00
+adaya yaklaşıyorlar, adam hazırlanıyor ve oğlana bir tane daha konserve ile su veriyor bende fazladan var en azından yarın öğle yemeğin olur diye bunlar lagüne demir atınca da bir terslik var diyorlar ve vuruluyorlar
