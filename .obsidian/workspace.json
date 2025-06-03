@@ -6,7 +6,7 @@
       {
         "id": "0e3fb70d1c583ba1",
         "type": "tabs",
-        "dimension": 51.120797011207976,
+        "dimension": 51.99252801992529,
         "children": [
           {
             "id": "458355ae5e3b9884",
@@ -27,7 +27,7 @@
       {
         "id": "f4eea69979d31a5d",
         "type": "split",
-        "dimension": 48.87920298879203,
+        "dimension": 48.00747198007471,
         "children": [
           {
             "id": "a1f6952f56f4d680",
@@ -42,9 +42,9 @@
                   "state": {
                     "file": "book/Parallel Timelines.canvas",
                     "viewState": {
-                      "x": 7702.107385510425,
-                      "y": -5993.382791688811,
-                      "zoom": -1.289296536445617
+                      "x": 8116.3550029047465,
+                      "y": -6110.030140794685,
+                      "zoom": -0.28929653644561704
                     }
                   },
                   "icon": "lucide-layout-dashboard",
@@ -218,9 +218,9 @@
   },
   "active": "458355ae5e3b9884",
   "lastOpenFiles": [
-    "book/arcs/8 Profesörün Peşinde.md",
-    "book/chapters/Profesörün Peşinde.md",
     "book/Parallel Timelines.canvas",
+    "book/chapters/Profesörün Peşinde.md",
+    "book/arcs/8 Profesörün Peşinde.md",
     "book/chapters/Tüplerin Peşinde.md",
     "book/chapters/Taziye Yemeği ve Hava Yastığı.md",
     "book/arcs/2 Kurabiye Hırsızı.md",
