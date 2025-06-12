@@ -38,17 +38,14 @@
                 "id": "45a03755f574acea",
                 "type": "leaf",
                 "state": {
-                  "type": "canvas",
+                  "type": "markdown",
                   "state": {
-                    "file": "book/Parallel Timelines.canvas",
-                    "viewState": {
-                      "x": 8116.3550029047465,
-                      "y": -6110.030140794685,
-                      "zoom": -0.28929653644561704
-                    }
+                    "file": "characters/RBA/RBA (ismail).md",
+                    "mode": "source",
+                    "source": false
                   },
-                  "icon": "lucide-layout-dashboard",
-                  "title": "Parallel Timelines"
+                  "icon": "lucide-file",
+                  "title": "RBA (ismail)"
                 }
               }
             ]
@@ -220,13 +217,15 @@
   "lastOpenFiles": [
     "book/arcs/8 Profesörün Peşinde.md",
     "book/chapters/Profesörün Peşinde.md",
+    "characters/RBA/RBA (ismail).md",
     "book/Parallel Timelines.canvas",
+    "book/arcs/9 Kanlı Sahil.md",
+    "book/chapters/Sayfalar Gösteriyor.md",
     "book/chapters/Tüplerin Peşinde.md",
     "book/chapters/Taziye Yemeği ve Hava Yastığı.md",
     "book/arcs/2 Kurabiye Hırsızı.md",
     "book/arcs/4 Tüplerin Peşinde.md",
     "book/chapters/Parktaki Ceset.md",
-    "book/arcs/9 Kanlı Sahil.md",
     "book/arcs/5 Taziye Yemeği ve Hava Yastığı.md",
     "book/arcs/6 Sayfalar Gösteriyor.md",
     "characters/dul kadının çocuğu/Dul Kadının Çocuğu.md",
@@ -237,14 +236,12 @@
     "book/chapters/Sayfalar Gösteriyor.epub",
     "book/chapters/lu5450e8tl.tmp",
     "book/arcs/3 Parktaki Ceset.md",
-    "book/chapters/Sayfalar Gösteriyor.md",
     "book/chapters/Kapsüllerin Peşinde.epub",
     "book/chapters/lu5327cyd3.tmp",
     "book/chapters/lu402510lq.tmp",
     "book/chapters/Sayfalar Gösteriyor.odt",
     "book/chapters/Parktaki Ceset (copy).odt",
     "book/chapters/Kurabiye Hırsızı.md",
-    "characters/RBA/RBA (ismail).md",
     "book/chapters/Şifreli Aşk.md",
     "characters/ruCoRO russian cosmos research organization/RuCoRO Russian Cosmos Research Organization.md",
     "characters/russian team/Russian Team.md",
