@@ -38,14 +38,17 @@
                 "id": "45a03755f574acea",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
+                  "type": "canvas",
                   "state": {
-                    "file": "characters/RBA/RBA (ismail).md",
-                    "mode": "source",
-                    "source": false
+                    "file": "book/Parallel Timelines.canvas",
+                    "viewState": {
+                      "x": -12221.704574802729,
+                      "y": -6316.716719617029,
+                      "zoom": -0.9387034845352171
+                    }
                   },
-                  "icon": "lucide-file",
-                  "title": "RBA (ismail)"
+                  "icon": "lucide-layout-dashboard",
+                  "title": "Parallel Timelines"
                 }
               }
             ]
@@ -215,19 +218,19 @@
   },
   "active": "458355ae5e3b9884",
   "lastOpenFiles": [
-    "book/arcs/8 Profesörün Peşinde.md",
-    "book/chapters/Profesörün Peşinde.md",
-    "characters/RBA/RBA (ismail).md",
     "book/Parallel Timelines.canvas",
-    "book/arcs/9 Kanlı Sahil.md",
+    "characters/RBA/RBA (ismail).md",
+    "book/chapters/Profesörün Peşinde.md",
     "book/chapters/Sayfalar Gösteriyor.md",
+    "book/arcs/6 Sayfalar Gösteriyor.md",
+    "book/arcs/8 Profesörün Peşinde.md",
+    "book/arcs/9 Kanlı Sahil.md",
     "book/chapters/Tüplerin Peşinde.md",
     "book/chapters/Taziye Yemeği ve Hava Yastığı.md",
     "book/arcs/2 Kurabiye Hırsızı.md",
     "book/arcs/4 Tüplerin Peşinde.md",
     "book/chapters/Parktaki Ceset.md",
     "book/arcs/5 Taziye Yemeği ve Hava Yastığı.md",
-    "book/arcs/6 Sayfalar Gösteriyor.md",
     "characters/dul kadının çocuğu/Dul Kadının Çocuğu.md",
     "book/arcs/7 Vadideki Tuzak.md",
     "main story/Main Story.md",
