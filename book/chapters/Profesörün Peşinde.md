@@ -131,7 +131,18 @@ Başını sallayan dedektif üstündeki yeleği çıkarırken gence cevap verdi:
 -Bana sadece bu yeleği verdiler, profesörü bulunca ona giydir dediler onun dışında ben biraz kendim kaşındım buraya gelmek için onların askerlerinden sayma beni.
 İkili, yeleği profesöre yarım yamalak giydirdikten sonra çantasını taşımasına yardım ederek ormana daldılar. Hala herkesin aklında binlerce soru vardı, Asım Samet neden buradaydı, öylesine bir tatilde denk gelmiş olamazlardı herhalde? Öyleyse profesörü nasıl bulmuştu? Dedektif neden Amerikanlarla birlikteydi, 'beni onlardan sayma, ben kendim geldim' derken veya 'buluşma noktasında beni bekliyorlar' derken neyden bahsediyordu bir görevi varsa neydi? Birbirini tanıyan ve yakınlaşan ikilinin arasından yabancı hisseden profesör ise olan hiçbir şeyi anlamamış, sadece kendisine denilenleri yapıyordu. Neredeyse son 1 aydır yollarda olmasının da etkisiyle artık bir şeyleri sorgulayacak gücü kalmamıştı.
 
+Sık ağaçların arasından eğimli yamacın sonuna çıkan üçlü, dağın sırtının doğu tarafına kurulmuş etrafı gözlüyorlardı. Şişkin çantasını yere indiren profesör içindekileri boşaltıp iki ayrı gruba ayırmaya başladı. Kısa birkaç dakikanın sonunda önündeki yığınlardan büyük olanını çantasına geri sokuşturup diğer yığındaki klasörü kemerinin arasına sıkıştırdı. Az önce kendisini kurtarmış uzun adam ve onunla bir şeyler konuşan öğrencisinin yanına gidip elindeki küçük fermuarlı plastik poşeti uzattı:
+-Bende raporlar ve gerekli kayıtlar duruyor, dedi gömleğini kaldırıp yeleğin altında çoktan kırışmaya başlamış klasörü gösterim. "Sende de dijital kopyası dursun, ne olduğunu falan laboratuvara gidince bakarsın şu anda bunu sana verdiğimden haberin yokmuş gibi davran tamam mı?"
+Başıyla onaylayan genç; poşeti evirip çevirirken kat kat poşetlere sarılmış siyah bir blok gördü plastiklerin arasından, ve çantasının ön gözüne attı. Çantasını geri sırtlandıktan sonra biraz ötedeki terk edilmiş şişkin çantayı gördü, ve çoktan yanından ayrılmış profesörle, dedektif arasında geçen sohbete katılmak üzere zirveye yürüdü.
+-Bir ses, işaret, bir şey var mı?
+-Amerikanlardan yok, ama hala volkanın etrafında bir koşuşturmaca var gibi gözüküyor. Ara ara da batımızdaki ormanlardan koşan kişileri duyuyorum ama kimden olduklarını bilmiyorum.
+-Peki sayın dedektif bey şimdi ne yapacağız, diye sordu orta büyüklükte bir kayanın üstüne çökmüş profesör.
+Şimdiye kadarki koşturmacadan çok farketmemişlerdi ama yaşlı adamın bünyesi yavaş yavaş sınırına yaklaşıyor gibi gözüküyordu.
+-Dediğim gibi dağın bu sırtına kimsenin geleceğini sanmıyorum. Doğu tarafındaki açıklık batıdan yaklaşmayı daha cazip kılıyor ki bir gözümüz orada olduğu sürece haberimiz olmadan biri tarafından basılacağımızı sanmıyorum. Biraz dinlenin, sonra şu tepeye çıkacağız.
+Bir eliyle yarımadanın en güneydoğusundaki tepeyi gösteren dedektif diğer eliyle profesörün oturduğu yerden kalkmasına yardım etti ve yeleğin duruşunu düzeltip kayışları biraz gevşetti.
+-Şuraya bir varalım sonrası rahat, dedi ve Asım Samet'e döndü: "Sen az önce poşetle uğraşırken hocana birbirimizi nasıl tanıdığımızı falan hızlıca anlattım. Kendimizi güvenli bir yere atalım senin de sorularını cevaplayacam az daha bekle."
 
+burada herkes ne yaptığını oraya nasıl geldiğini falan anlatsın, profesör de "100 hours in hell" raporunu göstersin.
 
 Profesör: kaçırıldı, ve bu dedektifi bilmiyor. Asistanını gördüğüne seviniyor ve ona olan her şeyi baştan sona anlatıyor. Main story 100-700 arasını anlatıyor.
 Asistan: oradaki herkesi tanıyor, ama dedektifin orada ne iş yaptığını bilmiyor.
