@@ -23,7 +23,7 @@ Go to Mount Ulawun at Sule Airport PG-0250
 # [[7 Vadideki Tuzak#600|600]]
 Mount Ulawun research, boat to get RBA is getting ready at the Port Moresby
 # [[7 Vadideki Tuzak#610|610]]
-Go to Tavurvur, RBA has 3 options to go from Ulawun to Tavurvur: (a. Shore = 270 km), (b. Through forest = 150 km), (c. Shore, Punarupka->Driwata, Shore = 220 km). RBA chooses option b since option a is not doable(? find a reason for this), it will take so much time with the gear, c is possible with a gate to pass between Punarupka->Driwata but it is longer than b. So RBA chooses option b, there is a gate(Monrabet -> Malasit) easier to pass between these 2 points.  
+Go to Tavurvur, RBA has 3 options to go from Ulawun to Tavurvur: (a. Shore = 270 km), (b. Through forest = 150 km), (c. Shore, Punarupka->Driwata, Shore = 220 km). RBA chooses option b since option a is not doable(? find a reason for this), it will take so much time with the gear, c is possible with a gate to pass between Punarupka->Driwata but it is longer than b. So RBA chooses option b, there is a gate(Mondrabet -> Malasait) easier to pass between these 2 points.  
 # [[7 Vadideki Tuzak#620|620]]
 RBA gets captured by Russians between Mondrabet -> Malasit.  
 # [[7 Vadideki Tuzak#630|630]]

@@ -38,17 +38,14 @@
                 "id": "45a03755f574acea",
                 "type": "leaf",
                 "state": {
-                  "type": "canvas",
+                  "type": "markdown",
                   "state": {
-                    "file": "book/Parallel Timelines.canvas",
-                    "viewState": {
-                      "x": -10323.41433943301,
-                      "y": -6339.671972234087,
-                      "zoom": 0.013379286527633613
-                    }
+                    "file": "main story/Main Story.md",
+                    "mode": "source",
+                    "source": false
                   },
-                  "icon": "lucide-layout-dashboard",
-                  "title": "Parallel Timelines"
+                  "icon": "lucide-file",
+                  "title": "Main Story"
                 }
               }
             ]
@@ -107,7 +104,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "moresby",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -128,7 +125,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -216,11 +214,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "458355ae5e3b9884",
+  "active": "13ff93db1a1aa25f",
   "lastOpenFiles": [
-    "book/Parallel Timelines.canvas",
-    "characters/asexa american space exploration association/ASExA American Space Exploration Association.md",
+    "main story/Main Story.md",
     "book/chapters/Profesörün Peşinde.md",
+    "book/Parallel Timelines.canvas",
+    "book/arcs/8 Profesörün Peşinde.md",
+    "main story/66 Hours In Hell.md",
+    "characters/asexa american space exploration association/ASExA American Space Exploration Association.md",
     "book/chapters/Sayfalar Gösteriyor.md",
     "book/chapters/Tüplerin Peşinde.md",
     "book/chapters/Sayfalar Gösteriyor.pdf",
@@ -233,7 +234,6 @@
     "book/chapters/lu221406kl32.tmp",
     "characters/RBA/RBA (ismail).md",
     "book/arcs/6 Sayfalar Gösteriyor.md",
-    "book/arcs/8 Profesörün Peşinde.md",
     "book/arcs/9 Kanlı Sahil.md",
     "book/chapters/Taziye Yemeği ve Hava Yastığı.md",
     "book/arcs/2 Kurabiye Hırsızı.md",
@@ -242,7 +242,6 @@
     "book/arcs/5 Taziye Yemeği ve Hava Yastığı.md",
     "characters/dul kadının çocuğu/Dul Kadının Çocuğu.md",
     "book/arcs/7 Vadideki Tuzak.md",
-    "main story/Main Story.md",
     "book/arcs/10 Beklenmedik ve Bilinmedik 2 Yüz.md",
     "book/arcs/1 Şifreli Aşk.md",
     "book/chapters/Sayfalar Gösteriyor.epub",
@@ -253,7 +252,6 @@
     "characters/ruCoRO russian cosmos research organization/RuCoRO Russian Cosmos Research Organization.md",
     "characters/russian team/Russian Team.md",
     "side cases/Side Case 3.2 Botulinum'lu yazar (dedektifin şeker kokulu birinin insanları zehirlediğini anlaması için).md",
-    "characters/roman yazarı/Roman Yazarı.md",
     "characters/doktor/Doktor.png",
     "characters/dedektif yardımcısı/Dedektif Yardımcısı.png",
     "characters/dedektif uşağı/Dedektif Uşağı.png",
