@@ -179,49 +179,53 @@ Sessiz bir mırıldanmayla onaylayan dedektif, başka bir çıkar yol var mı di
 İkisinin de bir ucundan tuttuğu eski püskü kağıdı tersten okumaya çalışan dedektif, bir sürü arkeoloji terimi görünce ilgisini çekti, "Ne bu arkeolog işleri mi anlatsanıza?"
 "Metalurji ve petrolog falan filan işleri. Şu bahsettiğim ısı ve materyal araştırmamın ana hatlarını gösteriyordum" dedi kağıdı uzatan profesör:
 -Bir bak bakalım ne diyeceksin merak ettim.
-Dedektif, gölgedeki eski yerine yerleşip yırtılmak üzere olan kağıdı alıp narince açtı:
+Dedektif, gölgedeki eski yerine yerleşip yırtılmak üzere olan kağıdı alıp başlığını okudu: "'CEHENNEMDE 66 SAAT', vaov. Havalıymış. Bakalım neymiş bu."
 
 
-Task1 Metal extraction: Metals like tungsten, molybdenum, and tantalum are commonly used in spacecraft heat shields and rocket engines, and they can also be found in volcanic deposits.  
-1- Search metals with a metal detector(you can think of it as a veeeryy complex and advanced ultrasound that detects metal minerals/lumps underground)  
-2- check metal intensity in the magma with a intensith measurer(you can think of it as a device that sends lightrays to the magma surface and finds out metal intensities etsimatation from reflected lightrays)  
-3- collect metals/materials  
-4- test them  
-  
-Task2 Silicate extraction: Silicates, particularly silica glass, are used in various spacecraft components, including thermal protection systems and optical instruments. Volcanic glass, such as obsidian, has similar properties and could be a potential source.  
-1- Collect obsidian samples for testing from ground  
-2- research formation of obsidian  
-3- compare the structure of obsidian to silicates  
-4- test them  
-  
-Task3 Heat Flux research: Volcanic environments, particularly near lava flows and vents, can provide high heat fluxes similar to those experienced by spacecraft during atmospheric re-entry.  
-1- find vents or find/create openings for lava flow using a heat measurer  
-2- measure the heat flux  
-3- if it is similar to the ones in the space, put test metals/materials in and record their state  
-  
-Task4 Thermal Shock research: Rapid temperature changes, common in volcanic regions, can simulate the thermal shock experienced by spacecraft during orbital maneuvers.  
-1- find places where thermal shocks appear using a heat measurer  
-2- measure the thermal shock  
-3- if it is similar to the ones in the space, put test metals/materials in and record their state  
-  
-Task5 Heat Dissipation research: Volcanic environments can provide insights into how materials dissipate heat under extreme conditions. By studying the behavior of materials in volcanic rocks, we can identify potential solutions for improving thermal management in spacecraft.  
-1- find very hot places and repeatedly temperature waving places  
-2- test materials heat dissipation at these environments  
-  
-Task6 Material Degradation research: Volcanic environments can accelerate material degradation processes, such as oxidation and thermal fatigue. By testing materials in these conditions, we can assess their long-term durability in space.  
-1- find very hot places and repeatedly temperature waving places  
-2- test materials degradations at these environments  
-  
-66 hours in hell:  
-0-8 set up the research-site and set the research tools  
-8-20 walk around the volcano mouth, do the underground-metal density search, do the undermagma-metal density search. Set up the tools to do the metal search, during the searching collect silicates and obsidians, find places to create vents for lava flow, find places where thermal shocks appear, find very hot places and repeatedly temperature waving places
-20-24 sleep
-24-44 collect the metals that are collectable  
-44-48 sleep
-48-50 measure the heat fluxes and thermal shocks at places that you marked, find the ones that are similar to ones in the space  
-50-52 compare the structure of obsidian to silicates  
-52-64 stop by all marked test areas, and do the tests for the metals, silicates and samples from space project metals for heat flux, thermal shock, heat dissipation, material degradion.
-64-66 collect all results, get backup data, end left research-site
+
+
+"""
+Görev1. Metal çıkarımı: Volkanik tortularda rastlanılabilen tungsten, tantal ve molibden gibi metaller; uzay aracı ısı kalkanlarında ve roket motorlarında kullanılır.
+1- Arazinin altında gömülü metalleri, türlerini ve yoğunluklarını USAMD ile tara.
+2- Magmadaki metal yoğunluğu ölçümlerini al.
+3- Metal ve materyal örneklemleri topla, stres testlerini uygula.
+
+Görev2. Silikat çıkarımı: Silikatlar (özellikle silika cam), termal koruma sistemleri ve optikler de dahil olmak üzere çeşitli uzay aracı bileşenlerinde kullanılır. Volkanik camlar (mesela obsidiyen), benzer özelliklere sahiptir ve potansiyel bir kaynak olabilir.
+1- Obsidiyen örneklemleri topla.
+2- Obsidiyenin oluşumunu araştır, yapısını silikatlarla karşılaştır.
+3- Stres testlerini uygula.
+
+Görev3. Isı akışı araştırması: volkanik bölgelerdeki fenomenler (özellikle lav akıntıları ve menfezleri), atmosfere yeniden giriş sırasında uzay aracı yüzeyinde oluşan yüksek ısı akışlarını simüle etmeye elverecek ortamlar sunabilir.
+1- Termometre ile menfezleri bulun veya lav akışı için açıklıklar oluştur.
+2- Isı akışını ölç.
+3- Atmosfere girişte okunan değerlere yakın ölçümler elde edilirse test örneklemlerine stres testlerini uygula.
+
+Görev4. Termal Şok araştırması: Volkanik bölgelerdeki ani sıcaklık değişimleri, yörünge manevraları sırasında oluşan termal şoku simüle etmeye elverecek ortamlar sunabilir.
+1- Termometre ile termak şokların yaşandığı bölgeleri bul.
+2- Termal şoku ölç.
+3- Yörünge manevralarında okunan değerlere yakın ölçümler elde edilirse test örneklemlerine stres testlerini uygula.
+
+Görev5. Isı dağılımı araştırması: Volkanik bölgeler, malzemelerin aşırı koşullar altında ısıyı nasıl dağıttığına dair içgörüler sağlayabilir. Bu davranışları incelemek, uzay araçlarındaki termal yönetimi iyileştirmek için potansiyel çözümler sunabilir.
+1- Görev3 ve Görev4 için işaretlenen lokasyonlarda kesişim varsa bul.
+2- Yüksek ısı akışlarının ve ani değişimlerin görüldüğü bu lokasyonlarda test örneklemlerine stres testlerini uygula.
+
+Görev6. Malzeme bozunumu araştırması: Volkanik ortamlar, oksidasyon ve termal yorgunluk gibi materyal bozunma süreçlerini hızlandırır. Test örneklemlerinin bu koşullardaki davranışlarına göre, uzaydaki uzun vadeli dayanıklılıkları değerlendirilebilir.
+1- Görev5 için işaretlenen lokasyonların çevrelerinden eşit dağılımda örneklemler topla.
+2- Örneklemlerin bozunmalarını test edip yapısal bozulma oranlarını rapor et.
+
+Zaman çizelgesi:
+0-8 araştırma sahasını kur ve araçları kalibre et.
+8-20 volkan ağzının etrafını dolan, metal yoğunluğu aramasını yap. Araştırma sırasında silikatları ve obsidiyenleri topla, lav akışı için menfezleri oluşturacak yerleri işaretle, termal şok sitelerini işaretle.
+20-24 Uyu
+24-44 Örneklemleri topla.
+44-48 Uyu
+48-50 İşaretlenen yerlerdeki ısı akışlarını ve termal şokları ölç.
+50-52 Toplanan obsidiyen ve silikat yapılarını analiz et.
+52-64 İşaretli lokasyonlarda stres testleri yap.
+64-66 Tüm ölçümleri topla, verileri yedekle, araştırma sahasını terk et.
+"""
+
+
 
 
 

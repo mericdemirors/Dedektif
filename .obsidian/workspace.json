@@ -38,14 +38,17 @@
                 "id": "45a03755f574acea",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
+                  "type": "canvas",
                   "state": {
-                    "file": "main story/66 Hours In Hell.md",
-                    "mode": "source",
-                    "source": false
+                    "file": "book/Parallel Timelines.canvas",
+                    "viewState": {
+                      "x": -2212,
+                      "y": -4475.5,
+                      "zoom": -4
+                    }
                   },
-                  "icon": "lucide-file",
-                  "title": "66 Hours In Hell"
+                  "icon": "lucide-layout-dashboard",
+                  "title": "Parallel Timelines"
                 }
               }
             ]
@@ -215,16 +218,16 @@
   },
   "active": "458355ae5e3b9884",
   "lastOpenFiles": [
-    "main story/66 Hours In Hell.md",
-    "main story/Main Story.md",
-    "book/chapters/Profesörün Peşinde.md",
-    "characters/RBA/RBA (ismail).md",
     "book/Parallel Timelines.canvas",
+    "main story/66 Hours In Hell.md",
+    "book/chapters/Profesörün Peşinde.md",
+    "book/arcs/8 Profesörün Peşinde.md",
+    "main story/Main Story.md",
+    "characters/RBA/RBA (ismail).md",
     "book/chapters/Sayfalar Gösteriyor.md",
     "book/chapters/Parktaki Ceset.md",
     "book/chapters/Tüplerin Peşinde.md",
     "book/arcs/4 Tüplerin Peşinde.md",
-    "book/arcs/8 Profesörün Peşinde.md",
     "characters/asexa american space exploration association/ASExA American Space Exploration Association.md",
     "book/chapters/Sayfalar Gösteriyor.pdf",
     "book/chapters/lu221406kl3n.tmp",
