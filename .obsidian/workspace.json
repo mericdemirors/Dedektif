@@ -40,12 +40,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "main story/Main Story.md",
+                    "file": "main story/66 Hours In Hell.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Main Story"
+                  "title": "66 Hours In Hell"
                 }
               }
             ]
@@ -104,7 +104,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "moresby",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -125,8 +125,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -214,16 +213,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "13ff93db1a1aa25f",
+  "active": "458355ae5e3b9884",
   "lastOpenFiles": [
+    "main story/66 Hours In Hell.md",
     "main story/Main Story.md",
     "book/chapters/Profesörün Peşinde.md",
+    "characters/RBA/RBA (ismail).md",
     "book/Parallel Timelines.canvas",
-    "book/arcs/8 Profesörün Peşinde.md",
-    "main story/66 Hours In Hell.md",
-    "characters/asexa american space exploration association/ASExA American Space Exploration Association.md",
     "book/chapters/Sayfalar Gösteriyor.md",
+    "book/chapters/Parktaki Ceset.md",
     "book/chapters/Tüplerin Peşinde.md",
+    "book/arcs/4 Tüplerin Peşinde.md",
+    "book/arcs/8 Profesörün Peşinde.md",
+    "characters/asexa american space exploration association/ASExA American Space Exploration Association.md",
     "book/chapters/Sayfalar Gösteriyor.pdf",
     "book/chapters/lu221406kl3n.tmp",
     "book/chapters/Kapsüllerin Peşinde.pdf",
@@ -232,13 +234,10 @@
     "book/chapters/lu221406kl38.tmp",
     "book/chapters/Şifreli Aşk.pdf",
     "book/chapters/lu221406kl32.tmp",
-    "characters/RBA/RBA (ismail).md",
     "book/arcs/6 Sayfalar Gösteriyor.md",
     "book/arcs/9 Kanlı Sahil.md",
     "book/chapters/Taziye Yemeği ve Hava Yastığı.md",
     "book/arcs/2 Kurabiye Hırsızı.md",
-    "book/arcs/4 Tüplerin Peşinde.md",
-    "book/chapters/Parktaki Ceset.md",
     "book/arcs/5 Taziye Yemeği ve Hava Yastığı.md",
     "characters/dul kadının çocuğu/Dul Kadının Çocuğu.md",
     "book/arcs/7 Vadideki Tuzak.md",

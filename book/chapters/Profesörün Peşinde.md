@@ -165,12 +165,64 @@ Başını sallayan adam haritanın diğer ucuna yaklaşıp yerde başka bir sopa
 -Şoförünüzün adı Gerrard olamaz değil mi? Kel, herhangi bir spesifik özelliği olmayan biri miydi?
 -Evet... De sen nasıl?
 -O zaman artık galiba benim kendi hikayemi anlatma sıram geldi, diye profesörünün sözünü kesti Asım Samet. Elindeki kağıdı katlayıp evirip çevirerek anlatmaya başladı:
+-10 Nisan'da Rusya'dan burs kazandım, Sonra sizden de kapsül kargosu alınca peşinizden gelip saha deneyimi kazanmak için uçak bileti falan ayarladım. Tarihleri çok net hatırlamıyorum ancak 13 Nisan'da Dalol'daydım, 14 Erta Ale, 15'te yeni kapsüller üniversiteye vardı, 18'inde de Sinanbung. Sonra oturup bir sonraki kapsülleri bekledim, Merapi kapsülü görünce hemen olası gelecek dağları tahmin edip en yakın ve ulaşılabilirlerin Moresby Limanı etrafında olduğunu farkettim. Bir kargo gemisinde yarı zamanlı çalışan gibi bir hafta boyunca yol aldıktan sonra limana inince orada Yeni Britanya Adası'na giden birileri var mı diye anons geçip sonunda kılpayı bir tekneye kendimi atabildim.
+-Ve o tekne de Gerrard'ın teknesi miydi?
+-Aynen öyle, 29 Nisan'da da buraya vardık ancak hemen ardından korsanlar tarafından ateşe tutulduk ucu ucuna kurtardım kendimi.
+Korsanlardan bahsedince gözleri bir anlığına ışıldayan genç, çantasını açıp boş şişeyi çıkardı (burada Asım'ın suyu kalmış mı bilmiyorum buna bak):
+-Teknede bir sürü yemek ve içecek su vardı, korsanlar geride biraz bıraktıysa alırım belki diyordum da sanırım ormanda dolaşmak tehlikeli olur değil mi? Ne güzel silah falan da vardı offf.
+Hala öğrencisinin hızlı bir özetle anlattıklarını sindirmeye çalışan profesör, aslında o korsanların Gerrard'ı bekleyen Rus askerleri olduğunu söyleyemezdi. Kendisi şoförünü ele  vermemek için konuşmamıştı ancak birinin onu almaya geleceğini tahmin etmek zor da değildi yani. Gerrard'a üzülmüştü ancak yine de Asım Samet'e bir şey olmadığını görmek en azından biraz rahatlatmıştı.
+Hikayenin en başında Rusya'dan gelen burs parasını duyduğu an aklı başka yerlere giden dedektif, gencin son birkaç cümlesini yakalayabilmişti. Gözünü yerdeki haritaya sabitlemiş, teknenin demir attığı yere inmenin acaba güvenli bir yolu var mıdır diye inceliyordu.
+"Tekne nerede şu anda? Şuradaki lagünün içinde mi?" diye sordu eğilip parmağıyla batıdaki lagünü gösterip.
+-Evet, o tarafa gidemeyiz volkanın yanında geçmemiz gerekir.
+Sessiz bir mırıldanmayla onaylayan dedektif, başka bir çıkar yol var mı diye alternatif yolları incelemeye başladı. Güney sahilinden dolanmak tek yol gibi duruyordu ancak lagüne çıktıkları an açıkta kalacaklardı, belki de Amerikanların onları aramayı beklemek en doğru karardı. Ayağa kalkıp zirveye yürüdü ve batı yamacını yavaşça kontrol etti. Güvenliğinden emin olunca ellerini gözüne siper ederek parlaklığa alışana kadar bekledi ve önlerindeki araziyi inceledi, lagüne gitmek zor duruyordu hala volkanın kraterinde bekleyen küçük gruplar vardı. Silah sesleri kesilmiş olsa da bu kadar uzaktan hangi tarafın çatışmayı kazandığını anlayamıyordu. Öğlenin sıcağı, kendini hatırlatmak için bir ısı dalgası yollamışçasına birden sıcak basan dedektif öfleyip püfleyerek geri dönerek hararetli bir tartışmaya dalmış ikiliye katıldı.
+-Yapabileceğimiz tek şey beklemek gibi duruyor, ne konuşuyorsunuz ben de katılayım vakit geçsin bari.
+İkisinin de bir ucundan tuttuğu eski püskü kağıdı tersten okumaya çalışan dedektif, bir sürü arkeoloji terimi görünce ilgisini çekti, "Ne bu arkeolog işleri mi anlatsanıza?"
+"Metalurji ve petrolog falan filan işleri. Şu bahsettiğim ısı ve materyal araştırmamın ana hatlarını gösteriyordum" dedi kağıdı uzatan profesör:
+-Bir bak bakalım ne diyeceksin merak ettim.
+Dedektif, gölgedeki eski yerine yerleşip yırtılmak üzere olan kağıdı alıp narince açtı:
 
 
-BURADA ÇOCUK HİKAYESİNİ ANLATSIN, BİR YERDE DE KAĞIDI AÇIP "HMMM CEHENNEMDE 66 SAAT BUYMUŞ" DİYE ARAŞTIRMA PİPELİNE'INI ANLATSIN
+Task1 Metal extraction: Metals like tungsten, molybdenum, and tantalum are commonly used in spacecraft heat shields and rocket engines, and they can also be found in volcanic deposits.  
+1- Search metals with a metal detector(you can think of it as a veeeryy complex and advanced ultrasound that detects metal minerals/lumps underground)  
+2- check metal intensity in the magma with a intensith measurer(you can think of it as a device that sends lightrays to the magma surface and finds out metal intensities etsimatation from reflected lightrays)  
+3- collect metals/materials  
+4- test them  
+  
+Task2 Silicate extraction: Silicates, particularly silica glass, are used in various spacecraft components, including thermal protection systems and optical instruments. Volcanic glass, such as obsidian, has similar properties and could be a potential source.  
+1- Collect obsidian samples for testing from ground  
+2- research formation of obsidian  
+3- compare the structure of obsidian to silicates  
+4- test them  
+  
+Task3 Heat Flux research: Volcanic environments, particularly near lava flows and vents, can provide high heat fluxes similar to those experienced by spacecraft during atmospheric re-entry.  
+1- find vents or find/create openings for lava flow using a heat measurer  
+2- measure the heat flux  
+3- if it is similar to the ones in the space, put test metals/materials in and record their state  
+  
+Task4 Thermal Shock research: Rapid temperature changes, common in volcanic regions, can simulate the thermal shock experienced by spacecraft during orbital maneuvers.  
+1- find places where thermal shocks appear using a heat measurer  
+2- measure the thermal shock  
+3- if it is similar to the ones in the space, put test metals/materials in and record their state  
+  
+Task5 Heat Dissipation research: Volcanic environments can provide insights into how materials dissipate heat under extreme conditions. By studying the behavior of materials in volcanic rocks, we can identify potential solutions for improving thermal management in spacecraft.  
+1- find very hot places and repeatedly temperature waving places  
+2- test materials heat dissipation at these environments  
+  
+Task6 Material Degradation research: Volcanic environments can accelerate material degradation processes, such as oxidation and thermal fatigue. By testing materials in these conditions, we can assess their long-term durability in space.  
+1- find very hot places and repeatedly temperature waving places  
+2- test materials degradations at these environments  
+  
+66 hours in hell:  
+0-8 set up the research-site and set the research tools  
+8-20 walk around the volcano mouth, do the underground-metal density search, do the undermagma-metal density search. Set up the tools to do the metal search, during the searching collect silicates and obsidians, find places to create vents for lava flow, find places where thermal shocks appear, find very hot places and repeatedly temperature waving places
+20-24 sleep
+24-44 collect the metals that are collectable  
+44-48 sleep
+48-50 measure the heat fluxes and thermal shocks at places that you marked, find the ones that are similar to ones in the space  
+50-52 compare the structure of obsidian to silicates  
+52-64 stop by all marked test areas, and do the tests for the metals, silicates and samples from space project metals for heat flux, thermal shock, heat dissipation, material degradion.
+64-66 collect all results, get backup data, end left research-site
 
 
 
-Profesör: kaçırıldı, ve bu dedektifi bilmiyor. Asistanını gördüğüne seviniyor ve ona olan her şeyi baştan sona anlatıyor. Main story 100-700 arasını anlatıyor.
-Asistan: oradaki herkesi tanıyor, ama dedektifin orada ne iş yaptığını bilmiyor.
-Dedektif: Asistanı gördüğüne şaşırmış, ona olanları anlatıyor. "Her şeyi çözdükten sonra amerika sınırlarından geçen bir rus ajanı olduğunu farketmişler ve üniversiteye sızdığını öğrenmişler. Üniversiteyle son zamanlarda iletişime geçen garip adam oldu mu diye sorunca bunlar da 'Aaa dedektif Tarık diye biri var, ve sanki rus ajanın geleceğini önceden biliyormuş. Belki rusların bir sonraki adımını da çözebilir' diye düşünmüşler sonra da 27 nisanda 'RBA'dan beklediğimiz rapor da gelmedi aslında, belki bir şeyler terstir' diyorlar' ve türkiyeye gitmeye karar veriyorlar. 29 nisan'da gelip konuşmuşlar beni çağırmışlar ben de fighter jet'le air carrier'le falan geldim" diyor.
+Dedektif: kendi hikayesini anlatıyor. "Her şeyi çözdükten sonra amerika sınırlarından geçen bir rus ajanı olduğunu farketmişler ve üniversiteye sızdığını öğrenmişler. Üniversiteyle son zamanlarda iletişime geçen garip adam oldu mu diye sorunca bunlar da 'Aaa dedektif Tarık diye biri var, ve sanki rus ajanın geleceğini önceden biliyormuş. Belki rusların bir sonraki adımını da çözebilir' diye düşünmüşler sonra da 27 nisanda 'RBA'dan beklediğimiz rapor da gelmedi aslında, belki bir şeyler terstir' diyorlar' ve türkiyeye gitmeye karar veriyorlar. 29 nisan'da gelip konuşmuşlar beni çağırmışlar ben de fighter jet'le air carrier'le falan geldim" diyor.
