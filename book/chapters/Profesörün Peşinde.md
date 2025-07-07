@@ -240,8 +240,29 @@ Ansızın duraksayan dedektif ne kadar detaya girmek isteyeceğini ölçmek içi
 3- Toplamda 7-8 (Asım Samet daha geç uyanırsa biraz daha uzatabilirim) saatte kayseri->tavurvur yapabilmesi lazım
 4- dedektif bu adada toplam 66 saat kalsın
 
-BURADA KAYSERİ->BİR ŞEKİLDE ADANA İNCİRLİK->SAVAŞ UÇAĞIYLA CARRİER1->CARRİER2->...->CARRİERn->HELİKOPTER->TAVURVUR->PROFESÖRÜ ALIP BULUŞMA NOKTASINA GETİR DEDİLER (Baai Seventh Day Adventist Church (old)), SAHİLDEN KUZEYE İLERLE YIKIK BİR KİLİSE GÖRECEKSİN->ORADAN CARRİER->ORADAN HAWAİİ
+BURADA KAYSERİ->BİR ŞEKİLDE ADANA İNCİRLİK->SAVAŞ UÇAĞIYLA (F/A-18F) CARRİER1->CARRİER2->...->CARRİERn->HELİKOPTER->TAVURVUR->PROFESÖRÜ ALIP BULUŞMA NOKTASINA GETİR DEDİLER (Baai Seventh Day Adventist Church (old)), SAHİLDEN KUZEYE İLERLE YIKIK BİR KİLİSE GÖRECEKSİN->ORADAN CARRİER->ORADAN HAWAİİ
 
+
+western pacific, USS Kitty Hawk (CV-63) Has FA-18 planes
+persiana gulf, USS Constellation (CV-64) Has FA-18 planes
+red sea, USS Theodore Roosevelt (CVN-71) Has FA-18 planes
+persiana gulf, USS Abraham Lincoln (CVN-72) Has FA-18 planes
+
+Operation Southern Watch and in Operation Vigilant Sentinel
+
+1- time calculation isn't realistic
+2- refueling isn't realistic, fueler planes should take off from the land
+3- you can't parachute
+
+
+
+
+| **Leg** | **Route**                                        | **Distance** | **Estimated Flight Time** | **Refueling?**          |
+| ------- | ------------------------------------------------ | ------------ | ------------------------- | ----------------------- |
+| 1       | Kayseri → Adana (Incirlik AB) *(by car)*         | \~330 km     | \~4 hrs by car            | ❌                       |
+| 2       | Incirlik AB → Carrier in Persian Gulf            | \~2,500 km   | \~2.5 hrs                 | ❌                       |
+| 3       | Carrier (Persian Gulf) → Carrier (near Malaysia) | \~4,500 km   | \~4.5 hrs                 | ✅ Aerial refuel mid-way |
+| 4       | Carrier (Malaysia) → Tavurvur, PNG               | \~4,500 km   | \~4.5 hrs                 | ✅ Aerial refuel mid-way |
 
 
 Dedektif: kendi hikayesini anlatıyor. "Her şeyi çözdükten sonra amerika sınırlarından geçen bir rus ajanı olduğunu farketmişler ve üniversiteye sızdığını öğrenmişler. Üniversiteyle son zamanlarda iletişime geçen garip adam oldu mu diye sorunca bunlar da 'Aaa dedektif Tarık diye biri var, ve sanki rus ajanın geleceğini önceden biliyormuş. Belki rusların bir sonraki adımını da çözebilir' diye düşünmüşler sonra da 27 nisanda 'RBA'dan beklediğimiz rapor da gelmedi aslında, belki bir şeyler terstir' diyorlar' ve türkiyeye gitmeye karar veriyorlar. 29 nisan'da gelip konuşmuşlar beni çağırmışlar ben de fighter jet'le air carrier'le falan geldim" diyor.
