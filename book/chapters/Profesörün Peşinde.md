@@ -248,21 +248,26 @@ persiana gulf, USS Constellation (CV-64) Has FA-18 planes
 red sea, USS Theodore Roosevelt (CVN-71) Has FA-18 planes
 persiana gulf, USS Abraham Lincoln (CVN-72) Has FA-18 planes
 
-Operation Southern Watch and in Operation Vigilant Sentinel
+Operation Southern Watch
 
-1- time calculation isn't realistic
-2- refueling isn't realistic, fueler planes should take off from the land
-3- you can't parachute
+| **Step** | **Type of Operation**                              | **Distance**          | **Speed**                       | **Estimated Duration**      | **Feasibility / Notes**                               |
+| -------- | -------------------------------------------------- | --------------------- | ------------------------------- | --------------------------- | ----------------------------------------------------- |
+| 1        | Ground transport: Kayseri → İncirlik AFB           | ~330 km               | —                               | ~3 hrs (by vehicle)         | ✅ Civilian-to-military base transfer                  |
+| 2        | Takeoff: İncirlik → Carrier in Persian Gulf        | ~2,500 km             | ~1,050 km/h (fast cruise)       | ~2:30 hrs                   | ✅ Within Super Hornet range with external tanks       |
+| 3        | Refuel + cooldown on carrier                       | —                     | —                               | ~15–30 min                  | ✅ Standard carrier ops                                |
+| 4        | Takeoff: Carrier → Refuel point over Bay of Bengal | ~2,300 km             | ~1,000 km/h                     | ~2 hrs                      | ✅ Refueler KC-135 or KC-10 took off from Diego Garcia |
+| 5        | **Aerial Refuel over Bay of Bengal**               | —                     | ~500–600 km/h (refueling speed) | ~15–20 min                  | ✅ Drogue-based refueling for F/A-18F                  |
+| 6        | Flight to Carrier near Singapore                   | ~2,200 km             | ~1,000 km/h                     | ~2 hrs                      | ✅ Routine carrier presence in SE Asia                 |
+| 7        | Refuel + cooldown on carrier                       | —                     | —                               | ~15–30 min                  | ✅ Refuel before final leg                             |
+| 8        | Takeoff: Carrier → Drop zone near Tavurvur         | ~4,500 km             | ~1,000 km/h                     | ~4:30 hrs                   | ✅ Long range possible with mid-air refuel             |
+| 9        | **Aerial Refuel (Guam or Wake Island tanker)**     | Midway (~2,300 km in) | —                               | ~15–20 min                  | ✅ Pre-coordinated tanker rendezvous                   |
+| 10       | **Ejection of military passenger over water**      | ~4,200 km point       | —                               | ~2–4 min descent            | ✅ Safe if well-executed and supported                 |
+| 11       | **Water landing & rescue by boat**                 | —                     | —                               | ~10–20 min pickup           | ✅ Standard military procedure                         |
+| 12       | Aircraft continues solo                            | ~300 km               | ~1,000 km/h                     | ~20 min                     | ✅ Pilot heads to recovery zone                        |
+| 13       | **Final aerial refuel (optional)**                 | If needed             | —                               | ~15 min                     | ✅ If final base is distant                            |
+| 14       | Land at Guam / Wake Island / Carrier               | —                     | —                               | ~5–10 min descent & landing | ✅ Ends full operation                                 |
 
 
-
-
-| **Leg** | **Route**                                        | **Distance** | **Estimated Flight Time** | **Refueling?**          |
-| ------- | ------------------------------------------------ | ------------ | ------------------------- | ----------------------- |
-| 1       | Kayseri → Adana (Incirlik AB) *(by car)*         | \~330 km     | \~4 hrs by car            | ❌                       |
-| 2       | Incirlik AB → Carrier in Persian Gulf            | \~2,500 km   | \~2.5 hrs                 | ❌                       |
-| 3       | Carrier (Persian Gulf) → Carrier (near Malaysia) | \~4,500 km   | \~4.5 hrs                 | ✅ Aerial refuel mid-way |
-| 4       | Carrier (Malaysia) → Tavurvur, PNG               | \~4,500 km   | \~4.5 hrs                 | ✅ Aerial refuel mid-way |
 
 
 Dedektif: kendi hikayesini anlatıyor. "Her şeyi çözdükten sonra amerika sınırlarından geçen bir rus ajanı olduğunu farketmişler ve üniversiteye sızdığını öğrenmişler. Üniversiteyle son zamanlarda iletişime geçen garip adam oldu mu diye sorunca bunlar da 'Aaa dedektif Tarık diye biri var, ve sanki rus ajanın geleceğini önceden biliyormuş. Belki rusların bir sonraki adımını da çözebilir' diye düşünmüşler sonra da 27 nisanda 'RBA'dan beklediğimiz rapor da gelmedi aslında, belki bir şeyler terstir' diyorlar' ve türkiyeye gitmeye karar veriyorlar. 29 nisan'da gelip konuşmuşlar beni çağırmışlar ben de fighter jet'le air carrier'le falan geldim" diyor.
