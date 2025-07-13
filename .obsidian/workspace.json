@@ -42,9 +42,9 @@
                   "state": {
                     "file": "book/Parallel Timelines.canvas",
                     "viewState": {
-                      "x": 7561.798220610299,
-                      "y": -6189.575926665023,
-                      "zoom": -0.4603310080369289
+                      "x": -2212,
+                      "y": -4475.5,
+                      "zoom": -4
                     }
                   },
                   "icon": "lucide-layout-dashboard",
@@ -216,13 +216,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "458355ae5e3b9884",
+  "active": "45a03755f574acea",
   "lastOpenFiles": [
-    "book/arcs/8 Profesörün Peşinde.md",
     "book/chapters/Profesörün Peşinde.md",
+    "book/Parallel Timelines.canvas",
+    "book/arcs/8 Profesörün Peşinde.md",
     "main story/Main Story.md",
     "book/chapters/Sayfalar Gösteriyor.md",
-    "book/Parallel Timelines.canvas",
     "main story/66 Hours In Hell.md",
     "characters/RBA/RBA (ismail).md",
     "book/chapters/Parktaki Ceset.md",
