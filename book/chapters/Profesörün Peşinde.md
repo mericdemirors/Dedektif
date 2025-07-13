@@ -132,7 +132,7 @@ Başını sallayan dedektif üstündeki yeleği çıkarırken gence cevap verdi:
 İkili, yeleği profesöre yarım yamalak giydirdikten sonra çantasını taşımasına yardım ederek ormana daldılar. Hala herkesin aklında binlerce soru vardı, Asım Samet neden buradaydı, öylesine bir tatilde denk gelmiş olamazlardı herhalde? Öyleyse profesörü nasıl bulmuştu? Dedektif neden Amerikanlarla birlikteydi, 'beni onlardan sayma, ben kendim geldim' derken veya 'buluşma noktasında beni bekliyorlar' derken neyden bahsediyordu bir görevi varsa neydi? Birbirini tanıyan ve yakınlaşan ikilinin arasından yabancı hisseden profesör ise olan hiçbir şeyi anlamamış, sadece kendisine denilenleri yapıyordu. Neredeyse son 1 aydır yollarda olmasının da etkisiyle artık bir şeyleri sorgulayacak gücü kalmamıştı.
 
 Sık ağaçların arasından eğimli yamacın sonuna çıkan üçlü, dağın sırtının doğu tarafına kurulmuş etrafı gözlüyorlardı. Şişkin çantasını yere indiren profesör içindekileri boşaltıp iki ayrı gruba ayırmaya başladı. Kısa birkaç dakikanın sonunda önündeki yığınlardan büyük olanını çantasına geri sokuşturup diğer yığındaki klasörü kemerinin arasına sıkıştırdı. Az önce kendisini kurtarmış uzun adam ve onunla bir şeyler konuşan öğrencisinin yanına gidip elindeki küçük fermuarlı plastik poşeti uzattı:
--Bende raporlar ve gerekli kayıtlar duruyor, dedi gömleğini kaldırıp yeleğin altında çoktan kırışmaya başlamış klasörü gösterim. "Sende de dijital kopyası dursun, ne olduğunu falan laboratuvara gidince bakarsın şu anda bunu sana verdiğimden haberin yokmuş gibi davran tamam mı?"
+-Bende raporlar ve gerekli kayıtlar duruyor, dedi gömleğini kaldırıp yeleğin altında çoktan kırışmaya başlamış klasörü gösterip. "Sende de dijital kopyası dursun, ne olduğunu falan laboratuvara gidince bakarsın şu anda bunu sana verdiğimden haberin yokmuş gibi davran tamam mı?"
 Başıyla onaylayan genç; poşeti evirip çevirirken kat kat poşetlere sarılmış siyah bir blok gördü plastiklerin arasından, ve çantasının ön gözüne attı. Çantasını geri sırtlandıktan sonra biraz ötedeki terk edilmiş şişkin çantayı gördü, ve çoktan yanından ayrılmış profesörle, dedektif arasında geçen sohbete katılmak üzere zirveye yürüdü.
 -Bir ses, işaret, bir şey var mı?
 -Amerikanlardan yok, ama hala volkanın etrafında bir koşuşturmaca var gibi gözüküyor. Ara ara da batımızdaki ormanlardan koşan kişileri duyuyorum ama kimden olduklarını bilmiyorum.
@@ -280,29 +280,35 @@ Asım Samet'in yere açtığı haritanın köşelerini ufak taşlarla sabitleyen
 -Sıfır, diye başını salladı genç hayıflanırken: "Keşke, tekneden üç beş şey daha atsaydım çantama... Veya ne bileyim limandan ayrılmadan bir şeyler satın alsaydım enerji barı falan...".
 "Aaa! Enerji barı, evet!" diye ayaklandı birden profesör. "Ben de vardı, şu haritayı uzatsana bir. Hmmm, bir bakalım şimdi... Şuradan kaçtım, burasının o sahildeki kaya olması lazım. O zamaaaan şuralarda bir yerde olması gerek." Kendisine bakan meraklı gözlere dönüp anlayıp anlamadıklarına baktı, ve hala gizemi çözememiş ikiliye anlatmak üzere tekrar sopanın ucunu haritaya koymuştu ki dedektif atladı:
 -A çantayı diyorsun, kocaman bi çantan vardı yolda gelirken bıraktık. İçecek yiyecek var mı içinde, kaç günlük var?
--Evet evet o! En az 2-3 günlük olması lazım, üçümüze böleceksek yine de bir buçuk güne kadar uzatabiliriz biraz dişimizi sıkarsak.
+-Evet evet o! En az 2 3 günlük olması lazım, üçümüze böleceksek yine de bir buçuk güne kadar uzatabiliriz biraz dişimizi sıkarsak.
 "Ha yok yok ona gerek yok, siz ikiniz kendinize göre ayarlayın ben belki sadece bir çikolata falan alayım bir yudum içeyim bana yeter" dedi profesörün gösterdiği noktadan gözünü ayırmadan. Heyecandan bir haritaya bir profesörüne bakan gence dönüp elini omzuna koydu:
 -Evlat hazırlan, birazdan çantayı almaya gidiyorsun. Profesörü yollayamayız, çantayı taşıyacak durumda değil. Birimizin de burada kalıp profesörü koruması lazım askerler gelirse diye. Hem benim enerjimi korumam gerektiği için senin gitmen en mantıklı seçenek. Hatırlıyor musun çantanın yerini?
 "Evet hatırlıyorum da, üçümüz birlikte gitsek daha güvenli değil mi ayrılmaktan?" Dedi başını haritadan kaldıran genç dedektife dönüp. Sorusunu bitirmesiyle gözünün ucuyla profesörü görmesi bir oldu, az önceki heyecanından eser kalmayan adam sucuk gibi terlemişti. Üzerine yapışan gömleği adam oturduğu yerde yaslandıkça geriliyordu. "Anlıyorum... Haklısın benim gitmem en mantıklısı." Ayaklanıp sağını solunu kontrol eden genç, haritayı son bir kez daha kontrol ettikten sonra geldikleri rotayı gözünde canlandırdı.
 -Senin niye enerjini koruman gerektiğini bilmiyorum ama bir bildiğin vardır diye sorgulamıyorum Tarık abi. Bir saate falan geri dönmüş olurum.
 -Hadi bakalım koçum, görelim seni. Sessiz sessiz git gel, buradayız.
 
+* 1995-05-01 02:00
+-Tarık Abi! Tarık Aaabii, kalk hadi nöbet sırası sende.
+-Hı?.. Haa nöbet, tamam tamam.
+Ay'ın gökyüzünde görünmediği, yıldızların yetersiz olduğu karanlık bir gecede, sessiz adada dedektifin üzerine eğilmiş Asım Samet'in yüzü yeşil yeşil parlayıp sönüyordu.
+-Abi kalk hadi, 6 saat sonra uyandırırsın anlaştığımız gibi. Hiçbir şey olmadı benim nöbetimde, zaman geçmek bilmiyor ama. Al şu saati de, şu tuşla ışığını yakıyorsun. Kalk hadi kalk!
+Biraz zorla itilerek biraz da fısıltılarla rahatsız edilerek uyandırılmış dedektif gözlerini ovuşturup karanlığa alışana kadar oturduğu yerde durdu biraz. Koluna sıkıca takılmış saati biraz gevşetip ışığını yaktı, etraf bir anlığına loş bir yeşile büründü, "uzaktan farkedilecek kadar güçlü bir şey değil yine de pili bitirmemek için sık sık basmasam iyi olur" diye düşünerek son bir kez daha etrafı kontrol etmek için yaktı: çanta, defter, kalem, harita, pusula ve poşete sarılmış klasör. Her şey tamamdı. Uyumadan önce yiyip içtiği azıcık lokma bir şeyin yeterli olacağını umarak ayağa kalkıp esneme gerinme hareketleri yaptı. Nefeslenip ayrılmaya hazırlanırken dönüp uyuyan profesör ve öğrencisine baktı, ilk nöbette kimsenin gelmemiş olması içini biraz rahatlatmıştı, sabaha kadar böyle sürmesini umarak yamaca döndü ve saatin ışığını yaktı. Soluk yeşil ışığın üzerinden yansıdığı, birkaç metre önündeki arazi saniyeler içinde tekrar karanlığa gömülmeden her yeri aklına kazıdı, derin bir nefes alıp el yordamıyla ilerlemeye başladı.
+Her 5 10 adımda bir zirvedeki uyuyan 2 adamın saklandıkları kamp yeri çok kısa süreliğine yeşile bürünüp tekrar soluyordu, uzaktan gelen birkaç ayak sesinden sonra tekrar daha güçsüz bir yeşil ışık parıldırıyor, sonra tekrar adım sesleri ve tekrar daha da soluk bir yeşil ışık... Aynı döngü, kamp yeri; yıldızların zayıf ışıklarıyla ve sahile vuran dalgaların çarpışlarıyla yalnız kalana kadar devam etti.
 
-ASIM ÇANTAYI ALMAYA GİDİYOR
-PROFESÖR DEDEKTİFE NİYE ENERJİNİ KORUYACAKSIN DİYOR DEDEKTİF DE "GECE SAHİLE İNİP GÜNEYE YÜZECEĞİM, BUNU ASIM SAMET'E SÖYLESEYDİM BEN YAPARIM DİYE ATLAR DİYE SÖYLEMEDİM"
-PROFESÖR "ANLIYORUM" DİYOR, ÇANTAYI BEKLEMEYE BAŞLIYORLAR, PROFESÖR KENDİ ARAŞTIRMASINI DEDEKTİFE VERİYOR "BUNU POSTALA, İSTEDİĞİN BİR ADRESE POSTALA YETER Kİ AMERİKA'NIN ELİNE GEÇMESİN" DİYOR DEDEKTİF DE KENDİ ADRESİNE POSTALIYOR. KİTABIN SONUNDA DA OFİSİNDE OTURURKEN BİLİMSEL ARAŞTIRMA ELİNE ULAŞIYOR
-BİRAZ SONRA ÇANTA GELİYOR, BİRLİKTE YEMEK YİYORLAR, NÖBETLEŞE UYUMAYA GİDİYORLAR (NÖBET SIRASI ASIM SAMET SONRA DEDEKTİF) AMA DEDEKTİF NÖBET SIRASI GELDİĞİ AN KALKIP YÜZMEYE GÜNEYE GİDİYOR
+* 1995-05-01 06:15
+ASIM SAMET UYANIP ETRAFTA DEDEKTİFİ GÖREMEYİNCE PROFESÖRÜ UYANDIRIYOR "DEDEKTİF NEREDE" DİYOR.
+PROFESÖR DE "PROFESÖR GECE YÜZEREK GÜNEYDEKİ ADAYA GİTTİ, GERİ GELİP BİZİ KURTARACAKMIŞ. SANA SÖYLESE SEN ÖNE ÇIKIP KENDİN YAPMAYA ÇALIŞIRDIN DİYE SÖYLEMEMİŞ" DİYOR
+ASIM SAMET "NE OLACAK ŞİMDİ" DİYOR
+PROFESÖR DE "SEN ÇANTAYI ALMAYA GİTTİĞİNDE KOUŞUP TARTIŞTIK ANCAK EN İYİ SEÇENEK BU GİBİ GÖZÜKÜYORDU. BİZE DÜŞEN YEMEKLERİ KENDİ ARAMIZDA PAYLAŞIP HAYATTA KALMAK VE SAKLANMAK. ONDAN İŞARET ALDIĞIMIZDA DA VAR GÜCÜMÜZLE ONA KOŞMAMIZI SÖYLEDİ"
+SONRA SABAH HAREKETLENEN ASKERLERİN BAĞIRIŞLARINI DUYUYORLAR UZAKTAN, SAKLANMAYA DEVAM EDİYORLAR.
 
-BURADA YENİ GÜN
 
-DEDEKTİF GÜNEYE YÜZÜP ARABA GETİRECEK
-PROFESÖR VE ASIM SAMET PROFESÖRÜN GERİDE BIRAKTIĞI ÇANTASINDAN YEMEKLERİ ALIP ONLARLA SAKLANMAYA DEVAM EDECEK
-ARAŞTIRMAYI BİR YERDE YAYINLAYACAK, YA POSTA YA MAİL ATACAK Bİ ADRESE
+
+# BURADAN SONRASI SON CHAPTER'DA OLACAK ŞEYLER: dedektif gelir, bizimkileri kurtarır, birlikte kaçarlar. Eeennn sondaki chapter'da da dedektif ofisinde otururken posta gelir falan
+
+SABAH KURUTMA TELİNE ASILI KIYAFETLERDEN BİRKAÇ PARÇA ALAN DEDEKTİF'İ POSTA OFİSİNDEN (PROFESÖR KENDİ ARAŞTIRMASINI DEDEKTİFE VERİYOR "BUNU POSTALA, İSTEDİĞİN BİR ADRESE POSTALA YETER Kİ AMERİKA'NIN ELİNE GEÇMESİN" DİYOR DEDEKTİF DE KENDİ ADRESİNE POSTALIYOR. KİTABIN SONUNDA DA OFİSİNDE OTURURKEN BİLİMSEL ARAŞTIRMA ELİNE ULAŞIYOR) KILIK DEĞİŞTİRMİŞ HALDE ÇIKARKEN GÖRÜYORUZ
+BİR ŞEKİLDE BİR YEMEK İÇECEK VE ARABA FALAN BİR ŞEY BULSUN. ŞU ANDA 1 MAYIS, 3 MAYIS SABAHI RESMİ OLARAK ADADAN ÇIKMIŞ OLMASI LAZIM
 ARABAYLA GELİNCE İŞARET VERİYOR, BİZİMKİLER GÜNEYE KOŞMAYA BAŞLAYACAK
-3 MAYIS SABAHINDA ADADAN AYRILACAK GİBİ HESAPLA
-
-
-
-
-burada her şey çözüldükten sonra çatışma seslerinin kesildiğini farketsinler ve "kim kazandı bilmiyoruz, ama bizi çağıran sesler gelmediğine göre ya ruslar kazandı ya da iki taraf da hala tamamen ölmedi, gece olunca kalacak bir yer bulalım. Yarın da saklanmaya devam ederiz" diyor dedektif. Saklanacak bir yer buluyorlar ve chapter burada bitiyor.
-Bir sonraki chapter "araştırmayı nasıl yayınlayalım, hangi tarafın hayatta kaldığını nasıl öğrenelim" diye konuşmalarıyla başlayıp, biraz aksiyon yaşanıp dedektif de ne kadar zeki olduğunu falan gösterip sonunda kurtulacaklar.
+sabah kurutma teline asili kiyafetlerden birkaç parça alan dedektifi posta ofisinden (profesör kendi araştirmasini dedektife veriyor "bunu postala, istediğin bir adrese postala yeter ki iki tarafın da eline geçmesin" diyor dedektif de kendi adresine postaliyor. kitabin sonunda da ofisinde otururken bilimsel araştirma eline ulaşiyor) kilik değiştirmiş halde çikarken görüyoruz
+bir şekilde bir yemek içecek ve araba falan bir şey bulsun. şu anda 1 mayis, 3 mayis sabahi resmi olarak adadan çikmiş olmasi lazim
+arabayla gelince işaret veriyor, bizimkiler güneye koşmaya başlayacak
