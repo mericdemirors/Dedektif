@@ -296,10 +296,27 @@ Biraz zorla itilerek biraz da fısıltılarla rahatsız edilerek uyandırılmı�
 Her 5 10 adımda bir zirvedeki uyuyan 2 adamın saklandıkları kamp yeri çok kısa süreliğine yeşile bürünüp tekrar soluyordu, uzaktan gelen birkaç ayak sesinden sonra tekrar daha güçsüz bir yeşil ışık parıldırıyor, sonra tekrar adım sesleri ve tekrar daha da soluk bir yeşil ışık... Aynı döngü, kamp yeri; yıldızların zayıf ışıklarıyla ve sahile vuran dalgaların çarpışlarıyla yalnız kalana kadar devam etti.
 
 * 1995-05-01 06:15
-ASIM SAMET UYANIP ETRAFTA DEDEKTİFİ GÖREMEYİNCE PROFESÖRÜ UYANDIRIYOR "DEDEKTİF NEREDE" DİYOR.
-PROFESÖR DE "PROFESÖR GECE YÜZEREK GÜNEYDEKİ ADAYA GİTTİ, GERİ GELİP BİZİ KURTARACAKMIŞ. SANA SÖYLESE SEN ÖNE ÇIKIP KENDİN YAPMAYA ÇALIŞIRDIN DİYE SÖYLEMEMİŞ" DİYOR
-ASIM SAMET "NE OLACAK ŞİMDİ" DİYOR
-PROFESÖR DE "SEN ÇANTAYI ALMAYA GİTTİĞİNDE KOUŞUP TARTIŞTIK ANCAK EN İYİ SEÇENEK BU GİBİ GÖZÜKÜYORDU. BİZE DÜŞEN YEMEKLERİ KENDİ ARAMIZDA PAYLAŞIP HAYATTA KALMAK VE SAKLANMAK. ONDAN İŞARET ALDIĞIMIZDA DA VAR GÜCÜMÜZLE ONA KOŞMAMIZI SÖYLEDİ"
+Ufkun üzerinden kendini göstermeye başlayan güneşin ışınlarının, Yeni Britanya Adası'nda sadece geceledikleri zirveye vurduğu anlarda uyandı Asım Samet. Göz kapaklarının ısınmasıyla diğer tarafına dönerken sırtına batan bir taş yüzünden uykusu tamamen kaçmış, saatinin de olmamasından ne kadar erkenci olduğunu kestiremiyordu. Gözünü ve tutulmaya yüz tutmuş boynunu ovalayarak yattığı yerden doğrulurken hala az önceki taşa küfürler ediyordu. Dedektif etrafta gözükmüyordu, belki ihtiyaç molasına çıkmıştı veya etrafı kolaçan ediyordu. Kendisi de bir molaya çıkmadan önce gelmesini beklemek en iyidi olurdu, diye düşündü profesörün uyuduğu tarafa bakıp ancak aradan dakikalar geçmesine rağmen dedektif ortalıkta yoktu. Zirvede bir tur atıp dağın yamacını tarayan genç etrafın sessiz olmasına sevinse de dedektifi görememek daha da canını sıkmıştı. Kamp alanına geri dönmeye karar verdiğinde güneş artık tamamen kendini göstermiş, lagünün karşı tarafındaki köyde de günün ilk hareketlilikleri başlamıştı.
+-Genç, sen de mi uyandın?
+-Evet profesör, güneş yüzüme vurunca kalktım. Tarık Abi'yi göremiyorum ama birazdan gelir herhalde.
+Elindeki toz toprağı silkeledikten sonra şapkasını başına geçiren profesör, üzerini silkip ayağa kalktı. Üzetine yattığı omzunu ovuşturarak öğrencisinin yanına geldi:
+-O daha gelmez o kadar da hızlı değildir boşa bekleme, dedi uzun bir esnemeden sonra.
+-Baya oldu ama, 10 15 dakikadır ortalıkta yok.
+-Ee olacak o kadar da, dedi saatine bakan profesör. "Öyle 4 5 saatte yapılacak bir şey değil ki. Hatta yarın bile geri dönse erken olur bence."
+Profesörün cevabıyla aklı daha da karışan genç nerede olduğu bilinmez dedektife sitem etti:
+-Nöbeti bile bitmedi, sözde sabah 8'e kadar duracaktı şimdi Allah bilir nerelerde? Ne 4 5 saati ne yarını profesör? Agacın birinin dibinde işini görsün gelsin işte.
+"Ha sen bilmiyorsun, sana söylemedi mi nöbeti devralırken?" diye sordu yanlış anlaşılmanın sebebini kavrayan profesör. Öğrencisinin kafasının daha da karıştığını görünce kendisi de küçük bir sitem edip açıklamaya devam etti:
+-Bana da o kadar yalan söylemiş 'nöbet değiştirirken açıklarım sen lafını açma' diye işe bak. Dedektif Tarık yüzerek güneydeki kıyıya gitti Asım. Sen benim çantamı almaya gittiğinde planını bana anlattı, 'gece nöbeti devraldıktan sonra çıksam en geç sabaha karşı kıyıya çıkmış olurum. Oradan da en yakın köye yürüsem boşta bir araba bulur bulmaz kıyı şeridi boyunca sürüp sizi almaya geleceğim sonra aynı yoldan geri döneceğiz" dedi. Sizin de birbirinizi tanıdığınızı falan görünce ona sordum sana ne zaman söyler diye o da ilk başlarda sana söylerse kendin öne çıkıp yüzme işini yapmaya gönüllü olabileceğini söyledi o yüzden sana söylememe taraftarıydı. Ama ben ısrar ettikten sonra gece söylerim, sen şimdi bir şey söyleme dedi.
+Sinirden ve ne yapacağını bilememekten yerinde duramayan oğlan, birkaç kez bir şey söyleyecek gibi olup sonra ağzını kapattı ve başını sallayıp etrafta yürümeye başladı. Kısa bir voltadan sonra sinirini gömüp mantık yürütebilecek kadar sakinleşen genç profesörün çantasını açıp bir yandan söylenirken bir yandan da yiyecek ve içecekleri saymaya başladı.
+-O zaman yapacak bir şey yok artık; mebur burada kaldık, onun geri dönmesini bekleeceğiz... Üç, dört, beeşş... Her şey burada gibi, giderken hiçbir şey almamış bile ikimize 2 3 gün yeter burası.
+Boşalttığı çantayı geri doldurup yerine koydu ve bunca zaman sessizce kendisini izleyen profesörünün yanına geri döndü:
+-Ne yapıyoruz şimdi, başka bir şeyler söyledi mi? Planın devamını falan anlattı mı?
+Başını iki yana sallayan profesör öğrencisinin dediklerini tekrar etti:
+-Erzağın bize birkaç gün yeteceğini, kendisinin de en geç o vakte kadar geri döneceğini söyledi sadece. O yüzden eğer yarın bile dönerse erken olur demiştim. Bir de geri döndüğünde bize işaret vereceğini, nasıl bir işaret verebileceğini doğaçlama çözeceği için şimdiden bir şey söyleyemeyeceğini söyledi.
+
+
+
+
 SONRA SABAH HAREKETLENEN ASKERLERİN BAĞIRIŞLARINI DUYUYORLAR UZAKTAN, SAKLANMAYA DEVAM EDİYORLAR.
 
 
