@@ -1,4 +1,7 @@
 * 1995-04-21 23:00
+
+77777777
+
 Şehir dışında pansiyonvari odasında yatağa uzanmış Asım Samet, telefonu çaldığında daldığı derin düşüncelerden sıyrıldı. Geçmiş birkaç gün boyunca ekonomi modunda yaşamış olmak olayın ciddiyetini tekrar ortaya çıkarmış ve aklını başına getirmişti. Belki de hesabında bir hata vardı ve gelecek kargoyu sonsuza kadar küflü bir pansiyonda beklemektense artık geri dönmek daha gerçekçi gözüküyordu. Bu tip düşünceler aklında dolanırkın gelen telefon bildirimini ve gönderen numarayı okumasıyla yatakta doğrulması bir oldu.
 Yanı başındaki komodinden defterini ve Dünya haritasını çıkarıp mesajı açtı, mesajdaki şakaları ve günlük olayları atladı; kargoyu teslim eden yeni genç çalışanla ilgili birkaç şakayı okuduktan sonra kapsül fotoğrafındaki etikete yakınlaştırıp haritada aramaya başladı.
 -Merapiiii, Merapi... heh, tarihi neymiş, 17 nisan, tahmin ettiğim gibi. Kargo düşündüğümden biraz daha gecikmiş gibi sadece.
@@ -308,24 +311,26 @@ Profesörün cevabıyla aklı daha da karışan genç nerede olduğu bilinmez de
 "Ha sen bilmiyorsun, sana söylemedi mi nöbeti devralırken?" diye sordu yanlış anlaşılmanın sebebini kavrayan profesör. Öğrencisinin kafasının daha da karıştığını görünce kendisi de küçük bir sitem edip açıklamaya devam etti:
 -Bana da o kadar yalan söylemiş 'nöbet değiştirirken açıklarım sen lafını açma' diye işe bak. Dedektif Tarık yüzerek güneydeki kıyıya gitti Asım. Sen benim çantamı almaya gittiğinde planını bana anlattı, 'gece nöbeti devraldıktan sonra çıksam en geç sabaha karşı kıyıya çıkmış olurum. Oradan da en yakın köye yürüsem boşta bir araba bulur bulmaz kıyı şeridi boyunca sürüp sizi almaya geleceğim sonra aynı yoldan geri döneceğiz" dedi. Sizin de birbirinizi tanıdığınızı falan görünce ona sordum sana ne zaman söyler diye o da ilk başlarda sana söylerse kendin öne çıkıp yüzme işini yapmaya gönüllü olabileceğini söyledi o yüzden sana söylememe taraftarıydı. Ama ben ısrar ettikten sonra gece söylerim, sen şimdi bir şey söyleme dedi.
 Sinirden ve ne yapacağını bilememekten yerinde duramayan oğlan, birkaç kez bir şey söyleyecek gibi olup sonra ağzını kapattı ve başını sallayıp etrafta yürümeye başladı. Kısa bir voltadan sonra sinirini gömüp mantık yürütebilecek kadar sakinleşen genç profesörün çantasını açıp bir yandan söylenirken bir yandan da yiyecek ve içecekleri saymaya başladı.
--O zaman yapacak bir şey yok artık; mebur burada kaldık, onun geri dönmesini bekleeceğiz... Üç, dört, beeşş... Her şey burada gibi, giderken hiçbir şey almamış bile ikimize 2 3 gün yeter burası.
+-O zaman yapacak bir şey yok artık; mebur burada kaldık, onun geri dönmesini bekleeceğiz... Üç, dört, beeşş... Her şey burada gibi, giderken hiçbir şey almamış bile, ikimize 2 3 gün yeter burası.
 Boşalttığı çantayı geri doldurup yerine koydu ve bunca zaman sessizce kendisini izleyen profesörünün yanına geri döndü:
 -Ne yapıyoruz şimdi, başka bir şeyler söyledi mi? Planın devamını falan anlattı mı?
 Başını iki yana sallayan profesör öğrencisinin dediklerini tekrar etti:
 -Erzağın bize birkaç gün yeteceğini, kendisinin de en geç o vakte kadar geri döneceğini söyledi sadece. O yüzden eğer yarın bile dönerse erken olur demiştim. Bir de geri döndüğünde bize işaret vereceğini, nasıl bir işaret verebileceğini doğaçlama çözeceği için şimdiden bir şey söyleyemeyeceğini söyledi.
+Profesörün açıklamasından sonra yavaş yavaş kendini toparlamaya başlayan Asım Samet, dün cebine sıkıştırdığı haritayı çıkarıp dedektifin gösterdiği güney kıyısını inceledi. Kendi kendine konuşarak bir yandan dedektifin aklındaki planı çözmeye çalışıyordu. En sonunda kesin bir çıkar yol bulamayınca ve her şeyin bir bekleme oyununa döndüğünü anlayınca tekrar sinirlenen genç derin bir iç çekti. Durumun ümitsizliğinden söylenecek söz kalmayan sessizliği profesörün çantayı karıştırıp çıkardığı iki enerji barı bozdu.
+-Gel kahvaltıyı aradan çıkaralım bari beklerken. Bir de bakmışsın bizim dedektif araba çalmış veya kiralamış korna basa basa geliyor, koşacak enerjin olsun. Hem şu anda yapabileceğin bir şey var mı?
+Kendisine uzatılan barı alan genç başını sallayıp sessizce kendi payını yemeye başladı. Profesörün konuşmayı nereye getireceğini bildiği gibi, profesör de öğrencisinin çoktan her şeyi çözdüğünü ve mantıksız bir şey yapmayacağını biliyordu. İkili, kahvaltılarını bitirdiklerinde adanın iç kısımlarından günün ilk silah seslerini duydu. Hocasının uzattığı suyu içtikten sonra geriye yaslanan genç, bulutsuz gökyüzünü izlemeye başladı.
+-Demek buradan sonrası beklemek...
 
 
 
-
-SONRA SABAH HAREKETLENEN ASKERLERİN BAĞIRIŞLARINI DUYUYORLAR UZAKTAN, SAKLANMAYA DEVAM EDİYORLAR.
 
 
 
 # BURADAN SONRASI SON CHAPTER'DA OLACAK ŞEYLER: dedektif gelir, bizimkileri kurtarır, birlikte kaçarlar. Eeennn sondaki chapter'da da dedektif ofisinde otururken posta gelir falan
 
 SABAH KURUTMA TELİNE ASILI KIYAFETLERDEN BİRKAÇ PARÇA ALAN DEDEKTİF'İ POSTA OFİSİNDEN (PROFESÖR KENDİ ARAŞTIRMASINI DEDEKTİFE VERİYOR "BUNU POSTALA, İSTEDİĞİN BİR ADRESE POSTALA YETER Kİ AMERİKA'NIN ELİNE GEÇMESİN" DİYOR DEDEKTİF DE KENDİ ADRESİNE POSTALIYOR. KİTABIN SONUNDA DA OFİSİNDE OTURURKEN BİLİMSEL ARAŞTIRMA ELİNE ULAŞIYOR) KILIK DEĞİŞTİRMİŞ HALDE ÇIKARKEN GÖRÜYORUZ
-BİR ŞEKİLDE BİR YEMEK İÇECEK VE ARABA FALAN BİR ŞEY BULSUN. ŞU ANDA 1 MAYIS, 3 MAYIS SABAHI RESMİ OLARAK ADADAN ÇIKMIŞ OLMASI LAZIM
-ARABAYLA GELİNCE İŞARET VERİYOR, BİZİMKİLER GÜNEYE KOŞMAYA BAŞLAYACAK
+BİR ŞEKİLDE BİR YEMEK İÇECEK VE ARABA FALAN BİR ŞEY BULSUN. LAGÜNDEKİ BALIKÇILARDAN BİRİYLE ANLAŞSIN, BALIKÇI KILIĞINDA GÜNEY KIYISINA YAKLAŞSIN SONRA DA KUZGUN ÇAĞIRMA ISLIĞIYLA İŞARET VERSİN.(ASIMIN BURADA ÖNCEDEN DEDEKTİFİN ISLIĞINI DUYMUŞ OLMASI LAZIM). ŞU ANDA 1 MAYIS, 3 MAYIS SABAHI RESMİ OLARAK ADADAN ÇIKMIŞ OLMASI LAZIM.
+İŞARET VERİYOR, BİZİMKİLER GÜNEYE KOŞMAYA BAŞLAYACAK SONRA DA TEKNEYE ATLAYIP PORT MORESBY'YE DOĞRU YOLA ÇIKIYORLAR
 sabah kurutma teline asili kiyafetlerden birkaç parça alan dedektifi posta ofisinden (profesör kendi araştirmasini dedektife veriyor "bunu postala, istediğin bir adrese postala yeter ki iki tarafın da eline geçmesin" diyor dedektif de kendi adresine postaliyor. kitabin sonunda da ofisinde otururken bilimsel araştirma eline ulaşiyor) kilik değiştirmiş halde çikarken görüyoruz
 bir şekilde bir yemek içecek ve araba falan bir şey bulsun. şu anda 1 mayis, 3 mayis sabahi resmi olarak adadan çikmiş olmasi lazim
 arabayla gelince işaret veriyor, bizimkiler güneye koşmaya başlayacak
