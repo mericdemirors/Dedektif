@@ -38,17 +38,14 @@
                 "id": "45a03755f574acea",
                 "type": "leaf",
                 "state": {
-                  "type": "canvas",
+                  "type": "markdown",
                   "state": {
-                    "file": "book/Parallel Timelines.canvas",
-                    "viewState": {
-                      "x": -2212,
-                      "y": -4475.5,
-                      "zoom": -4
-                    }
+                    "file": "characters/rus ajan/Rus Ajan.md",
+                    "mode": "source",
+                    "source": false
                   },
-                  "icon": "lucide-layout-dashboard",
-                  "title": "Parallel Timelines"
+                  "icon": "lucide-file",
+                  "title": "Rus Ajan"
                 }
               }
             ]
@@ -218,14 +215,19 @@
   },
   "active": "458355ae5e3b9884",
   "lastOpenFiles": [
-    "book/arcs/10 Beklenmedik ve Bilinmedik 2 Yüz.md",
+    "characters/rus ajan/Rus Ajan.md",
+    "characters/rus ajan/visboard.png",
+    "characters/rus ajan/Rus Ajan (copy).png",
+    "characters/rus ajan/Rus Ajan.png",
+    "characters/doktor/Doktor.png",
+    "book/Parallel Timelines.canvas",
     "book/chapters/Profesörün Peşinde.md",
+    "book/arcs/10 Beklenmedik ve Bilinmedik 2 Yüz.md",
     "book/arcs/8 Profesörün Peşinde.md",
     "main story/Main Story.md",
     "book/arcs/9 Kanlı Sahil.md",
     "characters/dul kadının çocuğu/Dul Kadının Çocuğu.md",
     "book/arcs/7 Vadideki Tuzak.md",
-    "book/Parallel Timelines.canvas",
     "book/chapters/Sayfalar Gösteriyor.md",
     "main story/66 Hours In Hell.md",
     "characters/RBA/RBA (ismail).md",
@@ -254,7 +256,6 @@
     "characters/ruCoRO russian cosmos research organization/RuCoRO Russian Cosmos Research Organization.md",
     "characters/russian team/Russian Team.md",
     "side cases/Side Case 3.2 Botulinum'lu yazar (dedektifin şeker kokulu birinin insanları zehirlediğini anlaması için).md",
-    "characters/doktor/Doktor.png",
     "characters/dedektif yardımcısı/Dedektif Yardımcısı.png",
     "characters/dedektif uşağı/Dedektif Uşağı.png",
     "characters/dedektif/Dedektif.png",
@@ -262,9 +263,6 @@
     "characters/komiser yardımcısı/Komiser Yardımcısı.png",
     "characters/dul kadının çocuğu/Dul Kadının Çocuğu.png",
     "characters/roman yazarı/Roman Yazarı.png",
-    "characters/RBA/RBA.png",
-    "characters/komiser/Komiser.png",
-    "characters/rus ajan/Rus Ajan.png",
     "characters/Characters.canvas",
     "book/Parallel Time Lines.canvas",
     "book/events.canvas",
