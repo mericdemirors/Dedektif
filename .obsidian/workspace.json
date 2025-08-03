@@ -104,7 +104,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "line:(soğuk sa)",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -125,7 +125,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -213,7 +214,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "458355ae5e3b9884",
+  "active": "13ff93db1a1aa25f",
   "lastOpenFiles": [
     "characters/rus ajan/Rus Ajan.md",
     "characters/rus ajan/visboard.png",
