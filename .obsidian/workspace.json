@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "book/chapters/Profesörün Peşinde.md",
+                "file": "book/chapters/Kanlı Sahil.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Profesörün Peşinde"
+              "title": "Kanlı Sahil"
             }
           }
         ]
@@ -61,12 +61,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "book/arcs/10 Beklenmedik ve Bilinmedik 2 Yüz.md",
+                    "file": "book/arcs/Kanlı Sahil (Profesörün Peşinde her şeyi birleştirdikten sonra kalan son chapter).md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "10 Beklenmedik ve Bilinmedik 2 Yüz"
+                  "title": "Kanlı Sahil (Profesörün Peşinde her şeyi birleştirdikten sonra kalan son chapter)"
                 }
               }
             ]
@@ -215,22 +215,23 @@
   },
   "active": "458355ae5e3b9884",
   "lastOpenFiles": [
+    "book/arcs/Kanlı Sahil (Profesörün Peşinde her şeyi birleştirdikten sonra kalan son chapter).md",
+    "book/chapters/Kanlı Sahil.md",
+    "book/chapters/Profesörün Peşinde.md",
+    "book/arcs/10 Beklenmedik ve Bilinmedik 2 Yüz.md",
+    "book/arcs/9 Kanlı Sahil.md",
+    "main story/Main Story.md",
+    "characters/dul kadının çocuğu/Dul Kadının Çocuğu.md",
+    "book/arcs/8 Profesörün Peşinde.md",
     "book/chapters/lu11480ab30e.tmp",
     "book/chapters/Profesörün Peşinde.odt",
     "book/chapters/Sayfalar Gösteriyor (copy).odt",
-    "book/chapters/Kanlı Sahil.md",
-    "book/chapters/Profesörün Peşinde.md",
     "characters/rus ajan/Rus Ajan.md",
-    "book/arcs/10 Beklenmedik ve Bilinmedik 2 Yüz.md",
     "characters/rus ajan/visboard.png",
     "characters/rus ajan/Rus Ajan (copy).png",
     "characters/rus ajan/Rus Ajan.png",
     "characters/doktor/Doktor.png",
     "book/Parallel Timelines.canvas",
-    "book/arcs/8 Profesörün Peşinde.md",
-    "main story/Main Story.md",
-    "book/arcs/9 Kanlı Sahil.md",
-    "characters/dul kadının çocuğu/Dul Kadının Çocuğu.md",
     "book/arcs/7 Vadideki Tuzak.md",
     "book/chapters/Sayfalar Gösteriyor.md",
     "main story/66 Hours In Hell.md",
@@ -246,7 +247,6 @@
     "book/chapters/Kurabiye Hırsızı.pdf",
     "book/chapters/lu221406kl38.tmp",
     "book/chapters/Şifreli Aşk.pdf",
-    "book/chapters/lu221406kl32.tmp",
     "book/arcs/6 Sayfalar Gösteriyor.md",
     "book/chapters/Taziye Yemeği ve Hava Yastığı.md",
     "book/arcs/2 Kurabiye Hırsızı.md",
