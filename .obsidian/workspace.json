@@ -129,7 +129,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 283.5
   },
   "right": {
     "id": "429837ed208361d4",
@@ -213,11 +213,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cb9ca6cc0e9845a4",
+  "active": "458355ae5e3b9884",
   "lastOpenFiles": [
-    "book/arcs/10 Beklenmedik ve Bilinmedik 2 Yüz.md",
+    "book/chapters/Kanlı Sahil.md",
     "book/chapters/Profesörün Peşinde.md",
     "characters/rus ajan/Rus Ajan.md",
+    "book/arcs/10 Beklenmedik ve Bilinmedik 2 Yüz.md",
     "characters/rus ajan/visboard.png",
     "characters/rus ajan/Rus Ajan (copy).png",
     "characters/rus ajan/Rus Ajan.png",
@@ -255,7 +256,6 @@
     "book/chapters/Şifreli Aşk.md",
     "characters/ruCoRO russian cosmos research organization/RuCoRO Russian Cosmos Research Organization.md",
     "characters/russian team/Russian Team.md",
-    "side cases/Side Case 3.2 Botulinum'lu yazar (dedektifin şeker kokulu birinin insanları zehirlediğini anlaması için).md",
     "characters/dedektif yardımcısı/Dedektif Yardımcısı.png",
     "characters/dedektif uşağı/Dedektif Uşağı.png",
     "characters/dedektif/Dedektif.png",
