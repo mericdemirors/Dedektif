@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "book/chapters/Kanlı Sahil.md",
+                "file": "book/arcs/Kanlı Sahil (Profesörün Peşinde her şeyi birleştirdikten sonra kalan son chapter).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kanlı Sahil"
+              "title": "Kanlı Sahil (Profesörün Peşinde her şeyi birleştirdikten sonra kalan son chapter)"
             }
           }
         ]
@@ -61,12 +61,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "book/arcs/Kanlı Sahil (Profesörün Peşinde her şeyi birleştirdikten sonra kalan son chapter).md",
+                    "file": "book/chapters/Profesörün Peşinde.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Kanlı Sahil (Profesörün Peşinde her şeyi birleştirdikten sonra kalan son chapter)"
+                  "title": "Profesörün Peşinde"
                 }
               }
             ]
@@ -215,9 +215,9 @@
   },
   "active": "458355ae5e3b9884",
   "lastOpenFiles": [
+    "book/chapters/Profesörün Peşinde.md",
     "book/arcs/Kanlı Sahil (Profesörün Peşinde her şeyi birleştirdikten sonra kalan son chapter).md",
     "book/chapters/Kanlı Sahil.md",
-    "book/chapters/Profesörün Peşinde.md",
     "book/arcs/10 Beklenmedik ve Bilinmedik 2 Yüz.md",
     "book/arcs/9 Kanlı Sahil.md",
     "main story/Main Story.md",
