@@ -38,14 +38,17 @@
                 "id": "45a03755f574acea",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
+                  "type": "canvas",
                   "state": {
-                    "file": "characters/rus ajan/Rus Ajan.md",
-                    "mode": "source",
-                    "source": false
+                    "file": "book/Parallel Timelines.canvas",
+                    "viewState": {
+                      "x": 8077.674090311822,
+                      "y": -6184.282582788167,
+                      "zoom": 0.3028690111637123
+                    }
                   },
-                  "icon": "lucide-file",
-                  "title": "Rus Ajan"
+                  "icon": "lucide-layout-dashboard",
+                  "title": "Parallel Timelines"
                 }
               }
             ]
@@ -215,8 +218,10 @@
   },
   "active": "458355ae5e3b9884",
   "lastOpenFiles": [
-    "book/chapters/Profesörün Peşinde.md",
+    "book/Parallel Timelines.canvas",
+    "characters/rus ajan/Rus Ajan.md",
     "book/arcs/Kanlı Sahil (Profesörün Peşinde her şeyi birleştirdikten sonra kalan son chapter).md",
+    "book/chapters/Profesörün Peşinde.md",
     "book/chapters/Kanlı Sahil.md",
     "book/arcs/10 Beklenmedik ve Bilinmedik 2 Yüz.md",
     "book/arcs/9 Kanlı Sahil.md",
@@ -226,12 +231,10 @@
     "book/chapters/lu11480ab30e.tmp",
     "book/chapters/Profesörün Peşinde.odt",
     "book/chapters/Sayfalar Gösteriyor (copy).odt",
-    "characters/rus ajan/Rus Ajan.md",
     "characters/rus ajan/visboard.png",
     "characters/rus ajan/Rus Ajan (copy).png",
     "characters/rus ajan/Rus Ajan.png",
     "characters/doktor/Doktor.png",
-    "book/Parallel Timelines.canvas",
     "book/arcs/7 Vadideki Tuzak.md",
     "book/chapters/Sayfalar Gösteriyor.md",
     "main story/66 Hours In Hell.md",
@@ -255,7 +258,6 @@
     "book/arcs/3 Parktaki Ceset.md",
     "book/chapters/Kurabiye Hırsızı.md",
     "book/chapters/Şifreli Aşk.md",
-    "characters/ruCoRO russian cosmos research organization/RuCoRO Russian Cosmos Research Organization.md",
     "characters/dedektif yardımcısı/Dedektif Yardımcısı.png",
     "characters/dedektif uşağı/Dedektif Uşağı.png",
     "characters/dedektif/Dedektif.png",
