@@ -1,0 +1,9 @@
+* 1995-05-01 09:15
+Kıyı kenarında metal levhalardan adice dikilmiş bir kıyafet dükkanının önünde nefes nefese kalmış adam, soluklanırken üzerindeki suyu yere sıkıp toplu saçını açtı. Cüzdanından birkaç ıslak banknot çıkarıp olabildiğince kuruladıktan sonra dükkana girdi ve tezgaha kurulmuş radyosunu dinleyen göbekli yaşlı satıcıya el etti. Radyonun sesini kısan satıcı, dükkanını şıp şıp ıslatan adamı elinin tersiyle dışarı iteleyip derdini dinlemeye başladı. Islak banknotu uzatan adam askılıklardan kendine bir şortla gömlek seçip geri geldi ve elindekileri gösterdi. Banknota tekrar bakan satıcı, başparmağıyla her şeyin yolunda olduğunu gösterip geri dükkanının içine döndü.
+Dışarıda elindeki gömlek ve şortla yalnız kalan adam, paranın üstünü alamayacağını anlayınca canı sıkkın bir şekilde etrafına bakınmaya başladı. Biraz dışarıdaki askılıkları ve rafları inceledi, satıcının etrafta olmadığından emin olunca gözüne kestirdiği hasır şapkayla birlikte bir iç çamaşırı seti de aldı ve hızlı adımlarla sahil boyunca ilerleyip ilk bulduğu çalılığa daldı. Islak kıyafetlerini çıkarıp yenilerini giyen adam, şapkasını takıp cebindeki yırtılmaya yüz tutmuş haritasını yere serip yanına oturdu. Beklediği gibi haritada işine yarayacak herhangi bir bilgi göremeyince tekrar toparlanıp yakınlardaki başka bir dükkana girdi.
+Şansına bu sefer daha güler yüzlü bir teyzeyle karşılaştı ve basit bir İngilizce'yle derdini anlatmaya başladı.
+-Benim postam var, posta ofisi nerede?
+Bir an ne söyleyeceğini bilemeyen kadın, eliyle bir şeyler işaret ettikten sonra dükkandan içeri heyecanlı heyecanlı birine seslendi. Az sonra yanlarına gelen küçük bir kız çocuğu elindeki ilkokul ingilizce kitabını kaldırıp bozuk bir İngilizce'yle konuşmaya başladı:
+-Merhabaaaa, ben Sophie, ıııı, 12 yıllar eskisiyim. Sen yardım istiyorsun...
+
+DEDEKTİF POSTA OFİSİNİN YERİNİ SORSUN
