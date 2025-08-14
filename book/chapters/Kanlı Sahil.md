@@ -4,6 +4,12 @@ Dışarıda elindeki gömlek ve şortla yalnız kalan adam, paranın üstünü a
 Şansına bu sefer daha güler yüzlü bir teyzeyle karşılaştı ve basit bir İngilizce'yle derdini anlatmaya başladı.
 -Benim postam var, posta ofisi nerede?
 Bir an ne söyleyeceğini bilemeyen kadın, eliyle bir şeyler işaret ettikten sonra dükkandan içeri heyecanlı heyecanlı birine seslendi. Az sonra yanlarına gelen küçük bir kız çocuğu elindeki ilkokul ingilizce kitabını kaldırıp bozuk bir İngilizce'yle konuşmaya başladı:
--Merhabaaaa, ben Sophie, ıııı, 12 yıllar eskisiyim. Sen yardım istiyorsun...
+-Merhabaaaa, ben Sophie, ıııı, 12 yıllar eskisiyim. Sen?
+-Merhaba, dedi sonunda kolaylıkla anlaşacağı birini bulan sevinmiş adam kızın uzattığı elini sıkarken. "Ben dedektif, polis adamım. Kötü adam kovalıyorum. Kötü adam posta ofisinde, posta ofisi nerede biliyor musun?"
+Dedektifin ingilizce'sinde kaybolmuş kız, anlaşılana göre daha başlangıç seviyesinde konuşabiliyordu sadece ve dediklerini hiç anlamamıştı. Dedektifin umutları tekrar suya düşmüş, ne yapsam diye düşünürken kızın elindeki kitabı görüp yeni bir şey denemeye karar verdi. Kızın elindeki kitabı işaret eden adam, yere oturup eliyle kızı da davet etti. Biraz tereddütle olsa da yanına oturan kız kitabını yere açtı ve yabancı adamın yapacaklarını izlemeye başladı.
+Sayfaları karıştıran adam, meslekler temasını açıp birkaç sayfa çevirdi ve aradığını görünce sevindi. Kıza dönüp önce kitaptaki polis amirini sonra da kendisini gösterdi. Kızın anladığından emin olduktan sonra diğer sayfaya geçti ve postacıyı gösterip cebindeki haritayı kitabın yanına yere açtı.
+Gözlerini haritadan ayırmadan ayağa kalkan kız, başını sağa sola eğip haritaya biraz daha baktıktan sonra dükkanın içinden uzaktan onları izleyen yaşlı teyzeye seslendi. Yanlarına gelen kadına kısaca bir şeyler söyleyip yerdeki haritayı işaret etti. Oflaya puflaya yarı eğilip yarı çömelen kadın haritada Kokopo adında küçük bir yazıya parmağını koydu. Yanlarına oturan küçük kız da kitaptan postacı adamı gösterip hayali çantasıyla etrafta yürümeye başladı. Yerdeki haritayı geri katlayıp ayağa kalkan adam, yorulduktan sonra yanına geri gelen kıza teşekkür edip, çoktan dükkana geri girmiş kadına da uzaktan el salladı. Bir karşılık alamayan dedektif, pusulasına bakıp yola düştüğünde geride kalan kız; eğri büğrü bir asker yürüyüşüyle postacı taklidi yaparken elindeki kitaptan da cümlelre okumaya başlamıştı:
+-Ben bay polis... Ben bir öğretmenim...
 
-DEDEKTİF POSTA OFİSİNİN YERİNİ SORSUN
+
+RAM SHIPPING YARD'DA RESTORANIN BİRİNDE YEMEK YİYEN DEDEKTİF, POSTA OFİSİNE KADAR YÜRÜMÜŞ BACAKLARI ÇOK AĞRIYOR. YEMEĞİNİ YEDİKTEN SONRA LİMANA GİDİP BALIKÇILARLA KONUŞUYOR
