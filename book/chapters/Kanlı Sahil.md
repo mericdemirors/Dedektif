@@ -31,4 +31,39 @@ Adamın kendisine seslendiğini sonradan farkeden genç, kısa bir duraksamadan 
 Tamir olmuş ağı düzgün bir şekilde düğümleyip teknenin arkasına atan balıkçı, kürekleri yerlerine yerleştirdikten sonra hala teknesinde oturan adama bakıp tekrar yardım edip edemeyeceğini sordu.
 Şu anda yapacak başka bir işi olmayan dedektif, omzunu silkerek ellerini açtı ve gencin uzattığı kürekleri suya indirdi. Gencin düğümü çözmesini bekledikten sonra suya itilen tekneyi doğrulttuktan sonra yavaş yavaş kürek çekmeye başladı. Eninde sonunda kürek çekmesi gerekecekti, şimdiden biraz alıştırma yapsa fena olmazdı. Birkaç kez suya daldırıp çıkardığı kürekleri elinin içinde döndürüp kavradıktan sonra ritmi yakaladı ve tekneyi sarsa sarsa açılmaya başladılar. Arkasından birkaç kutu çıkaran genç, farklı farklı yemleri porsiyonlara bölüp ve belindeki çantada karıştırmaya başladığında çoktan iyi bir miktar açılmışlardı ve güneş de daha ufka dokunmamıştı.
 
-SAAT 20, balıkçı geri dönelim der, dedektif okay der adamı kıyıya bırakıp sonra parasını verip yarın sabah burada olacam der
+* 1995-05-01 18:30
+Çok da başarılı sayılamayacak bir avdan eli yarı dolu dönen ikili bu sefer yer değiştirmiş, balıkçı kürek çekerken dedektif teknenin arkasında oturmuş kovalarda son zıplamalarını yapan balıklara bakıyordu. Deneyimsiz balıkçı gün batımını doğru tahmin edemediği için karanlığa kalmışlardı, yanlış bir tarafa açılmadan önce de kıyıda akşamın ilk ışıklarının belirmesini bekleyip sonra kürek çekmeye başlamışlardı. Dedektif, her ne kadar pusulasıyla balıkçıyı ikna etmeye çalışsa da o sahilde yakılan fenerleri bekleyip işini garantiye almayı tercih etmişti. Belki de bir gün yine aynı duruma düşerse yalnız başına eve dönebileceğini kendine kanıtlamak istiyordu.
+Dedektif, kovalardaki çırpıntılara daldığından sahile geldiklerini ancak etraflarındaki dalgalar sarı sarı ışıldamaya başladığında anladı. Genç de kürek çekmeyi azaltmış, tekneyi dalgalara bırakmıştı. Sallana sallana iskeleye yaklaşan tekne iskeleye çarpmadan önce kürekle son yönlendirmeleri yapan balıkçı, kürekleri tekneye yatırıp iskeleye zıpladı ve dedektifin uzattığı kovaları birer birer yanına taşıdı. Balıkçı kovalardaki balıkları iskelenin ışığında çer çöpten ayıklarken hala teknede oturan dedektif cüzdanından loş ışıkta zor seçtiği onluk banknotu çıkarıp gence uzattı:
+-Söylediğin gibi, 10 dolar. Yarın sabah tekne burada olacak.
+Başını sallayan genç, yosunlu ve balık pullu elini üstüne sildikten sonra adamın uzattığı banknotu aldı ve iyi akşamlar diledikten sonra iki yanında kovalarla yalpalayarak iskele boyunca uzaklaştı.
+
+Gergin omuzlarını oturduğu yerden esneten dedektif, kürekleri tekrar yuvalarına oturttuktan sonra haritasını ve pusulasını çıkartıp söndü sönecek cılız iskele feneri altında açısını not alıp tekneyi iskeleden uzaklaştırdı. Kol saatinin ışığını yakıp son bir kez daha açısını kontrol ettikten sonra uykusuzluğun da üzerine eklendiği günün yorgunluğu ile var gücüyle küreklere asılmaya başadı.
+
+* 1995-05-01 20:00
+
+-Profesör, akşam yemeğine ne istersiniz?
+-Ne varsa artık, çok bir şey kalmadı zaten değil mi?
+Elinde 2 şişe su ve 2 konserve ile gelen genç, profesöre porsiyonunu uzatıp yanına oturdu:
+"Karanlıktan çok seçemedim de çantada son kalanlar ton balığı konserveleriydi sanırım.". Suyunu yarıladıktan sonra konservesini açıp devam etti: "Onlar da bitince ne yapacağız? Ada sakinleşti gibi son birkaç saattir hiç ses yok. Sizce şehre inmeli miyiz?"
+-Bilmiyorum, Tarık bizi buradan kurtaracaksa en iyisi hareket etmemek olur ancak eğer yarın ikindin gibi ondan da ses çıkmazsa belki kendimiz bir şeyler deneyebiliriz.
+Bir süre en iyi hamlelerinin ne olacağını düşünen Asım Samet, geçen günkü nöbetinde fark ettiği kamp ateşlerini tekrar görüp göremeyeceğine bakmak için kuzeybatı yamacının zirvesine yaklaştı ve yavaşça kafasını uzattı.
+Sanki son birkaç gündür adadaki herkes birbirini öldürmüyormuşçasına bir sessizlik ve sakinlik vardı. Can sıkıcı nokta ise o kamp ateşlerinin askerlerin olup olmadığını bile bilememek, ve hatta kontrol etmek için gidip bakamamaktı. Serin akşam esintisine karışan yankılı kuş ötmeleri de ortamın ürkünçlüğünü artırıyordu. Geceleri kendini çok az da olsa göstermeye başlayan ayın ışığında etrafa bakınan genç, karanlığa gömülmüş ormandan ve etrafını kaplayan ışıltılı denizden başka bir şey göremedi. Profesörün yanına dönüp konservesinde kalan son lokmaları sıyırıp çöpünü çantanın içine tıktı.
+-Bir hareketlilik var mı, diye sordu kendi çöpünü de atıp gelen profesör.
+Başını sallayan genç yavaşça yere uzanıp su şişesini elinde evirip çevirmeye başladı:
+-Yok, beklemeye devam mı o zaman?
+-Öyle gözüküyor.
+-En azından dedektifin işaretini bilseydik, neyi bekleyeceğimizi bilirdik en azından.
+-Siz ne kadardır tanışıyorsunuz, diye sordu profesör. "Aranızda özel bir selamlaşma, şifreleme falan bir şey yok mu?".
+Bir süre sessiz kalan genç, ne zamandan beri dedektifle bu kadar yakın olduklarını düşündü ancak aklına belli bir an gelmedi.
+-Aslında çok yakın olduğumuz bir zamanı hatırlamıyorum. Amerika'ya okumaya gelmeden önce arada sırada karşılaşır ayaküstü sohbet ederdik. Birkaç kez de taşlara topraklara ilgim olduğu için bir davasıyla ilgili 3 5 soru sormuştu o kadar. Geçen ayın başında acil bir şey için Türkiye'ye döndüğümde biraz konuştuk, sanırım o olay beni biraz daha ona yaklaştırdı ancak normalde arkadaş diyecek kadar bile yakın değilizdir.
+-Hmmm anlıyorum, Türkiye'ye niye döndün ciddi bir şey miydi?
+Profesöre anlatıp anlatmamak arasında kalan genç, durumun zaten daha da kötü bir hal alamayacağını düşünerek anlatmaya karar verdi. Zaten Türkiye'den döndüğünden beri kimseyle konuşamamış kendini laboratuvar işlerine vermişti, belki de sonunda konuşacak birini bulduğunu için konuyu açmak da istemişti.
+-Sayılır... Tarık Abi'den annemin vefatını haber veren bir haber almıştım da o yüzden biraz apar topar gittim. Gerçi cenazeye yetişemesem de mezarın başında onunla biraz konuşma fırsatım olmuştu. Sağ olsun her şeyle o ilgilenmiş.
+Belki de şimdi bunları konuşmanın sırası değildir diye düşünen profesör, pek fazla bir şey sormadı ve baş sağlığı diledikten sonra sessizliğini korudu.
+Hafif bir hüznün yumuşattığı atmosfer, tekrardan daha da yakından duyulan ürkünç bir kuş ötmesiyle bölündü ve ortam tekrar korkunç bir karanlığa döndü:
+-Fuuuuu fu fu fu fu fuuuuuu!
+
+
+ASIM SAMET DİYECEK Kİ "BU KUŞ DEĞİL, DEDEKTİF KUZGUN ÇAĞIRMA SESİ YAPIYOR BİZİ ÇAĞIRIYOR KOŞUN" SONRA BUNLAR DAĞDAN GÜNEY SAHİLİNE İNECEKLER DEDEKTİFE YÜZECEKLER, DEDEKTİF DE KIYIDAKİ IŞIKLARI GÖSTERİP "ŞU LİMANA YANAŞ SONRA DA TEKNEYİ BAĞLA ÇOK FENA UYUYACAM, NE YAPACAĞIMIZI SABAH KONUŞURUZ" DİYOR
+
+Kürek çekmeye başlıyor, adanın güneyine geliyor ve ıslık çalıyor bir kaç kez. En sonunda adadan Asım samet kuzgun yollama ıslığıyla karşılık veriyor. Bir süre sonra daha yakınlardan asım samet'in kuzgun çağırma ıslığını duyuyor "a şimdi de onlar beni çağırıyor" diye düşünen dedektif kolunu kaldırıp saatinin ışığını yakıyor. Bir süre böyle yak söndür yak söndür yapıyor en sonunda asım samet ve profesör de tekneye biniyor. (asımın burada ıslığı önceden duymuş olması lazım)

@@ -42,9 +42,9 @@
                   "state": {
                     "file": "book/Parallel Timelines.canvas",
                     "viewState": {
-                      "x": 7394.704578471217,
-                      "y": -6053.55370577169,
-                      "zoom": -2.57009653965632
+                      "x": -8490.316718980883,
+                      "y": -6323.599443725717,
+                      "zoom": -0.758593009312946
                     }
                   },
                   "icon": "lucide-layout-dashboard",
@@ -128,8 +128,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -219,9 +218,9 @@
   },
   "active": "458355ae5e3b9884",
   "lastOpenFiles": [
-    "book/arcs/Kanlı Sahil (Profesörün Peşinde her şeyi birleştirdikten sonra kalan son chapter).md",
-    "book/chapters/Kanlı Sahil.md",
     "book/Parallel Timelines.canvas",
+    "book/chapters/Kanlı Sahil.md",
+    "book/arcs/Kanlı Sahil (Profesörün Peşinde her şeyi birleştirdikten sonra kalan son chapter).md",
     "book/chapters/Profesörün Peşinde.md",
     "characters/rus ajan/Rus Ajan.md",
     "book/arcs/10 Beklenmedik ve Bilinmedik 2 Yüz.md",
