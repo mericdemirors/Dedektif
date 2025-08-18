@@ -38,17 +38,14 @@
                 "id": "45a03755f574acea",
                 "type": "leaf",
                 "state": {
-                  "type": "canvas",
+                  "type": "markdown",
                   "state": {
-                    "file": "book/Parallel Timelines.canvas",
-                    "viewState": {
-                      "x": -8490.316718980883,
-                      "y": -6323.599443725717,
-                      "zoom": -0.758593009312946
-                    }
+                    "file": "characters/dul kadın/Dul Kadın.md",
+                    "mode": "source",
+                    "source": false
                   },
-                  "icon": "lucide-layout-dashboard",
-                  "title": "Parallel Timelines"
+                  "icon": "lucide-file",
+                  "title": "Dul Kadın"
                 }
               }
             ]
@@ -218,6 +215,9 @@
   },
   "active": "458355ae5e3b9884",
   "lastOpenFiles": [
+    "book/chapters/lu96943eym5.tmp",
+    "book/chapters/lu95413aepk.tmp",
+    "characters/dul kadın/Dul Kadın.md",
     "book/Parallel Timelines.canvas",
     "book/chapters/Kanlı Sahil.md",
     "book/arcs/Kanlı Sahil (Profesörün Peşinde her şeyi birleştirdikten sonra kalan son chapter).md",
@@ -249,7 +249,6 @@
     "book/chapters/lu221406kl3h.tmp",
     "book/chapters/Kurabiye Hırsızı.pdf",
     "book/chapters/lu221406kl38.tmp",
-    "book/chapters/Şifreli Aşk.pdf",
     "book/arcs/6 Sayfalar Gösteriyor.md",
     "book/chapters/Taziye Yemeği ve Hava Yastığı.md",
     "book/arcs/2 Kurabiye Hırsızı.md",
@@ -257,7 +256,6 @@
     "book/arcs/1 Şifreli Aşk.md",
     "book/arcs/3 Parktaki Ceset.md",
     "book/chapters/Kurabiye Hırsızı.md",
-    "book/chapters/Şifreli Aşk.md",
     "characters/dedektif yardımcısı/Dedektif Yardımcısı.png",
     "characters/dedektif uşağı/Dedektif Uşağı.png",
     "characters/dedektif/Dedektif.png",
