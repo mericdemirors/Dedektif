@@ -43,7 +43,7 @@ Gergin omuzlarını oturduğu yerden esneten dedektif, kürekleri tekrar yuvalar
 -Profesör, akşam yemeğine ne istersiniz?
 -Ne varsa artık, çok bir şey kalmadı zaten değil mi?
 Elinde 2 şişe su ve 2 konserve ile gelen genç, profesöre porsiyonunu uzatıp yanına oturdu:
-"Karanlıktan çok seçemedim de çantada son kalanlar ton balığı konserveleriydi sanırım.". Suyunu yarıladıktan sonra konservesini açıp devam etti: "Onlar da bitince ne yapacağız? Ada sakinleşti gibi son birkaç saattir hiç ses yok. Sizce şehre inmeli miyiz?"
+"Karanlıktan çok seçemedim de çantada son kalanlar birkaç tane enerji barıydı sanırım.". Suyunu yarıladıktan sonra konservesini açıp devam etti: "Onlar da bitince ne yapacağız? Ada sakinleşti gibi son birkaç saattir hiç ses yok. Sizce şehre inmeli miyiz?"
 -Bilmiyorum, Tarık bizi buradan kurtaracaksa en iyisi hareket etmemek olur ancak eğer yarın ikindin gibi ondan da ses çıkmazsa belki kendimiz bir şeyler deneyebiliriz.
 Bir süre en iyi hamlelerinin ne olacağını düşünen Asım Samet, geçen günkü nöbetinde fark ettiği kamp ateşlerini tekrar görüp göremeyeceğine bakmak için kuzeybatı yamacının zirvesine yaklaştı ve yavaşça kafasını uzattı.
 Sanki son birkaç gündür adadaki herkes birbirini öldürmüyormuşçasına bir sessizlik ve sakinlik vardı. Can sıkıcı nokta ise o kamp ateşlerinin askerlerin olup olmadığını bile bilememek, ve hatta kontrol etmek için gidip bakamamaktı. Serin akşam esintisine karışan yankılı kuş ötmeleri de ortamın ürkünçlüğünü artırıyordu. Geceleri kendini çok az da olsa göstermeye başlayan ayın ışığında etrafa bakınan genç, karanlığa gömülmüş ormandan ve etrafını kaplayan ışıltılı denizden başka bir şey göremedi. Profesörün yanına dönüp konservesinde kalan son lokmaları sıyırıp çöpünü çantanın içine tıktı.
@@ -90,9 +90,29 @@ Gecikmeden gelen karşılığı dalgaların arasından varla yok arası seçilen
 Zirveden inmeye başladıklarından beri neredeyse yarım saat olmuştu ve dalga sesleri artık ormanın içinden duyulur olmuştu. Ağaç gövdeleri arasından yer yer gözükmeye başlayan parlak su yüzeyi, ara sıra çalınan onları çağıran ıslığa eşlik eder gibi sallanıyordu. Sahile yaklaştıkça adımları hızlanan öğrencisini kolundan tutan profesör, biraz nefeslendikten sonra öğrencisini yanına çekti ve derin bir nefes alıp olabildiğince sessizce fısıldadı:
 -Öyle direkt sahile çıkma, son bir ıslığı bekleyelim. Dedektifin yerini öğrenince çıkalım. Ne tarafta olduğunu hatırlıyor musun?
 -Şu anda biraz sağımızda kalıyor olması lazım, dedi çantanın kayışlarına göğsünde düğüm atan genç. "Sahilden yaklaşık 60-70 metre falan uzaktaydı. Sahile çıkınca bizi görebileceğini sanıyorum, yine de kısa bir ıslık çalıp kendisini göstermesini işaret edeceğim. Siz sadece beni takip edin."
-Bekleyişin heyecanı ortamı germeye devam ederken ada boyunca yankılanan ıslık, sahilden çalınan sessiz bir ıslıkla karşılık buldu. Birkaç saniyelik gecikmeden sonra uzaktan parlayan loş bir yeşillik, deniz feneri gibi yanıp söndü; gittikçe daha da yakından duyulan sessizleşen ıslıkları takip ederek periyodik olarak kendisi göstermeye devam etti.
+Bekleyişin heyecanı ortamı germeye devam ederken ada boyunca yankılanan ıslık, sahilden çalınan sessiz bir ıslıkla karşılık buldu. Birkaç saniyelik gecikmeden sonra uzaktan parlayan loş bir yeşillik, deniz feneri gibi yanıp söndü; ve gittikçe daha da yakından duyulan sessizleşen ıslıklar ile periyodik olarak kendisini göstermeye devam etti. Gecenin içinde kaybolan kulaç sesleri, nefes nefese kalmış iki adam tekneden sarkan halatlara tutunana kadar devam etti.
+-Dur! halatı bırak,  dur çekme dur tekneyi devireceksin şu küreği tut... Hah, gel gel gel gel gel. Yardım et hele bir profesörü de çekelim sonra yola çıkarız. Sizi görmediler değil mi?
+-Gel profesör bu tarafta, ver küreği... Hah, yok kimse görmedi. Ormanda birkaç askerle karşılaşacak gibi olduk da son anda yırttık, sahil de boştu zaten.
+-İyi iyi güzel, herkes tamam mı?
+-Evet ikimiz de çıktık, napıyoruz şimdi?
+Kürekleri geri yuvalarına koyan dedektif, birkaç kürek vuruşuyla tekneyi olabildiğince hizalayıp uzak sahildeki parıldayan iskeleyi arkasına aldı.
+-Şu adadan bir uzaklaşalım da kürekleri sana devredeceğim Asım Samet. Karşıdaki iskeleye vardıktan sonra gerisi kolay.
+Son gayretleriyle kürek çeken dedektif başından geçenleri hızlıca özetlerken, nefenlenen ikili her bir yandan esen meltem ile üşümeye başlamıştı. 
 
+* 1995-05-02 06:00
+Elinde sabahın bu saatinde nereden bulduğu bilinmez bir çift eşofman ve gömlekle çıkagelen dedektif, teknede uyuklayan ikiliyi uyandırıp kuru kıfayetleri yanlarına bıraktı ve iskelenin başında yavaştan kürek çekmeye hazırlanan balıkçıların arasında kayboldu. Birkaç dakika sonra yanında esmer bir gençle dönüp hala teknede uyuklayanların iskeleye çıkmalarına yardım etti. Teknenin başında balıkçıyla kısa bir konuşmadan sonra iskelede kendisini bekleyen üstlerini giyinmiş ikiliye katıldı.
+-Birkaç saatlik uzaklıkta bir araba kiralama firması var, dün sabah tabelasını görmüştüm. Oradan da havalimanına geçeriz. Ne kadar yemek kaldı çantada?
+-Çok bir şey kalmadı, dedi profesör çantayı uzatırken.
+Çantayı alıp içindekileri karıştıran dedektif, 3 tane enerji barı çıkarıp herkese payını verdi ve en yakındaki çöp kutusuna çantayla birlikte ıslak kıfayetleri atıp geri geldi. Kıyı boyunca yürüyen üçlüden sessizliği bozan barını ilk bitiren Asım Samet oldu:
+-Para sizde ne kadar var bilmiyorum ama bende üç kişiyi eve döndürecek kadar para yok haberiniz olsun.
+-Sen artık bizden ayrıl istersen Samet, dedi dar gelen gömleğin kollarını yırtan profesör. "En başından beri zaten bu işlerin içinde olmaman gerekti. Seni havalimanına bırakalım gerisini Tarık'la ben hallederiz."
+Profesörü ve dedektifi geride bırakmak istemeyen Asım Samet, itiraz etmeye başlayacaktı ki dedektif araya girdi:
+-Sen raad ol profesör, dedi son lokmasıyla ağzı dolu olan dedektif. Ve yutkunduktan sonra devam etti, "Bir şey var aklımda. Şu arabayı kiraladıktan sonra konuşuruz sonrasını." ve ekledi: "Ama gerçekten senin bizden ayrılman gerekiyor Asım Samet.".
+Ufuktan yavaş yavaş kendini göstermeye başlayan güneş, sabah balığına çıkan küçük teknelerin altındaki dalgaları altın sarısı parlatıyorken üç garip yabancı hafif bir tartışma havasıyla rıhtım bölgesini terk ediyordu...
+-Yav onu bunu bırak da kıyafetlere ne diyorsun sen? Oldu mu üstüne?
+-Sabah sabah nereden gittin buldun hiç bilmiyorum ama tam oturdu neredeyse.
+-Yaaaa, öyle de iyi çaldım işte. Zaten bana borcu olan bi amca vardı, ondan birkaç parça bir şeyler aldım ödeştik.
+-Heee, öyle yani...
 
-TEKNEYE ÇIKACAKLAR DEDEKTİF DE KIYIDAKİ IŞIKLARI GÖSTERİP "ŞU LİMANA YANAŞ SONRA DA TEKNEYİ BAĞLA ÇOK FENA UYUYACAM, NE YAPACAĞIMIZI SABAH KONUŞURUZ" DİYOR
-
-Kürek çekmeye başlıyor, adanın güneyine geliyor ve ıslık çalıyor bir kaç kez. En sonunda adadan Asım samet kuzgun yollama ıslığıyla karşılık veriyor. Bir süre sonra daha yakınlardan asım samet'in kuzgun çağırma ıslığını duyuyor "a şimdi de onlar beni çağırıyor" diye düşünen dedektif kolunu kaldırıp saatinin ışığını yakıyor. Bir süre böyle yak söndür yak söndür yapıyor en sonunda asım samet ve profesör de tekneye biniyor. (asımın burada ıslığı önceden duymuş olması lazım)
+* 1995-05-02 saat 12
+DEDEKTİFİN SON PARASIYLA YEMEK YİYORLAR, RESTORANTTA OTURURKEN ASIM SAMET SABİT DİSK'LE OYNUYOR, SENİNLE YOLLARIMIZI AYIRACAZ GENÇ DİYORLAR SONRA DA ARABACIYA GİDİYORLAR VE HAZIR OLAN ARABAYI TESLİM ALIYORLAR. "BU NE ARKADAŞ HERKES DE TURİST KAZIKLIYOR" DİYORLAR 
