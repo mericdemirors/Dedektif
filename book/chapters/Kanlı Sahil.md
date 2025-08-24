@@ -115,4 +115,21 @@ Ufuktan yavaş yavaş kendini göstermeye başlayan güneş, sabah balığına �
 -Heee, öyle yani...
 
 * 1995-05-02 saat 12
-DEDEKTİFİN SON PARASIYLA YEMEK YİYORLAR, RESTORANTTA OTURURKEN ASIM SAMET SABİT DİSK'LE OYNUYOR, SENİNLE YOLLARIMIZI AYIRACAZ GENÇ DİYORLAR SONRA DA ARABACIYA GİDİYORLAR VE HAZIR OLAN ARABAYI TESLİM ALIYORLAR. "BU NE ARKADAŞ HERKES DE TURİST KAZIKLIYOR" DİYORLAR 
+Öğlen güneşi etrafı kavurmaya başladığında iki küçük fanla soğumaya çalışan bir restoranda karınlarını yarım yamalak doyuran üçlü, biraz daha içeride oturup sonra aracı teslim almaya gitmeye karar verdiler. Profesör bardağın dibindeki buzlarla oynuyor, Asım Samet poşetlere sarılı sabit diski havaya atıp tutuyor, dedektif de yemekle birlikte boşalan cüzdanını elinde evirip çeviriyordu. Hiçbirinin konuşmaya eceli yoktu, buzların tıngırtısı yavaş yavaş kayboldup öğlenin sıcağı hafiflemeye başlayınca bardağın dibindeki suyu son kez diken profesör dikkatleri üzerine toplamak için bardağı masaya birkaç kez vurup öyle koydu.
+-Seninle yollarımız ayrılıyor artık Samet, dediğimiz gibi eğer seni o sabit diskle görürlerse neler olacağını bilmiyoruz. hem geri dönüşü için yeterli paran da varmış, bizimle daha fazla sürünmene gerek yok bence, atla bir uçağa geri dön.
+Cebindeki yırtık pırtık haritayı masaya seren dedektif, pipetini kullanarak yaklaşık bir hesap yaptı:
+-Şuradaki dağı aştıktan sorna 400 500 kilometre falan gibi duruyor. Seni orada indirsek otostopla gidebilir misin yoksa gene kargo gemisi falan kendin halleder misin?
+-Hmm... Bir şekilde hallederim herhalde. Siz kendi derdinize düşün, benim param var siz asıl ne yapacaksınız?
+Haritayı masada diğer ikisinin önüne iten dedektif, kalemiyle haritada birkaç noktayı işaretledi:
+-Şuradan arabayla adanın kuzeyine çıkacağız, burada seni bırakacağız sonra da adanın doğu kıyısına gidip geceyi bekleyeceğiz ve hava kararınca güneye inmeye başlayacağız. Yıkılmış kiliseyi bulunca orada hala bizi bekleyip beklemediklerine göre başka bir plan düşüneceğiz. Eğer oradalarsa Amerikanlara 'Ruslar araştırmayı aldılar, siz de krateri basınca yakıp yıktılar biz zor kaçtık' diye bi yalan atarız. Artık yerlese...
+"İllaki üzerimizi arayacaklardır, araştırmayla alakalı bir şey bulamadıklarında ikna olacaklardır." dedi profesör başıyla poşetler içindeki sabit diski işaret ederek. "Senin de paran yetmezse veya başına bir sorun çıkarsa konsolosluktan bana ulaş, bir şekilde hallederiz."
+-Madem ortada bir konsolosluk var neden hep birlikte oraya gitmiyoruz, diye sordu sabit diski cebine atan genç.
+-O kadar kolay değil, dedi dedektif. "Adadaki askerleri de hesaba katmamız lazım. Konsolosluğun orada bizi bekleyen birilerinin olması zaten muhtemel o yüzden seninle birlikte gidemeyiz. Ayrı ayrı gitsek bile senin profesörün asistanı olduğunu öğrenirlerse çok şüphe çekecektir o yüzden konsolosluk işi son seçenek. Bizim de şu anda en olası çıkış noktamız yıkılmış kilisede bekleyen askerler."
+Bir süre sessizce haritaya bakan dedektif, gözlerini ovalayıp derin bir iç çekti ve sağdan soldan etrafa sora sora aldığı notların arasından havalimanını bulup kalemi üzerine birkaç kez vurdu:
+-Sikmişim arabasını amına koyayım! Turistiz diye pezevengin attığı kazığa bak, günlük 50 dolar araba mı kiralanırmış. Şurada yolları ayırdıktan sonra arabayı sen alıp havalimanına gidersin, yollar çok gözükmüyor ama sora sora bulursun herhalde. Biz de oradan yürüyerek ilerlesek geceye yetişiriz herhalde. Arabayı da oralarda bir yerde bırak gram umrumda değil valla.
+Haritayı önüne çekip rotayı inceleyen Asım Samet, narince katladıktan sonra haritayı cebine attı. Bunun üzerine hareketlenen üçlü, masadan kalkıp aracı teslim almak üzere serin restorandan nazaran sıcak ikindine çıktılar.
+
+
+
+
+ARABAYI ALIYORLAR, SÜRÜYORLAR, AYRILMA NOKTASINA GELİYORLAR, ASIM SAMET "O ZAMAN 1 AYA FALAN AMERİKA'DA GÖRÜŞÜR MÜYÜZ" DİYOR VE ONLARI TERKEDİYOR. BİZİMKİLER DE YÜRÜYEREK KİLİSEYİ ARAMAYA BAŞLIYORLAR
