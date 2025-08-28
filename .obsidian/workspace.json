@@ -6,7 +6,7 @@
       {
         "id": "0e3fb70d1c583ba1",
         "type": "tabs",
-        "dimension": 51.99252801992529,
+        "dimension": 53.84110308601444,
         "children": [
           {
             "id": "458355ae5e3b9884",
@@ -27,7 +27,7 @@
       {
         "id": "f4eea69979d31a5d",
         "type": "split",
-        "dimension": 48.00747198007471,
+        "dimension": 46.15889691398555,
         "children": [
           {
             "id": "a1f6952f56f4d680",
@@ -219,9 +219,9 @@
   },
   "active": "458355ae5e3b9884",
   "lastOpenFiles": [
-    "book/arcs/Kanlı Sahil (Profesörün Peşinde her şeyi birleştirdikten sonra kalan son chapter).md",
-    "book/chapters/Kanlı Sahil.md",
     "book/Parallel Timelines.canvas",
+    "book/chapters/Kanlı Sahil.md",
+    "book/arcs/Kanlı Sahil (Profesörün Peşinde her şeyi birleştirdikten sonra kalan son chapter).md",
     "book/Event Timeline.md",
     "book/Arcs.canvas",
     "characters/dul kadın/Dul Kadın.md",

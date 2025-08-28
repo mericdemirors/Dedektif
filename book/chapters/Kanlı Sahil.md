@@ -149,8 +149,13 @@ Namlusu yarı yerde harı havada ilerleyen kadın asker, her adımında dört bi
 -Bende hiçbir şey yok, sen?
 -Bende de. Rüzgar olmalı...
 -Sanmam, ancak şimdilik kilisede kalmak en mantıklısı gibi.
-Tekrar yerlerine oturduktan sonra lambayı biraz daha kıstılar ve etraf daha da karanlığa gömüldü. Yavaş yavaş çalılıklardan geri çıkan dedektif, profesörü peşine takıp ormana daldı; geldikleri yöne doğru birkaç dakika yürüdükten sonra geldikleri yola çıktılar.
-"Ters bir şey mi gördün? Etrafta rusların olabileceğini mi düşünüyorsun?" diye sordu niye uzaklaştıklarını anlamamış profesör.
--O karanlıkta direkt çalıların arasından 'selaaam' diye çıkarsak etrafı panik sarmasın istedim. Daha barışçıl bir şekilde buluşma noktasına yaklaştığımızı belli etmemiz lazım.
+Tekrar yerlerine oturduktan sonra lambayı biraz daha kıstılar ve etraf daha da karanlığa gömüldü. Yavaş yavaş çalılıklardan çimenliğe çıkan dedektif, profesörü peşine taktı ve ellerini kaldırarak kiliseye yaklaşmaya başladı.
+-Ben geldim, Türkiye'den tututan saha araştırmacısı Dedektif Tarık Çelik.
+
+
+
+
+ormana daldı; geldikleri yöne doğru birkaç dakika yürüdükten sonra ana yola çıktılar.
+-O karanlıkta direkt çalıların arasından 'selaaam' diye çıkarsak etrafı panik sarmasın.
 
 DEDEKTİF BİRAZ BOŞ YOLDA BEKLESİN. YAKINLARDAKİ BİR EVDEN MANGAL VE ŞARKI SESLERİ DUYSUN SONRA DA DESİN Kİ "AAA 94 VE 95 YILININ ÜNLÜ ŞARKISINI SÖYLEYEREK DOLAŞALIM ASKERLERİN DUYDUĞUNDAN EMİN OLUNCA BEN DEDEKTİF FALAN BİR ŞEY DERİM. ÖNEMLİ OLAN ETRAFLARINDA BİRİLERİNİN OLDUĞUNU BİR ANDA FARKETMEMELERİ. BİRDEN 'ÇOK YAKINDA BİRİ VAR' DİYE ALARMA GEÇMESİNLER"
