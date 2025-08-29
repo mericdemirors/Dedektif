@@ -148,14 +148,8 @@ Neredeyse nefeslerini tutarak geçirdikleri dakikalar sonunda kimsenin konuşmam
 Namlusu yarı yerde harı havada ilerleyen kadın asker, her adımında dört bir yanını kontrol ediyor bir yandan da göz ucuyla partnerini takip ediyordu. Birkaç adım ile daha birlikte artık kilisenin duvarını aşmış, çimen açıklığı daha da yavaşça adımlıyordu. Güneşin son ışıklarının da kaybolmasıyla birlikte etraftaki tek ışık kaynağı olan kilisede yerdeki loş lamba, çalıların arasında saklanmış ikiliyi ele verecek kadar güçlü değildi. Çalılara yaklaştıkça silüeti büyüyen kadın, dedektifin neredeyse tepesine gelmişti. Namlusunu biraz kaldırıp öne eğildi ve birkaç saniye ormanı izledikten sonra yavaş yavaş geri çekildi. Kendisiyle birlikte diğer asker de tekrar lambanın ışığında kendini göstermiş, temkini elden bırakmadan geri geri kiliseye yaklaşıyorlardı:
 -Bende hiçbir şey yok, sen?
 -Bende de. Rüzgar olmalı...
--Sanmam, ancak şimdilik kilisede kalmak en mantıklısı gibi.
-Tekrar yerlerine oturduktan sonra lambayı biraz daha kıstılar ve etraf daha da karanlığa gömüldü. Yavaş yavaş çalılıklardan çimenliğe çıkan dedektif, profesörü peşine taktı ve ellerini kaldırarak kiliseye yaklaşmaya başladı.
--Ben geldim, Türkiye'den tututan saha araştırmacısı Dedektif Tarık Çelik.
+-Sanmam, dedi tekrar yerine oturduktan sonra lambayı biraz daha kısan asker ve etraf daha da karanlığa gömüldü.
+Dedektif, gözleri karanlığa alışana kadar biraz bekledi. Tem amacı kilisenin etrafının zifiri karanlığa bürünmesini engellemek olan lambanın ışığına, açılan bulutlar arasından parıldayan yıldızların ışığı katıldı ve yeşillikler bir anlığına gri gri parladı. Rüzgar uğultusuna karışan hışırtı, cırcık böceklerinin sesini bir anlığına bastırdı. Yavaş yavaş çalılıklardan çimenliğe çıkan dedektif, profesörü peşine taktı ve ellerini kaldırarak kiliseye yaklaşmaya başladı:
+-Türkiye'den kiralık saha araştırmacısı Dedektif Tarık Çelik. Yanımda da Profesör var. Adaya dağılan Ruslara yakalanmamak için biraz etraftan dolanmak zorunda kaldık.
 
-
-
-
-ormana daldı; geldikleri yöne doğru birkaç dakika yürüdükten sonra ana yola çıktılar.
--O karanlıkta direkt çalıların arasından 'selaaam' diye çıkarsak etrafı panik sarmasın.
-
-DEDEKTİF BİRAZ BOŞ YOLDA BEKLESİN. YAKINLARDAKİ BİR EVDEN MANGAL VE ŞARKI SESLERİ DUYSUN SONRA DA DESİN Kİ "AAA 94 VE 95 YILININ ÜNLÜ ŞARKISINI SÖYLEYEREK DOLAŞALIM ASKERLERİN DUYDUĞUNDAN EMİN OLUNCA BEN DEDEKTİF FALAN BİR ŞEY DERİM. ÖNEMLİ OLAN ETRAFLARINDA BİRİLERİNİN OLDUĞUNU BİR ANDA FARKETMEMELERİ. BİRDEN 'ÇOK YAKINDA BİRİ VAR' DİYE ALARMA GEÇMESİNLER"
+ASKERLER ETRAFLARINI SARACAKLAR VE PROFESÖR'E ARAŞTIRMAYI SORACAKLAR. BU SIRADA DA ASKERLERDEN BİRİ HAZIR BEKLEYEN BOTU TELSİZLE ÇAĞIRACAK
