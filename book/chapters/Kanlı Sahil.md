@@ -150,6 +150,27 @@ Namlusu yarı yerde harı havada ilerleyen kadın asker, her adımında dört bi
 -Bende de. Rüzgar olmalı...
 -Sanmam, dedi tekrar yerine oturduktan sonra lambayı biraz daha kısan asker ve etraf daha da karanlığa gömüldü.
 Dedektif, gözleri karanlığa alışana kadar biraz bekledi. Tem amacı kilisenin etrafının zifiri karanlığa bürünmesini engellemek olan lambanın ışığına, açılan bulutlar arasından parıldayan yıldızların ışığı katıldı ve yeşillikler bir anlığına gri gri parladı. Rüzgar uğultusuna karışan hışırtı, cırcık böceklerinin sesini bir anlığına bastırdı. Yavaş yavaş çalılıklardan çimenliğe çıkan dedektif, profesörü peşine taktı ve ellerini kaldırarak kiliseye yaklaşmaya başladı:
--Türkiye'den kiralık saha araştırmacısı Dedektif Tarık Çelik. Yanımda da Profesör var. Adaya dağılan Ruslara yakalanmamak için biraz etraftan dolanmak zorunda kaldık.
+-Türkiye'den kiralık saha araştırmacısı Dedektif...
+Daha kendini tanıtmayı bitirmeden ayaklanan askerler ve yüzüne tutulan flaşlarla afallayan dedektif, gözlerini kısarak zar zor gördüğü açıklığa çıktı. Ortamın parlaklığına gözleri alışana kadar biraz bekleyip devam etti:
+-Tarık Çelik. Yanımda da Profesör var. Adaya dağılan Ruslara yakalanmamak için biraz etraftan dolanmak zorunda kaldık.
+-Geç kaldınız, diye çıkışarak öne atıldı kadın asker. Görünüşe göre en rütbelileri oydu. Dedektifle profesörün etrafını saran diğer üçüne flaşlarını kapatmalarını ve profesörü kiliseye götürmelerini söyledikten sonra dedektifi resmen sürükleyerek yıkık dökük kilisenin öbür ucuna götürdü ve fısıltı ile bağırma arasında bir tonda sorguya çekmeye başladı:
+-Kaç saat geciktiğinizden haberin var mı?
+-Evet.
+-...
+Sinirini neyden çıkaracağını bilemez gibi elini kolunu sallayan asker, sonunda şakaklarını ovalayarak derin bir iç çekti.
+-Gerisini yolda konuşuruz, şimdilik paçayı kurtardın.
+Flaşını tekrar yakan kadın, profesörün üstünü aramayı yeni bitirmiş askerlere dönüp toplanmalarını işaret etti. Telsizinden birkaç kısa komut verdi ve çantasını sırtına atıp dedektifi yanına çağırdı:
+-Bizimkiler senin de üstünü arayacak, sonra sahile botu beklemeye gideceğiz. Geç şuraya.
+Gösterilen yere geçen dedektif, profesörün yanında kollarını iki yana açtı askerlerden biri üzerini yoklamaya başlayınca.
+-Araştırma nerede?
+"Araştırma yok. Ruslar aldı." dedi profesör.
+-Siz krateri gaza boğunca da her şeyi yakıp yıktılar, diye ekledi dedektif.
+"Bu da temiz efendim. Profesörün üzerinden de bir şey çıkmadı." dedi dedektifin üzerini aramayı bitiren asker. Diğer ikisi de kamp alanını toparlamış her şeyi yüklenmiş komiserlerini bekliyorlardı.
+Bir süre sessizce düşünen kadın, flaşını kaldırıp profesörün yorgun yüzüne tuttu.
+-Başka kopyası falan var mı? Volkanın etrafına gömdüğün, çantana attığın rapor, herhangi bir şey?
+Gözlerini flaştan sakınmak isteyen profesör, başını iki yana salladı:
+-Bendeki her şeyi aldılar başkasının eline geçmesin diye, kendi gözlerimle gördüm volkanın içine ilk bombalar atıldığında her şeyi yok ettiklerini. Kaçarken de dışarıya hiçbir şey çıkaramadım o yüzden.
 
-ASKERLER ETRAFLARINI SARACAKLAR VE PROFESÖR'E ARAŞTIRMAYI SORACAKLAR. BU SIRADA DA ASKERLERDEN BİRİ HAZIR BEKLEYEN BOTU TELSİZLE ÇAĞIRACAK
+KADIN TELSİZLE DAĞIN ETRAFINDAKİ EKİBE EVE GİDİYORUZ DİYOR
+SAHİLDE BOTA BİNİYORLAR
+BOT NEW IRELAND'IN DOĞU KIYISINDA HAZIR BEKLEYEN TEKNE SAHİLDEN BİZİMKİLERİ ALIYOR, AYNI YOLDAN GERİ DÖNÜP KUZEYDOĞUYA İLERLİYORLAR

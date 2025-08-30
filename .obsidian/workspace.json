@@ -42,9 +42,9 @@
                   "state": {
                     "file": "book/Parallel Timelines.canvas",
                     "viewState": {
-                      "x": -2212,
-                      "y": -4475.5,
-                      "zoom": -4
+                      "x": 7600.004745474812,
+                      "y": -6151.692133579543,
+                      "zoom": -0.5612137830257391
                     }
                   },
                   "icon": "lucide-layout-dashboard",
@@ -219,9 +219,9 @@
   },
   "active": "458355ae5e3b9884",
   "lastOpenFiles": [
-    "book/Parallel Timelines.canvas",
-    "book/chapters/Kanlı Sahil.md",
     "book/arcs/Kanlı Sahil (Profesörün Peşinde her şeyi birleştirdikten sonra kalan son chapter).md",
+    "book/chapters/Kanlı Sahil.md",
+    "book/Parallel Timelines.canvas",
     "book/Event Timeline.md",
     "book/Arcs.canvas",
     "characters/dul kadın/Dul Kadın.md",
