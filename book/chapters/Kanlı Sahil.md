@@ -165,12 +165,28 @@ Gösterilen yere geçen dedektif, profesörün yanında kollarını iki yana aç
 -Araştırma nerede?
 "Araştırma yok. Ruslar aldı." dedi profesör.
 -Siz krateri gaza boğunca da her şeyi yakıp yıktılar, diye ekledi dedektif.
-"Bu da temiz efendim. Profesörün üzerinden de bir şey çıkmadı." dedi dedektifin üzerini aramayı bitiren asker. Diğer ikisi de kamp alanını toparlamış her şeyi yüklenmiş komiserlerini bekliyorlardı.
+"Bu da temiz efendim. Profesörün üzerinden de bir şey çıkmamıştı." dedi dedektifin üzerini aramayı bitiren asker. Diğer ikisi de kamp alanını toparlamış her şeyi yüklenmiş komiserlerini bekliyorlardı.
 Bir süre sessizce düşünen kadın, flaşını kaldırıp profesörün yorgun yüzüne tuttu.
 -Başka kopyası falan var mı? Volkanın etrafına gömdüğün, çantana attığın rapor, herhangi bir şey?
 Gözlerini flaştan sakınmak isteyen profesör, başını iki yana salladı:
 -Bendeki her şeyi aldılar başkasının eline geçmesin diye, kendi gözlerimle gördüm volkanın içine ilk bombalar atıldığında her şeyi yok ettiklerini. Kaçarken de dışarıya hiçbir şey çıkaramadım o yüzden.
+Canı sıkılan komiser, kemerindeki telsizi ağzına götürüp birkaç saniye sessizce bekledi sanki bir şeye karar veriyormuş gibi. Sonra flaşını kapatıp indirdi ve telsizi ağzına yaklaştırdı:
+-Krater, burası Kilise. Çıkıyoruz. Posta elimize ulaştı ama zarf boş, tekrar ediyorum zarf boş. Çıkış noktasına ilerliyoruz, temizlik size kaldı. Tamam.
+-... Anlaşıldı Kilise. Hemen arkanızda olacağız, Evde görüşürüz. Tamam.
+Ardından dalga sesleri duyulan toprak yola dönen kadın, ekibini bekledikten sonra dedektifi ve profesörü önüne katıp temkinli bir şekilde yola indi; Etrafı kontrol ettikten ikiliyi önden yolladı ve sonra kendisi de hızlı adımlarla karşıya geçti. 
+Yaklaşık üç saatlik, dedektif ve profesörün yiyecek içecek istemeleri dışında çıt çıkmayan bir beklemenin ardından uzakta bir tekne gözüktü.
+-Kilise, şişme bota çıkmaya hazırlanın. Temizliğin bitmemesinden kaynaklı mesafemizi koruyacağız, açıkta sizi tekneye alacağız. Tamam.
+-Hazırır, pozisyonda sizi bekliyoruz. Tamam.
+Karşılıklı birkaç flaş açıp kapatma faslından sonra sahile yanaşan şişme bot, neredeyse sabit bile duramadan içindekileri savurarak tekrar hızlandı. Simsiyah bot, dalgalarda zıplayarak gecenin karanlığında sahilden uzaklaştı. Kısa bir süre sonra geride bıraktığı adada tek tük silah patlamaları yükselmeye başladığında, bot çoktan tekneyle buluşmuş ve yolcular güverteye çıkmıştı. Bir süre sonra kaptan da tekneyi rotaya oturtup elinde su şişeleriyle yolcuların yanına çıktı:
+-Tahmini sabah 5.15'de, T+66'da, uluslararası sulara girmiş olacağız. Çift yönlü güvenli iletişim için hazırız.
 
-KADIN TELSİZLE DAĞIN ETRAFINDAKİ EKİBE EVE GİDİYORUZ DİYOR
-SAHİLDE BOTA BİNİYORLAR
-BOT NEW IRELAND'IN DOĞU KIYISINDA HAZIR BEKLEYEN TEKNE SAHİLDEN BİZİMKİLERİ ALIYOR, AYNI YOLDAN GERİ DÖNÜP KUZEYDOĞUYA İLERLİYORLAR
+
+
+BURAYI SONRA CHAPTER 9 DİYE AYIR, ADI DA "VOLKAN YARIŞI"
+* 1995-06-23 10:00
+Dedektifin ofisine gelen postada "IEEE Aerospace Conference" konferansından dergi gelmiş ve bu volkanik kovalamacanın hikayesi varış. profesör ve asım samet'te "International Astronautical Congress" için japonyaya konferansa davet edilmi.
+Betül postayı getiriyor, kahvaltılıkları toplamaya başlıyor, Nail o sırada dergiye yazdığı bilgisayar şeyini anlatmaya başlıyor. Dedektif de postayı açıp dergiyi okumaya başlıyor.
+Dergide profesör "vaov inanılmaaaazz" diye olanları anlatmış.
+Dergideki fotoğraftda da profesörle asım samet birlikte labaratuvarda bilgisayarda bir şeylere bakıyorlarmiş. arkada sıra sira tüpler varmış (hangi dağlardan topraklar var bilmiyorum) ve bilgisayara da takılmış bir sabit disk masanin üzerine duruyormuş.
+Dedektif dergiyi okuyup hikayeyi Nail'e "tam senlik bir uzay araştirmasi hikayem var, kendi derginde bunu yayınlasana" diye bunlari anlatiyor, Nail de "bunlar devlet sırrı, böyle her yerde anlatma sıkıntı olur" diyor sonra da "ben dergiye yazmam sonra rusya gelir amerika gelir başıma dert olur" diyo. 
+Dedektif de "valla ülke sırrı uzay sırrı bilmem çok da umrumda değil, ben kendime hediyeliğimi aldım gerisini salla" diyip duvarda asılı çerçeveye bakıyor, çerçevenin içinde de profesörün araştirmasi varmiş
