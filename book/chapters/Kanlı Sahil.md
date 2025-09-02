@@ -182,15 +182,3 @@ Yaklaşık üç saatlik, dedektifin sorgusu ve profesörün yiyecek içecek iste
 -Hazırır, pozisyonda sizi bekliyoruz. Tamam.
 Karşılıklı birkaç flaş açıp kapatma faslından sonra sahile yanaşan şişme bot, neredeyse sabit bile duramadan içine atlayanları bir yandan öbür yana savurarak tekrar hızlandı. Simsiyah bot, dalgalarda zıplayarak gecenin karanlığında sahilden uzaklaştı. Kısa bir süre sonra geride bıraktığı adada tek tük silah patlamaları yükselmeye başladığında, bot çoktan tekneyle buluşmuş ve yolcular güverteye çıkmıştı. Bir süre sonra kaptan da tekneyi rotaya oturtup elinde su şişeleriyle yolcuların yanına çıktı:
 -Tahmini sabah 5.15'de, T+66'da, uluslararası sulara girmiş olacağız. Çift yönlü güvenli iletişim için hazırız. Komuta merkezi sizinle konuşmak için bekliyor komiser.
-
-
-
-
-BURAYI SONRA CHAPTER 9 DİYE AYIR, ADI DA "VOLKAN YARIŞI"
-* 1995-06-23 10:00
-Dedektifin ofisine gelen postada "IEEE Aerospace Conference" konferansından dergi gelmiş ve bu volkanik kovalamacanın hikayesi varış. profesör ve asım samet'te "International Astronautical Congress" için japonyaya konferansa davet edilmi.
-Betül postayı getiriyor, kahvaltılıkları toplamaya başlıyor, Nail o sırada dergiye yazdığı bilgisayar şeyini anlatmaya başlıyor. Dedektif de postayı açıp dergiyi okumaya başlıyor.
-Dergide profesör "vaov inanılmaaaazz" diye olanları anlatmış.
-Dergideki fotoğraftda da profesörle asım samet birlikte labaratuvarda bilgisayarda bir şeylere bakıyorlarmiş. arkada sıra sira tüpler varmış (hangi dağlardan topraklar var bilmiyorum) ve bilgisayara da takılmış bir sabit disk masanin üzerine duruyormuş.
-Dedektif dergiyi okuyup hikayeyi Nail'e "tam senlik bir uzay araştirmasi hikayem var, kendi derginde bunu yayınlasana" diye bunlari anlatiyor, Nail de "bunlar devlet sırrı, böyle her yerde anlatma sıkıntı olur" diyor sonra da "ben dergiye yazmam sonra rusya gelir amerika gelir başıma dert olur" diyo. 
-Dedektif de "valla ülke sırrı uzay sırrı bilmem çok da umrumda değil, ben kendime hediyeliğimi aldım gerisini salla" diyip duvarda asılı çerçeveye bakıyor, çerçevenin içinde de profesörün araştirmasi varmiş
