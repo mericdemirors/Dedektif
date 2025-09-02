@@ -120,7 +120,7 @@ Ufuktan yavaş yavaş kendini göstermeye başlayan güneş, sabah balığına �
 -Samet, dediğimiz gibi eğer seni o sabit diskle görürlerse neler olacağını bilmiyoruz. hem geri dönüş için yeterli paran da varmış, bizimle daha fazla sürünmene gerek yok bence, atla bir uçağa geri dön. Hem bak sen de başka mantıklı bir plan düşünemiyorsun.
 Cebindeki yırtık pırtık haritayı masaya seren dedektif, pipetini kullanarak yaklaşık bir hesap yaptı:
 -Şuradaki dağı aştıktan sonra 400-500 kilometre falan gibi duruyor. Seni orada indirsek otostopla gidebilir misin havalimanına kadar yoksa gene kargo gemisi falan kendin bir şeyler halleder misin?
-Canı sıkkın gencin artık itiraz edecek hali kalmamıştı. Yol boyunca dedektifle ne kadar kafa yordularsa da başka çıkar yol bulamamışlardı.
+Canı sıkkın gencin artık itiraz edecek hali kalmamıştı. Yol boyunca dedektifle ne kadar kafa yordularsa da başka çıkar yol bulamamışlardı. Cebinden çıkardığı ıslak çek defterini masanın üzerine açıp sayfaları yırtmamaya özen göstererek teker teker birbirlerinden ayırmaya başladı:
 -Mecbur artık. Bir şekilde hallederim herhalde. Siz kendi derdinize düşün, benim param var siz asıl ne yapacaksınız?
 Haritayı masada diğer ikisinin önüne iten dedektif, kalemiyle haritada birkaç noktayı işaretledi:
 -Şuradan arabayla adanın kuzeyine çıkacağız, burada seni bırakacağız sonra da adanın doğu kıyısına gidip geceyi bekleyeceğiz ve hava kararınca güneye inmeye başlayacağız. Yıkılmış kiliseyi bulunca orada hala bizi bekleyip beklemediklerine göre başka bir plan düşüneceğiz. Eğer oradalarsa Amerikanlara 'Ruslar araştırmayı aldılar, siz de krateri basınca yakıp yıktılar biz zor kaçtık' diye bi yalan atarız. Artık yerlese...
