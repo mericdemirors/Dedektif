@@ -44,6 +44,6 @@ Dedektif masadaki defterlerden birini alıp öylesine sayfaları çevirmeye baş
 -Yok daha alfabe harfler falan onları öğreniyoruz.
 Defteri masaya koyan dedektif yüksek bir kahkaha patlattı ve bir süre Betül'ün bezmiş bakışları altında gülmeye devam etti. Sonunda gülmesini bastırdı ve ucuna oturduğu masadan kalktı:
 -Bunların farklı farklı alfabeleri vardı bir de, onlarla mı uğraşıyorsun?
-"Evet, daha üniversite de sistemi tam oturtamamış gibi ama biz Kanji öğreniyoruz ilk derste. Katakana ve Hiragana'yı gelecek dönemlerde göstereceklermiş." dedi dedektiften kurtulmanın en hızlı yolunun laf dalaşına girmemek olduğunu bilen Betül.
--Hmm, iyi bakalım. Ben bir karakola gidip geliyorum şu rapora bakmak için. Belki yeni bir olay da vardır hem, uzun süreli tatilimi sonlandırmak için bir iş çıksa güzel olur. Bir şey lazım mı dışarıdan gelirken alayım?
-Bir süre daha notlarına dalan kız, başını iki yana salladı ve defterini masaya bıraktı. Sandalyesindeki kız esneme gerinme hareketleri yaparken yanına alacaklarını son kez kontrol eden dedektif kapıyı açıp çıktı, ve kısa bir sessizlikten sonra boş kalan antresini Gameboy biplemeleri doldurdu.
+"Evet, daha üniversite de sistemi tam oturtamamış gibi ama biz Katakana ve Hiragana öğreniyoruz şu anda. İlk dönemden ağır olmasın diye üç alfabeyi de koymamışlar. Gelecek dönemlerde de basit temel Kanji'leri göstereceklermiş." dedi dedektiften kurtulmanın en hızlı yolunun laf dalaşına girmemek olduğunu bilen Betül.
+-Hmm, iyi bakalım. Ben bir karakola gidip geliyorum şu rapora bakmak için. Belki yeni bir olay da vardır hem, tatilimi sonlandırmak için bir iş çıksa güzel olur. Bir şey lazım mı dışarıdan gelirken alayım?
+Bir süre daha notlarına dalan kız, başını iki yana salladı ve defterini masaya bıraktı. Sandalyesindeki kız esneme gerinme hareketleri yaparken yanına alacaklarını son kez kontrol eden dedektif, kapıyı açıp çıktı ve kısa bir sessizlikten sonra boş kalan ofisin antresini Gameboy biplemeleri doldurdu.
