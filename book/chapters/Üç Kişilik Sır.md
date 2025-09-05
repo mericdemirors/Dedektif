@@ -30,7 +30,7 @@ Dedektif, hızlıca birkaç sayfaya göz attıktan sonra derginin başlarından 
 -Uzay muzay araştırması dediğin bu mu şimdi? Hani bu gizli saklı bir şeydi? Koskoca Amerika yayınlamalarına izin mi vermiş?
 -Az önce okuduğuma göre önce askeri bir araştırma olarak başlamış. ASExA falan demiştim ya sana da, onun altındaymış. O sırada işte bunlar 'askeri veri' sayıldığı için gizliymiş. Ama geçen sene NASA programı üstlenince yayınlamaya karar vermişler burada, bir yerde yazıyordu... Hah bak 'The NASA STI Repository (NTRS)' diye bir şey kurulmuş bilimsel şeyleri herkese ulaşılabilir yapmak için. Yoksa elin Türkiye'sinde gazetelere 'Amerika Ay'a gidiyor' diye bangır bangır nasıl manşet olsun? Rusların da araştırmanın izini bulması bundan kolay olmuştur sanırsam.
 -Doğru... Ben de bizim dergiye üç beş bir şeyler çalayım o zaman oradan, madem herkese açık.
--Dergi de iyiymiş arada sırada açar resimlerine bakarım, dedi dergiyi kapatıp kitaplıkta çerçevelenmiş bir dosyanın yanına koyan dedektif.
+-Dergi de iyiymiş arada sırada açar resimlerine bakarım, dedi dergiyi kapatıp kitaplıkta çerçevelenmiş kırışık, yer yer ıslanmış bir klasörün yanına koyan dedektif.
 Tekrar koltuğuna geçen yazar, masadaki kalın kitabını alıp çantasını toparladı, sehpadaki kupasını aldı ve ofisin kapısına yöneldi. Kapıyı açmadan önce dalga geçer bir tavırla son kez arkadaşına takıldı:
 -Senin para işi de yalan oldu gibi, Dergide hiç senden bahsetmişler mi "biri geldi bizi kurtardı, şöyle ünlü şanlı bir dedektif var Kayseri'de, ona para borcumuz var" demişler mi?
 Sandalyesinde geriye yaslanan dedektif, bardağını biraz sallayıp içinde dönen limonatayı izledikten sonra bir kaşını kaldırarak kendisini izleyen arkadaşına baktı:
