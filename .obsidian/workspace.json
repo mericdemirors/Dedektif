@@ -6,7 +6,7 @@
       {
         "id": "0e3fb70d1c583ba1",
         "type": "tabs",
-        "dimension": 53.84110308601444,
+        "dimension": 19.89494418910046,
         "children": [
           {
             "id": "458355ae5e3b9884",
@@ -27,12 +27,12 @@
       {
         "id": "f4eea69979d31a5d",
         "type": "split",
-        "dimension": 46.15889691398556,
+        "dimension": 80.10505581089954,
         "children": [
           {
             "id": "a1f6952f56f4d680",
             "type": "tabs",
-            "dimension": 49.477682811016145,
+            "dimension": 75.30864197530865,
             "children": [
               {
                 "id": "45a03755f574acea",
@@ -42,9 +42,9 @@
                   "state": {
                     "file": "book/Parallel Timelines.canvas",
                     "viewState": {
-                      "x": 7600.004745474812,
-                      "y": -6151.692133579543,
-                      "zoom": -0.5612137830257391
+                      "x": 318.560243668851,
+                      "y": -3776.6720164295707,
+                      "zoom": -0.18399997154871364
                     }
                   },
                   "icon": "lucide-layout-dashboard",
@@ -56,7 +56,7 @@
           {
             "id": "d55ead4b43c1bd69",
             "type": "tabs",
-            "dimension": 50.522317188983855,
+            "dimension": 24.691358024691358,
             "children": [
               {
                 "id": "14eb42b9c6f206ca",
@@ -219,6 +219,10 @@
   },
   "active": "458355ae5e3b9884",
   "lastOpenFiles": [
+    "book/Parallel Timelines.canvas",
+    "book/lu28774bcucf.tmp",
+    "book/lu28774bcuc9.tmp",
+    "book/chapters/Üç Kişilik Sır.md",
     "book/chapters/lu17021l70pl.tmp",
     "book/chapters/lu17021l7013.tmp",
     "book/chapters/lu17021l6s0t.tmp",
@@ -226,14 +230,9 @@
     "book/chapters/Tam Kitap.odt",
     "book/chapters/Şifreli Aşk (copy).odt",
     "book/arcs/Kanlı Sahil (Profesörün Peşinde her şeyi birleştirdikten sonra kalan son chapter).md",
-    "book/chapters/Üç Kişilik Sır.md",
     "book/chapters/lu16475kyxov.tmp",
     "book/chapters/Üç Kişilik Sır.odt",
-    "book/chapters/Kanlı Sahil (copy).odt",
     "book/chapters/Kanlı Sahil.md",
-    "book/chapters/lu124475rowo.tmp",
-    "book/chapters/lu124475rosu.tmp",
-    "book/Parallel Timelines.canvas",
     "book/Event Timeline.md",
     "book/Arcs.canvas",
     "characters/dul kadın/Dul Kadın.md",
